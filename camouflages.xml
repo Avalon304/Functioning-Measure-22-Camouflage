@@ -17392,16 +17392,16 @@
 			<Gun>1 1</Gun>
 		</UV>
 		<Textures>
-			<Bow_Hull>content/gameplay/common/camouflage/textures/VSC026_Nueve_de_Julio_1951_Hull_camo_01.dds</Bow_Hull>
-			<MidFront_Hull>content/gameplay/common/camouflage/textures/VSC026_Nueve_de_Julio_1951_Hull_camo_01.dds</MidFront_Hull>
-			<MidFront_DeckHouse>content/gameplay/common/camouflage/textures/VSC026_Nueve_de_Julio_1951_DeckHouse_camo_01.dds</MidFront_DeckHouse>
-			<MidBack_Hull>content/gameplay/common/camouflage/textures/VSC026_Nueve_de_Julio_1951_Hull_camo_01.dds</MidBack_Hull>
-			<MidBack_DeckHouse>content/gameplay/common/camouflage/textures/VSC026_Nueve_de_Julio_1951_DeckHouse_camo_01.dds</MidBack_DeckHouse>
-			<Stern_Hull>content/gameplay/common/camouflage/textures/VSC026_Nueve_de_Julio_1951_Hull_camo_01.dds</Stern_Hull>
-			<Stern_DeckHouse>content/gameplay/common/camouflage/textures/VSC026_Nueve_de_Julio_1951_DeckHouse_camo_01.dds</Stern_DeckHouse>
+			<Bow_Hull>content/gameplay/common/camouflage/textures/Boise.dds</Bow_Hull>
+			<MidFront_Hull>content/gameplay/common/camouflage/textures/Boise.dds</MidFront_Hull>
+			<MidFront_DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</MidFront_DeckHouse>
+			<MidBack_Hull>content/gameplay/common/camouflage/textures/Boise.dds</MidBack_Hull>
+			<MidBack_DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</MidBack_DeckHouse>
+			<Stern_Hull>content/gameplay/common/camouflage/textures/Boise.dds</Stern_Hull>
+			<Stern_DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Stern_DeckHouse>
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
-		<colorSchemes>colorSchemePAMP01</colorSchemes>
+		<colorSchemes>colorSchemeUSNP16</colorSchemes>
 	</camouflage>
 	<!--//NationX  camouflage-->
 	<camouflage>
