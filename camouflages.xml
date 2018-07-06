@@ -14973,13 +14973,13 @@
 			<Gun>0.5 0.5</Gun>
 		</UV>
 		<Textures>
-			<Bow_Hull>content/gameplay/common/camouflage/textures/ASC021_Dallas_1942_camo_01.dds</Bow_Hull>
-			<MidFront_Hull>content/gameplay/common/camouflage/textures/ASC021_Dallas_1942_camo_01.dds</MidFront_Hull>
-			<MidBack_Hull>content/gameplay/common/camouflage/textures/ASC021_Dallas_1942_camo_01.dds</MidBack_Hull>
-			<Stern_Hull>content/gameplay/common/camouflage/textures/ASC021_Dallas_1942_camo_01.dds</Stern_Hull>
+			<Bow_Hull>content/gameplay/common/camouflage/textures/SSN700.dds</Bow_Hull>
+			<MidFront_Hull>content/gameplay/common/camouflage/textures/SSN700.dds</MidFront_Hull>
+			<MidBack_Hull>content/gameplay/common/camouflage/textures/SSN700.dds</MidBack_Hull>
+			<Stern_Hull>content/gameplay/common/camouflage/textures/SSN700.dds</Stern_Hull>
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
-		<colorSchemes>colorSchemeUSNP24</colorSchemes>
+		<colorSchemes>colorSchemeUSNP16</colorSchemes>
 		<colorSchemes>colorSchemeUSNP47</colorSchemes>
 	</camouflage>
 	<camouflage>
@@ -14992,14 +14992,14 @@
 			<Gun>0.5 0.5</Gun>
 		</UV>
 		<Textures>
-			<Bow_Hull>content/gameplay/common/camouflage/textures/ASC011_Helena_1944_camo_01.dds</Bow_Hull>
-			<MidFront_Hull>content/gameplay/common/camouflage/textures/ASC011_Helena_1944_camo_01.dds</MidFront_Hull>
-			<MidFront_DeckHouse>content/gameplay/common/camouflage/textures/ASC011_Helena_1944_DeckHouse_camo_01.dds</MidFront_DeckHouse>
-			<MidBack_Hull>content/gameplay/common/camouflage/textures/ASC011_Helena_1944_camo_01.dds</MidBack_Hull>
-			<Stern_Hull>content/gameplay/common/camouflage/textures/ASC011_Helena_1944_camo_01.dds</Stern_Hull>
+			<Bow_Hull>content/gameplay/common/camouflage/textures/Stlouis.dds</Bow_Hull>
+			<MidFront_Hull>content/gameplay/common/camouflage/textures/Stlouis.dds</MidFront_Hull>
+			<MidFront_DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</MidFront_DeckHouse>
+			<MidBack_Hull>content/gameplay/common/camouflage/textures/Stlouis.dds</MidBack_Hull>
+			<Stern_Hull>content/gameplay/common/camouflage/textures/Stlouis.dds</Stern_Hull>
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
-		<colorSchemes>colorSchemeUSNP24</colorSchemes>
+		<colorSchemes>colorSchemeUSNP16</colorSchemes>
 		<colorSchemes>colorSchemeUSNP47</colorSchemes>
 	</camouflage>
 	<camouflage>
@@ -15012,15 +15012,15 @@
 			<Gun>0.5 0.5</Gun>
 		</UV>
 		<Textures>
-			<Bow_Hull>content/gameplay/common/camouflage/textures/ASC016_Worcester_1948_Hull_camo_01.dds</Bow_Hull>
-			<MidFront_Hull>content/gameplay/common/camouflage/textures/ASC016_Worcester_1948_Hull_camo_01.dds</MidFront_Hull>
-			<MidFront_DeckHouse>content/gameplay/common/camouflage/textures/ASC016_Worcester_1948_DeckHouse_camo_01.dds</MidFront_DeckHouse>
-			<MidBack_Hull>content/gameplay/common/camouflage/textures/ASC016_Worcester_1948_Hull_camo_01.dds</MidBack_Hull>
-			<MidBack_DeckHouse>content/gameplay/common/camouflage/textures/ASC016_Worcester_1948_DeckHouse_camo_01.dds</MidBack_DeckHouse>
-			<Stern_Hull>content/gameplay/common/camouflage/textures/ASC016_Worcester_1948_Hull_camo_01.dds</Stern_Hull>
+			<Bow_Hull>content/gameplay/common/camouflage/textures/Wuhster.dds</Bow_Hull>
+			<MidFront_Hull>content/gameplay/common/camouflage/textures/Wuhster.dds</MidFront_Hull>
+			<MidFront_DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</MidFront_DeckHouse>
+			<MidBack_Hull>content/gameplay/common/camouflage/textures/Wuhster.dds</MidBack_Hull>
+			<MidBack_DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</MidBack_DeckHouse>
+			<Stern_Hull>content/gameplay/common/camouflage/textures/Wuhster.dds</Stern_Hull>
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
-		<colorSchemes>colorSchemeUSNP28</colorSchemes>
+		<colorSchemes>colorSchemeUSNP16</colorSchemes>
 		<colorSchemes>colorSchemeUSNP47</colorSchemes>
 	</camouflage>
 	<camouflage>
@@ -15033,17 +15033,17 @@
 			<Gun>0.52 0.52</Gun>
 		</UV>
 		<Textures>
-			<Bow_Hull>content/gameplay/common/camouflage/textures/ASC022_Seattle_1945_Hull_camo_01.dds</Bow_Hull>
-			<Bow_DeckHouse>content/gameplay/common/camouflage/textures/ASC022_Seattle_1945_deckhouse_camo_01.dds</Bow_DeckHouse>
-			<MidFront_Hull>content/gameplay/common/camouflage/textures/ASC022_Seattle_1945_Hull_camo_01.dds</MidFront_Hull>
-			<MidFront_DeckHouse>content/gameplay/common/camouflage/textures/ASC022_Seattle_1945_deckhouse_camo_01.dds</MidFront_DeckHouse>
-			<MidBack_Hull>content/gameplay/common/camouflage/textures/ASC022_Seattle_1945_Hull_camo_01.dds</MidBack_Hull>
-			<MidBack_DeckHouse>content/gameplay/common/camouflage/textures/ASC022_Seattle_1945_deckhouse_camo_01.dds</MidBack_DeckHouse>
-			<Stern_Hull>content/gameplay/common/camouflage/textures/ASC022_Seattle_1945_Hull_camo_01.dds</Stern_Hull>
-			<Stern_DeckHouse>content/gameplay/common/camouflage/textures/ASC022_Seattle_1945_deckhouse_camo_01.dds</Stern_DeckHouse>
-			<Gun>content/gameplay/common/camouflage/textures/AGM034_16in50_Mk7_camo_01.dds</Gun>
+			<Bow_Hull>content/gameplay/common/camouflage/textures/seatac.dds</Bow_Hull>
+			<Bow_DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Bow_DeckHouse>
+			<MidFront_Hull>content/gameplay/common/camouflage/textures/seatac.dds</MidFront_Hull>
+			<MidFront_DeckHouse>content/gameplay/common/camouflage/textures/whistler.dds</MidFront_DeckHouse>
+			<MidBack_Hull>content/gameplay/common/camouflage/textures/seatac.dds</MidBack_Hull>
+			<MidBack_DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</MidBack_DeckHouse>
+			<Stern_Hull>content/gameplay/common/camouflage/textures/seatac.dds</Stern_Hull>
+			<Stern_DeckHouse>content/gameplay/common/camouflage/textures/whistler.dds</Stern_DeckHouse>
+			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
-		<colorSchemes>colorSchemeUSNP28</colorSchemes>
+		<colorSchemes>colorSchemeUSNP16</colorSchemes>
 		<colorSchemes>colorSchemeUSNP47</colorSchemes>
 	</camouflage>
 	<camouflage>
