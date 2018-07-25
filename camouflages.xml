@@ -14808,7 +14808,7 @@
 			<Stern_DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Stern_DeckHouse>
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
-		<colorSchemes>colorSchemeUSNP03</colorSchemes>
+		<colorSchemes>colorSchemeUSNP16</colorSchemes>
 		<colorSchemes>colorSchemeUSNP47</colorSchemes>
 	</camouflage>	
 		<!--//American tech tree ships camouflage-->
