@@ -13902,11 +13902,11 @@
 			<Gun>0.8 0.8</Gun>
 		</UV>
 		<Textures>
-			<DeckHouse>content/gameplay/common/camouflage/textures/ASB026_West_Virginia_1941_Deckhouse_camo_01.dds</DeckHouse>
-			<Hull>content/gameplay/common/camouflage/textures/ASB026_West_Virginia_1941_hull_camo_01.dds</Hull>
-			<Gun>content/gameplay/common/camouflage/textures/AGM034_16in50_Mk7_camo_01_B.dds</Gun>
+			<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+			<Hull>content/gameplay/common/camouflage/textures/takemehome.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
-		<colorSchemes>colorSchemeUSNP21</colorSchemes>
+		<colorSchemes>colorSchemeUSNP16</colorSchemes>
 		<colorSchemes>colorSchemeUSNP51</colorSchemes>
 	</camouflage>
 	<!--//American tech tree ships camouflage-->
