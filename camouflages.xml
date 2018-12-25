@@ -2092,6 +2092,14 @@
 			<color2>0.325 0.325 0.325 1.000</color2>
 			<color3>0.045 0.050 0.060 1.000</color3>
 		</colorScheme>
+		<!--//ITA UNIQUE Leone colour scheme 04-->
+		<colorScheme>
+			<name>colorSchemeITAP04</name>
+			<color0>0.240 0.289 0.342 1.000</color0>
+			<color1>0.023 0.024 0.056 1.000</color1>
+			<color2>0.023 0.024 0.056 1.000</color2>
+			<color3>0.045 0.050 0.060 1.000</color3>
+		</colorScheme>
 		<!--//PAM naval blue colour scheme 01 tier1 tier2 tier3-->
 		<colorScheme>
 			<name>colorSchemePAM01</name>
