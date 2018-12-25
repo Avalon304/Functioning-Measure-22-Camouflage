@@ -14111,11 +14111,11 @@
 			<Gun>0.28 0.28</Gun>
 		</UV>
 		<Textures>
-			<DeckHouse>content/gameplay/common/camouflage/textures/ASC018_Wichita_1945_DeckHouse_camo_01.dds</DeckHouse>
-			<Hull>content/gameplay/common/camouflage/textures/ASC018_Wichita_1945_camo_01.dds</Hull>
-			<Gun>content/gameplay/common/camouflage/textures/IJN_tile_camo_02.dds</Gun>
+			<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+			<Hull>content/gameplay/common/camouflage/textures/toto.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
-		<colorSchemes>colorSchemeUSNP15</colorSchemes>
+		<colorSchemes>colorSchemeUSNP16</colorSchemes>
 		<colorSchemes>colorSchemeUSNP47</colorSchemes>
 	</camouflage>
 	<camouflage>
