@@ -46,7 +46,7 @@
 		<!--//3. American ships with texture		4096*4096+4096*2048, 2048*2048+2048*1024-->
 		<shipGroup>
 			<name>USN_group_3</name>
-			<ships> PASD021_Fletcher_1943 PASD709_Black PASB506_Arizona_1941 PASB008_Colorado_1945 PASB017_Montana_1945 PASC510_Alaska PASB507_West_Virginia PASB810_TST_MONTANA</ships>
+			<ships> PASD021_Fletcher_1943 PASD709_Black PASB506_Arizona_1941 PASB008_Colorado_1945 PASB017_Montana_1945 PASC510_Alaska PASB507_West_Virginia PASB810_TST_MONTANA PASB510_Ohio</ships>
 		</shipGroup>
 		<!--//4. American ships with texture		4096*4096+1024*1024-->
 		<shipGroup>
@@ -852,6 +852,23 @@
 			<color3>0.000 0.000 0.000 0.000</color3>
 			<colorUI>0.338 0.408 0.486 1.000</colorUI>
 		</colorScheme>
+		<!--//USN UNIQUE Ohio colour scheme 08-->
+		<colorScheme>
+			<name>colorSchemeUSNP08</name>
+			<color0>0.184 0.212 0.231 0.784</color0>
+			<color1>0.047 0.090 0.122 1.000</color1>
+			<color2>0.004 0.012 0.020 1.000</color2>
+			<color3>0.006 0.010 0.017 1.000</color3>
+			<colorUI>0.350 0.500 0.570 1.000</colorUI>
+		</colorScheme>
+		<!--//USN UNIQUE Flint colour scheme 09 -->
+		<colorScheme>
+			<name>colorSchemeUSNP09</name>
+			<color0>0.010 0.020 0.030 1.000</color0>
+			<color1>0.300 0.300 0.300 1.000</color1>
+			<color2>0.000 0.120 0.000 1.000</color2>
+			<color3>0.000 0.000 0.000 1.000</color3>
+		</colorScheme>
 		<!--//USN UNIQUE Texas USA flag colour scheme 11-->
 		<colorScheme>
 			<name>colorSchemeUSNP11</name>
@@ -1190,7 +1207,7 @@
 			<color1>0.000 0.000 0.000 0.000</color1>
 			<color2>0.056 0.068 0.046 0.900</color2>
 			<color3>0.000 0.000 0.000 0.000</color3>
-			<colorUI>0.509 0.607 0.682 1.000</colorUI>
+			<colorUI>0.259 0.294 0.231 1.000</colorUI>
 		</colorScheme> 
 		<!--//RUS UNIQUE Murmansk colour scheme 04-->
 		<colorScheme>
@@ -1544,7 +1561,7 @@
 			<color1>0.020 0.060 0.108 1.000</color1>
 			<color2>0.008 0.015 0.025 1.000</color2>
 			<color3>0.142 0.165 0.195 1.000</color3>
-			<colorUI>0.509 0.607 0.682 1.000</colorUI>
+			<colorUI>0.406 0.471 0.557 1.000</colorUI>
 		</colorScheme>
 		<!--//RUS UNIQUE Siberian green colour scheme 44-->
 		<colorScheme>
@@ -3143,6 +3160,22 @@
 			<color1>0.050 0.050 0.076 1.000</color1>
 			<color2>0.100 0.051 0.015 1.000</color2>
 			<color3>0.000 0.000 0.008 1.000</color3>
+		</colorScheme>
+		<!--//Red heat colour scheme 01-->
+		<colorScheme>
+			<name>colorScheme_Red_heat_01</name>
+			<color0>0.006 0.006 0.012 1.000</color0>
+			<color1>0.098 0.006 0.003 1.000</color1>
+			<color2>0.180 0.130 0.019 1.000</color2>
+			<color3>0.220 0.220 0.220 1.000</color3>
+		</colorScheme>
+		<!--//France arc colour scheme 01-->
+		<colorScheme>
+			<name>colorScheme_France_arc_01</name>
+			<color0>0.005 0.050 0.180 1.000</color0>
+			<color1>0.005 0.050 0.180 1.000</color1>
+			<color2>0.004 0.004 0.007 1.000</color2>
+			<color3>0.267 0.271 0.280 1.000</color3>
 		</colorScheme>
 	</ColorSchemes>
 <!--//Camouflage blocks-->
@@ -15807,7 +15840,7 @@
 	<camouflage>
 		<annotation>Postap unique permOflage block for the ships with a texture 4096*2048</annotation>
 		<name>mat_Postap_01</name>
-		<shipGroups>IJN_group_2 USN_group_2 RUS_group_2 UK_group_2 GER_group_2 FRA_group_2 POL_group_1 PAN_group_2 ITA_group_3</shipGroups>
+		<shipGroups>IJN_group_2 USN_group_2 RUS_group_2 UK_group_2 GER_group_2 FRA_group_2 POL_group_1 PAN_group_2 ITA_group_3 NL_group_1</shipGroups>
 		<tiled>false</tiled>
 		<UV>
 			<Tile>2 1</Tile>
@@ -16422,6 +16455,36 @@
 				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Postap_50.dds</Tile>
 		</Textures>
 		<colorSchemes>colorScheme_Postap_01</colorSchemes>
+	</camouflage>
+		<!--//Red Heat tile camouflage-->
+	<camouflage>
+		<annotation>Red Heat tile camouflage block for all ships</annotation>
+		<name>camo_Red_Heat_01</name>
+		<tiled>true</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>1 1</Gun>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<Tile>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_Red_heat_01</colorSchemes>
+	</camouflage>
+	<!--//France arc tile camouflage-->
+	<camouflage>
+		<annotation>France arc tile camouflage block for all ships</annotation>
+		<name>camo_France_arc_01</name>
+		<tiled>true</tiled>
+		<UV>
+			<Tile>2 2</Tile>
+			<Gun>0.6 0.6</Gun>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_FranceArc_51.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_France_arc_01</colorSchemes>
 	</camouflage>
 	<!--//Unique camouflage and colours block-->
 		<!--//Japanese premium ships camouflage-->
@@ -18143,6 +18206,38 @@
 		</Textures>
 		<colorSchemes>colorSchemeUSNP24</colorSchemes>
 		<colorSchemes>colorSchemeUSNP54</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>Ohio unique permOflage block</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PASB510_Ohio</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>0.6 0.6</Gun>
+		</UV>
+		<Textures>
+			<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+			<Hull>content/gameplay/common/camouflage/textures/vasily.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+		</Textures>
+		<colorSchemes>colorSchemeUSNP16</colorSchemes>
+		<colorSchemes>colorSchemeUSNP47</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>Flint rank camo Wolf unique permOflage block</annotation>
+		<name>camo_permanent_3</name>
+		<targetShip>PASC707_Flint</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>0.57 0.57</Gun>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/ASC013_Flint_1944_camo_03.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+		</Textures>
+		<colorSchemes>colorSchemeUSNP09</colorSchemes>
 	</camouflage>
 	<!--//American tech tree ships camouflage-->
 	<camouflage>
