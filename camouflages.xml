@@ -145,12 +145,12 @@
 		<!--//1. French ships with texture			2048*2048, 4096*4096, 4096*4096+2048*2048-->
 		<shipGroup>
 			<name>FRA_group_1</name>
-			<ships> PFSC102_Jurien PFSC103_Friant PFSC104_Duguay_Trouin PFSC105_Emile_Bertin PFSC106_La_Galissonniere PFSC506_De_Grasse PFSC107_Algerie PFSC108_Charles_Martel PFSC109_Saint_Louis PFSC110_Henri_IV PFSD506_Aigle PFSD508_Le_Terrible PFSD808_TST_TERRIBLE PFSD108_Le_Fantasque PFSC510_Colbert</ships>
+			<ships> PFSC102_Jurien PFSC103_Friant PFSC104_Duguay_Trouin PFSC105_Emile_Bertin PFSC106_La_Galissonniere PFSC506_De_Grasse PFSC107_Algerie PFSC108_Charles_Martel PFSC109_Saint_Louis PFSC110_Henri_IV PFSD506_Aigle PFSD508_Le_Terrible PFSD808_TST_TERRIBLE PFSD108_Le_Fantasque PFSC510_Colbert PFSB103_Turenne PFSB104_Courbet PFSB105_Bretagne PFSC810_Henri_IV</ships>
 		</shipGroup>
 		<!--//2. French ships with texture			4096*2048-->
 		<shipGroup>
 			<name>FRA_group_2</name>
-			<ships> PFSC101_Bougainville PFSD504_Siroco PFSD110_Kleber PFSD102_Enseigne_Gabolde PFSD104_Bourrasque PXSD021_Kleber_PA</ships>
+			<ships> PFSC101_Bougainville PFSD504_Siroco PFSD110_Kleber PFSD102_Enseigne_Gabolde PFSD104_Bourrasque PXSD021_Kleber_PA PFSD605_Cyclone_event</ships>
 		</shipGroup>
 		<!--//3. French ships with texture			4096*4096+4096*2048, 2048*2048+2048*1024-->
 		<shipGroup>
@@ -208,17 +208,17 @@
 		<!--//1. Italian ships with texture			2048*2048, 4096*4096, 4096*4096+2048*2048-->
 		<shipGroup>
 			<name>ITA_group_1</name>
-			<ships> PISC506_DucadAosta PISB505_Giulio_Cesare PISC507_Duca_degli_Abruzzi PISB805_TST_CESARE</ships>
+			<ships> PISC506_DucadAosta PISB505_Giulio_Cesare PISC507_Duca_degli_Abruzzi PISB805_TST_CESARE PISD510_Paolo_Emilio PISC505_Genova PISC102_Nino_Bixio PISC103_Taranto PISC104_Alberto_da_Giussano PISC105_Raimondo_Montecuccoli PISC106_Trento PISC107_Zara PISC108_Verona</ships>
 		</shipGroup>
 		<!--//2. Italian ships with texture			4096*4096+4096*2048, 2048*2048+2048*1024-->
 		<shipGroup>
 			<name>ITA_group_2</name>
-			<ships>PISB508_Roma</ships>
+			<ships>PISB508_Roma PISC109_Torino PISC110_Milano</ships>
 		</shipGroup>
 		<!--//3. Italian ships with texture			4096*2048+2048*1024-->
 		<shipGroup>
 			<name>ITA_group_3</name>
-			<ships>PISD506_Leone</ships>
+			<ships>PISD506_Leone PISC101_Eritrea</ships>
 		</shipGroup>
 	<!--//10. Pan-America ships-->
 		<!--//1. Pan-America ships with texture		2048*2048, 4096*4096, 4096*4096+2048*2048-->
@@ -230,7 +230,7 @@
 		<!--//1. Europe ships with texture		2048*2048, 4096*4096, 4096*4096+2048*2048-->
 		<shipGroup>
 			<name>EUR_group_1</name>
-			<ships>PGSB504_Viribus_Unitis</ships>
+			<ships>PWSB504_Viribus_Unitis</ships>
 		</shipGroup>
 	<!--//12. Netherlands ships-->
 		<!--//1. Netherlands ships with texture		 4096*2048+2048*1024-->
@@ -2279,6 +2279,7 @@
 			<color1>0.058 0.064 0.072 1.000</color1>
 			<color2>0.239 0.255 0.267 1.000</color2>
 			<color3>0.015 0.028 0.042 1.000</color3>
+			<colorUI>0.022 0.036 0.051 1.000</colorUI>
 		</colorScheme>
 		<!--//FRA naval grey colour scheme 02 tier3 and tier4-->
 		<colorScheme>
@@ -2287,6 +2288,25 @@
 			<color1>0.239 0.255 0.267 1.000</color1>
 			<color2>0.058 0.064 0.072 1.000</color2>
 			<color3>0.108 0.135 0.146 1.000</color3>
+			<colorUI>0.022 0.036 0.051 1.000</colorUI>
+		</colorScheme>
+		<!--//FRA naval If Castle colour scheme 01 tier1 and tier2-->
+		<colorScheme>
+			<name>colorSchemeFRA03</name>
+			<color0>0.022 0.099 0.164 1.000</color0>
+			<color1>0.012 0.020 0.064 1.000</color1>
+			<color2>0.094 0.201 0.359 1.000</color2>
+			<color3>0.375 0.349 0.316 1.000</color3>
+			<colorUI>0.027 0.101 0.167 1.000</colorUI>
+		</colorScheme>
+		<!--//FRA naval If Castle colour scheme 02 tier3 and tier4-->
+		<colorScheme>
+			<name>colorSchemeFRA04</name>
+			<color0>0.022 0.099 0.164 1.000</color0>
+			<color1>0.012 0.020 0.064 1.000</color1>
+			<color2>0.094 0.201 0.359 1.000</color2>
+			<color3>0.375 0.349 0.316 1.000</color3>
+			<colorUI>0.027 0.101 0.167 1.000</colorUI>
 		</colorScheme>
 		<!--//FRA UNIQUE Dunkerque colour scheme 01-->
 		<colorScheme>
@@ -2295,6 +2315,7 @@
 			<color1>0.058 0.064 0.072 1.000</color1>
 			<color2>0.025 0.038 0.052 1.000</color2>
 			<color3>0.000 0.000 0.000 0.000</color3>
+			<colorUI>0.024 0.053 0.092 1.000</colorUI>
 		</colorScheme>
 		<!--//FRA UNIQUE De_Grasse colour scheme 02-->
 		<colorScheme>
@@ -2303,6 +2324,7 @@
 			<color1>0.013 0.013 0.013 1.000</color1>
 			<color2>0.096 0.119 0.148 1.000</color2>
 			<color3>0.000 0.000 0.000 0.000</color3>
+			<colorUI>0.024 0.053 0.092 1.000</colorUI>
 		</colorScheme>
 		<!--//FRA UNIQUE tech tree ships colour scheme 03-->
 		<colorScheme>
@@ -2311,6 +2333,7 @@
 			<color1>0.019 0.040 0.072 1.000</color1>
 			<color2>0.000 0.000 0.000 0.000</color2>
 			<color3>0.000 0.000 0.000 0.000</color3>
+			<colorUI>0.022 0.036 0.051 1.000</colorUI>
 		</colorScheme>
 		<!--//FRA UNIQUE tech tree ships colour scheme 04-->
 		<colorScheme>
@@ -2319,6 +2342,7 @@
 			<color1>0.002 0.010 0.032 1.000</color1>
 			<color2>0.130 0.154 0.164 1.000</color2>
 			<color3>0.250 0.250 0.250 1.000</color3>
+			<colorUI>0.021 0.056 0.119 1.000</colorUI>
 		</colorScheme>
 		<!--//FRA UNIQUE Jean_Bart colour scheme 05-->
 		<colorScheme>
@@ -2327,6 +2351,7 @@
 			<color1>0.017 0.030 0.072 1.000</color1>
 			<color2>0.250 0.250 0.250 1.000</color2>
 			<color3>0.250 0.250 0.250 1.000</color3>
+			<colorUI>0.022 0.036 0.051 1.000</colorUI>
 		</colorScheme>
 		<!--//FRA UNIQUE Le Terrible ships colour scheme 06-->
 		<colorScheme>
@@ -2335,14 +2360,16 @@
 			<color1>0.239 0.255 0.267 1.000</color1>
 			<color2>0.046 0.053 0.078 1.000</color2>
 			<color3>0.009 0.009 0.009 1.000</color3>
+			<colorUI>0.022 0.036 0.051 1.000</colorUI>
 		</colorScheme>
-		<!--//FRA UNIQUE Bourgogne ships colour scheme 06-->
+		<!--//FRA UNIQUE Bourgogne ships colour scheme 07-->
 		<colorScheme>
 			<name>colorSchemeFRAP07</name>
 			<color0>0.239 0.255 0.267 1.000</color0>
 			<color1>0.105 0.135 0.164 1.000</color1>
 			<color2>0.009 0.009 0.009 1.000</color2>
 			<color3>0.027 0.045 0.095 1.000</color3>
+			<colorUI>0.009 0.009 0.009 1.000</colorUI>
 		</colorScheme>
 		<!--//FRA UNIQUE Bourgogne ships colour scheme 08-->
 		<colorScheme>
@@ -2351,14 +2378,79 @@
 			<color1>0.239 0.255 0.267 1.000</color1>
 			<color2>0.105 0.135 0.164 1.000</color2>
 			<color3>0.023 0.032 0.051 1.000</color3>
+			<colorUI>0.022 0.036 0.051 1.000</colorUI>
 		</colorScheme>
-		<!--//FRA UNIQUE Colbert ships colour scheme 08-->
+		<!--//FRA UNIQUE Colbert ships colour scheme 09-->
 		<colorScheme>
 			<name>colorSchemeFRAP09</name>
 			<color0>0.130 0.154 0.164 1.000</color0>
 			<color1>0.015 0.020 0.037 1.000</color1>
 			<color2>0.130 0.154 0.164 1.000</color2>
 			<color3>0.250 0.250 0.250 1.000</color3>
+			<colorUI>0.130 0.154 0.167 1.000</colorUI>
+		</colorScheme>
+		<!--//FRA naval If Castle ships colour 50-->
+		<colorScheme>
+			<name>colorSchemeFRAP50</name>
+			<color0>0.012 0.020 0.064 1.000</color0>
+			<color1>0.375 0.349 0.316 1.000</color1>
+			<color2>0.094 0.201 0.359 1.000</color2>
+			<color3>0.022 0.099 0.164 1.000</color3>
+			<colorUI>0.289 0.320 0.344 1.000</colorUI>
+		</colorScheme>
+		<!--//FRA naval If Castle ships colour 51-->
+		<colorScheme>
+			<name>colorSchemeFRAP51</name>
+			<color0>0.012 0.020 0.064 1.000</color0>
+			<color1>0.375 0.349 0.316 1.000</color1>
+			<color2>0.022 0.099 0.164 1.000</color2>
+			<color3>0.094 0.201 0.359 1.000</color3>
+			<colorUI>0.027 0.101 0.167 1.000</colorUI>
+		</colorScheme>
+		<!--//FRA naval If Castle ships colour 52-->
+		<colorScheme>
+			<name>colorSchemeFRAP52</name>
+			<color0>0.012 0.020 0.064 1.000</color0>
+			<color1>0.022 0.099 0.164 1.000</color1>
+			<color2>0.094 0.201 0.359 1.000</color2>
+			<color3>0.375 0.349 0.316 1.000</color3>
+			<colorUI>0.027 0.101 0.167 1.000</colorUI>
+		</colorScheme>
+		<!--//FRA naval If Castle ships colour 53-->
+		<colorScheme>
+			<name>colorSchemeFRAP53</name>
+			<color0>0.022 0.099 0.164 1.000</color0>
+			<color1>0.094 0.201 0.359 1.000</color1>
+			<color2>0.375 0.349 0.316 1.000</color2>
+			<color3>0.012 0.020 0.064 1.000</color3>
+			<colorUI>0.027 0.101 0.167 1.000</colorUI>
+		</colorScheme>
+		<!--//FRA naval If Castle ships colour 54-->
+		<colorScheme>
+			<name>colorSchemeFRAP54</name>
+			<color0>0.375 0.349 0.316 1.000</color0>
+			<color1>0.012 0.020 0.064 1.000</color1>
+			<color2>0.022 0.099 0.164 1.000</color2>
+			<color3>0.094 0.201 0.359 1.000</color3>
+			<colorUI>0.027 0.101 0.167 1.000</colorUI>
+		</colorScheme>
+		<!--//FRA naval If Castle ships colour 55-->
+		<colorScheme>
+			<name>colorSchemeFRAP55</name>
+			<color0>0.012 0.020 0.064 1.000</color0>
+			<color1>0.375 0.349 0.316 1.000</color1>
+			<color2>0.094 0.201 0.359 1.000</color2>
+			<color3>0.012 0.020 0.064 1.000</color3>
+			<colorUI>0.027 0.101 0.167 1.000</colorUI>
+		</colorScheme>
+		<!--//FRA naval If Castle ships colour 56-->
+		<colorScheme>
+			<name>colorSchemeFRAP56</name>
+			<color0>0.012 0.020 0.064 1.000</color0>
+			<color1>0.375 0.349 0.316 1.000</color1>
+			<color2>0.094 0.201 0.359 1.000</color2>
+			<color3>0.375 0.349 0.316 1.000</color3>
+			<colorUI>0.027 0.101 0.167 1.000</colorUI>
 		</colorScheme>
 		<!--//POL naval green colour scheme 01 tier1 and tier2-->
 		<colorScheme>
@@ -2511,6 +2603,22 @@
 			<color1>0.023 0.024 0.056 1.000</color1>
 			<color2>0.023 0.024 0.056 1.000</color2>
 			<color3>0.045 0.050 0.060 1.000</color3>
+		</colorScheme>
+		<!--//ITA UNIQUE Paolo Emilio colour scheme 05-->
+		<colorScheme>
+			<name>colorSchemeITAP05</name>
+			<color0>0.015 0.010 0.010 1.000</color0>
+			<color1>0.240 0.289 0.342 1.000</color1>
+			<color2>0.053 0.086 0.055 1.000</color2>
+			<color3>0.240 0.289 0.342 1.000</color3>
+		</colorScheme>
+		<!--//ITA UNIQUE Verona colour scheme 06-->
+		<colorScheme>
+			<name>colorSchemeITAP06</name>
+			<color0>0.109 0.151 0.184 1.000</color0>
+			<color1>0.045 0.050 0.060 1.000</color1>
+			<color2>0.325 0.325 0.325 1.000</color2>
+			<color3>0.187 0.311 0.400 1.000</color3>
 		</colorScheme>
 		<!--//PAM naval blue colour scheme 01 tier1 tier2 tier3-->
 		<colorScheme>
@@ -5104,6 +5212,7 @@
 			<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_13.dds</Tile>
 		</Textures>
 		<colorSchemes>colorSchemeFRA01</colorSchemes>
+		<colorSchemes>colorSchemeFRA03</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>French tile camouflage block for the ships with a texture 4096*2048</annotation>
@@ -5120,6 +5229,7 @@
 			<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_13.dds</Tile>
 		</Textures>
 		<colorSchemes>colorSchemeFRA01</colorSchemes>
+		<colorSchemes>colorSchemeFRA03</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>French tile camouflage block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
@@ -5136,6 +5246,7 @@
 			<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_13.dds</Tile>
 		</Textures>
 		<colorSchemes>colorSchemeFRA01</colorSchemes>
+		<colorSchemes>colorSchemeFRA03</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>French tile camouflage block for the ships with a texture 4096*4096+4096*4096, 2048*2048+2048*2048</annotation>
@@ -5152,6 +5263,7 @@
 			<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_13.dds</Tile>
 		</Textures>
 		<colorSchemes>colorSchemeFRA01</colorSchemes>
+		<colorSchemes>colorSchemeFRA03</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>French tile camouflage block for the ships with a texture 4096*2048+4096*4096, 2048*1024+2048*2048</annotation>
@@ -5168,6 +5280,7 @@
 			<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_13.dds</Tile>
 		</Textures>
 		<colorSchemes>colorSchemeFRA01</colorSchemes>
+		<colorSchemes>colorSchemeFRA03</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>French tile camouflage block for the ships with a texture 4096*2048+2048*2048, 2048*1024+1024*1024</annotation>
@@ -5184,6 +5297,7 @@
 			<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_13.dds</Tile>
 		</Textures>
 		<colorSchemes>colorSchemeFRA01</colorSchemes>
+		<colorSchemes>colorSchemeFRA03</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>French tile camouflage block for the ships with a texture 4096*4096+2048*1024</annotation>
@@ -5200,6 +5314,7 @@
 			<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_13.dds</Tile>
 		</Textures>
 		<colorSchemes>colorSchemeFRA01</colorSchemes>
+		<colorSchemes>colorSchemeFRA03</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>French tile camouflage block for the ships with a texture 4096*2048+1024*1024</annotation>
@@ -5216,6 +5331,7 @@
 			<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_13.dds</Tile>
 		</Textures>
 		<colorSchemes>colorSchemeFRA01</colorSchemes>
+		<colorSchemes>colorSchemeFRA03</colorSchemes>
 	</camouflage>
 		<!--//tier 2-->
 	<camouflage>
@@ -5233,6 +5349,7 @@
 			<Tile>content/gameplay/common/camouflage/textures/IJN_tile_camo_02.dds</Tile>
 		</Textures>
 		<colorSchemes>colorSchemeFRA01</colorSchemes>
+		<colorSchemes>colorSchemeFRA03</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>French tile camouflage block for the ships with a texture 4096*2048</annotation>
@@ -5249,6 +5366,7 @@
 			<Tile>content/gameplay/common/camouflage/textures/IJN_tile_camo_02.dds</Tile>
 		</Textures>
 		<colorSchemes>colorSchemeFRA01</colorSchemes>
+		<colorSchemes>colorSchemeFRA03</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>French tile camouflage block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
@@ -5265,6 +5383,7 @@
 			<Tile>content/gameplay/common/camouflage/textures/IJN_tile_camo_02.dds</Tile>
 		</Textures>
 		<colorSchemes>colorSchemeFRA01</colorSchemes>
+		<colorSchemes>colorSchemeFRA03</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>French tile camouflage block for the ships with a texture 4096*4096+4096*4096, 2048*2048+2048*2048</annotation>
@@ -5281,6 +5400,7 @@
 			<Tile>content/gameplay/common/camouflage/textures/IJN_tile_camo_02.dds</Tile>
 		</Textures>
 		<colorSchemes>colorSchemeFRA01</colorSchemes>
+		<colorSchemes>colorSchemeFRA03</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>French tile camouflage block for the ships with a texture 4096*2048+4096*4096, 2048*1024+2048*2048</annotation>
@@ -5297,6 +5417,7 @@
 			<Tile>content/gameplay/common/camouflage/textures/IJN_tile_camo_02.dds</Tile>
 		</Textures>
 		<colorSchemes>colorSchemeFRA01</colorSchemes>
+		<colorSchemes>colorSchemeFRA03</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>French tile camouflage block for the ships with a texture 4096*2048+2048*2048, 2048*1024+1024*1024</annotation>
@@ -5313,6 +5434,7 @@
 			<Tile>content/gameplay/common/camouflage/textures/IJN_tile_camo_02.dds</Tile>
 		</Textures>
 		<colorSchemes>colorSchemeFRA01</colorSchemes>
+		<colorSchemes>colorSchemeFRA03</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>French tile camouflage block for the ships with a texture 4096*4096+2048*1024</annotation>
@@ -5329,6 +5451,7 @@
 			<Tile>content/gameplay/common/camouflage/textures/IJN_tile_camo_02.dds</Tile>
 		</Textures>
 		<colorSchemes>colorSchemeFRA01</colorSchemes>
+		<colorSchemes>colorSchemeFRA03</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>French tile camouflage block for the ships with a texture 4096*2048+1024*1024</annotation>
@@ -5345,6 +5468,7 @@
 			<Tile>content/gameplay/common/camouflage/textures/IJN_tile_camo_02.dds</Tile>
 		</Textures>
 		<colorSchemes>colorSchemeFRA01</colorSchemes>
+		<colorSchemes>colorSchemeFRA03</colorSchemes>	
 	</camouflage>
 		<!--//tier 3-->
 	<camouflage>
@@ -5362,6 +5486,7 @@
 			<Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_05.dds</Tile>
 		</Textures>
 		<colorSchemes>colorSchemeFRA02</colorSchemes>
+		<colorSchemes>colorSchemeFRA04</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>French tile camouflage block for the ships with a texture 4096*2048</annotation>
@@ -5378,6 +5503,7 @@
 			<Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_05.dds</Tile>
 		</Textures>
 		<colorSchemes>colorSchemeFRA02</colorSchemes>
+		<colorSchemes>colorSchemeFRA04</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>French tile camouflage block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
@@ -5394,6 +5520,7 @@
 			<Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_05.dds</Tile>
 		</Textures>
 		<colorSchemes>colorSchemeFRA02</colorSchemes>
+		<colorSchemes>colorSchemeFRA04</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>French tile camouflage block for the ships with a texture 4096*4096+4096*4096, 2048*2048+2048*2048</annotation>
@@ -5409,7 +5536,8 @@
 		<Textures>
 			<Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_05.dds</Tile>
 		</Textures>
-		<colorSchemes>colorSchemeFRA01</colorSchemes>
+		<colorSchemes>colorSchemeFRA02</colorSchemes>
+		<colorSchemes>colorSchemeFRA04</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>French tile camouflage block for the ships with a texture 4096*2048+4096*4096, 2048*1024+2048*2048</annotation>
@@ -5426,6 +5554,7 @@
 			<Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_05.dds</Tile>
 		</Textures>
 		<colorSchemes>colorSchemeFRA02</colorSchemes>
+		<colorSchemes>colorSchemeFRA04</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>French tile camouflage block for the ships with a texture 4096*2048+2048*2048, 2048*1024+1024*1024</annotation>
@@ -5442,6 +5571,7 @@
 			<Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_05.dds</Tile>
 		</Textures>
 		<colorSchemes>colorSchemeFRA02</colorSchemes>
+		<colorSchemes>colorSchemeFRA04</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>French tile camouflage block for the ships with a texture 4096*4096+2048*1024</annotation>
@@ -5458,6 +5588,7 @@
 			<Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_05.dds</Tile>
 		</Textures>
 		<colorSchemes>colorSchemeFRA02</colorSchemes>
+		<colorSchemes>colorSchemeFRA04</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>French tile camouflage block for the ships with a texture 4096*2048+1024*1024</annotation>
@@ -5474,6 +5605,7 @@
 			<Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_05.dds</Tile>
 		</Textures>
 		<colorSchemes>colorSchemeFRA02</colorSchemes>
+		<colorSchemes>colorSchemeFRA04</colorSchemes>
 	</camouflage>
 		<!--//Economic camouflage-->
 	<camouflage>
@@ -5491,6 +5623,7 @@
 			<Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_04.dds</Tile>
 		</Textures>
 		<colorSchemes>colorSchemeFRA02</colorSchemes>
+		<colorSchemes>colorSchemeFRA04</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>French economic tile camouflage block for the ships with a texture 4096*2048</annotation>
@@ -5507,6 +5640,7 @@
 			<Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_04.dds</Tile>
 		</Textures>
 		<colorSchemes>colorSchemeFRA02</colorSchemes>
+		<colorSchemes>colorSchemeFRA04</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>French economic tile camouflage block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
@@ -5523,6 +5657,7 @@
 			<Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_04.dds</Tile>
 		</Textures>
 		<colorSchemes>colorSchemeFRA02</colorSchemes>
+		<colorSchemes>colorSchemeFRA04</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>French economic tile camouflage block for the ships with a texture 4096*4096+4096*4096, 2048*2048+2048*2048</annotation>
@@ -5539,6 +5674,7 @@
 			<Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_04.dds</Tile>
 		</Textures>
 		<colorSchemes>colorSchemeFRA02</colorSchemes>
+		<colorSchemes>colorSchemeFRA04</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>French economic tile camouflage block for the ships with a texture 4096*2048+4096*4096, 2048*1024+2048*2048</annotation>
@@ -5555,6 +5691,7 @@
 			<Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_04.dds</Tile>
 		</Textures>
 		<colorSchemes>colorSchemeFRA02</colorSchemes>
+		<colorSchemes>colorSchemeFRA04</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>French economic tile camouflage block for the ships with a texture 4096*2048+2048*2048, 2048*1024+1024*1024</annotation>
@@ -5571,6 +5708,7 @@
 			<Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_04.dds</Tile>
 		</Textures>
 		<colorSchemes>colorSchemeFRA02</colorSchemes>
+		<colorSchemes>colorSchemeFRA04</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>French economic tile camouflage block for the ships with a texture 4096*4096+2048*1024</annotation>
@@ -5587,6 +5725,7 @@
 			<Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_04.dds</Tile>
 		</Textures>
 		<colorSchemes>colorSchemeFRA02</colorSchemes>
+		<colorSchemes>colorSchemeFRA04</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>French economic tile camouflage block for the ships with a texture 4096*2048+1024*1024</annotation>
@@ -5603,6 +5742,7 @@
 			<Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_04.dds</Tile>
 		</Textures>
 		<colorSchemes>colorSchemeFRA02</colorSchemes>
+		<colorSchemes>colorSchemeFRA04</colorSchemes>
 	</camouflage>
 	<!--//Polish ships tile camouflage-->
 		<!--//tier 1-->
@@ -17019,6 +17159,21 @@
 		<colorSchemes>colorSchemeIJNP47</colorSchemes>
 		<colorSchemes>colorSchemeIJNP45</colorSchemes>
 	</camouflage>
+	<camouflage>
+		<annotation>Shinonome unique permOflage block 02</annotation>
+		<name>camo_permanent_2</name>
+		<targetShip>PJSD706_Shinonome</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>1 1</Gun>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/JSD026_Shinonome_camo_02.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Gun>
+		</Textures>
+		<colorSchemes>colorSchemeIJNP53</colorSchemes>
+	</camouflage>
 	<!--//Japanese tech tree ships camouflage-->
 	<camouflage>
 		<annotation>Minekadze New Year unique permOflage block</annotation>
@@ -17540,6 +17695,22 @@
 		</Textures>
 		<colorSchemes>colorSchemeIJNP08</colorSchemes>
 		<colorSchemes>colorSchemeIJNP41</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>Fuso unique permOflage block</annotation>
+		<name>camo_permanent_dazzle</name>
+		<targetShip>PJSB006_Fuso_1943</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>1.5 1.5</Gun>
+		</UV>
+		<Textures>
+			<DeckHouse>content/gameplay/common/camouflage/textures/JSB006_Fuso_1943_DeckHouse_camo_04.dds</DeckHouse>
+			<Hull>content/gameplay/common/camouflage/textures/JSB006_Fuso_Hull_1943_camo_04.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_02.dds</Gun>
+		</Textures>
+		<colorSchemes>colorSchemeIJNP45</colorSchemes>
 	</camouflage>
 	<!--//American premium ships camouflage-->
 	<camouflage>
@@ -20303,6 +20474,22 @@
 		<colorSchemes>colorSchemeUKP01</colorSchemes>
 		<colorSchemes>colorSchemeUKP34</colorSchemes>
 	</camouflage>
+	<camouflage>
+		<annotation>Warspite unique permOflage block</annotation>
+		<name>camo_permanent_2</name>
+		<targetShip>PBSB002_Warspite_1941</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>1 1</Gun>
+		</UV>
+		<Textures>
+			<DeckHouse>content/gameplay/common/camouflage/textures/BSB002_Warspite_1941_Deck_House_camo_02.dds</DeckHouse>
+			<Hull>content/gameplay/common/camouflage/textures/BSB002_Warspite_1941_Hull_camo_02.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+		</Textures>
+		<colorSchemes>colorSchemeUKP40</colorSchemes>
+	</camouflage>
 	<!--//British tech tree ships camouflage-->
 	<camouflage>
 		<annotation>Edinburgh unique permOflage block</annotation>
@@ -20758,6 +20945,22 @@
 		</Textures>
 		<colorSchemes>colorSchemeUKP39</colorSchemes>
 	</camouflage>
+	<camouflage>
+		<annotation>Furious Dazzle permOflage block</annotation>
+		<name>camo_permanent_dazzle</name>
+		<targetShip>PBSA106_Furious</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>1 1</Gun>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/BSA002_Furious_1943_Hull_camo_02.dds</Hull>
+			<DeckHouse>content/gameplay/common/camouflage/textures/BSA002_Furious_1943_DeckHouse_camo_02.dds</DeckHouse>
+			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+		</Textures>
+		<colorSchemes>colorSchemeUKP19</colorSchemes>
+	</camouflage>
 	<!--//German premium ships camouflage-->
 	<camouflage>
 		<annotation>Tirpitz first unique permOflage block</annotation>
@@ -21125,6 +21328,21 @@
 			<Gun>content/gameplay/common/camouflage/textures/AGM034_16in50_Mk7_camo_01_G.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeGERP06</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>Admiral_Graf_Spee unique permOflage block</annotation>
+		<name>camo_permanent_2</name>
+		<targetShip>PGSC506_Admiral_Graf_Spee</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>1 1</Gun>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/GSC023_Graf_Spee_1939_camo_04.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Gun>
+		</Textures>
+		<colorSchemes>colorSchemeGERP34</colorSchemes>
 	</camouflage>
 	<!--//German tech tree ships camouflage-->
 	<camouflage>
@@ -21513,6 +21731,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeFRAP01</colorSchemes>
+		<colorSchemes>colorSchemeFRAP50</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>De Grasse unique permOflage block</annotation>
@@ -21529,6 +21748,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/FGM046_152_55_Mle_1936_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeFRAP02</colorSchemes>
+		<colorSchemes>colorSchemeFRAP51</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Aigle unique permOflage block</annotation>
@@ -21544,6 +21764,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeFRAP02</colorSchemes>
+		<colorSchemes>colorSchemeFRAP51</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Gascogne unique permOflage block</annotation>
@@ -21560,6 +21781,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_commander_day_22.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeFRAP04</colorSchemes>
+		<colorSchemes>colorSchemeFRAP52</colorSchemes>
 	</camouflage>
 	<camouflage>
 	<annotation>Jean Bart unique permOflage block</annotation>
@@ -21576,6 +21798,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Gun_tile_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeFRAP05</colorSchemes>
+		<colorSchemes>colorSchemeFRAP53</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Le Terrible unique permOflage block</annotation>
@@ -21592,6 +21815,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_commander_day_22.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeFRAP06</colorSchemes>
+		<colorSchemes>colorSchemeFRAP53</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Gascogne unique permOflage block</annotation>
@@ -21608,6 +21832,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_commander_day_22.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeFRAP04</colorSchemes>
+		<colorSchemes>colorSchemeFRAP50</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Bourgogne unique permOflage block</annotation>
@@ -21624,6 +21849,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_14.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeFRAP07</colorSchemes>
+		<colorSchemes>colorSchemeFRAP51</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Bayard unique permOflage block</annotation>
@@ -21640,6 +21866,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/AGM034_16in50_Mk7_camo_01_G.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeFRAP07</colorSchemes>
+		<colorSchemes>colorSchemeFRAP53</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Siroco unique permOflage block</annotation>
@@ -21655,6 +21882,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeFRAP07</colorSchemes>
+		<colorSchemes>colorSchemeFRAP54</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Colbert unique permOflage block</annotation>
@@ -21668,6 +21896,23 @@
 		<Textures>
 			<Hull>content/gameplay/common/camouflage/textures/FSC017_Colbert_1959_camo_01.dds</Hull>
 			<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Gun>
+		</Textures>
+		<colorSchemes>colorSchemeFRAP09</colorSchemes>
+		<colorSchemes>colorSchemeFRAP50</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>Le Terrible unique permOflage block</annotation>
+		<name>camo_permanent_dazzle</name>
+		<targetShip>PFSD508_Le_Terrible</targetShip>
+		<targetShip>PFSD808_TST_TERRIBLE</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>0.45 0.65</Gun>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/FSD004_Le_Terrible_1942_camo_02.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/AGM034_16in50_Mk7_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeFRAP09</colorSchemes>
 	</camouflage>
@@ -21686,6 +21931,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeFRAP03</colorSchemes>
+		<colorSchemes>colorSchemeFRAP50</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Algerie unique permOflage block</annotation>
@@ -21701,6 +21947,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeFRAP03</colorSchemes>
+		<colorSchemes>colorSchemeFRAP50</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Charles Martel unique permOflage block</annotation>
@@ -21716,6 +21963,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeFRAP03</colorSchemes>
+		<colorSchemes>colorSchemeFRAP50</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Saint Louis unique permOflage block</annotation>
@@ -21731,6 +21979,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeFRAP03</colorSchemes>
+		<colorSchemes>colorSchemeFRAP50</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Henri IV unique permOflage block</annotation>
@@ -21747,6 +21996,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeFRAP03</colorSchemes>
+		<colorSchemes>colorSchemeFRAP50</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Charles Martel WOWs birthday 2017 unique permOflage block</annotation>
@@ -21778,6 +22028,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_commander_day_22.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeFRAP04</colorSchemes>
+		<colorSchemes>colorSchemeFRAP55</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Lyon unique permOflage block</annotation>
@@ -21794,6 +22045,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_commander_day_22.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeFRAP04</colorSchemes>
+		<colorSchemes>colorSchemeFRAP55</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Richelieu Hull A unique permOflage block</annotation>
@@ -21810,6 +22062,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeFRAP04</colorSchemes>
+		<colorSchemes>colorSchemeFRAP56</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Richelieu Hull B unique permOflage block</annotation>
@@ -21826,6 +22079,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeFRAP04</colorSchemes>
+		<colorSchemes>colorSchemeFRAP56</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Alsace unique permOflage block</annotation>
@@ -21842,6 +22096,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeFRAP04</colorSchemes>
+		<colorSchemes>colorSchemeFRAP56</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>France unique permOflage block</annotation>
@@ -21858,6 +22113,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeFRAP04</colorSchemes>
+		<colorSchemes>colorSchemeFRAP56</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>La Galissonniere NY 2018 unique permOflage block</annotation>
@@ -21904,6 +22160,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeFRAP08</colorSchemes>
+		<colorSchemes>colorSchemeFRAP52</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Mogador permOflage block</annotation>
@@ -21920,6 +22177,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeFRAP08</colorSchemes>
+		<colorSchemes>colorSchemeFRAP52</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Kleber permOflage block</annotation>
@@ -21935,6 +22193,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01</Gun>
 		</Textures>
 			<colorSchemes>colorSchemeFRAP02</colorSchemes>
+			<colorSchemes>colorSchemeFRAP54</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Vauquelin permOflage block</annotation>
@@ -21951,6 +22210,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/AGM034_16in50_Mk7_camo_01_B.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeFRAP07</colorSchemes>
+		<colorSchemes>colorSchemeFRAP50</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Guepard permOflage block</annotation>
@@ -21967,6 +22227,22 @@
 			<Gun>content/gameplay/common/camouflage/textures/AGM034_16in50_Mk7_camo_01_B.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeFRAP05</colorSchemes>
+		<colorSchemes>colorSchemeFRAP54</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>La_Galissonniere permOflage block</annotation>
+		<name>camo_permanent_dazzle</name>
+		<targetShip>PFSC106_La_Galissonniere</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>0.6 0.6</Gun>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/FSC006_Galissonniere_1944_camo_03.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_04.dds</Gun>
+		</Textures>
+		<colorSchemes>colorSchemeFRAP09</colorSchemes>
 	</camouflage>
 	<!--//Polish premium ships camouflage-->
 	<camouflage>
@@ -22230,6 +22506,115 @@
 			<Gun>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_navy_day_23.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeITAP04</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>Leone unique permOflage block</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PISD510_Paolo_Emilio</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>0.60 0.60</Gun>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/ISD002_Paolo_Emilio_1942_camo_01.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Gun_tile_camo_01.dds</Gun>
+		</Textures>
+		<colorSchemes>colorSchemeITAP05</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>Genova unique permOflage block</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PISC505_Genova</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>0.30 0.30</Gun>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/ISC016_Genova_1925_camo_01.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_navy_day_23.dds</Gun>
+		</Textures>
+		<colorSchemes>colorSchemeITAP03</colorSchemes>
+	</camouflage>
+		<!--//Italian tech tree ships camouflage-->
+	<camouflage>
+		<annotation>Trento unique permOflage block</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PISC106_Trento</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>0.50 0.50</Gun>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/ISC012_Trento_1943_camo_01.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_navy_day_23.dds</Gun>
+		</Textures>
+		<colorSchemes>colorSchemeITAP03</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>Zara unique permOflage block</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PISC107_Zara</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>1 1</Gun>
+		</UV>
+		<Textures>
+			<DeckHouse>content/gameplay/common/camouflage/textures/ISC018_Zara_1937_Deckhouse_camo_01.dds</DeckHouse>
+			<Hull>content/gameplay/common/camouflage/textures/ISC018_Zara_1937_Hull_camo_01.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/IGM001_152mm53_F_camo_01.dds</Gun>
+		</Textures>
+		<colorSchemes>colorSchemeITAP03</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>Verona unique permOflage block</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PISC108_Verona</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>1 1</Gun>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/ISC014_Verona_1943_camo_01.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_02.dds</Gun>
+		</Textures>
+		<colorSchemes>colorSchemeITAP06</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>Torino unique permOflage block</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PISC109_Torino</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>0.55 0.55</Gun>
+		</UV>
+		<Textures>
+			<DeckHouse>content/gameplay/common/camouflage/textures/ISC015_Torino_1943_Deckhouse_camo_01.dds</DeckHouse>
+			<Hull>content/gameplay/common/camouflage/textures/ISC015_Torino_1943_Hull_camo_01.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Gun_tile_camo_01.dds</Gun>
+		</Textures>
+		<colorSchemes>colorSchemeITAP06</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>Milano unique permOflage block</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PISC110_Milano</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>0.8 1.0</Gun>
+		</UV>
+		<Textures>
+			<DeckHouse>content/gameplay/common/camouflage/textures/ISC006_Milano_1943_DeckHouse_camo_01.dds</DeckHouse>
+			<Hull>content/gameplay/common/camouflage/textures/ISC006_Milano_1943_Hull_camo_01.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Nelson_guns_camo_01.dds</Gun>
+		</Textures>
+		<colorSchemes>colorSchemeITAP06</colorSchemes>
 	</camouflage>
 	<!--//Pan-America premium ships camouflage-->
 	<camouflage>
