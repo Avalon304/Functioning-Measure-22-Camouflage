@@ -56,7 +56,7 @@
 		<!--//5. American ships with texture		4096*4096+4096*4096-->
 		<shipGroup>
 			<name>USN_group_5</name>
-			<ships> PASA508_Enterprise PASA015_Midway_1945 PASA110_Midway PASA518_Enterprise</ships>
+			<ships> PASA508_Enterprise PASA015_Midway_1945 PASA110_Midway PASA518_Enterprise PASB707_California PASC610_Puerto_Rico</ships>
 		</shipGroup>
 	<!--//3. Russian ships-->
 		<!--//1. Russian ships with texture			2048*2048, 4096*4096, 4096*4096+2048*2048-->
@@ -92,7 +92,7 @@
 		<!--//7. Russian ships with texture			4096*4096+4096*2048-->
 		<shipGroup>
 			<name>RUS_group_7</name>
-			<ships> PRSB109_Sovetsky_Soyuz PRSB518_Lenin</ships>
+			<ships> PRSB109_Sovetsky_Soyuz PRSB518_Lenin PRSB508_Poltava</ships>
 		</shipGroup>
 	<!--//4. British ships-->
 		<!--//1. British ships with texture			2048*2048, 4096*4096, 4096*4096+2048*2048-->
@@ -150,7 +150,7 @@
 		<!--//2. French ships with texture			4096*2048-->
 		<shipGroup>
 			<name>FRA_group_2</name>
-			<ships> PFSC101_Bougainville PFSD504_Siroco PFSD110_Kleber PFSD102_Enseigne_Gabolde PFSD104_Bourrasque PXSD021_Kleber_PA PFSD605_Cyclone_event</ships>
+			<ships> PFSC101_Bougainville PFSD504_Siroco PFSD110_Kleber PFSD102_Enseigne_Gabolde PFSD104_Bourrasque PXSD021_Kleber_PA PFSD605_Cyclone_event PFSD210_Marceau</ships>
 		</shipGroup>
 		<!--//3. French ships with texture			4096*4096+4096*2048, 2048*2048+2048*1024-->
 		<shipGroup>
@@ -208,12 +208,12 @@
 		<!--//1. Italian ships with texture			2048*2048, 4096*4096, 4096*4096+2048*2048-->
 		<shipGroup>
 			<name>ITA_group_1</name>
-			<ships> PISC506_DucadAosta PISB505_Giulio_Cesare PISC507_Duca_degli_Abruzzi PISB805_TST_CESARE PISD510_Paolo_Emilio PISC505_Genova PISC102_Nino_Bixio PISC103_Taranto PISC104_Alberto_da_Giussano PISC105_Raimondo_Montecuccoli PISC106_Trento PISC107_Zara PISC108_Verona</ships>
+			<ships> PISC506_DucadAosta PISB505_Giulio_Cesare PISC507_Duca_degli_Abruzzi PISB805_TST_CESARE PISD510_Paolo_Emilio PISC505_Genova PISC102_Nino_Bixio PISC103_Taranto PISC104_Alberto_da_Giussano PISC105_Raimondo_Montecuccoli PISC106_Trento PISC107_Zara PISC108_Amalfi</ships>
 		</shipGroup>
 		<!--//2. Italian ships with texture			4096*4096+4096*2048, 2048*2048+2048*1024-->
 		<shipGroup>
 			<name>ITA_group_2</name>
-			<ships>PISB508_Roma PISC109_Torino PISC110_Milano</ships>
+			<ships>PISB508_Roma PISC109_Brindisi PISC110_Venezia</ships>
 		</shipGroup>
 		<!--//3. Italian ships with texture			4096*2048+2048*1024-->
 		<shipGroup>
@@ -1518,6 +1518,15 @@
 			<color3>0.330 0.350 0.350 1.000</color3>
 			<colorUI>0.509 0.607 0.682 1.000</colorUI>
 		</colorScheme>
+		<!--//RUS UNIQUE Poltava colour scheme 46-->
+		<colorScheme>
+			<name>colorSchemeRUSP46</name>
+			<color0>0.105 0.140 0.170 1.000</color0>
+			<color1>0.115 0.075 0.040 1.000</color1>
+			<color2>0.331 0.316 0.322 1.000</color2>
+			<color3>0.005 0.005 0.005 1.000</color3>
+			<colorUI>0.552 0.643 0.690 1.000</colorUI>
+		</colorScheme>
 		<!--//RUS UNIQUE Nikolay I Siberian green colour scheme 40-->
 		<colorScheme>
 			<name>colorSchemeRUSP40</name>
@@ -2272,6 +2281,14 @@
 			<color2>0.150 0.010 0.010 1.000</color2>
 			<color3>0.225 0.145 0.070 1.000</color3>
 		</colorScheme>
+		<!--//GER UNIQUE Scandinavian colour scheme 35-->
+		<colorScheme>
+			<name>colorSchemeGERP35</name>
+			<color0>0.002 0.002 0.002 1.000</color0>
+			<color1>0.004 0.004 0.004 1.000</color1>
+			<color2>0.400 0.400 0.400 1.000</color2>
+			<color3>0.400 0.400 0.400 1.000</color3>
+		</colorScheme>
 		<!--//FRA naval grey colour scheme 01 tier1 and tier2-->
 		<colorScheme>
 			<name>colorSchemeFRA01</name>
@@ -2279,7 +2296,7 @@
 			<color1>0.058 0.064 0.072 1.000</color1>
 			<color2>0.239 0.255 0.267 1.000</color2>
 			<color3>0.015 0.028 0.042 1.000</color3>
-			<colorUI>0.022 0.036 0.051 1.000</colorUI>
+			<colorUI>0.290 0.345 0.376 1.000</colorUI>
 		</colorScheme>
 		<!--//FRA naval grey colour scheme 02 tier3 and tier4-->
 		<colorScheme>
@@ -2288,7 +2305,7 @@
 			<color1>0.239 0.255 0.267 1.000</color1>
 			<color2>0.058 0.064 0.072 1.000</color2>
 			<color3>0.108 0.135 0.146 1.000</color3>
-			<colorUI>0.022 0.036 0.051 1.000</colorUI>
+			<colorUI>0.290 0.345 0.376 1.000</colorUI>
 		</colorScheme>
 		<!--//FRA naval If Castle colour scheme 01 tier1 and tier2-->
 		<colorScheme>
@@ -2297,7 +2314,7 @@
 			<color1>0.012 0.020 0.064 1.000</color1>
 			<color2>0.094 0.201 0.359 1.000</color2>
 			<color3>0.375 0.349 0.316 1.000</color3>
-			<colorUI>0.027 0.101 0.167 1.000</colorUI>
+			<colorUI>0.278 0.447 0.529 1.000</colorUI>
 		</colorScheme>
 		<!--//FRA naval If Castle colour scheme 02 tier3 and tier4-->
 		<colorScheme>
@@ -2306,7 +2323,7 @@
 			<color1>0.012 0.020 0.064 1.000</color1>
 			<color2>0.094 0.201 0.359 1.000</color2>
 			<color3>0.375 0.349 0.316 1.000</color3>
-			<colorUI>0.027 0.101 0.167 1.000</colorUI>
+			<colorUI>0.278 0.447 0.529 1.000</colorUI>
 		</colorScheme>
 		<!--//FRA UNIQUE Dunkerque colour scheme 01-->
 		<colorScheme>
@@ -3284,6 +3301,30 @@
 			<color1>0.005 0.050 0.180 1.000</color1>
 			<color2>0.004 0.004 0.007 1.000</color2>
 			<color3>0.267 0.271 0.280 1.000</color3>
+		</colorScheme>
+		<!--//Sam colour scheme 01-->
+		<colorScheme>
+			<name>colorScheme_Sam_01</name>
+			<color0>0.000 0.000 0.000 1.000</color0>
+			<color1>0.120 0.120 0.120 1.000</color1>
+			<color2>0.400 0.400 0.410 1.000</color2>
+			<color3>0.349 0.302 0.018 1.000</color3>
+		</colorScheme>
+		<!--//India ACT colour scheme 01-->
+		<colorScheme>
+			<name>colorScheme_ACT_01</name>
+			<color0>0.300 0.300 0.300 1.000</color0>
+			<color1>0.010 0.110 0.010 1.000</color1>
+			<color2>0.250 0.050 0.000 1.000</color2>
+			<color3>0.020 0.010 0.100 1.000</color3>
+		</colorScheme>
+		<!--//ACT colour scheme 02-->
+		<colorScheme>
+			<name>colorScheme_ACT_02</name>
+			<color0>0.300 0.300 0.300 1.000</color0>
+			<color1>0.210 0.010 0.010 1.000</color1>
+			<color2>0.250 0.220 0.000 1.000</color2>
+			<color3>0.000 0.000 0.000 1.000</color3>
 		</colorScheme>
 	</ColorSchemes>
 <!--//Camouflage blocks-->
@@ -15946,321 +15987,6 @@
 		</Textures>
 		<colorSchemes>colorScheme_Soviet_Arc_01</colorSchemes>
 	</camouflage>
-	<!--//Skin material block-->
-		<!--//Postap tile material 01-->
-	<camouflage>
-		<annotation>Postap unique permOflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
-		<name>mat_Postap_01</name>
-		<tiled>false</tiled>
-		<UV>
-			<Tile>2 2</Tile>
-			<Gun>0.4 0.4</Gun>
-		</UV>
-		<Textures>
-			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</DeckHouse>
-				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
-					<Influence_m> 1.0 </Influence_m>
-					<Influence_g> 1.0 </Influence_g>
-					<Influence_n> 1.0 </Influence_n>
-				</DeckHouse_mgn>
-			<Hull>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</Hull>
-				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
-					<Influence_m> 1.0 </Influence_m>
-					<Influence_g> 1.0 </Influence_g>
-					<Influence_n> 1.0 </Influence_n>
-				</Hull_mgn>
-			<Gun>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</Gun>
-				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
-					<Influence_m> 1.0 </Influence_m>
-					<Influence_g> 1.0 </Influence_g>
-					<Influence_n> 1.0 </Influence_n>
-				</Gun_mgn>
-		</Textures>
-	</camouflage>
-	<camouflage>
-		<annotation>Postap unique permOflage block for the ships with a texture 4096*2048</annotation>
-		<name>mat_Postap_01</name>
-		<shipGroups>IJN_group_2 USN_group_2 RUS_group_2 UK_group_2 GER_group_2 FRA_group_2 POL_group_1 PAN_group_2 ITA_group_3 NL_group_1</shipGroups>
-		<tiled>false</tiled>
-		<UV>
-			<Tile>2 1</Tile>
-			<Gun>0.4 0.4</Gun>
-		</UV>
-		<Textures>
-			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</DeckHouse>
-				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
-					<Influence_m> 1.0 </Influence_m>
-					<Influence_g> 1.0 </Influence_g>
-					<Influence_n> 1.0 </Influence_n>
-				</DeckHouse_mgn>
-			<Hull>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</Hull>
-				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
-					<Influence_m> 1.0 </Influence_m>
-					<Influence_g> 1.0 </Influence_g>
-					<Influence_n> 1.0 </Influence_n>
-				</Hull_mgn>
-			<Gun>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</Gun>
-				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
-					<Influence_m> 1.0 </Influence_m>
-					<Influence_g> 1.0 </Influence_g>
-					<Influence_n> 1.0 </Influence_n>
-				</Gun_mgn>
-		</Textures>
-	</camouflage>
-	<camouflage>
-		<annotation>Postap unique permOflage block for the ships with a texture 4096*1024</annotation>
-		<name>mat_Postap_01</name>
-		<shipGroups>RUS_group_3</shipGroups>
-		<tiled>false</tiled>
-		<UV>
-			<Tile>3 0.75</Tile>
-			<Gun>0.4 0.4</Gun>
-		</UV>
-		<Textures>
-			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</DeckHouse>
-				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
-					<Influence_m> 1.0 </Influence_m>
-					<Influence_g> 1.0 </Influence_g>
-					<Influence_n> 1.0 </Influence_n>
-				</DeckHouse_mgn>
-			<Hull>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</Hull>
-				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
-					<Influence_m> 1.0 </Influence_m>
-					<Influence_g> 1.0 </Influence_g>
-					<Influence_n> 1.0 </Influence_n>
-				</Hull_mgn>
-			<Gun>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</Gun>
-				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
-					<Influence_m> 1.0 </Influence_m>
-					<Influence_g> 1.0 </Influence_g>
-					<Influence_n> 1.0 </Influence_n>
-				</Gun_mgn>
-		</Textures>
-	</camouflage>
-	<camouflage>
-		<annotation>Postap unique permOflage block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
-		<name>mat_Postap_01</name>
-		<shipGroups>IJN_group_3 USN_group_3 UK_group_3 GER_group_3 FRA_group_3 ITA_group_2 RUS_group_7</shipGroups>
-		<tiled>false</tiled>
-		<UV>
-			<DeckHouse>2 1</DeckHouse>
-			<Tile>2 2</Tile>
-			<Gun>0.4 0.4</Gun>
-			<Bulge>2 2</Bulge>
-		</UV>
-		<Textures>
-			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</DeckHouse>
-				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
-					<Influence_m> 1.0 </Influence_m>
-					<Influence_g> 1.0 </Influence_g>
-					<Influence_n> 1.0 </Influence_n>
-				</DeckHouse_mgn>
-			<Hull>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</Hull>
-				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
-					<Influence_m> 1.0 </Influence_m>
-					<Influence_g> 1.0 </Influence_g>
-					<Influence_n> 1.0 </Influence_n>
-				</Hull_mgn>
-			<Gun>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</Gun>
-				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
-					<Influence_m> 1.0 </Influence_m>
-					<Influence_g> 1.0 </Influence_g>
-					<Influence_n> 1.0 </Influence_n>
-				</Gun_mgn>
-		</Textures>
-	</camouflage>
-	<camouflage>
-		<annotation>Postap unique permOflage block for the ships with a texture  4096*4096+1024*1024</annotation>
-		<name>mat_Postap_01</name>
-		<shipGroups>IJN_group_4 USN_group_4 RUS_group_4</shipGroups>
-		<tiled>false</tiled>
-		<UV>
-			<DeckHouse>1 1</DeckHouse>
-			<Tile>2 2</Tile>
-			<Gun>0.4 0.4</Gun>
-			<Bulge>1 1</Bulge>
-		</UV>
-		<Textures>
-			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</DeckHouse>
-				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
-					<Influence_m> 1.0 </Influence_m>
-					<Influence_g> 1.0 </Influence_g>
-					<Influence_n> 1.0 </Influence_n>
-				</DeckHouse_mgn>
-			<Hull>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</Hull>
-				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
-					<Influence_m> 1.0 </Influence_m>
-					<Influence_g> 1.0 </Influence_g>
-					<Influence_n> 1.0 </Influence_n>
-				</Hull_mgn>
-			<Gun>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</Gun>
-				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
-					<Influence_m> 1.0 </Influence_m>
-					<Influence_g> 1.0 </Influence_g>
-					<Influence_n> 1.0 </Influence_n>
-				</Gun_mgn>
-		</Textures>
-	</camouflage>
-	<camouflage>
-		<annotation>Postap unique permOflage block for the ships with a texture  4096*4096+4096*4096</annotation>
-		<name>mat_Postap_01</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
-		<tiled>false</tiled>
-		<UV>
-			<DeckHouse>2 2</DeckHouse>
-			<Tile>2 2</Tile>
-			<Gun>0.4 0.4</Gun>
-			<Bulge>2 2</Bulge>
-		</UV>
-		<Textures>
-			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</DeckHouse>
-				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
-					<Influence_m> 1.0 </Influence_m>
-					<Influence_g> 1.0 </Influence_g>
-					<Influence_n> 1.0 </Influence_n>
-				</DeckHouse_mgn>
-			<Hull>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</Hull>
-				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
-					<Influence_m> 1.0 </Influence_m>
-					<Influence_g> 1.0 </Influence_g>
-					<Influence_n> 1.0 </Influence_n>
-				</Hull_mgn>
-			<Gun>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</Gun>
-				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
-					<Influence_m> 1.0 </Influence_m>
-					<Influence_g> 1.0 </Influence_g>
-					<Influence_n> 1.0 </Influence_n>
-				</Gun_mgn>
-		</Textures>
-	</camouflage>
-	<camouflage>
-		<annotation>Postap unique permOflage block for the ships with a texture  4096*4096+2048*1024</annotation>
-		<name>mat_Postap_01</name>
-		<shipGroups>RUS_group_6 GER_group_5 IJN_group_6 FRA_group_7</shipGroups>
-		<tiled>false</tiled>
-		<UV>
-			<DeckHouse>1 0.5</DeckHouse>
-			<Tile>2 2</Tile>
-			<Gun>0.4 0.4</Gun>
-			<Bulge>2 2</Bulge>
-		</UV>
-		<Textures>
-			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</DeckHouse>
-				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
-					<Influence_m> 1.0 </Influence_m>
-					<Influence_g> 1.0 </Influence_g>
-					<Influence_n> 1.0 </Influence_n>
-				</DeckHouse_mgn>
-			<Hull>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</Hull>
-				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
-					<Influence_m> 1.0 </Influence_m>
-					<Influence_g> 1.0 </Influence_g>
-					<Influence_n> 1.0 </Influence_n>
-				</Hull_mgn>
-			<Gun>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</Gun>
-				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
-					<Influence_m> 1.0 </Influence_m>
-					<Influence_g> 1.0 </Influence_g>
-					<Influence_n> 1.0 </Influence_n>
-				</Gun_mgn>
-		</Textures>
-	</camouflage>
-	<camouflage>
-		<annotation>Postap unique permOflage block for the ships with a texture  4096*2048+4096*4096</annotation>
-		<name>mat_Postap_01</name>
-		<shipGroups>FRA_group_5</shipGroups>
-		<tiled>false</tiled>
-		<UV>
-			<DeckHouse>2 2</DeckHouse>
-			<Tile>2 1</Tile>
-			<Gun>0.4 0.4</Gun>
-			<Bulge>2 2</Bulge>
-		</UV>
-		<Textures>
-			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</DeckHouse>
-				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
-					<Influence_m> 1.0 </Influence_m>
-					<Influence_g> 1.0 </Influence_g>
-					<Influence_n> 1.0 </Influence_n>
-				</DeckHouse_mgn>
-			<Hull>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</Hull>
-				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
-					<Influence_m> 1.0 </Influence_m>
-					<Influence_g> 1.0 </Influence_g>
-					<Influence_n> 1.0 </Influence_n>
-				</Hull_mgn>
-			<Gun>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</Gun>
-				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
-					<Influence_m> 1.0 </Influence_m>
-					<Influence_g> 1.0 </Influence_g>
-					<Influence_n> 1.0 </Influence_n>
-				</Gun_mgn>
-		</Textures>
-	</camouflage>
-	<camouflage>
-		<annotation>Postap unique permOflage block for the ships with a texture  4096*2048+2048*2048, 2048*1024+1024*1024</annotation>
-		<name>mat_Postap_01</name>
-		<shipGroups>FRA_group_6</shipGroups>
-		<tiled>false</tiled>
-		<UV>
-			<DeckHouse>1 1</DeckHouse>
-			<Tile>2 1</Tile>
-			<Gun>0.4 0.4</Gun>
-			<Bulge>2 2</Bulge>
-		</UV>
-		<Textures>
-			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</DeckHouse>
-				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
-					<Influence_m> 1.0 </Influence_m>
-					<Influence_g> 1.0 </Influence_g>
-					<Influence_n> 1.0 </Influence_n>
-				</DeckHouse_mgn>
-			<Hull>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</Hull>
-				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
-					<Influence_m> 1.0 </Influence_m>
-					<Influence_g> 1.0 </Influence_g>
-					<Influence_n> 1.0 </Influence_n>
-				</Hull_mgn>
-			<Gun>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</Gun>
-				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
-					<Influence_m> 1.0 </Influence_m>
-					<Influence_g> 1.0 </Influence_g>
-					<Influence_n> 1.0 </Influence_n>
-				</Gun_mgn>
-		</Textures>
-	</camouflage>
-	<camouflage>
-		<annotation>Postap unique permOflage block for the ships with a texture  4096*2048+1024*1024</annotation>
-		<name>mat_Postap_01</name>
-		<shipGroups>FRA_group_8</shipGroups>
-		<tiled>false</tiled>
-		<UV>
-			<DeckHouse>0.5 0.5</DeckHouse>
-			<Tile>2 1</Tile>
-			<Gun>0.4 0.4</Gun>
-			<Bulge>2 2</Bulge>
-		</UV>
-		<Textures>
-			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</DeckHouse>
-				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
-					<Influence_m> 1.0 </Influence_m>
-					<Influence_g> 1.0 </Influence_g>
-					<Influence_n> 1.0 </Influence_n>
-				</DeckHouse_mgn>
-			<Hull>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</Hull>
-				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
-					<Influence_m> 1.0 </Influence_m>
-					<Influence_g> 1.0 </Influence_g>
-					<Influence_n> 1.0 </Influence_n>
-				</Hull_mgn>
-			<Gun>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</Gun>
-				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
-					<Influence_m> 1.0 </Influence_m>
-					<Influence_g> 1.0 </Influence_g>
-					<Influence_n> 1.0 </Influence_n>
-				</Gun_mgn>
-		</Textures>
-	</camouflage>
 		<!--//LTT tile camouflage-->
 	<camouflage>
 		<annotation>LTT tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
@@ -16625,6 +16351,640 @@
 			<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_FranceArc_51.dds</Tile>
 		</Textures>
 		<colorSchemes>colorScheme_France_arc_01</colorSchemes>
+	</camouflage>
+		<!--//India tile camouflage-->
+	<camouflage>
+		<annotation>India tile camouflage block for all ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
+		<name>camo_India_tile</name>
+		<tiled>true</tiled>
+		<UV>
+			<Tile>1.5 1.5</Tile>
+			<DeckHouse>1 1</DeckHouse>
+			<Gun>0.6 0.5</Gun>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_ACT_50.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_ACT_01</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>India tile camouflage block for all ships with a texture 4096*2048</annotation>
+		<name>camo_India_tile</name>
+		<shipGroups>IJN_group_2 USN_group_2 RUS_group_2 UK_group_2 GER_group_2 FRA_group_2 POL_group_1 PAN_group_2 ITA_group_3 NL_group_1</shipGroups>
+		<tiled>true</tiled>
+		<UV>
+			<DeckHouse>0.75 0.5</DeckHouse>
+			<Tile>2.87 1.5</Tile>
+			<Gun>0.5 0.5</Gun>
+			<Bulge>0.5 0.5</Bulge>
+		</UV>
+		<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_ACT_50.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_ACT_01</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>India tile camouflage block for all ships with a texture 4096*1024</annotation>
+		<name>camo_India_tile</name>
+		<shipGroups>RUS_group_3 </shipGroups>
+		<tiled>true</tiled>
+		<UV>
+			<DeckHouse>1 1</DeckHouse>
+			<Tile>2 0.5</Tile>
+			<Gun>0.5 0.5</Gun>
+			<Bulge>0.5 0.5</Bulge>
+		</UV>
+		<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_ACT_50.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_ACT_01</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>India tile camouflage block for all ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
+		<name>camo_India_tile</name>
+		<shipGroups>IJN_group_3 USN_group_3 UK_group_3 GER_group_3 FRA_group_3 ITA_group_2 RUS_group_7</shipGroups>
+		<tiled>true</tiled>
+		<UV>
+			<DeckHouse>1 0.5</DeckHouse>
+			<Tile>1.5 1.5</Tile>
+			<Gun>0.6 0.5</Gun>
+			<Bulge>0.5 0.5</Bulge>
+		</UV>
+		<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_ACT_50.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_ACT_01</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>India tile camouflage block for all ships with a texture 4096*4096+1024*1024</annotation>
+		<name>camo_India_tile</name>
+		<shipGroups>IJN_group_4 USN_group_4 RUS_group_4</shipGroups>
+		<tiled>true</tiled>
+		<UV>
+			<DeckHouse>0.5 0.5</DeckHouse>
+			<Tile>1.5 1.5</Tile>
+			<Gun>0.6 0.5</Gun>
+			<Bulge>0.5 0.5</Bulge>
+		</UV>
+		<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_ACT_50.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_ACT_01</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>India tile camouflage block for all ships with a texture 4096*4096+4096*4096</annotation>
+		<name>camo_India_tile</name>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<tiled>true</tiled>
+		<UV>
+			<DeckHouse>1.5 1.5</DeckHouse>
+			<Tile>1.5 1.5</Tile>
+			<Gun>0.5 0.5</Gun>
+			<Bulge>0.5 0.5</Bulge>
+		</UV>
+		<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_ACT_50.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_ACT_01</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>India tile camouflage block for all ships with a texture 4096*4096+2048*1024</annotation>
+		<name>camo_India_tile</name>
+		<shipGroups>RUS_group_6 GER_group_5 IJN_group_6 FRA_group_7</shipGroups>
+		<tiled>true</tiled>
+		<UV>
+			<DeckHouse>1 0.5</DeckHouse>
+			<Tile>1.5 1.53</Tile>
+			<Gun>0.6 0.45</Gun>
+			<Bulge>0.5 0.5</Bulge>
+		</UV>
+		<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_ACT_50.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_ACT_01</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>India tile camouflage block for all ships with a texture 4096*2048+4096*4096</annotation>
+		<name>camo_India_tile</name>
+		<shipGroups>FRA_group_5</shipGroups>
+		<tiled>true</tiled>
+		<UV>
+			<DeckHouse>1.5 1.5</DeckHouse>
+			<Tile>2 1</Tile>
+			<Gun>0.5 0.5</Gun>
+			<Bulge>0.5 0.5</Bulge>
+		</UV>
+		<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_ACT_50.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_ACT_01</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>India tile camouflage block for all ships with a texture 4096*2048+2048*2048, 2048*1024+1024*1024</annotation>
+		<name>camo_India_tile</name>
+		<shipGroups>FRA_group_6</shipGroups>
+		<tiled>true</tiled>
+		<UV>
+			<DeckHouse>1 1</DeckHouse>
+			<Tile>2 1</Tile>
+			<Gun>0.3 0.3</Gun>
+			<Bulge>0.5 0.5</Bulge>
+		</UV>
+		<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_ACT_50.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_ACT_01</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>India tile camouflage block for all ships with a texture 4096*2048+1024*1024</annotation>
+		<name>camo_India_tile</name>
+		<shipGroups>FRA_group_8</shipGroups>
+		<tiled>true</tiled>
+		<UV>
+			<DeckHouse>0.5 0.5</DeckHouse>
+			<Tile>2 1</Tile>
+			<Gun>0.5 0.5</Gun>
+			<Bulge>0.5 0.5</Bulge>
+		</UV>
+		<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_ACT_50.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_ACT_01</colorSchemes>
+	</camouflage>	<!--//Skin material block-->
+		<!--//ACT tile camouflage-->
+	<camouflage>
+		<annotation>ACT tile camouflage block for all ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
+		<name>camo_ACT_tile</name>
+		<tiled>true</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<DeckHouse>1 1</DeckHouse>
+			<Gun>0.6 0.5</Gun>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_ACT_51.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_ACT_02</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>ACT tile camouflage block for all ships with a texture 4096*2048</annotation>
+		<name>camo_ACT_tile</name>
+		<shipGroups>IJN_group_2 USN_group_2 RUS_group_2 UK_group_2 GER_group_2 FRA_group_2 POL_group_1 PAN_group_2 ITA_group_3 NL_group_1</shipGroups>
+		<tiled>true</tiled>
+		<UV>
+			<DeckHouse>0.75 0.5</DeckHouse>
+			<Tile>2 1</Tile>
+			<Gun>0.5 0.5</Gun>
+			<Bulge>0.5 0.5</Bulge>
+		</UV>
+		<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_ACT_51.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_ACT_02</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>ACT tile camouflage block for all ships with a texture 4096*1024</annotation>
+		<name>camo_ACT_tile</name>
+		<shipGroups>RUS_group_3 </shipGroups>
+		<tiled>true</tiled>
+		<UV>
+			<DeckHouse>1 1</DeckHouse>
+			<Tile>2 0.5</Tile>
+			<Gun>0.5 0.5</Gun>
+			<Bulge>0.5 0.5</Bulge>
+		</UV>
+		<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_ACT_51.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_ACT_02</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>ACT tile camouflage block for all ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
+		<name>camo_ACT_tile</name>
+		<shipGroups>IJN_group_3 USN_group_3 UK_group_3 GER_group_3 FRA_group_3 ITA_group_2 RUS_group_7</shipGroups>
+		<tiled>true</tiled>
+		<UV>
+			<DeckHouse>1 0.5</DeckHouse>
+			<Tile>1.5 1.5</Tile>
+			<Gun>0.6 0.7</Gun>
+			<Bulge>0.5 0.5</Bulge>
+		</UV>
+		<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_ACT_51.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_ACT_02</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>ACT tile camouflage block for all ships with a texture 4096*4096+1024*1024</annotation>
+		<name>camo_ACT_tile</name>
+		<shipGroups>IJN_group_4 USN_group_4 RUS_group_4</shipGroups>
+		<tiled>true</tiled>
+		<UV>
+			<DeckHouse>0.5 0.5</DeckHouse>
+			<Tile>1.5 1.5</Tile>
+			<Gun>0.35 0.6</Gun>
+			<Bulge>0.5 0.5</Bulge>
+		</UV>
+		<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_ACT_51.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_ACT_02</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>ACT tile camouflage block for all ships with a texture 4096*4096+4096*4096</annotation>
+		<name>camo_ACT_tile</name>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<tiled>true</tiled>
+		<UV>
+			<DeckHouse>1.5 1.5</DeckHouse>
+			<Tile>1.5 1.4</Tile>
+			<Gun>0.4 0.4</Gun>
+			<Bulge>0.5 0.5</Bulge>
+		</UV>
+		<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_ACT_51.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_ACT_02</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>ACT tile camouflage block for all ships with a texture 4096*4096+2048*1024</annotation>
+		<name>camo_ACT_tile</name>
+		<shipGroups>RUS_group_6 GER_group_5 IJN_group_6 FRA_group_7</shipGroups>
+		<tiled>true</tiled>
+		<UV>
+			<DeckHouse>1 0.5</DeckHouse>
+			<Tile>1.5 1.5</Tile>
+			<Gun>0.4 0.5</Gun>
+			<Bulge>0.5 0.5</Bulge>
+		</UV>
+		<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_ACT_51.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_ACT_02</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>ACT tile camouflage block for all ships with a texture 4096*2048+4096*4096</annotation>
+		<name>camo_ACT_tile</name>
+		<shipGroups>FRA_group_5</shipGroups>
+		<tiled>true</tiled>
+		<UV>
+			<DeckHouse>1.5 1.5</DeckHouse>
+			<Tile>2 1</Tile>
+			<Gun>0.5 0.5</Gun>
+			<Bulge>0.5 0.5</Bulge>
+		</UV>
+		<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_ACT_51.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_ACT_02</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>ACT tile camouflage block for all ships with a texture 4096*2048+2048*2048, 2048*1024+1024*1024</annotation>
+		<name>camo_ACT_tile</name>
+		<shipGroups>FRA_group_6</shipGroups>
+		<tiled>true</tiled>
+		<UV>
+			<DeckHouse>1 1</DeckHouse>
+			<Tile>2 1.16</Tile>
+			<Gun>0.4 0.4</Gun>
+			<Bulge>0.5 0.5</Bulge>
+		</UV>
+		<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_ACT_51.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_ACT_02</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>ACT tile camouflage block for all ships with a texture 4096*2048+1024*1024</annotation>
+		<name>camo_ACT_tile</name>
+		<shipGroups>FRA_group_8</shipGroups>
+		<tiled>true</tiled>
+		<UV>
+			<DeckHouse>0.5 0.5</DeckHouse>
+			<Tile>2 1.1</Tile>
+			<Gun>0.6 0.6</Gun>
+			<Bulge>0.5 0.5</Bulge>
+		</UV>
+		<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_ACT_51.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_ACT_02</colorSchemes>
+	</camouflage>
+		<!--//Postap tile material 01-->
+	<camouflage>
+		<annotation>Postap unique permOflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
+		<name>mat_Postap_01</name>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>2 2</Tile>
+			<Gun>0.4 0.4</Gun>
+		</UV>
+		<Textures>
+			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</DeckHouse>
+				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</DeckHouse_mgn>
+			<Hull>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</Hull>
+				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Hull_mgn>
+			<Gun>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</Gun>
+				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Gun_mgn>
+		</Textures>
+	</camouflage>
+	<camouflage>
+		<annotation>Postap unique permOflage block for the ships with a texture 4096*2048</annotation>
+		<name>mat_Postap_01</name>
+		<shipGroups>IJN_group_2 USN_group_2 RUS_group_2 UK_group_2 GER_group_2 FRA_group_2 POL_group_1 PAN_group_2 ITA_group_3 NL_group_1</shipGroups>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>2 1</Tile>
+			<Gun>0.4 0.4</Gun>
+		</UV>
+		<Textures>
+			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</DeckHouse>
+				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</DeckHouse_mgn>
+			<Hull>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</Hull>
+				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Hull_mgn>
+			<Gun>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</Gun>
+				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Gun_mgn>
+		</Textures>
+	</camouflage>
+	<camouflage>
+		<annotation>Postap unique permOflage block for the ships with a texture 4096*1024</annotation>
+		<name>mat_Postap_01</name>
+		<shipGroups>RUS_group_3</shipGroups>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>3 0.75</Tile>
+			<Gun>0.4 0.4</Gun>
+		</UV>
+		<Textures>
+			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</DeckHouse>
+				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</DeckHouse_mgn>
+			<Hull>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</Hull>
+				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Hull_mgn>
+			<Gun>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</Gun>
+				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Gun_mgn>
+		</Textures>
+	</camouflage>
+	<camouflage>
+		<annotation>Postap unique permOflage block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
+		<name>mat_Postap_01</name>
+		<shipGroups>IJN_group_3 USN_group_3 UK_group_3 GER_group_3 FRA_group_3 ITA_group_2 RUS_group_7</shipGroups>
+		<tiled>false</tiled>
+		<UV>
+			<DeckHouse>2 1</DeckHouse>
+			<Tile>2 2</Tile>
+			<Gun>0.4 0.4</Gun>
+			<Bulge>2 2</Bulge>
+		</UV>
+		<Textures>
+			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</DeckHouse>
+				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</DeckHouse_mgn>
+			<Hull>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</Hull>
+				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Hull_mgn>
+			<Gun>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</Gun>
+				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Gun_mgn>
+		</Textures>
+	</camouflage>
+	<camouflage>
+		<annotation>Postap unique permOflage block for the ships with a texture  4096*4096+1024*1024</annotation>
+		<name>mat_Postap_01</name>
+		<shipGroups>IJN_group_4 USN_group_4 RUS_group_4</shipGroups>
+		<tiled>false</tiled>
+		<UV>
+			<DeckHouse>1 1</DeckHouse>
+			<Tile>2 2</Tile>
+			<Gun>0.4 0.4</Gun>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</DeckHouse>
+				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</DeckHouse_mgn>
+			<Hull>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</Hull>
+				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Hull_mgn>
+			<Gun>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</Gun>
+				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Gun_mgn>
+		</Textures>
+	</camouflage>
+	<camouflage>
+		<annotation>Postap unique permOflage block for the ships with a texture  4096*4096+4096*4096</annotation>
+		<name>mat_Postap_01</name>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<tiled>false</tiled>
+		<UV>
+			<DeckHouse>2 2</DeckHouse>
+			<Tile>2 2</Tile>
+			<Gun>0.4 0.4</Gun>
+			<Bulge>2 2</Bulge>
+		</UV>
+		<Textures>
+			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</DeckHouse>
+				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</DeckHouse_mgn>
+			<Hull>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</Hull>
+				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Hull_mgn>
+			<Gun>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</Gun>
+				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Gun_mgn>
+		</Textures>
+	</camouflage>
+	<camouflage>
+		<annotation>Postap unique permOflage block for the ships with a texture  4096*4096+2048*1024</annotation>
+		<name>mat_Postap_01</name>
+		<shipGroups>RUS_group_6 GER_group_5 IJN_group_6 FRA_group_7</shipGroups>
+		<tiled>false</tiled>
+		<UV>
+			<DeckHouse>1 0.5</DeckHouse>
+			<Tile>2 2</Tile>
+			<Gun>0.4 0.4</Gun>
+			<Bulge>2 2</Bulge>
+		</UV>
+		<Textures>
+			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</DeckHouse>
+				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</DeckHouse_mgn>
+			<Hull>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</Hull>
+				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Hull_mgn>
+			<Gun>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</Gun>
+				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Gun_mgn>
+		</Textures>
+	</camouflage>
+	<camouflage>
+		<annotation>Postap unique permOflage block for the ships with a texture  4096*2048+4096*4096</annotation>
+		<name>mat_Postap_01</name>
+		<shipGroups>FRA_group_5</shipGroups>
+		<tiled>false</tiled>
+		<UV>
+			<DeckHouse>2 2</DeckHouse>
+			<Tile>2 1</Tile>
+			<Gun>0.4 0.4</Gun>
+			<Bulge>2 2</Bulge>
+		</UV>
+		<Textures>
+			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</DeckHouse>
+				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</DeckHouse_mgn>
+			<Hull>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</Hull>
+				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Hull_mgn>
+			<Gun>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</Gun>
+				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Gun_mgn>
+		</Textures>
+	</camouflage>
+	<camouflage>
+		<annotation>Postap unique permOflage block for the ships with a texture  4096*2048+2048*2048, 2048*1024+1024*1024</annotation>
+		<name>mat_Postap_01</name>
+		<shipGroups>FRA_group_6</shipGroups>
+		<tiled>false</tiled>
+		<UV>
+			<DeckHouse>1 1</DeckHouse>
+			<Tile>2 1</Tile>
+			<Gun>0.4 0.4</Gun>
+			<Bulge>2 2</Bulge>
+		</UV>
+		<Textures>
+			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</DeckHouse>
+				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</DeckHouse_mgn>
+			<Hull>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</Hull>
+				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Hull_mgn>
+			<Gun>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</Gun>
+				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Gun_mgn>
+		</Textures>
+	</camouflage>
+	<camouflage>
+		<annotation>Postap unique permOflage block for the ships with a texture  4096*2048+1024*1024</annotation>
+		<name>mat_Postap_01</name>
+		<shipGroups>FRA_group_8</shipGroups>
+		<tiled>false</tiled>
+		<UV>
+			<DeckHouse>0.5 0.5</DeckHouse>
+			<Tile>2 1</Tile>
+			<Gun>0.4 0.4</Gun>
+			<Bulge>2 2</Bulge>
+		</UV>
+		<Textures>
+			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</DeckHouse>
+				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</DeckHouse_mgn>
+			<Hull>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</Hull>
+				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Hull_mgn>
+			<Gun>content/gameplay/common/camouflage/textures/mat_Postap_01_a.dds</Gun>
+				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Gun_mgn>
+		</Textures>
 	</camouflage>
 	<!--//Unique camouflage and colours block-->
 		<!--//Japanese premium ships camouflage-->
@@ -18410,6 +18770,40 @@
 		</Textures>
 		<colorSchemes>colorSchemeUSNP09</colorSchemes>
 	</camouflage>
+	<camouflage>
+			<annotation>Сalifornia unique permOflage block</annotation>
+			<name>camo_permanent_1</name>
+			<targetShip>PASB707_California</targetShip>
+			<tiled>false</tiled>
+			<UV>
+				<Tile>1 1</Tile>
+				<Gun>0.85 0.9</Gun>
+			</UV>
+			<Textures>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASB032_California_1945_DeckHouse_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/ASB032_California_1945_Hull_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/Gun_tile_camo_01.dds</Gun>
+			</Textures>
+			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP50</colorSchemes>
+	</camouflage>
+	<camouflage>
+			<annotation>Puerto Rico unique permOflage block</annotation>
+			<name>camo_permanent_1</name>
+			<targetShip>PASC610_Puerto_Rico</targetShip>
+			<tiled>false</tiled>
+			<UV>
+				<Tile>1 1</Tile>
+				<Gun>2 2</Gun>
+			</UV>
+			<Textures>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASC029_Puerto_Rico_1949_DeckHouse_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/ASC029_Puerto_Rico_1949_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_02.dds</Gun>
+			</Textures>
+			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP50</colorSchemes>
+	</camouflage>
 	<!--//American tech tree ships camouflage-->
 	<camouflage>
 		<annotation>Cleveland New Year unique permOflage block</annotation>
@@ -19614,6 +20008,23 @@
 		<colorSchemes>colorSchemeRUSP37</colorSchemes>
 		<colorSchemes>colorSchemeRUSP42</colorSchemes>
 	</camouflage>
+	<camouflage>
+		<annotation>Poltava unique permOflage block</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PRSB508_Poltava</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>0.8 0.8</Gun>
+		</UV>
+		<Textures>
+			<DeckHouse>content/gameplay/common/camouflage/textures/RSB016_Poltava_1942_deckhouse_camo_01.dds</DeckHouse>
+			<Hull>content/gameplay/common/camouflage/textures/RSB016_Poltava_1942_camo_01.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Nelson_guns_camo_03.dds</Gun>
+		</Textures>
+		<colorSchemes>colorSchemeRUSP46</colorSchemes>
+		<colorSchemes>colorSchemeRUSP42</colorSchemes>
+	</camouflage>
 	<!--//Russian tech tree ships camouflage-->
 	<camouflage>
 		<annotation>Gnevny New Year unique permOflage block</annotation>
@@ -20490,6 +20901,68 @@
 		</Textures>
 		<colorSchemes>colorSchemeUKP40</colorSchemes>
 	</camouflage>
+	<camouflage>
+		<annotation>Cossack unique permOflage block</annotation>
+		<name>camo_Sam_1</name>
+		<targetShip>PBSD517_Cossack</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>0.7 0.7</Gun>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/BSD006_Cossack_1941_Unsinkable_Sam_camo.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+		</Textures>
+		<colorSchemes>colorScheme_Sam_01</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>Ark Royal unique permOflage block</annotation>
+		<name>camo_Sam_1</name>
+		<targetShip>PBSA518_Ark_Royal</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>0.5 0.6</Gun>
+		</UV>
+		<Textures>
+			<DeckHouse>content/gameplay/common/camouflage/textures/BSA009_Ark_Royal_1941_DeckHouse_Unsinkable_Sam_camo.dds</DeckHouse>
+			<Hull>content/gameplay/common/camouflage/textures/BSA009_Ark_Royal_1941_Unsinkable_Sam_camo.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+		</Textures>
+		<colorSchemes>colorScheme_Sam_01</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>Cossack Sam Historical block</annotation>
+		<name>camo_SamHistorical_1</name>
+		<targetShip>PBSD517_Cossack</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>0.7 0.7</Gun>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/BSD006_Cossack_1941_camo_03.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Gun_tile_camo_01.dds</Gun>
+		</Textures>
+		<colorSchemes>colorSchemeUKP11</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>Ark Royal Sam Historical block</annotation>
+		<name>camo_SamHistorical_1</name>
+		<targetShip>PBSA518_Ark_Royal</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>0.5 0.6</Gun>
+		</UV>
+		<Textures>
+			<DeckHouse>content/gameplay/common/camouflage/textures/BSA009_Ark_Royal_1941_DeckHouse_camo_02.dds</DeckHouse>
+			<Hull>content/gameplay/common/camouflage/textures/BSA009_Ark_Royal_1941_camo_02.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+		</Textures>
+		<colorSchemes>colorSchemeUKP18</colorSchemes>
+	</camouflage>
 	<!--//British tech tree ships camouflage-->
 	<camouflage>
 		<annotation>Edinburgh unique permOflage block</annotation>
@@ -21344,6 +21817,22 @@
 		</Textures>
 		<colorSchemes>colorSchemeGERP34</colorSchemes>
 	</camouflage>
+	<camouflage>
+		<annotation>Siegfried Scandinavian permOflage block</annotation>
+		<name>camo_scandinavian_1</name>
+		<targetShip>PGSC509_Siegfried</targetShip>
+		<tiled>false</tiled>
+			<UV>
+			<Tile>1 1</Tile>
+			<Gun>0.6 0.6</Gun>
+		</UV>
+		<Textures>
+			<DeckHouse>content/gameplay/common/camouflage/textures/GSC022_Siegfried_1945_DeckHouse_camo_02.dds</DeckHouse>
+			<Hull>content/gameplay/common/camouflage/textures/GSC022_Siegfried_1945_camo_02.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Scandinavian_Gun_camo_01.dds</Gun>
+		</Textures>
+		<colorSchemes>colorSchemeGERP35</colorSchemes>
+	</camouflage>
 	<!--//German tech tree ships camouflage-->
 	<camouflage>
 		<annotation>Nurnberg New Year unique permOflage block</annotation>
@@ -21715,7 +22204,39 @@
 		</Textures>
 		<colorSchemes>colorScheme_secretsanta2018_02</colorSchemes>
 	</camouflage>
-		<!--//French premium ships camouflage-->
+	<camouflage>
+		<annotation>Bismark unique permOflage block</annotation>
+		<name>camo_Sam_1</name>
+		<targetShip>PGSB108_Bismarck</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>1 1</Gun>
+		</UV>
+		<Textures>
+			<DeckHouse>content/gameplay/common/camouflage/textures/GSB001_Bismark_1941_DeckHouse_Unsinkable_Sam_camo.dds</DeckHouse>
+			<Hull>content/gameplay/common/camouflage/textures/GSB001_Bismark_1941_hull_Unsinkable_Sam_camo.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+		</Textures>
+		<colorSchemes>colorScheme_Sam_01</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>Bismark Sam Historical block</annotation>
+		<name>camo_SamHistorical_1</name>
+		<targetShip>PGSB108_Bismarck</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>1 1</Gun>
+		</UV>
+		<Textures>
+			<DeckHouse>content/gameplay/common/camouflage/textures/GSB001_Bismarck_1941_DeckHouse_camo_02.dds</DeckHouse>
+			<Hull>content/gameplay/common/camouflage/textures/GSB001_Bismarck_1941_hull_camo_02.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+		</Textures>
+		<colorSchemes>colorSchemeGERP16</colorSchemes>
+	</camouflage>
+	<!--//French premium ships camouflage-->
 	<camouflage>
 		<annotation>Dunkerque unique permOflage block</annotation>
 		<name>camo_permanent_1</name>
@@ -21915,6 +22436,22 @@
 			<Gun>content/gameplay/common/camouflage/textures/AGM034_16in50_Mk7_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeFRAP09</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>Marceau unique permOflage block</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PFSD210_Marceau</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>0.5 0.4</Gun>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/FSD015_Marceau_1949_camo_01.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Gun_tile_camo_01.dds</Gun>
+		</Textures>
+		<colorSchemes>colorSchemeFRAP09</colorSchemes>
+		<colorSchemes>colorSchemeFRAP55</colorSchemes>
 	</camouflage>
 	<!--//French tech tree ships camouflage-->
 	<camouflage>
