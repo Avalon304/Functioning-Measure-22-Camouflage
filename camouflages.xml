@@ -18732,10 +18732,10 @@
 			<Gun>0.6 0.6</Gun>
 		</UV>
 		<Textures>
-			<Hull>content/gameplay/common/camouflage/textures/ASD038_Somers_1938_camo_01.dds</Hull>
-			<Gun>content/gameplay/common/camouflage/textures/AGM034_16in50_Mk7_camo_01.dds</Gun>
+			<Hull>content/gameplay/common/camouflage/textures/381.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
-		<colorSchemes>colorSchemeUSNP24</colorSchemes>
+		<colorSchemes>colorSchemeUSNP16</colorSchemes>
 		<colorSchemes>colorSchemeUSNP54</colorSchemes>
 	</camouflage>
 	<camouflage>
@@ -18780,11 +18780,11 @@
 				<Gun>0.85 0.9</Gun>
 			</UV>
 			<Textures>
-				<DeckHouse>content/gameplay/common/camouflage/textures/ASB032_California_1945_DeckHouse_camo_01.dds</DeckHouse>
-				<Hull>content/gameplay/common/camouflage/textures/ASB032_California_1945_Hull_camo_01.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Gun_tile_camo_01.dds</Gun>
+				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/hotel.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP16</colorSchemes>
 			<colorSchemes>colorSchemeUSNP50</colorSchemes>
 	</camouflage>
 	<camouflage>
@@ -18797,11 +18797,11 @@
 				<Gun>2 2</Gun>
 			</UV>
 			<Textures>
-				<DeckHouse>content/gameplay/common/camouflage/textures/ASC029_Puerto_Rico_1949_DeckHouse_camo_01.dds</DeckHouse>
-				<Hull>content/gameplay/common/camouflage/textures/ASC029_Puerto_Rico_1949_camo_01.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_02.dds</Gun>
+				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/ca2d.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP16</colorSchemes>
 			<colorSchemes>colorSchemeUSNP50</colorSchemes>
 	</camouflage>
 	<!--//American tech tree ships camouflage-->
