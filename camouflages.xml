@@ -23141,7 +23141,7 @@
 			<Hull>content/gameplay/common/camouflage/textures/Hotfire.dds</Hull>
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
-		<colorSchemes>colorSchemeUSNP14</colorSchemes>
+		<colorSchemes>colorSchemeUSNP16</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Flint rank camo Mustang unique permOflage block</annotation>
