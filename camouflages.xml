@@ -25715,15 +25715,15 @@
 				<Misc>1 1</Misc>
 			</UV>
 			<Textures>
-				<DeckHouse>content/gameplay/common/camouflage/textures/skillway.dds</DeckHouse>
+				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
 				<Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
-				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
-				<Plane>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Float>
+				<Gun>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Gun>
+				<Director>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Director>
+				<Misc>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Misc>
+				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
+			<colorSchemes>colorSchemeUSNP17</colorSchemes>
 	</camouflage>
 	<camouflage>
 			<annotation>Roosevelt permoflage block</annotation>
@@ -25737,13 +25737,13 @@
 				<Misc>1 1</Misc>
 			</UV>
 			<Textures>
-				<DeckHouse>content/gameplay/common/camouflage/textures/ASA009_Roosevelt_1947_Deckhouse_camo_01.dds</DeckHouse>
-				<Hull>content/gameplay/common/camouflage/textures/ASA009_Roosevelt_1947_Hull_camo_01.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/AGM034_16in50_Mk7_camo_01.dds</Gun>
-				<Director>content/gameplay/common/camouflage/textures/AGM034_16in50_Mk7_camo_01.dds</Director>
+				<DeckHouse>content/gameplay/common/camouflage/textures/skillway.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+				<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
 				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP16</colorSchemes>
 			<colorSchemes>colorSchemeUSNP53</colorSchemes>
 	</camouflage>
 	<camouflage>
