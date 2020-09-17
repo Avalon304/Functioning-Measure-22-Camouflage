@@ -28275,14 +28275,14 @@
 			<Misc>0.3 0.3</Misc>
 		</UV>
 		<Textures>
-			<Hull>content/gameplay/common/camouflage/textures/ASC069_Anchorage_1942_camo_01.dds</Hull>
+			<Hull>content/gameplay/common/camouflage/textures/anchor.dds</Hull>
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 			<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
 			<Plane>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Plane>
 			<Float>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Float>
 			<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
 		</Textures>
-		<colorSchemes>colorSchemeUSNP01</colorSchemes>
+		<colorSchemes>colorSchemeUSNP16</colorSchemes>
 		<colorSchemes>colorSchemeUSNP49</colorSchemes>
 	</camouflage>
 	<camouflage>
@@ -28299,15 +28299,15 @@
 			<Misc>0.3 0.3</Misc>
 		</UV>
 		<Textures>
-			<DeckHouse>content/gameplay/common/camouflage/textures/ASB046_Florida_1945_DeckHouse_camo_01.dds</DeckHouse>
-			<Hull>content/gameplay/common/camouflage/textures/ASB046_Florida_1945_camo_01.dds</Hull>
-			<Gun>content/gameplay/common/camouflage/textures/Gun_tile_camo_01.dds</Gun>
+			<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+			<Hull>content/gameplay/common/camouflage/textures/oranges.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 			<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
 			<Plane>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Plane>
 			<Float>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Float>
 			<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
 		</Textures>
-		<colorSchemes>colorSchemeUSNP01</colorSchemes>
+		<colorSchemes>colorSchemeUSNP16</colorSchemes>
 		<colorSchemes>colorSchemeUSNP49</colorSchemes>
 	</camouflage>
 	<!--//American tech tree ships camouflage-->
