@@ -5,7 +5,7 @@
 		<!--//1. Japanese ships with texture		2048*2048, 4096*4096, 4096*4096+2048*2048-->
 		<shipGroup>
 			<name>IJN_group_1</name>
-			<ships> PJSD002_Umikaze_1925 PJSD001_Tachibana_1912 PJSD014_Tachibana_1912_Asus PJSD024_Wakatake_1923 PJSD003_Isokaze_1917 PJSD004_Minekadze_1920 PJSD105_Mutsuki PJSD017_Kamikaze_1930 PJSD025_True_Kamikaze PJSD026_Camo_Kamikaze PJSD206_Hatsuharu PJSD106_Fubuki PJSD706_Shinonome PJSD108_Akizuki PJSD708_HSF_Harekaze PJSD012_Shimakaze_1943 PJSB011_Mikasa_1905 PJSB001_Kawachi_1912 PJSB008_Ishizuchi_1921 PJSB007_Kongo_1942 PJSB705_Kongou PJSB706_Kirishima PJSB707_Haruna PJSB708_Hiei_Arpeggio PJSB010_Nagato_1944 PJSB013_Amagi_1942 PJSB878_Ignis_Purgatio PJSB888_Ragnarok PJSB021_Izumo_1938 PZSB509_Izumo_Bajie PJSB018_Yamato_1944 PJSC037_Hashidate_1940 PJSC503_Katori PJSC013_Kuma_1938 PJSC004_Yubari_1944 PJSC005_Furutaka_1926 PJSC007_Aoba_1943 PJSC008_Myoko_1945 PJSC705_Myoko PJSC707_Ashigara PJSC709_Haguro PJSC737_Nachi PJSC717_Yellow_Dragon PJSC727_Blue_Dragon PJSC708_ARP_Takao PJSC009_Mogami_1935 PJSC038_Atago_1944 PJSC598_Black_Atago PJSC012_Ibuki_1944 PJSC034_Zao_1944 PJSA002_Hosho_1939 PJSA009_Ryujo_1933 PJSA011_Hiryu_1942 PJSA017_Hakuryu_1942 PJSA917_TST_Hakuryu PJSD219_Kitakaze PJSC505_Yahagi PJSA104_Hosho PJSA106_Ryujo PJSA110_Hakuryu PJSC810_TST_ZAO PXSD016_Shimakaze_PA PJSD998_Arashi PJSC014_Kitakami_1945</ships>
+			<ships> PJSD002_Umikaze_1925 PJSD001_Tachibana_1912 PJSD014_Tachibana_1912_Asus PJSD024_Wakatake_1923 PJSD003_Isokaze_1917 PJSD004_Minekadze_1920 PJSD105_Mutsuki PJSD017_Kamikaze_1930 PJSD025_True_Kamikaze PJSD026_Camo_Kamikaze PJSD206_Hatsuharu PJSD106_Fubuki PJSD706_Shinonome PJSD108_Akizuki PJSD708_HSF_Harekaze PJSD012_Shimakaze_1943 PJSB011_Mikasa_1905 PJSB001_Kawachi_1912 PJSB008_Ishizuchi_1921 PJSB007_Kongo_1942 PJSB705_Kongou PJSB706_Kirishima PJSB707_Haruna PJSB708_Hiei_Arpeggio PJSB010_Nagato_1944 PJSB013_Amagi_1942 PJSB878_Ignis_Purgatio PJSB888_Ragnarok PJSB021_Izumo_1938 PZSB509_Izumo_Bajie PJSB018_Yamato_1944 PJSC037_Hashidate_1940 PJSC503_Katori PJSC013_Kuma_1938 PJSC004_Yubari_1944 PJSC005_Furutaka_1926 PJSC007_Aoba_1943 PJSC008_Myoko_1945 PJSC705_Myoko PJSC707_Ashigara PJSC709_Haguro PJSC737_Nachi PJSC717_Yellow_Dragon PJSC727_Blue_Dragon PJSC708_ARP_Takao PJSC009_Mogami_1935 PJSC038_Atago_1944 PJSC598_Black_Atago PJSC012_Ibuki_1944 PJSC034_Zao_1944 PJSA002_Hosho_1939 PJSA009_Ryujo_1933 PJSA011_Hiryu_1942 PJSA017_Hakuryu_1942 PJSA917_TST_Hakuryu PJSD219_Kitakaze PJSC505_Yahagi PJSA104_Hosho PJSA106_Ryujo PJSA110_Hakuryu PJSC810_TST_ZAO PXSD016_Shimakaze_PA PJSD998_Arashi PJSC610_Kitakami</ships>
 		</shipGroup>
 		<!--//2. Japanese ships with texture		4096*2048-->
 		<shipGroup>
@@ -25,7 +25,7 @@
 		<!--//5. Japanese ships with texture		4096*4096+4096*4096-->
 		<shipGroup>
 			<name>IJN_group_5</name>
-			<ships> PJSB006_Fuso_1943 PJSA507_Kaga PJSA015_Taiho_1944 PJSB508_Kii PJSB509_Musashi PJSA518_Kaga PJSB018_Yamato_1944 PJSB510_Shikishima</ships>
+			<ships> PJSB006_Fuso_1943 PJSA507_Kaga PJSA015_Taiho_1944 PJSB508_Kii PJSB509_Musashi PJSA518_Kaga PJSB018_Yamato_1944 PJSB510_Shikishima PJSB519_Hizen</ships>
 		</shipGroup>
 		<!--//6. Japanese ships with texture		4096*4096+2048*1024-->
 		<shipGroup>
@@ -46,7 +46,7 @@
 		<!--//3. American ships with texture		4096*4096+4096*2048, 2048*2048+2048*1024-->
 		<shipGroup>
 			<name>USN_group_3</name>
-			<ships> PASD021_Fletcher_1943 PASD709_Black PASB506_Arizona_1941 PASB008_Colorado_1945 PASB017_Montana_1945 PASC510_Alaska PASB507_West_Virginia PASB810_TST_MONTANA PASB510_Ohio PASC599_Black_Alaska PASB517_Florida PASB108_Kansas</ships>
+			<ships> PASD021_Fletcher_1943 PASD709_Black PASB506_Arizona_1941 PASB008_Colorado_1945 PASB017_Montana_1945 PASC510_Alaska PASB507_West_Virginia PASB810_TST_MONTANA PASB510_Ohio PASC599_Black_Alaska PASB517_Florida PASB108_Kansas PASB505_Oklahoma</ships>
 		</shipGroup>
 		<!--//4. American ships with texture		4096*4096+1024*1024-->
 		<shipGroup>
@@ -98,7 +98,7 @@
 		<!--//1. British ships with texture			2048*2048, 4096*4096, 4096*4096+2048*2048-->
 		<shipGroup>
 			<name>UK_group_1</name>
-			<ships> PBSD503_Campbeltown_1941 PBSB002_Warspite_1941 PBSC101_Black_Swan PBSC104_Danae PBSC105_Emerald PBSC106_Leander PUSC506_Perth_1942 PBSC107_Fiji PBSC507_Belfast_1959 PBSC528_Belfast_1943 PBSC108_Edinburgh PBSC109_Neptune PBSB103_Bellerophon PBSB104_Orion PBSB105_Iron_Duke PBSB106_Queen_Elizabeth PBSB503_Dreadnought PBSA204_Hermes PBSC505_Exeter PBSC210_Goliath PBSC205_Hawkins PBSC207_Surrey PBSC208_Albemarle PBSC209_Drake PBSC516_London</ships>
+			<ships> PBSD503_Campbeltown_1941 PBSB002_Warspite_1941 PBSC101_Black_Swan PBSC104_Danae PBSC105_Emerald PBSC106_Leander PUSC506_Perth_1942 PBSC107_Fiji PBSC507_Belfast_1959 PBSC528_Belfast_1943 PBSC108_Edinburgh PBSC109_Neptune PBSB103_Bellerophon PBSB104_Orion PBSB105_Iron_Duke PBSB106_Queen_Elizabeth PBSB503_Dreadnought PBSA204_Hermes PBSC505_Exeter PBSC210_Goliath PBSC205_Hawkins PBSC207_Surrey PBSC208_Albemarle PBSC209_Drake PBSC516_London PUSC516_Mysore</ships>
 		</shipGroup>
 		<!--//2. British ships with texture			4096*2048-->
 		<shipGroup>
@@ -108,7 +108,7 @@
 		<!--//3. British ships with texture			4096*4096+4096*2048, 2048*2048+2048*1024-->
 		<shipGroup>
 			<name>UK_group_3</name>
-			<ships>PBSB109_Lion PBSC110_Minotaur PBSB107_King_George_V PBSB108_Monarch PBSB527_Duke_of_York PBSA508_Indomitable PBSB208_Monarch_T PBSB510_Thunderer PBSC206_Devonshire PBSC508_Cheshire</ships>
+			<ships>PBSB109_Lion PBSC110_Minotaur PBSB107_King_George_V PBSB108_Monarch PBSB527_Duke_of_York PBSA508_Indomitable PBSB208_Monarch_T PBSB510_Thunderer PBSC206_Devonshire PBSC508_Cheshire PBSC510_Plymouth</ships>
 		</shipGroup>
 		<!--//4. British ships with texture			4096*4096+4096*4096-->
 		<shipGroup>
@@ -121,10 +121,10 @@
 			<name>GER_group_1</name>
 			<ships> PGSD102_V_25 PGSD103_G_101 PGSD110_Z_52 PGSB103_Nassau PGSB503_Koenig_Albert PGSB104_Kaiser PGSB105_Koenig PGSB106_Bayern PGSB108_Bismarck PGSB002_Tirpiz_1942 PGSB598_Black_Tirpitz PGSC105_Konigsberg PGSC106_Nurnberg PGSC506_Admiral_Graf_Spee PGSC706_HSF_Graf_Spee PGSC107_Yorck PGSC508_Prinz_Eugen PGSC109_Roon PGSD508_Z_39 PGSC509_Siegfried PXSD013_Z_52_PA PGSB508_Odin PGSC507_Munchen</ships>
 		</shipGroup>
-		<!--//2. German ships with texture			4096*2048-->
+		<!--//2. German ships with texture			4096*2048, 4096*2048+1024*1024-->
 		<shipGroup>
 			<name>GER_group_2</name>
-			<ships> PGSD104_V_170 PGSD105_T_22 PGSD106_Ernst_Gaede PGSD107_Leberecht_Maass PGSD108_Z_23 PGSD109_Z_46 PGSC001_Hermelin_1940 PGSC002_Drezden_1908 PGSC502_Emden_1908 PGSC103_Kolberg PGSC104_Karlsruhe PGSD506_T_61</ships>
+			<ships> PGSD104_V_170 PGSD105_T_22 PGSD106_Ernst_Gaede PGSD107_Leberecht_Maass PGSD108_Z_23 PGSD109_Z_46 PGSC001_Hermelin_1940 PGSC002_Drezden_1908 PGSC502_Emden_1908 PGSC103_Kolberg PGSC104_Karlsruhe PGSD506_T_61 PGSD519_Z_44</ships>
 		</shipGroup>
 		<!--//3. German ships with texture			4096*4096+4096*2048, 2048*2048+2048*1024-->
 		<shipGroup>
@@ -155,7 +155,7 @@
 		<!--//3. French ships with texture			4096*4096+4096*2048, 2048*2048+2048*1024-->
 		<shipGroup>
 			<name>FRA_group_3</name>
-			<ships> PFSB506_Dunkerque_1940 PFSB106_Normandie PFSD103_Fusilier</ships>
+			<ships> PFSB506_Dunkerque_1940 PFSB106_Normandie PFSD103_Fusilier PFSB507_Strasbourg PFSB516_Strasbourg</ships>
 		</shipGroup>
 		<!--//4. French ships with texture			4096*4096+4096*4096, 2048*2048+2048*2048-->
 		<shipGroup>
@@ -309,12 +309,12 @@
 			<color3>0.208 0.220 0.130 1.000</color3>
 			<colorUI>0.509 0.529 0.278 1.000</colorUI>
 		</colorScheme>
-		<!--//IJN UNIQUE colour scheme 02-->
+		<!--//IJN UNIQUE Hizen colour scheme 02-->
 		<colorScheme>
 			<name>colorSchemeIJNP02</name>
-			<color0>0.085 0.082 0.068 1.000</color0>
-			<color1>0.046 0.058 0.032 1.000</color1>
-			<color2>0.344 0.364 0.316 1.000</color2>
+			<color0>0.041 0.047 0.022 0.950</color0>
+			<color1>0.061 0.082 0.038 1.000</color1>
+			<color2>0.047 0.028 0.015 0.950</color2>
 			<color3>0.208 0.220 0.130 1.000</color3>
 			<colorUI>0.509 0.529 0.278 1.000</colorUI>
 		</colorScheme>
@@ -2672,6 +2672,15 @@
 			<color3>0.250 0.250 0.250 1.000</color3>
 			<colorUI>0.130 0.154 0.167 1.000</colorUI>
 		</colorScheme>
+		<!--//FRA UNIQUE Dunkerque colour scheme 10-->
+		<colorScheme>
+			<name>colorSchemeFRAP10</name>
+			<color0>0.128 0.155 0.166 1.000</color0>
+			<color1>0.025 0.038 0.052 1.000</color1>
+			<color2>0.278 0.305 0.316 1.000</color2>
+			<color3>0.058 0.064 0.072 1.000</color3>
+			<colorUI>0.024 0.053 0.092 1.000</colorUI>
+		</colorScheme>
 		<!--//FRA naval If Castle ships colour 50-->
 		<colorScheme>
 			<name>colorSchemeFRAP50</name>
@@ -3864,6 +3873,22 @@
 			<color1>1.000 1.000 1.000 1.000</color1>
 			<color2>0.000 0.037 0.080 1.000</color2>
 			<color3>0.000 0.250 0.380 1.000</color3>
+		</colorScheme>
+		<!--//AmericanArc2020 skin color scheme 01-->
+		<colorScheme>
+			<name>colorScheme_AmericanArc2020_01</name>
+			<color0>0.430 0.430 0.430 1.000</color0>
+			<color1>0.163 0.151 0.118 1.000</color1>
+			<color2>0.183 0.151 0.128 1.000</color2>
+			<color3>0.183 0.151 0.118 1.000</color3>
+		</colorScheme>
+		<!--//Gothic_Bismarck skin color scheme 01-->
+		<colorScheme>
+			<name>colorScheme_Gothic_Bismarck_01</name>
+			<color0>0.082 0.078 0.062 1.000</color0>
+			<color1>0.163 0.151 0.118 1.000</color1>
+			<color2>0.183 0.151 0.128 1.000</color2>
+			<color3>0.183 0.151 0.118 1.000</color3>
 		</colorScheme>
 	</ColorSchemes>
 <!--//Camouflage blocks-->
@@ -23375,6 +23400,32 @@
 		</Textures>
 		<colorSchemes>colorScheme_WowsBirthday5_01</colorSchemes>
 	</camouflage>
+		<!--//AmericanArc2020 skin tile camouflage-->
+	<camouflage>
+		<annotation>AmericanArc2020 skin camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
+		<name>camo_AmericanArc2020_01</name>
+		<tiled>true</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+		</UV>
+		<Textures>
+			<Tile>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_AmericanArc2020_01</colorSchemes>
+	</camouflage>
+		<!--//Gothic Bismarck skin tile camouflage-->
+	<camouflage>
+		<annotation>Gothic Bismarck skin camouflage</annotation>
+		<name>camo_Gothic_Bismarck_01</name>
+		<tiled>true</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+		</UV>
+		<Textures>
+			<Tile>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_Gothic_Bismarck_01</colorSchemes>
+	</camouflage>
 	<!--//Material tile camouflages-->
 		<!--//Postap tile material 01-->
 	<camouflage>
@@ -25995,7 +26046,7 @@
 	<camouflage>
 		<annotation>Kitakami unique permOflage block</annotation>
 		<name>camo_permanent_1</name>
-		<targetShip>PJSC014_Kitakami_1945</targetShip>
+		<targetShip>PJSC610_Kitakami</targetShip>
 		<tiled>false</tiled>
 		<UV>
 			<Tile>1 1</Tile>
@@ -26006,7 +26057,7 @@
 			<Misc>0.3 0.3</Misc>
 		</UV>
 		<Textures>
-			<Hull>content/gameplay/common/camouflage/textures/JSC014_Kitakami_1945_camo_01.dds</Hull>
+			<Hull>content/gameplay/common/camouflage/textures/JSC047_Kitakami_1941_camo_01.dds</Hull>
 			<Gun>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeIJNP08</colorSchemes>
@@ -26578,6 +26629,27 @@
 					</Misc_mgn>
 			</Textures>
 		<colorSchemes>colorScheme_AzurSkin_01</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>Hizen unique permOflage block</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PJSB519_Hizen</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>0.8 0.8</Gun>
+			<Director>0.8 0.8</Director>
+			<Plane>0.8 0.8</Plane>
+			<Float>0.8 0.4</Float>
+			<Misc>0.5 0.5</Misc>
+		</UV>
+		<Textures>
+			<DeckHouse>content/gameplay/common/camouflage/textures/JSB043_Hizen_1944_DeckHouse_camo_01.dds</DeckHouse>
+			<Hull>content/gameplay/common/camouflage/textures/JSB043_Hizen_1944_Hull_camo_01.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/AGM034_16in50_Mk7_camo_01.dds</Gun>
+		</Textures>
+		<colorSchemes>colorSchemeIJNP02</colorSchemes>
+		<colorSchemes>colorSchemeIJNP38</colorSchemes>
 	</camouflage>
 	<!--//Japanese tech tree ships camouflage-->
 	<camouflage>
@@ -28309,6 +28381,29 @@
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
 		<colorSchemes>colorSchemeUSNP49</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>Oklahoma unique permOflage block</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PASB505_Oklahoma</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>0.9 1</Gun>
+			<Director>0.5 0.5</Director>
+			<Misc>0.3 0.3</Misc>
+		</UV>
+		<Textures>
+			<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+			<Hull>content/gameplay/common/camouflage/textures/acme.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+			<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
+			<Plane>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Plane>
+			<Float>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Float>
+			<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
+		</Textures>
+		<colorSchemes>colorSchemeUSNP16</colorSchemes>
+		<colorSchemes>colorSchemeUSNP48</colorSchemes>
 	</camouflage>
 	<!--//American tech tree ships camouflage-->
 	<camouflage>
@@ -31712,6 +31807,29 @@
 		<colorSchemes>colorSchemeUKP03</colorSchemes>
 		<colorSchemes>colorSchemeUKP32</colorSchemes>
 	</camouflage>
+	<camouflage>
+		<annotation>Plymouth unique permOflage block</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PBSC510_Plymouth</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>0.4 0.4</Gun>
+			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.25</Float>
+			<Misc>0.3 0.3</Misc>
+		</UV>
+		<Textures>
+			<DeckHouse>content/gameplay/common/camouflage/textures/BSC031_Plymouth_1945_DeckHouse_camo_01.dds</DeckHouse>
+			<Hull>content/gameplay/common/camouflage/textures/BSC031_Plymouth_1945_Hull_camo_01.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Gun>
+			<Director>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Director>
+			<Misc>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Misc>
+		</Textures>
+		<colorSchemes>colorSchemeUKP17</colorSchemes>
+		<colorSchemes>colorSchemeUKP32</colorSchemes>
+	</camouflage>
 	<!--//British tech tree ships camouflage-->
 	<camouflage>
 		<annotation>Edinburgh unique permOflage block</annotation>
@@ -32941,6 +33059,7 @@
 			<DeckHouse>content/gameplay/common/camouflage/textures/GSB003_Scharnhorst_1939_deckhouse_camo_02.dds</DeckHouse>
 			<Hull>content/gameplay/common/camouflage/textures/GSB003_Scharnhorst_1939_camo_02.dds</Hull>
 			<Gun>content/gameplay/common/camouflage/textures/B_gun_camo_01.dds</Gun>
+			<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
 		</Textures>
 		<colorSchemes>colorSchemeCnKZ02</colorSchemes>
 	</camouflage>
@@ -33401,6 +33520,25 @@
 					</Float_mgn>
 			</Textures>
 		<colorSchemes>colorScheme_AzurSkin_01</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>Z-44 unique permOflage block</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PGSD519_Z_44</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>0.6 0.6</Gun>
+			<Director>0.6 0.6</Director>
+			<Misc>0.3 0.3</Misc>
+		</UV>
+		<Textures>
+			<DeckHouse>content/gameplay/common/camouflage/textures/GSD019_Z44_1945_Deckhouse_camo_01.dds</DeckHouse>
+			<Hull>content/gameplay/common/camouflage/textures/GSD019_Z44_1945_camo_01.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/AGM034_16in50_Mk7_camo_01_G.dds</Gun>
+		</Textures>
+		<colorSchemes>colorSchemeGERP06</colorSchemes>
+		<colorSchemes>colorSchemeGERP44</colorSchemes>
 	</camouflage>
 	<!--//German tech tree ships camouflage-->
 	<camouflage>
@@ -34496,6 +34634,29 @@
 					</Float_mgn>
 			</Textures>
 		<colorSchemes>colorScheme_AzurSkin_01</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>Strasbourg unique permOflage block</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PFSB507_Strasbourg</targetShip>
+		<targetShip>PFSB516_Strasbourg</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>1 1</Gun>
+			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.25</Float>
+			<Misc>0.3 0.3</Misc>
+		</UV>
+		<Textures>
+			<DeckHouse>content/gameplay/common/camouflage/textures/FSB030_Strasbourg_1942_DeckHouse_camo_01.dds</DeckHouse>
+			<Hull>content/gameplay/common/camouflage/textures/FSB030_Strasbourg_1942_camo_01.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+			<Director>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Director>
+		</Textures>
+		<colorSchemes>colorSchemeFRAP10</colorSchemes>
+		<colorSchemes>colorSchemeFRAP50</colorSchemes>
 	</camouflage>
 	<!--//French tech tree ships camouflage-->
 	<camouflage>
@@ -35907,6 +36068,27 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeNLP01</colorSchemes>
+	</camouflage>
+	<!--//Commonwealth premium ships camouflage-->
+	<camouflage>
+		<annotation>Mysore unique permOflage block</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PUSC516_Mysore</targetShip>
+		<tiled>true</tiled>
+		<UV>
+			<Tile>1.5 1.5</Tile>
+			<DeckHouse>0.75 0.75</DeckHouse>
+			<Gun>0.4 0.4</Gun>
+			<Director>0.4 0.4</Director>
+			<Plane>0.3 0.3</Plane>
+			<Float>0.5 0.25</Float>
+			<Misc>0.03 0.03</Misc>
+			<Bulge>0.25 0.25</Bulge>
+		</UV>
+		<Textures>
+			<Tile>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Tile>
+		</Textures>
+		<colorSchemes>colorSchemeUKP11</colorSchemes>
 	</camouflage>
 	<!--//NationX camouflage-->
 	<camouflage>
