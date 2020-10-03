@@ -27608,6 +27608,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Black Rank camo Crocodile unique permOflage block</annotation>
@@ -27647,6 +27648,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Flint rank camo Mustang unique permOflage block</annotation>
