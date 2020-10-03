@@ -931,10 +931,10 @@
 		<!--//USN UNIQUE Missouri colour scheme 15-->
 		<colorScheme>
 			<name>colorSchemeUSNP15</name>
-			<color0>0.184 0.212 0.231 0.784</color0>
-			<color1>0.004 0.012 0.020 1.000</color1>
-			<color2>0.047 0.090 0.122 1.000</color2>
-			<color3>0.184 0.212 0.231 0.784</color3>
+			<color0>0.142 0.198 0.220 1.000</color0>
+			<color1>0.022 0.064 0.099 1.000</color1>
+			<color2>0.000 0.000 0.000 0.000</color2>
+			<color3>0.000 0.000 0.000 0.000</color3>
 			<colorUI>0.338 0.408 0.486 1.000</colorUI>
 		</colorScheme>
 		<!--//USN UNIQUE Missouri2 colour scheme 16-->
@@ -27345,7 +27345,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP50</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Marblehead ASUS unique permOflage block</annotation>
@@ -27384,7 +27384,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP47</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Albany unique permOflage block</annotation>
@@ -27442,7 +27442,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP48</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Sims unique permOflage block</annotation>
@@ -27463,7 +27463,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP50</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Smith unique permOflage block</annotation>
@@ -27505,7 +27505,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP47</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Indianapolis unique permOflage block</annotation>
@@ -27525,7 +27525,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP47</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Texas unique permOflage block</annotation>
@@ -27546,7 +27546,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP47</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Texas USA flag unique permOflage block</annotation>
@@ -27681,11 +27681,11 @@
 			<Misc>0.3 0.3</Misc>
 		</UV>
 		<Textures>
-			<Hull>content/gameplay/common/camouflage/textures/ASB015_Missouri_1950_camo_01.dds</Hull>
-			<Gun>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_03.dds</Gun>
+			<Hull>content/gameplay/common/camouflage/textures/ASB015_Missouri_1950_camo_02.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP15</colorSchemes>
-		<colorSchemes>colorSchemeUSNP47</colorSchemes>
+		<colorSchemes>colorSchemeUSNP16</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Marblehead second unique permOflage block, stripe</annotation>
@@ -27705,7 +27705,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP47</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Alabama unique permOflage block</annotation>
@@ -27726,7 +27726,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP47</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Alabama Super Test octopus unique permOflage block</annotation>
@@ -27765,7 +27765,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP47</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Enterprise unique permOflage block</annotation>
@@ -27788,7 +27788,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP47</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Albany second unique permOflage block</annotation>
@@ -27829,7 +27829,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP47</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Massachusetts unique permOflage block</annotation>
@@ -27850,7 +27850,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP47</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Texas Lone Star unique permOflage block</annotation>
@@ -27891,7 +27891,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP47</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 		</camouflage>
 	<camouflage>
 		<annotation>Monaghan unique permOflage block</annotation>
@@ -27911,7 +27911,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP47</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Boise_1951 unique permOflage block</annotation>
@@ -27932,7 +27932,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP47</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>	
 	<camouflage>
 		<annotation>Alaska unique permOflage block</annotation>
@@ -27954,7 +27954,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP47</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Wichita unique permOflage block</annotation>
@@ -27975,7 +27975,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP47</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 	<annotation>Charleston unique permOflage block</annotation>
@@ -28035,7 +28035,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP51</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Montpelier unique permOflage block</annotation>
@@ -28096,7 +28096,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP54</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Benham unique permOflage block</annotation>
@@ -28116,7 +28116,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP54</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Hill unique permOflage block</annotation>
@@ -28156,7 +28156,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP54</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Ohio unique permOflage block</annotation>
@@ -28177,7 +28177,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP47</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Flint rank camo Wolf unique permOflage block</annotation>
@@ -28217,7 +28217,7 @@
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 			</Textures>
 			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP50</colorSchemes>
+			<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 			<annotation>Puerto Rico unique permOflage block</annotation>
@@ -28238,7 +28238,7 @@
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 			</Textures>
 			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP50</colorSchemes>
+			<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 			<annotation>Puerto Rico NY2020 permoflage block</annotation>
@@ -28283,7 +28283,7 @@
 				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
 			</Textures>
 			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP53</colorSchemes>
+			<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Alabama VictoryDay75 permoflage block</annotation>
@@ -28355,7 +28355,7 @@
 			<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP49</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Florida unique permOflage block</annotation>
@@ -28380,7 +28380,7 @@
 			<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP49</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Oklahoma unique permOflage block</annotation>
@@ -28403,7 +28403,7 @@
 			<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP48</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<!--//American tech tree ships camouflage-->
 	<camouflage>
@@ -28444,7 +28444,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP52</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Lexington unique permOflage block</annotation>
@@ -28467,7 +28467,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP47</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Fletcher unique permOflage block</annotation>
@@ -28488,7 +28488,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP53</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Iowa unique permOflage block</annotation>
@@ -28508,7 +28508,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP53</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>New Orleans unique permOflage block</annotation>
@@ -28529,7 +28529,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP47</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Ranger unique permOflage block</annotation>
@@ -28552,7 +28552,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP53</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>New York unique permOflage block</annotation>
@@ -28613,7 +28613,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP47</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>North Carolina Hull C unique permOflage block</annotation>
@@ -28633,7 +28633,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP47</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Benson Hull AB unique permOflage block</annotation>
@@ -28653,7 +28653,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP47</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Bemson Hull C unique permOflage block</annotation>
@@ -28673,7 +28673,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP47</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Essex unique permOflage block</annotation>
@@ -28694,7 +28694,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP53</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Baltimore unique permOflage block</annotation>
@@ -28715,7 +28715,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP47</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Mahan Hull AB unique permOflage block</annotation>
@@ -28735,7 +28735,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP47</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Mahan Hull C unique permOflage block</annotation>
@@ -28755,7 +28755,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP47</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Midway unique permOflage block</annotation>
@@ -28778,7 +28778,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP47</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Montana unique permOflage block</annotation>
@@ -28800,7 +28800,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP47</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Des Moines unique permOflage block</annotation>
@@ -28821,7 +28821,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP47</colorSchemes>		
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>		
 	</camouflage>
 	<camouflage>
 		<annotation>Gearing unique permOflage block</annotation>
@@ -28842,7 +28842,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP47</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Pensacola Hull A unique permOflage block</annotation>
@@ -28863,7 +28863,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP47</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Pensacola Hull B unique permOflage block</annotation>
@@ -28884,7 +28884,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP47</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Farragut Hull AB New Year unique permOflage block</annotation>
@@ -28980,7 +28980,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP47</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Farragut Hull C unique permOflage block</annotation>
@@ -29000,7 +29000,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP47</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Independence unique permOflage block</annotation>
@@ -29021,7 +29021,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP53</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>New Mexico unique permOflage block</annotation>
@@ -29041,7 +29041,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP53</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Colorado unique permOflage block</annotation>
@@ -29062,7 +29062,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP47</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>New Orlean WOWs birthday 2017 unique permOflage block</annotation>
@@ -29121,7 +29121,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP49</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Dallas unique permOflage block</annotation>
@@ -29141,7 +29141,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP47</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Helena unique permOflage block</annotation>
@@ -29162,7 +29162,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP47</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Worcester unique permOflage block</annotation>
@@ -29183,7 +29183,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP47</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Seattle unique permOflage block</annotation>
@@ -29204,7 +29204,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
-		<colorSchemes>colorSchemeUSNP47</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Dallas American Arc unique permOflage block</annotation>
@@ -35166,7 +35166,7 @@
 			<Hull>content/gameplay/common/camouflage/textures/haynsworth.dds</Hull>
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
-		<colorSchemes>colorSchemePANP02</colorSchemes>
+		<colorSchemes>colorSchemeUSNP16</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Chung Mu unique permOflage block</annotation>
@@ -35185,7 +35185,7 @@
 			<Hull>content/gameplay/common/camouflage/textures/erben.dds</Hull>
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
-		<colorSchemes>colorSchemePANP02</colorSchemes>
+		<colorSchemes>colorSchemeUSNP16</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Hsien Yang unique permOflage block</annotation>
@@ -35204,7 +35204,7 @@
 			<Hull>content/gameplay/common/camouflage/textures/rodman.dds</Hull>
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
-		<colorSchemes>colorSchemePANP02</colorSchemes>
+		<colorSchemes>colorSchemeUSNP16</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Gadjah_Mada unique permOflage block</annotation>
@@ -35300,7 +35300,7 @@
 			<Hull>content/gameplay/common/camouflage/textures/rigby.dds</Hull>
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
-		<colorSchemes>colorSchemePANP02</colorSchemes>
+		<colorSchemes>colorSchemeUSNP16</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Huang he unique permOflage block</annotation>
