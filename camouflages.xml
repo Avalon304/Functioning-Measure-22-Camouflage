@@ -29361,14 +29361,14 @@
 			<Misc>0.3 0.3</Misc>
 		</UV>
 		<Textures>
-			<DeckHouse>content/gameplay/common/camouflage/textures/ASB045_Vermont_1945_DeckHouse_camo_01.dds</DeckHouse>
-			<Hull>content/gameplay/common/camouflage/textures/ASB045_Vermont_1945_camo_01.dds</Hull>
-			<Gun>content/gameplay/common/camouflage/textures/Nelson_guns_camo_03.dds</Gun>
-			<Director>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Director>
-			<Misc>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Misc>
+			<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+			<Hull>content/gameplay/common/camouflage/textures/vermont.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+			<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
+			<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
 		</Textures>
-		<colorSchemes>colorSchemeUSNP32</colorSchemes>
-		<colorSchemes>colorSchemeUSNP49</colorSchemes>
+		<colorSchemes>colorSchemeUSNP16</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Minnesota permoflage block</annotation>
@@ -29384,14 +29384,14 @@
 			<Misc>0.3 0.3</Misc>
 		</UV>
 		<Textures>
-			<DeckHouse>content/gameplay/common/camouflage/textures/ASB044_Minnesota_1945_DeckHouse_camo_01.dds</DeckHouse>
-			<Hull>content/gameplay/common/camouflage/textures/ASB044_Minnesota_1945_camo_01.dds</Hull>
-			<Gun>content/gameplay/common/camouflage/textures/Nelson_guns_camo_01.dds</Gun>
+			<DeckHouse>content/gameplay/common/camouflage/textures/minnedeck.dds</DeckHouse>
+			<Hull>content/gameplay/common/camouflage/textures/minne.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 			<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
 			<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
 		</Textures>
-		<colorSchemes>colorSchemeUSNP01</colorSchemes>
-		<colorSchemes>colorSchemeUSNP47</colorSchemes>
+		<colorSchemes>colorSchemeUSNP16</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Kansas permoflage block</annotation>
@@ -29407,14 +29407,14 @@
 			<Misc>0.3 0.3</Misc>
 		</UV>
 		<Textures>
-			<DeckHouse>content/gameplay/common/camouflage/textures/ASB043_Kansas_1945_deckhouse_camo_01.dds</DeckHouse>
-			<Hull>content/gameplay/common/camouflage/textures/ASB043_Kansas_1945_hull_camo_01.dds</Hull>
-			<Gun>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_STS_21.dds</Gun>
+			<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+			<Hull>content/gameplay/common/camouflage/textures/kansas.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 			<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
 			<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
 		</Textures>
-		<colorSchemes>colorSchemeUSNP05</colorSchemes>
-		<colorSchemes>colorSchemeUSNP47</colorSchemes>
+		<colorSchemes>colorSchemeUSNP16</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<!--//Russian premium ships camouflage-->
 	<camouflage>
