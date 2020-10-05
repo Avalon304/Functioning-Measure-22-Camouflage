@@ -28599,7 +28599,7 @@
 	<camouflage>
 		<annotation>North Carolina Hull AB unique permOflage block</annotation>
 		<name>camo_permanent_1</name>
-		<targetShip>PASB012_North_Carolina_1945_A_Hull_1942</targetShip>
+		<targetShip>PASB012_North_Carolina_1945_A_Hull</targetShip>
 		<tiled>false</tiled>
 		<UV>
 			<Tile>1 1</Tile>
@@ -28620,7 +28620,7 @@
 	<camouflage>
 		<annotation>North Carolina Hull C unique permOflage block</annotation>
 		<name>camo_permanent_1</name>
-		<targetShip>PASB012_North_Carolina_1945_B_Hull_1945</targetShip>
+		<targetShip>PASB012_North_Carolina_1945_B_Hull</targetShip>
 		<tiled>false</tiled>
 		<UV>
 			<Tile>1 1</Tile>
