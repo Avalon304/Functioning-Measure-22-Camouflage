@@ -5,7 +5,7 @@
 		<!--//1. Japanese ships with texture		2048*2048, 4096*4096, 4096*4096+2048*2048-->
 		<shipGroup>
 			<name>IJN_group_1</name>
-			<ships> PJSD002_Umikaze_1925 PJSD001_Tachibana_1912 PJSD014_Tachibana_1912_Asus PJSD024_Wakatake_1923 PJSD003_Isokaze_1917 PJSD004_Minekadze_1920 PJSD105_Mutsuki PJSD017_Kamikaze_1930 PJSD025_True_Kamikaze PJSD026_Camo_Kamikaze PJSD206_Hatsuharu PJSD106_Fubuki PJSD706_Shinonome PJSD108_Akizuki PJSD708_HSF_Harekaze PJSD012_Shimakaze_1943 PJSB011_Mikasa_1905 PJSB001_Kawachi_1912 PJSB008_Ishizuchi_1921 PJSB007_Kongo_1942 PJSB705_Kongou PJSB706_Kirishima PJSB707_Haruna PJSB708_Hiei_Arpeggio PJSB010_Nagato_1944 PJSB013_Amagi_1942 PJSB878_Ignis_Purgatio PJSB888_Ragnarok PJSB021_Izumo_1938 PZSB509_Izumo_Bajie PJSB018_Yamato_1944 PJSC037_Hashidate_1940 PJSC503_Katori PJSC013_Kuma_1938 PJSC004_Yubari_1944 PJSC005_Furutaka_1926 PJSC007_Aoba_1943 PJSC008_Myoko_1945 PJSC705_Myoko PJSC707_Ashigara PJSC709_Haguro PJSC737_Nachi PJSC717_Yellow_Dragon PJSC727_Blue_Dragon PJSC708_ARP_Takao PJSC009_Mogami_1935 PJSC038_Atago_1944 PJSC598_Black_Atago PJSC012_Ibuki_1944 PJSC034_Zao_1944 PJSA002_Hosho_1939 PJSA009_Ryujo_1933 PJSA011_Hiryu_1942 PJSA017_Hakuryu_1942 PJSA917_TST_Hakuryu PJSD219_Kitakaze PJSC505_Yahagi PJSA104_Hosho PJSA106_Ryujo PJSA110_Hakuryu PJSC810_TST_ZAO PXSD016_Shimakaze_PA PJSD998_Arashi PJSC610_Kitakami</ships>
+			<ships> PJSD002_Umikaze_1925 PJSD001_Tachibana_1912 PJSD014_Tachibana_1912_Asus PJSD024_Wakatake_1923 PJSD003_Isokaze_1917 PJSD004_Minekadze_1920 PJSD105_Mutsuki PJSD017_Kamikaze_1930 PJSD025_True_Kamikaze PJSD026_Camo_Kamikaze PJSD206_Hatsuharu PJSD106_Fubuki PJSD706_Shinonome PJSD108_Akizuki PJSD708_HSF_Harekaze PJSD012_Shimakaze_1943 PJSB011_Mikasa_1905 PJSB001_Kawachi_1912 PJSB008_Ishizuchi_1921 PJSB007_Kongo_1942 PJSB705_Kongou PJSB706_Kirishima PJSB707_Haruna PJSB708_Hiei_Arpeggio PJSB010_Nagato_1944 PJSB013_Amagi_1942 PJSB878_Ignis_Purgatio PJSB888_Ragnarok PJSB021_Izumo_1938 PZSB509_Izumo_Bajie PJSC037_Hashidate_1940 PJSC503_Katori PJSC013_Kuma_1938 PJSC004_Yubari_1944 PJSC005_Furutaka_1926 PJSC007_Aoba_1943 PJSC008_Myoko_1945 PJSC705_Myoko PJSC707_Ashigara PJSC709_Haguro PJSC737_Nachi PJSC717_Yellow_Dragon PJSC727_Blue_Dragon PJSC708_ARP_Takao PJSC718_ARP_Maya PJSC009_Mogami_1935 PJSC038_Atago_1944 PJSC598_Black_Atago PJSC012_Ibuki_1944 PJSC034_Zao_1944 PJSA002_Hosho_1939 PJSA009_Ryujo_1933 PJSA011_Hiryu_1942 PJSA017_Hakuryu_1942 PJSA917_TST_Hakuryu PJSD219_Kitakaze PJSC505_Yahagi PJSA104_Hosho PJSA106_Ryujo PJSA110_Hakuryu PJSC810_TST_ZAO PXSD016_Shimakaze_PA PJSD998_Arashi PJSC610_Kitakami</ships>
 		</shipGroup>
 		<!--//2. Japanese ships with texture		4096*2048-->
 		<shipGroup>
@@ -25,7 +25,7 @@
 		<!--//5. Japanese ships with texture		4096*4096+4096*4096-->
 		<shipGroup>
 			<name>IJN_group_5</name>
-			<ships> PJSB006_Fuso_1943 PJSA507_Kaga PJSA015_Taiho_1944 PJSB508_Kii PJSB509_Musashi PJSA518_Kaga PJSB018_Yamato_1944 PJSB510_Shikishima PJSB519_Hizen</ships>
+			<ships> PJSB006_Fuso_1943 PJSA507_Kaga PJSA015_Taiho_1944 PJSB508_Kii PJSB509_Musashi PJSA518_Kaga PJSB018_Yamato_1944 PJSB510_Shikishima PJSB519_Hizen PJSB526_Ise PJSB700_ARP_Yamato PJSA598_Black_Kaga</ships>
 		</shipGroup>
 		<!--//6. Japanese ships with texture		4096*4096+2048*1024-->
 		<shipGroup>
@@ -36,7 +36,7 @@
 		<!--//1. American ships with texture		2048*2048, 4096*4096, 4096*4096+2048*2048-->
 		<shipGroup>
 			<name>USN_group_1</name>
-			<ships> PASD002_Sampson_1917 PASD502_Smith PASD027_Wickes_1918 PASD019_Clemson_1920 PASD014_Leader_1919 PASD005_Farragut_1944 PASD006_Mahan_1936 PASD029_Sims_1941 PASD008_Benson_1945 PASD013_Gearing_1945 PASB001_Michigan_1916 PASB004_Arkansas_1912 PASB013_Arkansas_1912 PASB006_New_York_1934 PASB705_Texas_1944 PASB034_New_Mexico_1941 PASB012_North_Carolina_1945 PASB508_Alabama PASB708_Alabama PASB018_Iowa_1944 PASB509_Missouri PASC001_Erie_1936 PASC002_Chester_1908 PASC003_Albany_1898 PASC004_St_Louis_1906 PASC024_Phoenix_1917 PASC005_Omaha_1923 PASC044_Marblehead_1924 PASC045_Marblehead_1924_Asus PASC007_Cleveland_1945 PASC208_Cleveland PASC012_Pensacola_1944 PASC106_Pensacola_1944 PASC006_Atlanta_1942 PASC507_Indianapolis_1945 PASC707_Flint PASC014_New_Orlean_1944 PASC107_New_Orlean_1944 PASC017_Baltimore_1944 PASC108_Baltimore_1944 PASC020_Des_Moines_1948 PASA004_Langley_1929 PASA006_Independence_1945 PASA507_Saipan_1946 PASA012_Lexington_1944 PASA013_Essex_1945 PASB518_Massachusetts PASB598_Black_Massachusetts PASC710_Salem PASC109_Buffalo PASC206_Dallas PASC209_Seattle PASC210_Worcester PASC597_Nueve_de_Julio_1951 PASC503_Charleston PASA104_Langley PASA108_Lexington PASA528_Saipan PASC718_AZUR_Montpelier PASD810_TST_GEARING PASB729_Georgia PASD505_Hill PXSD017_Gearing_PA PASD597_Black_Sims PASC518_Anchorage</ships>
+			<ships> PASD002_Sampson_1917 PASD502_Smith PASD027_Wickes_1918 PASD019_Clemson_1920 PASD014_Leader_1919 PASD005_Farragut_1944 PASD006_Mahan_1936 PASD029_Sims_1941 PASD008_Benson_1945 PASD013_Gearing_1945 PASB001_Michigan_1916 PASB004_Arkansas_1912 PASB013_Arkansas_1912 PASB006_New_York_1934 PASB705_Texas_1944 PASB034_New_Mexico_1941 PASB012_North_Carolina_1945 PASB508_Alabama PASB708_Alabama PASB018_Iowa_1944 PASB509_Missouri PASC001_Erie_1936 PASC002_Chester_1908 PASC003_Albany_1898 PASC004_St_Louis_1906 PASC024_Phoenix_1917 PASC005_Omaha_1923 PASC044_Marblehead_1924 PASC045_Marblehead_1924_Asus PASC007_Cleveland_1945 PASC208_Cleveland PASC012_Pensacola_1944 PASC106_Pensacola_1944 PASC006_Atlanta_1942 PASC507_Indianapolis_1945 PASC707_Flint PASC014_New_Orlean_1944 PASC107_New_Orlean_1944 PASC017_Baltimore_1944 PASC108_Baltimore_1944 PASC020_Des_Moines_1948 PASA004_Langley_1929 PASA006_Independence_1945 PASA507_Saipan_1946 PASA012_Lexington_1944 PASA013_Essex_1945 PASB518_Massachusetts PASB598_Black_Massachusetts PASC710_Salem PASC109_Buffalo PASC206_Dallas PASC209_Seattle PASC210_Worcester PASC597_Nueve_de_Julio_1951 PASC503_Charleston PASA104_Langley PASA108_Lexington PASA528_Saipan PASC718_AZUR_Montpelier PASD810_TST_GEARING PASB729_Georgia PASD505_Hill PXSD017_Gearing_PA PASD597_Black_Sims PASC518_Anchorage PASC587_Black_Atlanta</ships>
 		</shipGroup>
 		<!--//2. American ships with texture		4096*2048-->
 		<shipGroup>
@@ -103,7 +103,7 @@
 		<!--//2. British ships with texture			4096*2048-->
 		<shipGroup>
 			<name>UK_group_2</name>
-			<ships> PBSD506_Gallant PBSC102_Weymouth PBSC103_Caledon PUSD503_Vampire PUSD507_Haida PBSD517_Cossack PBSD102_Medea PBSD103_Valkyrie PBSD104_Wakeful PBSD105_Acasta PBSD106_Icarus PBSD107_Jervis PBSD108_Lightning PBSD109_Jutland PBSD110_Daring PXSD019_Daring_PA</ships>
+			<ships> PBSD506_Gallant PBSC102_Weymouth PBSC103_Caledon PUSD503_Vampire PUSD507_Haida PBSD517_Cossack PBSD102_Medea PBSD103_Valkyrie PBSD104_Wakeful PBSD105_Acasta PBSD106_Icarus PBSD107_Jervis PBSD108_Lightning PBSD109_Jutland PBSD110_Daring PXSD019_Daring_PA PBSD598_Black_Cossack</ships>
 		</shipGroup>
 		<!--//3. British ships with texture			4096*4096+4096*2048, 2048*2048+2048*1024-->
 		<shipGroup>
@@ -160,7 +160,7 @@
 		<!--//4. French ships with texture			4096*4096+4096*4096, 2048*2048+2048*2048-->
 		<shipGroup>
 			<name>FRA_group_4</name>
-			<ships>PFSB108_Richelieu PFSB109_Alsace PFSB110_France PFSB508_Gascogne PFSB518_Jean_Bart PFSB510_Bourgogne PFSB528_Champagne</ships>
+			<ships>PFSB108_Richelieu PFSB109_Alsace PFSB110_France PFSB508_Gascogne PFSB518_Jean_Bart PFSB510_Bourgogne PFSB528_Champagne PFSB599_Black_Jean_Bart</ships>
 		</shipGroup>
 		<!--//5. French ships with texture			4096*2048+4096*4096, 2048*1024+2048*2048-->
 		<shipGroup>
@@ -213,18 +213,23 @@
 		<!--//2. Italian ships with texture			4096*4096+4096*2048, 2048*2048+2048*1024-->
 		<shipGroup>
 			<name>ITA_group_2</name>
-			<ships>PISB508_Roma PISB708_AZUR_Littorio PISC109_Brindisi PISC110_Venezia</ships>
+			<ships>PISB508_Roma PISB708_AZUR_Littorio PISC109_Brindisi PISC110_Venezia PISB106_Andrea_Doria PISB107_Francesco_Caracciolo PISB108_Vittorio_Veneto</ships>
 		</shipGroup>
 		<!--//3. Italian ships with texture			4096*2048+2048*1024-->
 		<shipGroup>
 			<name>ITA_group_3</name>
 			<ships>PISD506_Leone PISC101_Eritrea</ships>
 		</shipGroup>
+		<!--//4. Italian ships with texture			4096*4096+4096*4096, 2048*2048+2048*2048-->
+		<shipGroup>
+			<name>ITA_group_4</name>
+			<ships>PISB110_Cristoforo_Colombo</ships>
+		</shipGroup>
 	<!--//10. Pan-America ships-->
 		<!--//1. Pan-America ships with texture		2048*2048, 4096*4096, 4096*4096+2048*2048-->
 		<shipGroup>
 			<name>PAM_group_1</name>
-			<ships>PVSC507_Nueve_de_Julio_1951</ships>
+			<ships>PVSC507_Nueve_de_Julio_1951 PVSC502_Almirante_Abreu</ships>
 		</shipGroup>
 	<!--//11. Europe ships-->
 		<!--//1. Europe ships with texture		2048*2048, 4096*4096, 4096*4096+2048*2048-->
@@ -1049,7 +1054,7 @@
 		<colorScheme>
 			<name>colorSchemeUSNP32</name>
 			<color0>0.475 0.604 0.686 0.784</color0>
-			<color1>0.184 0.212 0.231 0.784</color1>
+			<color1>0.204 0.235 0.251 1.000</color1>
 			<color2>0.047 0.090 0.122 1.000</color2>
 			<color3>0.004 0.012 0.020 1.000</color3>
 			<colorUI>0.338 0.408 0.486 1.000</colorUI>
@@ -2993,6 +2998,22 @@
 			<color2>0.087 0.147 0.190 1.000</color2>
 			<color3>1.000 1.000 1.000 1.000</color3>
 		</colorScheme>
+		<!--//PAM UNIQUE Almirante Abreu Brazil colour scheme 03-->
+		<colorScheme>
+			<name>colorSchemePAMP02</name>
+			<color0>0.006 0.013 0.066 1.000</color0>
+			<color1>0.394 0.394 0.394 1.000</color1>
+			<color2>0.389 0.298 0.000 1.000</color2>
+			<color3>0.000 0.133 0.027 1.000</color3>
+		</colorScheme>
+		<!--//PAM UNIQUE Almirante Abreu colour scheme 03-->
+		<colorScheme>
+			<name>colorSchemePAMP03</name>	
+			<color0>0.680 0.680 0.680 1.000</color0>
+			<color1>0.013 0.013 0.013 1.000</color1>
+			<color2>0.511 0.333 0.072 1.000</color2>
+			<color3>0.280 0.325 0.375 1.000</color3>
+		</colorScheme>
 		<!--//EUR naval grey colour scheme 01 tier1 tier2 tier3 tier4-->
 		<colorScheme>
 			<name>colorSchemeEUR01</name>
@@ -3889,6 +3910,22 @@
 			<color1>0.163 0.151 0.118 1.000</color1>
 			<color2>0.183 0.151 0.128 1.000</color2>
 			<color3>0.183 0.151 0.118 1.000</color3>
+		</colorScheme>
+		<!--//Ordem e Progresso color scheme 01-->
+			<colorScheme>
+				<name>colorScheme_Ordem_e_Progresso_01</name>
+				<color0>0.000 0.264 0.000 1.000</color0>
+				<color1>0.385 0.355 0.000 1.000</color1>
+				<color2>0.000 0.005 0.255 1.000</color2>
+				<color3>1.000 1.000 1.000 1.000</color3>
+			</colorScheme>
+		<!--//Arpeggio 2020 skin color scheme 01-->
+		<colorScheme>
+			<name>colorScheme_Arpeggio2020_01</name>
+			<color0>0.036 0.040 0.058 1.000</color0>
+			<color1>0.453 0.465 0.529 1.000</color1>
+			<color2>0.015 0.019 0.023 1.000</color2>
+			<color3>0.235 0.122 0.139 1.000</color3>
 		</colorScheme>
 	</ColorSchemes>
 <!--//Camouflage blocks-->
@@ -7337,6 +7374,26 @@
 		</Textures>
 		<colorSchemes>colorSchemeITA01</colorSchemes>
 	</camouflage>
+	<camouflage>
+		<annotation>Italian tile camouflage block for the ships with a texture 4096*4096+4096*4096, 2048*2048+2048*2048</annotation>
+		<name>camo_1_tile</name>
+		<shipGroups>ITA_group_4</shipGroups>
+		<tiled>true</tiled>
+		<UV>
+			<DeckHouse>2.8 2.8</DeckHouse>
+			<Tile>2.8 2.8</Tile>
+			<Gun>0.6 0.6</Gun>
+			<Director>0.6 0.6</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.25</Float>
+			<Misc>0.3 0.3</Misc>
+			<Bulge>0.7 0.7</Bulge>
+		</UV>
+		<Textures>
+			<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_13.dds</Tile>
+		</Textures>
+		<colorSchemes>colorSchemeITA01</colorSchemes>
+	</camouflage>
 		<!--//tier 2-->
 	<camouflage>
 		<annotation>Italian tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
@@ -7388,6 +7445,26 @@
 			<Tile>3 1.5</Tile>
 			<Gun>0.5 0.5</Gun>
 			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.25</Float>
+			<Misc>0.3 0.3</Misc>
+			<Bulge>1.5 1.5</Bulge>
+		</UV>
+		<Textures>
+			<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_14.dds</Tile>
+		</Textures>
+		<colorSchemes>colorSchemeITA02</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>Italian tile camouflage block for the ships with a texture 4096*4096+4096*4096, 2048*2048+2048*2048</annotation>
+		<name>camo_2_tile</name>
+		<shipGroups>ITA_group_4</shipGroups>
+		<tiled>true</tiled>
+		<UV>
+			<DeckHouse>0.97 1</DeckHouse>
+			<Tile>0.97 1</Tile>
+			<Gun>0.58 0.5</Gun>
+			<Director>0.58 0.5</Director>
 			<Plane>0.5 0.5</Plane>
 			<Float>0.5 0.25</Float>
 			<Misc>0.3 0.3</Misc>
@@ -7459,6 +7536,26 @@
 		</Textures>
 		<colorSchemes>colorSchemeITA01</colorSchemes>
 	</camouflage>
+	<camouflage>
+		<annotation>Italian tile camouflage block for the ships with a texture 4096*4096+4096*4096, 2048*2048+2048*2048</annotation>
+		<name>camo_3_tile</name>
+		<shipGroups>ITA_group_4</shipGroups>
+		<tiled>true</tiled>
+		<UV>
+			<DeckHouse>3.4 3.4</DeckHouse>
+			<Tile>3.4 3.4</Tile>
+			<Gun>0.7 0.7</Gun>
+			<Director>0.7 0.7</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.25</Float>
+			<Misc>0.3 0.3</Misc>
+			<Bulge>1.7 1.7</Bulge>
+		</UV>
+		<Textures>
+			<Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_05.dds</Tile>
+		</Textures>
+		<colorSchemes>colorSchemeITA01</colorSchemes>
+	</camouflage>
 		<!--//Economic camouflage-->
 	<camouflage>
 		<annotation>Italian economic tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
@@ -7514,6 +7611,26 @@
 			<Float>0.5 0.25</Float>
 			<Misc>0.3 0.3</Misc>
 			<Bulge>1.2 1.2</Bulge>
+		</UV>
+		<Textures>
+			<Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_04.dds</Tile>
+		</Textures>
+		<colorSchemes>colorSchemeITA03</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>Italian economic tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
+		<name>camo_economic_tile</name>
+		<shipGroups>ITA_group_4</shipGroups>
+		<tiled>true</tiled>
+		<UV>
+			<DeckHouse>3.4 3.4</DeckHouse>
+			<Tile>3.4 3.4</Tile>
+			<Gun>0.6 0.6</Gun>
+			<Director>0.6 0.6</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.25</Float>
+			<Misc>0.3 0.3</Misc>
+			<Bulge>1.7 1.7</Bulge>
 		</UV>
 		<Textures>
 			<Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_04.dds</Tile>
@@ -7959,7 +8076,7 @@
 	<camouflage>
 		<annotation>Ranked battles tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_ranked_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>3.4 3.4</DeckHouse>
@@ -8159,7 +8276,7 @@
 	<camouflage>
 		<annotation>Super Test tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_supertest_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>3.4 3.4</DeckHouse>
@@ -8359,7 +8476,7 @@
 	<camouflage>
 		<annotation>Super Test Unique tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_sts_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>3.4 3.4</DeckHouse>
@@ -8579,7 +8696,7 @@
 	<camouflage>
 		<annotation>SSE tasks tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_sse_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>3.4 3.4</DeckHouse>
@@ -8779,7 +8896,7 @@
 	<camouflage>
 		<annotation>PvE disguising type tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_pve1_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>1 1</DeckHouse>
@@ -8979,7 +9096,7 @@
 	<camouflage>
 		<annotation>PvE bright type tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_pve2_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>1 1</DeckHouse>
@@ -9180,7 +9297,7 @@
 	<camouflage>
 		<annotation>Halloween 2015 tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_halloween_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>3.4 3.4</DeckHouse>
@@ -9380,7 +9497,7 @@
 	<camouflage>
 		<annotation>Halloween 2016 tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_halloween_2016_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>2.5 4</DeckHouse>
@@ -9580,7 +9697,7 @@
 	<camouflage>
 		<annotation>NewYear 2016 tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_newyear_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>3.4 3.4</DeckHouse>
@@ -9780,7 +9897,7 @@
 	<camouflage>
 		<annotation>NewYear 2017 tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_newyear_tile_2</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>1 1</DeckHouse>
@@ -9980,7 +10097,7 @@
 	<camouflage>
 		<annotation>NY 2018 tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_newyear_tile_3</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>3.4 3.4</DeckHouse>
@@ -10180,7 +10297,7 @@
 	<camouflage>
 		<annotation>March madness basketball event tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_basketball_tile_1</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>3.4 3.4</DeckHouse>
@@ -10380,7 +10497,7 @@
 	<camouflage>
 		<annotation>March madness basketball event tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_basketball_tile_2</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>3.4 3.4</DeckHouse>
@@ -10580,7 +10697,7 @@
 	<camouflage>
 		<annotation>March madness basketball event tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_basketball_tile_3</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>3.4 3.4</DeckHouse>
@@ -10780,7 +10897,7 @@
 	<camouflage>
 		<annotation>March madness basketball event tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_basketball_tile_4</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>3.4 3.4</DeckHouse>
@@ -10980,7 +11097,7 @@
 	<camouflage>
 		<annotation>MGT-20 event tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_mgt_20_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>3.4 3.4</DeckHouse>
@@ -11180,7 +11297,7 @@
 	<camouflage>
 		<annotation>GNB tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_GNB_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>3.4 3.4</DeckHouse>
@@ -11380,7 +11497,7 @@
 	<camouflage>
 		<annotation>CN special tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_cn_special_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>3.4 3.4</DeckHouse>
@@ -11580,7 +11697,7 @@
 	<camouflage>
 		<annotation>Games Con 2016 tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_gamescon_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>2 2</DeckHouse>
@@ -11780,7 +11897,7 @@
 	<camouflage>
 		<annotation>WoWs birthday special tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_wows_birthday_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>2.5 4</DeckHouse>
@@ -11980,7 +12097,7 @@
 	<camouflage>
 		<annotation>Restless Fire tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_EU_special_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>2.5 4</DeckHouse>
@@ -12180,7 +12297,7 @@
 	<camouflage>
 		<annotation>Valentines day 2017 tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_valentine_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>1 1</DeckHouse>
@@ -12380,7 +12497,7 @@
 	<camouflage>
 		<annotation>Korea tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_korea_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>1.2 1.2</DeckHouse>
@@ -12580,7 +12697,7 @@
 	<camouflage>
 		<annotation>st. Patrick day 2017 tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_patrick_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>1 1</DeckHouse>
@@ -12780,7 +12897,7 @@
 	<camouflage>
 		<annotation>Clash of the Elements Fire tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_coefire_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>1 1</DeckHouse>
@@ -12980,7 +13097,7 @@
 	<camouflage>
 		<annotation>Clash of the Elements Water tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_coewater_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>1 1</DeckHouse>
@@ -13180,7 +13297,7 @@
 	<camouflage>
 		<annotation>Victory Day tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_victoryday_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>1 1</DeckHouse>
@@ -13380,7 +13497,7 @@
 	<camouflage>
 		<annotation>Hunt tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_hunt_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>1 1</DeckHouse>
@@ -13580,7 +13697,7 @@
 	<camouflage>
 		<annotation>Blue Lagoon tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_lagoon_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>3.4 3.4</DeckHouse>
@@ -13760,7 +13877,7 @@
 	<camouflage>
 		<annotation>Commander Day tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>Commander_day</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>3.4 3.4</DeckHouse>
@@ -13960,7 +14077,7 @@
 	<camouflage>
 		<annotation>Navy day tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>Navy_day</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>1 1</DeckHouse>
@@ -14160,7 +14277,7 @@
 	<camouflage>
 		<annotation>Sci-fi tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_SciFi_space01</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>3.4 3.4</DeckHouse>
@@ -14379,7 +14496,7 @@
 	<camouflage>
 		<annotation>TGS 2017 tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_TGS_2017_tile01</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<Tile>2.2 2.2</Tile>
@@ -14655,7 +14772,7 @@
 	<camouflage>
 		<annotation>Super Test tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>Super_ECO_Type_8</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>3.4 3.4</DeckHouse>
@@ -14855,7 +14972,7 @@
 	<camouflage>
 		<annotation>Steam tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_Steam_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>3.0 3.0</DeckHouse>
@@ -15055,7 +15172,7 @@
 	<camouflage>
 		<annotation>Viva_la_France tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_Viva_la_France_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>1 1</DeckHouse>
@@ -15255,7 +15372,7 @@
 	<camouflage>
 		<annotation>Twitch tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_twitch_tile01</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<Tile>2.2 2.2</Tile>
@@ -15454,7 +15571,7 @@
 	<camouflage>
 		<annotation>CN NY 2018 tile 01 camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_CN_NY_2018_01_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>2 2</DeckHouse>
@@ -15654,7 +15771,7 @@
 	<camouflage>
 		<annotation>CN NY 2018 tile 02 camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_CN_NY_2018_02_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>2 2</DeckHouse>
@@ -15854,7 +15971,7 @@
 	<camouflage>
 		<annotation>CN NY 2018 tile 03 camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_CN_NY_2018_03_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>2 2</DeckHouse>
@@ -16054,7 +16171,7 @@
 	<camouflage>
 		<annotation>International Women's Day 2018 tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_womens_day_2018_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>1.5 1.5</DeckHouse>
@@ -16254,7 +16371,7 @@
 	<camouflage>
 		<annotation>Pi Day 2018 tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_Pi_day_2018_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>2 2</DeckHouse>
@@ -16454,7 +16571,7 @@
 	<camouflage>
 		<annotation>Humble_Bundle tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_Humble_Bundle_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>1.6 1.6</DeckHouse>
@@ -16654,7 +16771,7 @@
 	<camouflage>
 		<annotation>Contributors 01 tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_Contributors_01_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>1 1</DeckHouse>
@@ -16854,7 +16971,7 @@
 	<camouflage>
 		<annotation>Contributors 02 tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_Contributors_02_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>1 1</DeckHouse>
@@ -17054,7 +17171,7 @@
 	<camouflage>
 		<annotation>American Arc tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_American_Arc_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>2 2</DeckHouse>
@@ -17254,7 +17371,7 @@
 	<camouflage>
 		<annotation>Azure tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_Azure_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>1.5 1.5</DeckHouse>
@@ -17454,7 +17571,7 @@
 	<camouflage>
 		<annotation>Sharks vs Eagles tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>Sharks_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>2.0 2.0</DeckHouse>
@@ -17654,7 +17771,7 @@
 	<camouflage>
 		<annotation>Sharks vs Eagles tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>Eagles_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>2.0 2.0</DeckHouse>
@@ -17854,7 +17971,7 @@
 	<camouflage>
 		<annotation>GamesCom 2018 camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>GamesCom_2018</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<Tile>2 2</Tile>
@@ -18054,7 +18171,7 @@
 	<camouflage>
 		<annotation>Union Jack tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_Union_Jack_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<Tile>2 2</Tile>
@@ -18254,7 +18371,7 @@
 	<camouflage>
 		<annotation>DMM tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>DMM_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<Tile>1 1</Tile>
@@ -18454,7 +18571,7 @@
 	<camouflage>
 		<annotation>Ovechkin camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_Ovechkin_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<Tile>3 3</Tile>
@@ -18654,7 +18771,7 @@
 	<camouflage>
 		<annotation>Thanks Giving Day camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_thxGiving_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<Tile>2.8 3.4</Tile>
@@ -18854,7 +18971,7 @@
 	<camouflage>
 		<annotation>WG_Fest tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>WG_Fest_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>3 3</DeckHouse>
@@ -19074,7 +19191,7 @@
 	<camouflage>
 		<annotation>Secret Santa 2018 camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_secretsanta2018_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<Tile>1.5 2</Tile>
@@ -19274,7 +19391,7 @@
 	<camouflage>
 		<annotation>Lunar new year 2019 camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_lunarnewyear_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<Tile>1.71 1.82</Tile>
@@ -19474,7 +19591,7 @@
 	<camouflage>
 		<annotation>Stream Dream camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_Stream_Dream_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<Tile>1.71 1.82</Tile>
@@ -19674,7 +19791,7 @@
 	<camouflage>
 		<annotation>Soviet Arc camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_Soviet_Arc_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<Tile>1 1</Tile>
@@ -19874,7 +19991,7 @@
 	<camouflage>
 		<annotation>LTT tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_LTT_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>2 2</DeckHouse>
@@ -20074,7 +20191,7 @@
 	<camouflage>
 		<annotation>Postap tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_Postap_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>2 2</DeckHouse>
@@ -20312,7 +20429,7 @@
 	<camouflage>
 		<annotation>India tile camouflage block for all ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_India_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>1.5 1.5</DeckHouse>
@@ -20512,7 +20629,7 @@
 	<camouflage>
 		<annotation>ACT tile camouflage block for all ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_ACT_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>1.5 1.5</DeckHouse>
@@ -20712,7 +20829,7 @@
 	<camouflage>
 		<annotation>Italian_Arc_tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_Italian_Arc_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>2 2</DeckHouse>
@@ -20940,7 +21057,7 @@
 	<camouflage>
 		<annotation>Volunteer tile camouflage block for all ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_Volunteer_tile_01</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>3 3</DeckHouse>
@@ -21130,7 +21247,7 @@
 	<camouflage>
 		<annotation>RexMaris tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_RexMaris_tile_01</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<Tile>2 2</Tile>
@@ -21320,7 +21437,7 @@
 	<camouflage>
 		<annotation>SwedenArc tile camouflage block for all ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_SwedenArc_tile_01</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>2 2</DeckHouse>
@@ -21519,7 +21636,7 @@
 	<camouflage>
 		<annotation>Ionasi tile camouflage block for all ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_Ionasi_tile_01</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>3 3</DeckHouse>
@@ -21772,7 +21889,7 @@
 	<camouflage>
 		<annotation>Canada day tile camouflage block for all ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_CanadaDay_tile_01</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>2.4 2.4</DeckHouse>
@@ -22082,7 +22199,7 @@
 	<camouflage>
 		<annotation>WH40K Imperial tile camouflage block for all ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_WH40K_Imperial_tile_01</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>1 1</DeckHouse>
@@ -22282,7 +22399,7 @@
 	<camouflage>
 		<annotation>WH40K Chaos tile camouflage block for all ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_WH40K_Chaos_tile_01</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>1 1</DeckHouse>
@@ -22502,7 +22619,7 @@
 	<camouflage>
 		<annotation>German Arc 2020 tile camouflage block for all ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_GermanArc_2020_tile</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<Tile>1.5 1.5</Tile>
@@ -22905,7 +23022,7 @@
 	<camouflage>
 		<annotation>Transformer Autobots tile camouflage block for all ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_Transformer_tile_01</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>1.5 1.5</DeckHouse>
@@ -23087,7 +23204,7 @@
 	<camouflage>
 		<annotation>Transformer Decepticon tile camouflage block for all ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_Transformer_tile_02</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>1.5 1.5</DeckHouse>
@@ -23303,7 +23420,7 @@
 	<camouflage>
 		<annotation>WowsBirthday5 tile camouflage block for all ships with a texture 4096*4096+4096*4096</annotation>
 		<name>camo_WowsBirthday5_tile_01</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>true</tiled>
 		<UV>
 			<DeckHouse>1 1</DeckHouse>
@@ -23425,6 +23542,243 @@
 			<Tile>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Tile>
 		</Textures>
 		<colorSchemes>colorScheme_Gothic_Bismarck_01</colorSchemes>
+	</camouflage>
+		<!--//Ordem e Progresso tile camouflage-->
+	<camouflage>
+		<annotation>Ordem e Progresso tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
+		<name>camo_Ordem_e_Progresso_tile</name>
+		<tiled>true</tiled>
+		<UV>
+			<Tile>3 3</Tile>
+			<DeckHouse>1.5 1.5</DeckHouse>
+			<Gun>0.5 0.5</Gun>
+			<Director>0.3 0.3</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.12</Float>
+			<Misc>0.3 0.6</Misc>
+			<Bulge>0.5 1</Bulge>
+		</UV>
+		<Textures>
+			<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Ordem_e_Progresso_57.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_Ordem_e_Progresso_01</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>Ordem e Progresso tile camouflage block for the ships with a texture 4096*2048</annotation>
+		<name>camo_Ordem_e_Progresso_tile</name>
+		<shipGroups>IJN_group_2 USN_group_2 RUS_group_2 UK_group_2 GER_group_2 FRA_group_2 POL_group_1 PAN_group_2 ITA_group_3 NL_group_1 EUR_group_2</shipGroups>
+		<tiled>true</tiled>
+		<UV>
+			<Tile>3 1.5</Tile>
+			<DeckHouse>0.75 0.75</DeckHouse>
+			<Gun>0.5 0.5</Gun>
+			<Director>0.3 0.3</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.12</Float>
+			<Misc>0.3 0.6</Misc>
+			<Bulge>0.5 1</Bulge>
+		</UV>
+		<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Ordem_e_Progresso_57.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_Ordem_e_Progresso_01</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>Ordem e Progresso tile camouflage block for the ships with a texture 4096*1024</annotation>
+		<name>camo_Ordem_e_Progresso_tile</name>
+		<shipGroups>RUS_group_3</shipGroups>
+		<tiled>true</tiled>
+		<UV>
+			<Tile>3 0.75</Tile>
+			<DeckHouse>0.75 0.75</DeckHouse>
+			<Gun>0.5 0.5</Gun>
+			<Director>0.3 0.3</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.12</Float>
+			<Misc>0.3 0.6</Misc>
+			<Bulge>0.5 1</Bulge>
+		</UV>
+		<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Ordem_e_Progresso_57.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_Ordem_e_Progresso_01</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>Ordem e Progresso tile camouflage block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
+		<name>camo_Ordem_e_Progresso_tile</name>
+		<shipGroups>IJN_group_3 USN_group_3 UK_group_3 GER_group_3 FRA_group_3 ITA_group_2 RUS_group_7</shipGroups>
+		<tiled>true</tiled>
+		<UV>
+			<Tile>3 3</Tile>
+			<DeckHouse>3 1.5</DeckHouse>
+			<Gun>0.5 0.5</Gun>
+			<Director>0.3 0.3</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.12</Float>
+			<Misc>0.3 0.6</Misc>
+			<Bulge>0.5 1</Bulge>
+		</UV>
+		<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Ordem_e_Progresso_57.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_Ordem_e_Progresso_01</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>Ordem e Progresso tile camouflage block for the ships with a texture 4096*4096+1024*1024</annotation>
+		<name>camo_Ordem_e_Progresso_tile</name>
+		<shipGroups>IJN_group_4 USN_group_4 RUS_group_4</shipGroups>
+		<tiled>true</tiled>
+		<UV>
+			<Tile>3 3</Tile>
+			<DeckHouse>0.75 0.75</DeckHouse>
+			<Gun>0.5 0.5</Gun>
+			<Director>0.3 0.3</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.12</Float>
+			<Misc>0.3 0.6</Misc>
+			<Bulge>0.5 1</Bulge>
+		</UV>
+		<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Ordem_e_Progresso_57.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_Ordem_e_Progresso_01</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>Ordem e Progresso tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
+		<name>camo_Ordem_e_Progresso_tile</name>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<tiled>true</tiled>
+		<UV>
+			<Tile>3 3</Tile>
+			<DeckHouse>3 3</DeckHouse>
+			<Gun>0.5 0.5</Gun>
+			<Director>0.3 0.3</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.12</Float>
+			<Misc>0.3 0.6</Misc>
+			<Bulge>0.5 1</Bulge>
+		</UV>
+		<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Ordem_e_Progresso_57.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_Ordem_e_Progresso_01</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>Ordem e Progresso tile camouflage block for the ships with a texture 4096*4096+2048*1024</annotation>
+		<name>camo_Ordem_e_Progresso_tile</name>
+		<shipGroups>RUS_group_6 GER_group_5 IJN_group_6 FRA_group_7</shipGroups>
+		<tiled>true</tiled>
+		<UV>
+			<Tile>3 3</Tile>
+			<DeckHouse>1.5 0.75</DeckHouse>
+			<Gun>0.5 0.5</Gun>
+			<Director>0.3 0.3</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.12</Float>
+			<Misc>0.3 0.6</Misc>
+			<Bulge>0.5 1</Bulge>
+		</UV>
+		<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Ordem_e_Progresso_57.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_Ordem_e_Progresso_01</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>Ordem e Progresso tile camouflage block for the ships with a texture 4096*2048+4096*4096</annotation>
+		<name>camo_Ordem_e_Progresso_tile</name>
+		<shipGroups>FRA_group_5</shipGroups>
+		<tiled>true</tiled>
+		<UV>
+			<Tile>3 1.5</Tile>
+			<DeckHouse>3 3</DeckHouse>
+			<Gun>0.5 0.5</Gun>
+			<Director>0.3 0.3</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.12</Float>
+			<Misc>0.3 0.6</Misc>
+			<Bulge>0.5 1</Bulge>
+		</UV>
+		<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Ordem_e_Progresso_57.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_Ordem_e_Progresso_01</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>Ordem e Progresso tile camouflage block for the ships with a texture 4096*2048+2048*2048, 2048*1024+1024*1024</annotation>
+		<name>camo_Ordem_e_Progresso_tile</name>
+		<shipGroups>FRA_group_6</shipGroups>
+		<tiled>true</tiled>
+		<UV>
+			<Tile>3 1.5</Tile>
+			<DeckHouse>1.5 1.5</DeckHouse>
+			<Gun>0.5 0.5</Gun>
+			<Director>0.3 0.3</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.12</Float>
+			<Misc>0.3 0.6</Misc>
+			<Bulge>0.5 1</Bulge>
+		</UV>
+		<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Ordem_e_Progresso_57.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_Ordem_e_Progresso_01</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>Ordem e Progresso tile camouflage block for the ships with a texture 4096*2048+1024*1024</annotation>
+		<name>camo_Ordem_e_Progresso_tile</name>
+		<shipGroups>FRA_group_8</shipGroups>
+		<tiled>true</tiled>
+		<UV>
+			<Tile>3 1.5</Tile>
+			<DeckHouse>0.75 0.75</DeckHouse>
+			<Gun>0.5 0.5</Gun>
+			<Director>0.3 0.3</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.12</Float>
+			<Misc>0.3 0.6</Misc>
+			<Bulge>0.5 1</Bulge>
+		</UV>
+		<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Ordem_e_Progresso_57.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_Ordem_e_Progresso_01</colorSchemes>
+	</camouflage>
+	<!--//Arpeggio 2020 skin tile camouflage 01-->
+	<camouflage>
+		<annotation>Arpeggio2020 skin camouflage block</annotation>
+		<name>camo_Maya_Arpeggio2020_1</name>
+		<tiled>true</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+		</UV>
+		<Textures>
+			<Tile>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_Arpeggio2020_01</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>Arpeggio2020 skin camouflage block</annotation>
+		<name>camo_Musashi_Arpeggio2020_1</name>
+		<tiled>true</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+		</UV>
+		<Textures>
+			<Tile>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_Arpeggio2020_01</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>Arpeggio2020 skin camouflage block</annotation>
+		<name>camo_Yamato_Arpeggio2020_1</name>
+		<tiled>true</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+		</UV>
+		<Textures>
+			<Tile>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_Arpeggio2020_01</colorSchemes>
 	</camouflage>
 	<!--//Material tile camouflages-->
 		<!--//Postap tile material 01-->
@@ -23763,7 +24117,7 @@
 	<camouflage>
 		<annotation>Postap unique permOflage block for the ships with a texture  4096*4096+4096*4096</annotation>
 		<name>mat_Postap_01</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>false</tiled>
 		<UV>
 			<DeckHouse>2 2</DeckHouse>
@@ -24443,7 +24797,7 @@
 	<camouflage>
 		<annotation>HW2019 unique permOflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>mat_HW2019_01</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>false</tiled>
 		<UV>
 			<DeckHouse>2 2</DeckHouse>
@@ -25429,7 +25783,7 @@
 	<camouflage>
 		<annotation>NewYear 2019 unique permOflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 		<name>mat_NewYear_2019</name>
-		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 ITA_group_4</shipGroups>
 		<tiled>false</tiled>
 		<UV>
 			<DeckHouse>2 2</DeckHouse>
@@ -25796,6 +26150,7 @@
 		<annotation>Steel permOflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 		<name>mat_Steel</name>
 		<targetShip>PJSB018_Yamato_1944</targetShip>
+		<targetShip>PJSB700_ARP_Yamato</targetShip>
 		<targetShip>PASC020_Des_Moines_1948</targetShip>
 		<targetShip>PJSD012_Shimakaze_1943</targetShip>
 		<tiled>false</tiled>
@@ -25879,6 +26234,78 @@
 				</Float_mgn>
 		</Textures>
 	</camouflage>
+		<!--//Black_friday 2020 tile material 01-->
+	<camouflage>
+		<annotation>Black_friday 2020 unique permOflage</annotation>
+		<name>mat_BlackFriday_2020</name>
+		<tiled>false</tiled>
+		<UV>
+			<DeckHouse>0.5 0.5</DeckHouse>
+			<Tile>1 1</Tile>
+			<Gun>0.5 0.5</Gun>
+			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.5</Float>
+			<Misc>0.3 0.3</Misc>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_a.dds</Hull>
+				<Hull_mgn>content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m> 0.9 </Influence_m>
+					<Influence_g> 0.9 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Hull_mgn>
+			<DeckHouse>content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_a.dds</DeckHouse>
+				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m> 0.9 </Influence_m>
+					<Influence_g> 0.9 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</DeckHouse_mgn>
+			<Gun>content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_a.dds</Gun>
+				<Gun_mgn>content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m> 0.9 </Influence_m>
+					<Influence_g> 0.9 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Gun_mgn>
+			<Director>content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_a.dds</Director>
+				<Director_mgn>content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m> 0.9 </Influence_m>
+					<Influence_g> 0.9 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Director_mgn>
+			<Plane>content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m> 0.9 </Influence_m>
+					<Influence_g> 0.9 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m> 0.9 </Influence_m>
+					<Influence_g> 0.9 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Float_mgn>
+			<Misc>content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_a.dds</Misc>
+				<Misc_mgn>content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m> 0.9 </Influence_m>
+					<Influence_g> 0.9 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Misc_mgn>
+			<Bulge>content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_a.dds</Bulge>
+				<Bulge_mgn>content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m> 0.9 </Influence_m>
+					<Influence_g> 0.9 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Bulge_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_a.dds</Wire>
+				<Wire_mgn>content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+		</Textures>
+	</camouflage>
 		<!--//Unique camouflage and colours block-->
 		<!--//Japanese premium ships camouflage-->
 	<camouflage>
@@ -25946,6 +26373,7 @@
 		<name>camo_permanent_1</name>
 		<targetShip>PJSC038_Atago_1944</targetShip>
 		<targetShip>PJSC708_ARP_Takao</targetShip>
+		<targetShip>PJSC718_ARP_Maya</targetShip>
 		<targetShip>PJSC598_Black_Atago</targetShip>
 		<tiled>false</tiled>
 		<UV>
@@ -26008,6 +26436,8 @@
 		<annotation>Tone unique permOflage block</annotation>
 		<name>camo_permanent_1</name>
 		<targetShip>PJSC018_Tone</targetShip>
+		<targetShip>PJSC918_Tone_Second</targetShip>
+		<targetShip>PJSC919_Tone_Third</targetShip>
 		<tiled>false</tiled>
 		<UV>
 			<Tile>1 1</Tile>
@@ -26246,6 +26676,7 @@
 		<name>camo_permanent_1</name>
 		<targetShip>PJSA507_Kaga</targetShip>
 		<targetShip>PJSA518_Kaga</targetShip>
+		<targetShip>PJSA598_Black_Kaga</targetShip>
 		<tiled>false</tiled>
 		<UV>
 			<Tile>1 1</Tile>
@@ -26333,6 +26764,7 @@
 		<name>camo_permanent_2</name>
 		<targetShip>PJSC038_Atago_1944</targetShip>
 		<targetShip>PJSC708_ARP_Takao</targetShip>
+		<targetShip>PJSC718_ARP_Maya</targetShip>
 		<targetShip>PJSC598_Black_Atago</targetShip>
 		<tiled>false</tiled>
 		<UV>
@@ -26377,6 +26809,7 @@
 		<name>camo_permanent_3</name>
 		<targetShip>PJSC038_Atago_1944</targetShip>
 		<targetShip>PJSC708_ARP_Takao</targetShip>
+		<targetShip>PJSC718_ARP_Maya</targetShip>
 		<targetShip>PJSC598_Black_Atago</targetShip>
 		<tiled>false</tiled>
 		<UV>
@@ -26400,6 +26833,7 @@
 		<name>camo_permanent_4</name>
 		<targetShip>PJSC038_Atago_1944</targetShip>
 		<targetShip>PJSC708_ARP_Takao</targetShip>
+		<targetShip>PJSC718_ARP_Maya</targetShip>
 		<targetShip>PJSC598_Black_Atago</targetShip>
 		<tiled>false</tiled>
 		<UV>
@@ -26584,6 +27018,7 @@
 		<name>camo_AzurSkin_Atago_01</name>
 		<targetShip>PJSC038_Atago_1944</targetShip>
 		<targetShip>PJSC708_ARP_Takao</targetShip>
+		<targetShip>PJSC718_ARP_Maya</targetShip>
 		<targetShip>PJSC598_Black_Atago</targetShip>
 		<tiled>false</tiled>
 			<UV>
@@ -26629,6 +27064,27 @@
 					</Misc_mgn>
 			</Textures>
 		<colorSchemes>colorScheme_AzurSkin_01</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>Ise unique permOflage block</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PJSB526_Ise</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>0.8 0.8</Gun>
+			<Director>0.8 0.8</Director>
+			<Plane>0.8 0.8</Plane>
+			<Float>0.8 0.4</Float>
+			<Misc>0.5 0.5</Misc>
+		</UV>
+		<Textures>
+			<DeckHouse>content/gameplay/common/camouflage/textures/JSB048_Ise_Hybrid_1945_DeckHouse_camo_01.dds</DeckHouse>
+			<Hull>content/gameplay/common/camouflage/textures/JSB048_Ise_Hybrid_1945_Hull_camo_01.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/AGM034_16in50_Mk7_camo_01.dds</Gun>
+		</Textures>
+		<colorSchemes>colorSchemeIJNP02</colorSchemes>
+		<colorSchemes>colorSchemeIJNP38</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Hizen unique permOflage block</annotation>
@@ -27036,6 +27492,7 @@
 		<annotation>Yamato unique permOflage block</annotation>
 		<name>camo_permanent_1</name>
 		<targetShip>PJSB018_Yamato_1944</targetShip>
+		<targetShip>PJSB700_ARP_Yamato</targetShip>
 		<tiled>false</tiled>
 		<UV>
 			<Tile>1 1</Tile>
@@ -27365,6 +27822,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Arkansas unique permOflage block</annotation>
@@ -27428,6 +27886,7 @@
 		<annotation>Atlanta unique permOflage block</annotation>
 		<name>camo_permanent_1</name>
 		<targetShip>PASC006_Atlanta_1942</targetShip>
+		<targetShip>PASC587_Black_Atlanta</targetShip>
 		<tiled>false</tiled>
 		<UV>
 			<Tile>1 1</Tile>
@@ -27748,6 +28207,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Kidd unique permOflage block</annotation>
@@ -28575,6 +29035,7 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
+		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>New York Skull unique permOflage block</annotation>
@@ -31301,6 +31762,7 @@
 		<annotation>Cossack unique permOflage block</annotation>
 		<name>camo_permanent_1</name>
 		<targetShip>PBSD517_Cossack</targetShip>
+		<targetShip>PBSD598_Black_Cossack</targetShip>
 		<tiled>false</tiled>
 		<UV>
 			<Tile>1 1</Tile>
@@ -31439,6 +31901,7 @@
 		<annotation>Cossack British Arc unique permOflage block</annotation>
 		<name>camo_british_arc</name>
 		<targetShip>PBSD517_Cossack</targetShip>
+		<targetShip>PBSD598_Black_Cossack</targetShip>
 		<tiled>false</tiled>
 		<UV>
 			<Tile>1 1</Tile>
@@ -31600,6 +32063,7 @@
 		<annotation>Cossack unique permOflage block</annotation>
 		<name>camo_Sam_1</name>
 		<targetShip>PBSD517_Cossack</targetShip>
+		<targetShip>PBSD598_Black_Cossack</targetShip>
 		<tiled>false</tiled>
 		<UV>
 			<Tile>1 1</Tile>
@@ -34356,6 +34820,7 @@
 		<annotation>Jean Bart unique permOflage block</annotation>
 		<name>camo_permanent_1</name>
 		<targetShip>PFSB518_Jean_Bart</targetShip>
+		<targetShip>PFSB599_Black_Jean_Bart</targetShip>
 		<tiled>false</tiled>
 		<UV>
 			<Tile>1 1</Tile>
@@ -35773,6 +36238,94 @@
 		</Textures>
 		<colorSchemes>colorSchemeITAP06</colorSchemes>
 	</camouflage>
+	<camouflage>
+		<annotation>Andrea Doria unique permOflage block</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PISB106_Andrea_Doria</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>0.85 0.85</Gun>
+			<Director>0.8 0.8</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.25</Float>
+			<Misc>0.3 0.3</Misc>
+		</UV>
+		<Textures>
+			<DeckHouse>content/gameplay/common/camouflage/textures/ISB012_Andrea_Doria_1940_DeckHouse_camo_01.dds</DeckHouse>
+			<Hull>content/gameplay/common/camouflage/textures/ISB012_Andrea_Doria_1940_Hull_camo_01.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Gun_tile_camo_01.dds</Gun>
+			<Director>content/gameplay/common/camouflage/textures/Gun_tile_camo_01.dds</Director>
+			<Misc>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Misc>
+		</Textures>
+		<colorSchemes>colorSchemeITAP06</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>Francesco Caracciolo unique permOflage block</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PISB107_Francesco_Caracciolo</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>1.27 0.83</Gun>
+			<Director>0.8 0.8</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.25</Float>
+			<Misc>0.3 0.3</Misc>
+		</UV>
+		<Textures>
+			<DeckHouse>content/gameplay/common/camouflage/textures/ISB005_Francesco_Caracciolo_1941_Deckhouse_camo_01.dds</DeckHouse>
+			<Hull>content/gameplay/common/camouflage/textures/ISB005_Francesco_Caracciolo_1941_Hull_camo_01.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Nelson_guns_camo_01.dds</Gun>
+			<Director>content/gameplay/common/camouflage/textures/Nelson_guns_camo_01.dds</Director>
+			<Misc>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Misc>
+		</Textures>
+		<colorSchemes>colorSchemeITAP06</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>Vittorio Veneto unique permOflage block</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PISB108_Vittorio_Veneto</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>-0.82 1</Gun>
+			<Director>-2 1</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.25</Float>
+			<Misc>0.3 0.3</Misc>
+		</UV>
+		<Textures>
+			<DeckHouse>content/gameplay/common/camouflage/textures/ISB013_Vittorio_Veneto_1944_DeckHouse_camo_01.dds</DeckHouse>
+			<Hull>content/gameplay/common/camouflage/textures/ISB013_Vittorio_Veneto_1944_Hull_camo_01.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_02.dds</Gun>
+			<Director>content/gameplay/common/camouflage/textures/R_gun_camo_02.dds</Director>
+			<Misc>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Misc>
+		</Textures>
+		<colorSchemes>colorSchemeITAP06</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>Cristoforo Colombo unique permOflage block</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PISB110_Cristoforo_Colombo</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>1 1</Gun>
+			<Director>0.8 0.8</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.25</Float>
+			<Misc>0.3 0.3</Misc>
+		</UV>
+		<Textures>
+			<DeckHouse>content/gameplay/common/camouflage/textures/ISB006_Cristoforo_Colombo_1945_DeckHouse_camo_01.dds</DeckHouse>
+			<Hull>content/gameplay/common/camouflage/textures/ISB006_Cristoforo_Colombo_1945_camo_01.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_02.dds</Gun>
+			<Director>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Director>
+			<Misc>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Misc>
+		</Textures>
+		<colorSchemes>colorSchemeITAP06</colorSchemes>
+	</camouflage>
 	<!--//Pan-America premium ships camouflage-->
 	<camouflage>
 		<annotation>Nueve de Julio unique permOflage block</annotation>
@@ -35793,6 +36346,44 @@
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>Almirante Abreu unique permOflage block</annotation>
+		<name>camo_permanent_2</name>
+		<targetShip>PVSC502_Almirante_Abreu</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>1 1</Gun>
+			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.25</Float>
+			<Misc>0.3 0.3</Misc>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/VSC002_Almirante_Abreu_1900_camo_02.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+		</Textures>
+		<colorSchemes>colorSchemePAMP02</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>Almirante Abreu unique permOflage block</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PVSC502_Almirante_Abreu</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>1 1</Gun>
+			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.25</Float>
+			<Misc>0.3 0.3</Misc>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/VSC002_Almirante_Abreu_1900_camo_01.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+		</Textures>
+		<colorSchemes>colorSchemePAMP03</colorSchemes>
 	</camouflage>
 	<!--//Europe premium ships camouflage-->
 	<camouflage>
@@ -36091,6 +36682,7 @@
 			<Tile>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Tile>
 		</Textures>
 		<colorSchemes>colorSchemeUKP11</colorSchemes>
+		<colorSchemes>colorSchemeUKP37</colorSchemes>
 	</camouflage>
 	<!--//NationX camouflage-->
 	<camouflage>
