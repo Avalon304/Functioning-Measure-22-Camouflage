@@ -29236,8 +29236,8 @@
 			<Misc>0.3 0.3</Misc>
 		</UV>
 		<Textures>
-			<DeckHouse>content/gameplay/common/camouflage/textures/skillway.dds</DeckHouse>
-			<Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Hull>
+			<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+			<Hull>content/gameplay/common/camouflage/textures/skillway.dds</Hull>
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
