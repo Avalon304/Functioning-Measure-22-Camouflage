@@ -5,7 +5,7 @@
 		<!--//1. Japanese ships with texture		2048*2048, 4096*4096, 4096*4096+2048*2048-->
 		<shipGroup>
 			<name>IJN_group_1</name>
-			<ships> PJSD002_Umikaze_1925 PJSD001_Tachibana_1912 PJSD014_Tachibana_1912_Asus PJSD024_Wakatake_1923 PJSD003_Isokaze_1917 PJSD004_Minekadze_1920 PJSD105_Mutsuki PJSD017_Kamikaze_1930 PJSD025_True_Kamikaze PJSD026_Camo_Kamikaze PJSD206_Hatsuharu PJSD106_Fubuki PJSD706_Shinonome PJSD108_Akizuki PJSD708_HSF_Harekaze PJSD012_Shimakaze_1943 PJSB011_Mikasa_1905 PJSB001_Kawachi_1912 PJSB008_Ishizuchi_1921 PJSB007_Kongo_1942 PJSB705_Kongou PJSB706_Kirishima PJSB707_Haruna PJSB708_Hiei_Arpeggio PJSB010_Nagato_1944 PJSB013_Amagi_1942 PJSB878_Ignis_Purgatio PJSB888_Ragnarok PJSB021_Izumo_1938 PZSB509_Izumo_Bajie PJSC037_Hashidate_1940 PJSC503_Katori PJSC013_Kuma_1938 PJSC004_Yubari_1944 PJSC005_Furutaka_1926 PJSC007_Aoba_1943 PJSC008_Myoko_1945 PJSC705_Myoko PJSC707_Ashigara PJSC709_Haguro PJSC737_Nachi PJSC717_Yellow_Dragon PJSC727_Blue_Dragon PJSC708_ARP_Takao PJSC718_ARP_Maya PJSC009_Mogami_1935 PJSC038_Atago_1944 PJSC598_Black_Atago PJSC012_Ibuki_1944 PJSC034_Zao_1944 PJSA002_Hosho_1939 PJSA009_Ryujo_1933 PJSA011_Hiryu_1942 PJSA017_Hakuryu_1942 PJSA917_TST_Hakuryu PJSD219_Kitakaze PJSC505_Yahagi PJSA104_Hosho PJSA106_Ryujo PJSA110_Hakuryu PJSC810_TST_ZAO PXSD016_Shimakaze_PA PJSD998_Arashi PJSC610_Kitakami</ships>
+			<ships> PJSD002_Umikaze_1925 PJSD001_Tachibana_1912 PJSD014_Tachibana_1912_Asus PJSD024_Wakatake_1923 PJSD003_Isokaze_1917 PJSD004_Minekadze_1920 PJSD105_Mutsuki PJSD017_Kamikaze_1930 PJSD025_True_Kamikaze PJSD026_Camo_Kamikaze PJSD206_Hatsuharu PJSD106_Fubuki PJSD706_Shinonome PJSD108_Akizuki PJSD708_HSF_Harekaze PJSD012_Shimakaze_1943 PJSB011_Mikasa_1905 PJSB001_Kawachi_1912 PJSB008_Ishizuchi_1921 PJSB007_Kongo_1942 PJSB705_Kongou PJSB706_Kirishima PJSB707_Haruna PJSB708_Hiei_Arpeggio PJSB010_Nagato_1944 PJSB013_Amagi_1942 PJSB878_Ignis_Purgatio PJSB888_Ragnarok PJSB021_Izumo_1938 PZSB509_Izumo_Bajie PJSC037_Hashidate_1940 PJSC503_Katori PJSC013_Kuma_1938 PJSC004_Yubari_1944 PJSC005_Furutaka_1926 PJSC007_Aoba_1943 PJSC008_Myoko_1945 PJSC705_Myoko PJSC707_Ashigara PJSC709_Haguro PJSC737_Nachi PJSC717_Yellow_Dragon PJSC727_Blue_Dragon PJSC708_ARP_Takao PJSC718_ARP_Maya PJSC009_Mogami_1935 PJSC038_Atago_1944 PJSC598_Black_Atago PJSC012_Ibuki_1944 PJSC034_Zao_1944 PJSA002_Hosho_1939 PJSA009_Ryujo_1933 PJSA011_Hiryu_1942 PJSA017_Hakuryu_1942 PJSA917_TST_Hakuryu PJSD219_Kitakaze PJSC505_Yahagi PJSA104_Hosho PJSA106_Ryujo PJSA110_Hakuryu PJSC810_TST_ZAO PXSD016_Shimakaze_PA PJSD998_Arashi PJSC610_Kitakami PJSC018_Tone PJSC918_Tone_Second PJSC919_Tone_Third</ships>
 		</shipGroup>
 		<!--//2. Japanese ships with texture		4096*2048-->
 		<shipGroup>
@@ -25,7 +25,7 @@
 		<!--//5. Japanese ships with texture		4096*4096+4096*4096-->
 		<shipGroup>
 			<name>IJN_group_5</name>
-			<ships> PJSB006_Fuso_1943 PJSA507_Kaga PJSA015_Taiho_1944 PJSB508_Kii PJSB509_Musashi PJSA518_Kaga PJSB018_Yamato_1944 PJSB510_Shikishima PJSB519_Hizen PJSB526_Ise PJSB700_ARP_Yamato PJSA598_Black_Kaga</ships>
+			<ships> PJSB006_Fuso_1943 PJSA507_Kaga PJSA015_Taiho_1944 PJSB508_Kii PJSB509_Musashi PJSA518_Kaga PJSB018_Yamato_1944 PJSB510_Shikishima PJSB519_Hizen PJSB526_Ise PJSB906_Ise_TEST1 PJSB916_Ise_TEST2 PJSB700_ARP_Yamato PJSA598_Black_Kaga</ships>
 		</shipGroup>
 		<!--//6. Japanese ships with texture		4096*4096+2048*1024-->
 		<shipGroup>
@@ -103,7 +103,7 @@
 		<!--//2. British ships with texture			4096*2048-->
 		<shipGroup>
 			<name>UK_group_2</name>
-			<ships> PBSD506_Gallant PBSC102_Weymouth PBSC103_Caledon PUSD503_Vampire PUSD507_Haida PBSD517_Cossack PBSD102_Medea PBSD103_Valkyrie PBSD104_Wakeful PBSD105_Acasta PBSD106_Icarus PBSD107_Jervis PBSD108_Lightning PBSD109_Jutland PBSD110_Daring PXSD019_Daring_PA PBSD598_Black_Cossack</ships>
+			<ships> PBSD506_Gallant PBSC102_Weymouth PBSC103_Caledon PUSD503_Vampire PUSD507_Haida PBSD517_Cossack PBSD102_Medea PBSD103_Valkyrie PBSD104_Wakeful PBSD105_Acasta PBSD106_Icarus PBSD107_Jervis PBSD108_Lightning PBSD109_Jutland PBSD110_Daring PXSD019_Daring_PA PBSD598_Black_Cossack PUSD510_Vampire_2</ships>
 		</shipGroup>
 		<!--//3. British ships with texture			4096*4096+4096*2048, 2048*2048+2048*1024-->
 		<shipGroup>
@@ -197,7 +197,7 @@
 		<!--//2. Pan-Asian ships with texture		4096*2048-->
 		<shipGroup>
 			<name>PAN_group_2</name>
-			<ships> PZSD506_Anshan PZSD103_Phra_Ruang PZSD104_Shen_Yang PZSD105_Jian_Wei PZSD106_Fu_Shun PZSD107_Gadjah_Mada PZSD108_Hsien_Yang PZSD109_Chung_Mu PZSD110_Hsiang_Yang PXSD014_Hsiang_Yang_PA PZSD208_Siliwangi_1959</ships>
+			<ships> PZSD506_Anshan PZSD103_Phra_Ruang PZSD104_Shen_Yang PZSD105_Jian_Wei PZSD106_Fu_Shun PZSD107_Gadjah_Mada PZSD108_Hsien_Yang PZSD109_Chung_Mu PZSD110_Hsiang_Yang PXSD014_Hsiang_Yang_PA PZSD208_Siliwangi_1959 PZSD518_Fen_Yang</ships>
 		</shipGroup>
 		<!--//3. Pan-Asian ships excluding Taiwan with texture		2048*2048, 4096*4096, 4096*4096+2048*2048-->
 		<shipGroup>
@@ -208,7 +208,7 @@
 		<!--//1. Italian ships with texture			2048*2048, 4096*4096, 4096*4096+2048*2048-->
 		<shipGroup>
 			<name>ITA_group_1</name>
-			<ships> PISC506_DucadAosta PISB505_Giulio_Cesare PISC507_Duca_degli_Abruzzi PISD509_Paolo_Emilio PISC505_Genova PISC102_Nino_Bixio PISC103_Taranto PISC104_Alberto_da_Giussano PISC105_Raimondo_Montecuccoli PISC106_Trento PISC107_Zara PISC108_Amalfi PISC607_Gorizia</ships>
+			<ships> PISC506_DucadAosta PISB505_Giulio_Cesare PISC507_Duca_degli_Abruzzi PISD509_Paolo_Emilio PISC505_Genova PISC102_Nino_Bixio PISC103_Taranto PISC104_Alberto_da_Giussano PISC105_Raimondo_Montecuccoli PISC106_Trento PISC107_Zara PISC108_Amalfi PISC607_Gorizia PISB104_Dante_Alighieri PISB105_Conte_di_Cavour</ships>
 		</shipGroup>
 		<!--//2. Italian ships with texture			4096*4096+4096*2048, 2048*2048+2048*1024-->
 		<shipGroup>
@@ -223,7 +223,7 @@
 		<!--//4. Italian ships with texture			4096*4096+4096*4096, 2048*2048+2048*2048-->
 		<shipGroup>
 			<name>ITA_group_4</name>
-			<ships>PISB110_Cristoforo_Colombo</ships>
+			<ships>PISB110_Cristoforo_Colombo PISB509_Marco_Polo PISB109_Lepanto</ships>
 		</shipGroup>
 	<!--//10. Pan-America ships-->
 		<!--//1. Pan-America ships with texture		2048*2048, 4096*4096, 4096*4096+2048*2048-->
@@ -781,6 +781,15 @@
 			<color1>0.300 0.300 0.300 1.000</color1>
 			<color2>0.004 0.004 0.008 1.000</color2>
 			<color3>0.300 0.300 0.300 1.000</color3>
+		</colorScheme>
+		<!--//IJN UNIQUE Ise colour scheme 55-->
+		<colorScheme>
+			<name>colorSchemeIJNP55</name>
+			<color0>0.041 0.047 0.022 0.950</color0>
+			<color1>0.067 0.028 0.015 1.000</color1>
+			<color2>0.061 0.082 0.038 0.950</color2>
+			<color3>0.208 0.220 0.130 1.000</color3>
+			<colorUI>0.509 0.529 0.278 1.000</colorUI>
 		</colorScheme>
 		<!--//USN naval blue colour scheme 01 tier1 and tier2-->
 		<colorScheme>
@@ -2982,6 +2991,14 @@
 			<color2>0.070 0.082 0.099 1.000</color2>
 			<color3>0.243 0.289 0.333 1.000</color3>
 		</colorScheme>
+		<!--//ITA UNIQUE Marco Polo colour scheme 09-->
+		<colorScheme>
+			<name>colorSchemeITAP09</name>
+			<color0>0.109 0.151 0.184 1.000</color0>
+			<color1>0.045 0.050 0.060 1.000</color1>
+			<color2>0.280 0.236 0.194 1.000</color2>
+			<color3>0.009 0.009 0.009 1.000</color3>
+		</colorScheme>
 		<!--//PAM naval blue colour scheme 01 tier1 tier2 tier3-->
 		<colorScheme>
 			<name>colorSchemePAM01</name>
@@ -3109,6 +3126,14 @@
 			<color1>0.298 0.284 0.247 1.000</color1>
 			<color2>0.157 0.032 0.032 1.000</color2>
 			<color3>0.000 0.000 0.000 0.000</color3>
+		</colorScheme>
+		<!--//Ranked battles colour scheme 03-->
+		<colorScheme>
+			<name>colorSchemeRB03</name>
+			<color0>0.060 0.010 0.010 1.000</color0>
+			<color1>0.018 0.019 0.018 1.000</color1>
+			<color2>0.280 0.010 0.010 1.000</color2>
+			<color3>0.511 0.511 0.511 1.000</color3>
 		</colorScheme>
 		<!--//ST colour scheme 01-->
 		<colorScheme>
@@ -3911,6 +3936,14 @@
 			<color2>0.183 0.151 0.128 1.000</color2>
 			<color3>0.183 0.151 0.118 1.000</color3>
 		</colorScheme>
+		<!--//CompasRose color scheme 01-->
+			<colorScheme>
+				<name>colorScheme_CompasRose_01</name>
+				<color0>0.323 0.200 0.109 1.000</color0>
+				<color1>0.038 0.016 0.012 1.000</color1>
+				<color2>0.453 0.330 0.239 1.000</color2>
+				<color3>0.038 0.016 0.012 1.000</color3>
+			</colorScheme>
 		<!--//Ordem e Progresso color scheme 01-->
 			<colorScheme>
 				<name>colorScheme_Ordem_e_Progresso_01</name>
@@ -3925,6 +3958,22 @@
 			<color0>0.036 0.040 0.058 1.000</color0>
 			<color1>0.453 0.465 0.529 1.000</color1>
 			<color2>0.015 0.019 0.023 1.000</color2>
+			<color3>0.235 0.122 0.139 1.000</color3>
+		</colorScheme>
+		<!--//NewYear 2021 skin color scheme 01-->
+		<colorScheme>
+			<name>colorScheme_NewYear2020_01</name>
+			<color0>0.009 0.009 0.009 1.000</color0>
+			<color1>0.465 0.284 0.021 1.000</color1>
+			<color2>0.542 0.542 0.542 1.000</color2>
+			<color3>0.014 0.037 0.164 1.000</color3>
+		</colorScheme>
+		<!--//Hizen dock skin color scheme 01-->
+		<colorScheme>
+			<name>colorScheme_HizenSkin_01</name>
+			<color0>0.263 0.227 0.048 1.000</color0>
+			<color1>0.001 0.020 0.056 1.000</color1>
+			<color2>0.511 0.511 0.511 1.000</color2>
 			<color3>0.235 0.122 0.139 1.000</color3>
 		</colorScheme>
 	</ColorSchemes>
@@ -23543,6 +23592,207 @@
 		</Textures>
 		<colorSchemes>colorScheme_Gothic_Bismarck_01</colorSchemes>
 	</camouflage>
+		<!--//CompasRose tile camouflage-->
+	<camouflage>
+		<annotation>CompasRose tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
+		<name>camo_CompasRose_tile</name>
+		<tiled>true</tiled>
+		<UV>
+			<Tile>1.5 1.5</Tile>
+			<DeckHouse>0.75 0.75</DeckHouse>
+			<Gun>0.4 0.4</Gun>
+			<Director>0.3 0.3</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.12</Float>
+			<Misc>0.3 0.6</Misc>
+			<Bulge>0.5 1</Bulge>
+		</UV>
+		<Textures>
+			<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_CompasRose_56.dds</Tile>
+			<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
+		</Textures>
+		<colorSchemes>colorScheme_CompasRose_01</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>CompasRose tile  block for the ships with a texture 4096*2048</annotation>
+		<name>camo_CompasRose_tile</name>
+		<shipGroups>IJN_group_2 USN_group_2 RUS_group_2 UK_group_2 GER_group_2 FRA_group_2 POL_group_1 PAN_group_2 ITA_group_3 NL_group_1 EUR_group_2</shipGroups>
+		<tiled>true</tiled>
+		<UV>
+			<DeckHouse>0.4 0.4</DeckHouse>
+			<Tile>1.5 0.75</Tile>
+			<Gun>0.5 0.5</Gun>
+			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.25</Float>
+			<Misc>0.3 0.3</Misc>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_CompasRose_56.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_CompasRose_01</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>CompasRose tile  block for the ships with a texture 4096*1024</annotation>
+		<name>camo_CompasRose_tile</name>
+		<shipGroups>RUS_group_3</shipGroups>
+		<tiled>true</tiled>
+		<UV>
+			<DeckHouse>1 1</DeckHouse>
+			<Tile>1.6 0.4</Tile>
+			<Gun>0.5 0.5</Gun>
+			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.25</Float>
+			<Misc>0.3 0.3</Misc>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_CompasRose_56.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_CompasRose_01</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>CompasRose tile  block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
+		<name>camo_CompasRose_tile</name>
+		<shipGroups>IJN_group_3 USN_group_3 UK_group_3 GER_group_3 FRA_group_3 ITA_group_2 RUS_group_7</shipGroups>
+		<tiled>true</tiled>
+		<UV>
+			<DeckHouse>1.5 0.75</DeckHouse>
+			<Tile>1.5 1.5</Tile>
+			<Gun>0.3 0.3</Gun>
+			<Director>0.3 0.3</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.25</Float>
+			<Misc>0.3 0.3</Misc>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_CompasRose_56.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_CompasRose_01</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>CompasRose tile  block for the ships with a texture 4096*4096+1024*1024</annotation>
+		<name>camo_CompasRose_tile</name>
+		<shipGroups>IJN_group_4 USN_group_4 RUS_group_4</shipGroups>
+		<tiled>true</tiled>
+		<UV>
+			<DeckHouse>0.4 0.4</DeckHouse>
+			<Tile>1.5 1.5</Tile>
+			<Gun>0.5 0.5</Gun>
+			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.25</Float>
+			<Misc>0.3 0.3</Misc>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_CompasRose_56.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_CompasRose_01</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>CompasRose tile  block for the ships with a texture 4096*4096+4096*4096</annotation>
+		<name>camo_CompasRose_tile</name>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<tiled>true</tiled>
+		<UV>
+			<DeckHouse>1.5 1.5</DeckHouse>
+			<Tile>1.5 1.5</Tile>
+			<Gun>0.4 0.4</Gun>
+			<Director>0.4 0.4</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.25</Float>
+			<Misc>0.3 0.3</Misc>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_CompasRose_56.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_CompasRose_01</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>CompasRose tile  block for the ships with a texture 4096*4096+2048*1024</annotation>
+		<name>camo_CompasRose_tile</name>
+		<shipGroups>RUS_group_6 GER_group_5 IJN_group_6 FRA_group_7</shipGroups>
+		<tiled>true</tiled>
+		<UV>
+			<DeckHouse>0.75 0.4</DeckHouse>
+			<Tile>1.5 1.5</Tile>
+			<Gun>0.4 0.4</Gun>
+			<Director>0.4 0.4</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.25</Float>
+			<Misc>0.3 0.3</Misc>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_CompasRose_56.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_CompasRose_01</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>CompasRose tile  block for the ships with a texture 4096*2048+4096*4096</annotation>
+		<name>camo_CompasRose_tile</name>
+		<shipGroups>FRA_group_5</shipGroups>
+		<tiled>true</tiled>
+		<UV>
+			<DeckHouse>1.5 1.5</DeckHouse>
+			<Tile>1.5 0.75</Tile>
+			<Gun>0.4 0.4</Gun>
+			<Director>0.4 0.4</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.25</Float>
+			<Misc>0.3 0.3</Misc>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_CompasRose_56.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_CompasRose_01</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>CompasRose tile  block for the ships with a texture 4096*2048+2048*2048, 2048*1024+1024*1024</annotation>
+		<name>camo_CompasRose_tile</name>
+		<shipGroups>FRA_group_6</shipGroups>
+		<tiled>true</tiled>
+		<UV>
+			<DeckHouse>0.75 0.75</DeckHouse>
+			<Tile>1.5 0.75</Tile>
+			<Gun>0.4 0.4</Gun>
+			<Director>0.4 0.4</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.25</Float>
+			<Misc>0.3 0.3</Misc>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_CompasRose_56.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_CompasRose_01</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>CompasRose tile  block for the ships with a texture 4096*2048+1024*1024</annotation>
+		<name>camo_CompasRose_tile</name>
+		<shipGroups>FRA_group_8</shipGroups>
+		<tiled>true</tiled>
+		<UV>
+			<DeckHouse>0.4 0.4</DeckHouse>
+			<Tile>1.5 0.75</Tile>
+			<Gun>0.4 0.4</Gun>
+			<Director>0.4 0.4</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.25</Float>
+			<Misc>0.3 0.3</Misc>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_CompasRose_56.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_CompasRose_01</colorSchemes>
+	</camouflage>
 		<!--//Ordem e Progresso tile camouflage-->
 	<camouflage>
 		<annotation>Ordem e Progresso tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
@@ -23779,6 +24029,232 @@
 			<Tile>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Tile>
 		</Textures>
 		<colorSchemes>colorScheme_Arpeggio2020_01</colorSchemes>
+	</camouflage>
+	<!--//NewYear 2021 tile camouflage-->
+	<camouflage>
+		<annotation>NY 2021 tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
+		<name>camo_NewYear2021_tile</name>
+		<tiled>true</tiled>
+		<UV>
+			<DeckHouse>0.75 0.75</DeckHouse>
+			<Tile>1.5 1.5</Tile>
+			<Gun>0.25 0.25</Gun>
+			<Director>0.2 0.2</Director>
+			<Plane>0.2 0.2</Plane>
+			<Float>0.2 0.2</Float>
+			<Misc>0.2 0.2</Misc>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<Tile>content/gameplay/common/camouflage/textures/NewYear2021_camo.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_NewYear2020_01</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>NY 2021 tile camouflage block for the ships with a texture 4096*2048</annotation>
+		<name>camo_NewYear2021_tile</name>
+		<shipGroups>IJN_group_2 USN_group_2 RUS_group_2 UK_group_2 GER_group_2 FRA_group_2 POL_group_1 PAN_group_2 ITA_group_3 NL_group_1 EUR_group_2</shipGroups>
+		<tiled>true</tiled>
+		<UV>
+			<DeckHouse>0.3 0.3</DeckHouse>
+			<Tile>0.75 0.4</Tile>
+			<Gun>0.25 0.25</Gun>
+			<Director>0.2 0.2</Director>
+			<Plane>0.2 0.2</Plane>
+			<Float>0.2 0.2</Float>
+			<Misc>0.2 0.2</Misc>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<Tile>content/gameplay/common/camouflage/textures/NewYear2021_camo.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_NewYear2020_01</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>NY 2021 tile camouflage block for the ships with a texture 4096*1024</annotation>
+		<name>camo_NewYear2021_tile</name>
+		<shipGroups>RUS_group_3 </shipGroups>
+		<tiled>true</tiled>
+		<UV>
+			<DeckHouse>0.75 0.75</DeckHouse>
+			<Tile>1.5 0.35</Tile>
+			<Gun>0.25 0.25</Gun>
+			<Director>0.2 0.2</Director>
+			<Plane>0.2 0.2</Plane>
+			<Float>0.2 0.2</Float>
+			<Misc>0.2 0.2</Misc>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<Tile>content/gameplay/common/camouflage/textures/NewYear2021_camo.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_NewYear2020_01</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>NY 2021 tile camouflage block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
+		<name>camo_NewYear2021_tile</name>
+		<shipGroups>IJN_group_3 USN_group_3 UK_group_3 GER_group_3 FRA_group_3</shipGroups>
+		<tiled>true</tiled>
+		<UV>
+			<DeckHouse>1.5 0.75</DeckHouse>
+			<Tile>1.5 1.5</Tile>
+			<Gun>0.25 0.25</Gun>
+			<Director>0.2 0.2</Director>
+			<Plane>0.2 0.2</Plane>
+			<Float>0.2 0.2</Float>
+			<Misc>0.2 0.2</Misc>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<Tile>content/gameplay/common/camouflage/textures/NewYear2021_camo.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_NewYear2020_01</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>NY 2021 tile camouflage block for the ships with a texture 4096*4096+1024*1024</annotation>
+		<name>camo_NewYear2021_tile</name>
+		<shipGroups>IJN_group_4 USN_group_4 RUS_group_4</shipGroups>
+		<tiled>true</tiled>
+		<UV>
+			<DeckHouse>0.4 0.4</DeckHouse>
+			<Tile>1.5 1.5</Tile>
+			<Gun>0.25 0.25</Gun>
+			<Director>0.2 0.2</Director>
+			<Plane>0.2 0.2</Plane>
+			<Float>0.2 0.2</Float>
+			<Misc>0.2 0.2</Misc>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<Tile>content/gameplay/common/camouflage/textures/NewYear2021_camo.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_NewYear2020_01</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>NY 2021 tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
+		<name>camo_NewYear2021_tile</name>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4</shipGroups>
+		<tiled>true</tiled>
+		<UV>
+			<DeckHouse>1.5 1.5</DeckHouse>
+			<Tile>1.5 1.5</Tile>
+			<Gun>0.3 0.3</Gun>
+			<Director>0.2 0.2</Director>
+			<Plane>0.2 0.2</Plane>
+			<Float>0.2 0.2</Float>
+			<Misc>0.2 0.2</Misc>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<Tile>content/gameplay/common/camouflage/textures/NewYear2021_camo.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_NewYear2020_01</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>NY 2021 tile camouflage block for the ships with a texture 4096*4096+2048*1024</annotation>
+		<name>camo_NewYear2021_tile</name>
+		<shipGroups>RUS_group_6 GER_group_5 IJN_group_6 FRA_group_7</shipGroups>
+		<tiled>true</tiled>
+		<UV>
+			<DeckHouse>1.5 0.75</DeckHouse>
+			<Tile>1.5 1.5</Tile>
+			<Gun>0.25 0.25</Gun>
+			<Director>0.2 0.2</Director>
+			<Plane>0.2 0.2</Plane>
+			<Float>0.2 0.2</Float>
+			<Misc>0.2 0.2</Misc>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<Tile>content/gameplay/common/camouflage/textures/NewYear2021_camo.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_NewYear2020_01</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>NY 2021 tile camouflage block for the ships with a texture 4096*2048+4096*4096</annotation>
+		<name>camo_NewYear2021_tile</name>
+		<shipGroups>FRA_group_5</shipGroups>
+		<tiled>true</tiled>
+		<UV>
+			<DeckHouse>1.5 1.5</DeckHouse>
+			<Tile>1.5 0.75</Tile>
+			<Gun>0.25 0.25</Gun>
+			<Director>0.2 0.2</Director>
+			<Plane>0.2 0.2</Plane>
+			<Float>0.2 0.2</Float>
+			<Misc>0.2 0.2</Misc>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<Tile>content/gameplay/common/camouflage/textures/NewYear2021_camo.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_NewYear2020_01</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>NY 2021 tile camouflage block for the ships with a texture 4096*2048+2048*2048, 2048*1024+1024*1024</annotation>
+		<name>camo_NewYear2021_tile</name>
+		<shipGroups>FRA_group_6</shipGroups>
+		<tiled>true</tiled>
+		<UV>
+			<DeckHouse>0.75 0.75</DeckHouse>
+			<Tile>1.5 0.75</Tile>
+			<Gun>0.25 0.25</Gun>
+			<Director>0.2 0.2</Director>
+			<Plane>0.2 0.2</Plane>
+			<Float>0.2 0.2</Float>
+			<Misc>0.2 0.2</Misc>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<Tile>content/gameplay/common/camouflage/textures/NewYear2021_camo.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_NewYear2020_01</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>NY 2021 tile camouflage block for the ships with a texture 4096*2048+1024*1024</annotation>
+		<name>camo_NewYear2021_tile</name>
+		<shipGroups>FRA_group_8</shipGroups>
+		<tiled>true</tiled>
+		<UV>
+			<DeckHouse>0.6 0.6</DeckHouse>
+			<Tile>1.5 0.75</Tile>
+			<Gun>0.25 0.25</Gun>
+			<Director>0.2 0.2</Director>
+			<Plane>0.2 0.2</Plane>
+			<Float>0.2 0.2</Float>
+			<Misc>0.2 0.2</Misc>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<Tile>content/gameplay/common/camouflage/textures/NewYear2021_camo.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_NewYear2020_01</colorSchemes>
+	</camouflage>
+		<!--//NewYear2021 skin camouflage-->
+	<camouflage>
+		<annotation>NewYear2021 skin tile camouflage block</annotation>
+		<name>camo_Strasbourg_NewYear2021</name>
+		<tiled>true</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+		</UV>
+		<Textures>
+			<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_NewYear2020_01</colorSchemes>
+	</camouflage>	
+		<!--//Hizen Dock skin camouflage-->
+	<camouflage>
+		<annotation>Hizen skin tile camouflage block</annotation>
+		<name>camo_Hizen_Dock</name>
+		<tiled>true</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+		</UV>
+		<Textures>
+			<Tile>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Tile>
+		</Textures>
+		<colorSchemes>colorScheme_HizenSkin_01</colorSchemes>
 	</camouflage>
 	<!--//Material tile camouflages-->
 		<!--//Postap tile material 01-->
@@ -26307,6 +26783,2583 @@
 		</Textures>
 	</camouflage>
 		<!--//Unique camouflage and colours block-->
+		<!--//Ranked bronze tile material 01-->
+	<camouflage>
+		<annotation>Ranked bronze camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
+		<name>mat_Ranked_bronze</name>
+		<tiled>false</tiled>
+		<UV>
+			<DeckHouse>1.5 1.5</DeckHouse>
+			<Tile>3 3</Tile>
+			<Gun>0.8 0.8</Gun>
+			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.5</Float>
+			<Misc>0.3 0.3</Misc>
+			<Wire>0.5 0.5</Wire>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Hull>
+				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Hull_mgn>
+			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</DeckHouse>
+				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</DeckHouse_mgn>
+			<Gun>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Gun>
+				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Gun_mgn>
+			<Director>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Director>
+				<Director_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Director_mgn>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+			<Misc>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Misc>
+				<Misc_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Misc_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Wire>
+				<Wire_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			<Bulge>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Bulge>
+				<Bulge_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Bulge_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Wire>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+		</Textures>
+	</camouflage>
+	<camouflage>
+		<annotation>Ranked bronze camouflage block for all ships with a texture 4096*2048</annotation>
+		<name>mat_Ranked_bronze</name>
+		<shipGroups>IJN_group_2 USN_group_2 RUS_group_2 UK_group_2 GER_group_2 FRA_group_2 POL_group_1 PAN_group_2 ITA_group_3 NL_group_1 EUR_group_2</shipGroups>
+		<tiled>false</tiled>
+		<UV>
+			<DeckHouse>1.5 1.5</DeckHouse>
+			<Tile>3 1.5</Tile>
+			<Gun>0.8 0.8</Gun>
+			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.5</Float>
+			<Misc>0.3 0.3</Misc>
+			<Wire>0.5 0.5</Wire>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Hull>
+				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Hull_mgn>
+			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</DeckHouse>
+				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</DeckHouse_mgn>
+			<Gun>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Gun>
+				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Gun_mgn>
+			<Director>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Director>
+				<Director_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Director_mgn>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+			<Misc>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Misc>
+				<Misc_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Misc_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Wire>
+				<Wire_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			<Bulge>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Bulge>
+				<Bulge_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Bulge_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Wire>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+		</Textures>
+	</camouflage>
+	<camouflage>
+		<annotation>Ranked bronze camouflage block for all ships with a texture 4096*1024</annotation>
+		<name>mat_Ranked_bronze</name>
+		<shipGroups>RUS_group_3 </shipGroups>
+		<tiled>false</tiled>
+		<UV>
+			<DeckHouse>0.75 0.75</DeckHouse>
+			<Tile>3 0.75</Tile>
+			<Gun>0.8 0.8</Gun>
+			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.5</Float>
+			<Misc>0.3 0.3</Misc>
+			<Wire>0.5 0.5</Wire>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Hull>
+				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Hull_mgn>
+			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</DeckHouse>
+				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</DeckHouse_mgn>
+			<Gun>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Gun>
+				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Gun_mgn>
+			<Director>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Director>
+				<Director_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Director_mgn>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+			<Misc>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Misc>
+				<Misc_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Misc_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Wire>
+				<Wire_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			<Bulge>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Bulge>
+				<Bulge_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Bulge_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Wire>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+		</Textures>
+	</camouflage>
+	<camouflage>
+		<annotation>Ranked bronze camouflage block for all ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
+		<name>mat_Ranked_bronze</name>
+		<shipGroups>IJN_group_3 USN_group_3 UK_group_3 GER_group_3 FRA_group_3 ITA_group_2 RUS_group_7</shipGroups>
+		<tiled>false</tiled>
+		<UV>
+			<DeckHouse>3 1.5</DeckHouse>
+			<Tile>3 3</Tile>
+			<Gun>0.8 0.8</Gun>
+			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.5</Float>
+			<Misc>0.3 0.3</Misc>
+			<Wire>0.5 0.5</Wire>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Hull>
+				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Hull_mgn>
+			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</DeckHouse>
+				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</DeckHouse_mgn>
+			<Gun>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Gun>
+				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Gun_mgn>
+			<Director>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Director>
+				<Director_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Director_mgn>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+			<Misc>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Misc>
+				<Misc_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Misc_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Wire>
+				<Wire_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			<Bulge>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Bulge>
+				<Bulge_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Bulge_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Wire>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+		</Textures>
+	</camouflage>
+	<camouflage>
+		<annotation>Ranked bronze camouflage block for all ships with a texture 4096*4096+1024*1024</annotation>
+		<name>mat_Ranked_bronze</name>
+		<shipGroups>IJN_group_4 USN_group_4 RUS_group_4</shipGroups>
+		<tiled>false</tiled>
+		<UV>
+			<DeckHouse>0.75 0.75</DeckHouse>
+			<Tile>3 3</Tile>
+			<Gun>0.8 0.8</Gun>
+			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.5</Float>
+			<Misc>0.3 0.3</Misc>
+			<Wire>0.5 0.5</Wire>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Hull>
+				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Hull_mgn>
+			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</DeckHouse>
+				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</DeckHouse_mgn>
+			<Gun>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Gun>
+				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Gun_mgn>
+			<Director>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Director>
+				<Director_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Director_mgn>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+			<Misc>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Misc>
+				<Misc_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Misc_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Wire>
+				<Wire_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			<Bulge>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Bulge>
+				<Bulge_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Bulge_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Wire>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+		</Textures>
+	</camouflage>
+	<camouflage>
+		<annotation>Ranked bronze camouflage block for all ships with a texture 4096*4096+4096*4096</annotation>
+		<name>mat_Ranked_bronze</name>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<tiled>false</tiled>
+		<UV>
+			<DeckHouse>3 3</DeckHouse>
+			<Tile>3 3</Tile>
+			<Gun>0.8 0.8</Gun>
+			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.5</Float>
+			<Misc>0.3 0.3</Misc>
+			<Wire>0.5 0.5</Wire>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Hull>
+				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Hull_mgn>
+			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</DeckHouse>
+				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</DeckHouse_mgn>
+			<Gun>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Gun>
+				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Gun_mgn>
+			<Director>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Director>
+				<Director_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Director_mgn>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+			<Misc>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Misc>
+				<Misc_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Misc_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Wire>
+				<Wire_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			<Bulge>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Bulge>
+				<Bulge_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Bulge_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Wire>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+		</Textures>
+	</camouflage>
+	<camouflage>
+		<annotation>Ranked bronze camouflage block for all ships with a texture 4096*4096+2048*1024</annotation>
+		<name>mat_Ranked_bronze</name>
+		<shipGroups>RUS_group_6 GER_group_5 IJN_group_6 FRA_group_7</shipGroups>
+		<tiled>false</tiled>
+		<UV>
+			<DeckHouse>1.5 0.75</DeckHouse>
+			<Tile>3 3</Tile>
+			<Gun>0.8 0.8</Gun>
+			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.5</Float>
+			<Misc>0.3 0.3</Misc>
+			<Wire>0.5 0.5</Wire>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Hull>
+				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Hull_mgn>
+			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</DeckHouse>
+				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</DeckHouse_mgn>
+			<Gun>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Gun>
+				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Gun_mgn>
+			<Director>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Director>
+				<Director_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Director_mgn>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+			<Misc>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Misc>
+				<Misc_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Misc_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Wire>
+				<Wire_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			<Bulge>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Bulge>
+				<Bulge_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Bulge_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Wire>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+		</Textures>
+	</camouflage>
+	<camouflage>
+		<annotation>Ranked bronze camouflage block for all ships with a texture 4096*2048+4096*4096</annotation>
+		<name>mat_Ranked_bronze</name>
+		<shipGroups>FRA_group_5</shipGroups>
+		<tiled>false</tiled>
+		<UV>
+			<DeckHouse>3 3</DeckHouse>
+			<Tile>3 1.5</Tile>
+			<Gun>0.8 0.8</Gun>
+			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.5</Float>
+			<Misc>0.3 0.3</Misc>
+			<Wire>0.5 0.5</Wire>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Hull>
+				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Hull_mgn>
+			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</DeckHouse>
+				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</DeckHouse_mgn>
+			<Gun>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Gun>
+				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Gun_mgn>
+			<Director>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Director>
+				<Director_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Director_mgn>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+			<Misc>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Misc>
+				<Misc_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Misc_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Wire>
+				<Wire_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			<Bulge>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Bulge>
+				<Bulge_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Bulge_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Wire>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+		</Textures>
+	</camouflage>
+	<camouflage>
+		<annotation>Ranked bronze camouflage block for all ships with a texture 4096*2048+2048*2048, 2048*1024+1024*1024</annotation>
+		<name>mat_Ranked_bronze</name>
+		<shipGroups>FRA_group_6</shipGroups>
+		<tiled>false</tiled>
+		<UV>
+			<DeckHouse>1.5 1.5</DeckHouse>
+			<Tile>3 1.5</Tile>
+			<Gun>0.8 0.8</Gun>
+			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.5</Float>
+			<Misc>0.3 0.3</Misc>
+			<Wire>0.5 0.5</Wire>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Hull>
+				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Hull_mgn>
+			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</DeckHouse>
+				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</DeckHouse_mgn>
+			<Gun>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Gun>
+				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Gun_mgn>
+			<Director>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Director>
+				<Director_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Director_mgn>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+			<Misc>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Misc>
+				<Misc_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Misc_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Wire>
+				<Wire_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			<Bulge>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Bulge>
+				<Bulge_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Bulge_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Wire>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+		</Textures>
+	</camouflage>
+	<camouflage>
+		<annotation>Ranked bronze camouflage block for all ships with a texture 4096*2048+1024*1024</annotation>
+		<name>mat_Ranked_bronze</name>
+		<shipGroups>FRA_group_8</shipGroups>
+		<tiled>false</tiled>
+		<UV>
+			<DeckHouse>0.75 0.75</DeckHouse>
+			<Tile>3 1.5</Tile>
+			<Gun>0.8 0.8</Gun>
+			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.5</Float>
+			<Misc>0.3 0.3</Misc>
+			<Wire>0.5 0.5</Wire>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Hull>
+				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Hull_mgn>
+			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</DeckHouse>
+				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</DeckHouse_mgn>
+			<Gun>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Gun>
+				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Gun_mgn>
+			<Director>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Director>
+				<Director_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Director_mgn>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+			<Misc>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Misc>
+				<Misc_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Misc_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Wire>
+				<Wire_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			<Bulge>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Bulge>
+				<Bulge_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Bulge_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Wire>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Bronze_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+		</Textures>
+	</camouflage>
+		<!--//Ranked silver tile material 01-->
+	<camouflage>
+		<annotation>Ranked silver camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
+		<name>mat_Ranked_silver</name>
+		<tiled>false</tiled>
+		<UV>
+			<DeckHouse>1.5 1.5</DeckHouse>
+			<Tile>3 3</Tile>
+			<Gun>0.8 0.8</Gun>
+			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.5</Float>
+			<Misc>0.3 0.3</Misc>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Hull>
+				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Hull_mgn>
+			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</DeckHouse>
+				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</DeckHouse_mgn>
+			<Gun>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Gun>
+				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Gun_mgn>
+			<Director>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Director>
+				<Director_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Director_mgn>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Float_mgn>
+			<Misc>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Misc>
+				<Misc_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Misc_mgn>
+			<Bulge>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Bulge>
+				<Bulge_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Bulge_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Wire>
+				<Wire_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Plane>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Float_mgn>
+		</Textures>
+	</camouflage>
+	<camouflage>
+		<annotation>Ranked silver camouflage block for all ships with a texture 4096*2048</annotation>
+		<name>mat_Ranked_silver</name>
+		<shipGroups>IJN_group_2 USN_group_2 RUS_group_2 UK_group_2 GER_group_2 FRA_group_2 POL_group_1 PAN_group_2 ITA_group_3 NL_group_1 EUR_group_2</shipGroups>
+		<tiled>false</tiled>
+		<UV>
+			<DeckHouse>1.5 1.5</DeckHouse>
+			<Tile>3 1.5</Tile>
+			<Gun>0.8 0.8</Gun>
+			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.5</Float>
+			<Misc>0.3 0.3</Misc>
+			<Wire>0.5 0.5</Wire>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Hull>
+				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Hull_mgn>
+			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</DeckHouse>
+				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</DeckHouse_mgn>
+			<Gun>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Gun>
+				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Gun_mgn>
+			<Director>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Director>
+				<Director_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Director_mgn>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+			<Misc>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Misc>
+				<Misc_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Misc_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Wire>
+				<Wire_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			<Bulge>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Bulge>
+				<Bulge_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Bulge_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Wire>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+		</Textures>
+	</camouflage>
+	<camouflage>
+		<annotation>Ranked silver camouflage block for all ships with a texture 4096*1024</annotation>
+		<name>mat_Ranked_silver</name>
+		<shipGroups>RUS_group_3 </shipGroups>
+		<tiled>false</tiled>
+		<UV>
+			<DeckHouse>0.75 0.75</DeckHouse>
+			<Tile>3 0.75</Tile>
+			<Gun>0.8 0.8</Gun>
+			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.5</Float>
+			<Misc>0.3 0.3</Misc>
+			<Wire>0.5 0.5</Wire>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Hull>
+				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Hull_mgn>
+			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</DeckHouse>
+				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</DeckHouse_mgn>
+			<Gun>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Gun>
+				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Gun_mgn>
+			<Director>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Director>
+				<Director_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Director_mgn>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+			<Misc>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Misc>
+				<Misc_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Misc_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Wire>
+				<Wire_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			<Bulge>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Bulge>
+				<Bulge_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Bulge_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Wire>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+		</Textures>
+	</camouflage>
+	<camouflage>
+		<annotation>Ranked silver camouflage block for all ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
+		<name>mat_Ranked_silver</name>
+		<shipGroups>IJN_group_3 USN_group_3 UK_group_3 GER_group_3 FRA_group_3 ITA_group_2 RUS_group_7</shipGroups>
+		<tiled>false</tiled>
+		<UV>
+			<DeckHouse>3 1.5</DeckHouse>
+			<Tile>3 3</Tile>
+			<Gun>0.8 0.8</Gun>
+			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.5</Float>
+			<Misc>0.3 0.3</Misc>
+			<Wire>0.5 0.5</Wire>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Hull>
+				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Hull_mgn>
+			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</DeckHouse>
+				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</DeckHouse_mgn>
+			<Gun>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Gun>
+				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Gun_mgn>
+			<Director>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Director>
+				<Director_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Director_mgn>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+			<Misc>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Misc>
+				<Misc_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Misc_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Wire>
+				<Wire_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			<Bulge>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Bulge>
+				<Bulge_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Bulge_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Wire>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+		</Textures>
+	</camouflage>
+	<camouflage>
+		<annotation>Ranked silver camouflage block for all ships with a texture 4096*4096+1024*1024</annotation>
+		<name>mat_Ranked_silver</name>
+		<shipGroups>IJN_group_4 USN_group_4 RUS_group_4</shipGroups>
+		<tiled>false</tiled>
+		<UV>
+			<DeckHouse>0.75 0.75</DeckHouse>
+			<Tile>3 3</Tile>
+			<Gun>0.8 0.8</Gun>
+			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.5</Float>
+			<Misc>0.3 0.3</Misc>
+			<Wire>0.5 0.5</Wire>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Hull>
+				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Hull_mgn>
+			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</DeckHouse>
+				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</DeckHouse_mgn>
+			<Gun>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Gun>
+				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Gun_mgn>
+			<Director>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Director>
+				<Director_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Director_mgn>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+			<Misc>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Misc>
+				<Misc_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Misc_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Wire>
+				<Wire_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			<Bulge>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Bulge>
+				<Bulge_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Bulge_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Wire>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+		</Textures>
+	</camouflage>
+	<camouflage>
+		<annotation>Ranked silver camouflage block for all ships with a texture 4096*4096+4096*4096</annotation>
+		<name>mat_Ranked_silver</name>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<tiled>false</tiled>
+		<UV>
+			<DeckHouse>3 3</DeckHouse>
+			<Tile>3 3</Tile>
+			<Gun>0.8 0.8</Gun>
+			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.5</Float>
+			<Misc>0.3 0.3</Misc>
+			<Wire>0.5 0.5</Wire>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Hull>
+				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Hull_mgn>
+			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</DeckHouse>
+				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</DeckHouse_mgn>
+			<Gun>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Gun>
+				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Gun_mgn>
+			<Director>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Director>
+				<Director_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Director_mgn>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+			<Misc>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Misc>
+				<Misc_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Misc_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Wire>
+				<Wire_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			<Bulge>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Bulge>
+				<Bulge_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Bulge_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Wire>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+		</Textures>
+	</camouflage>
+	<camouflage>
+		<annotation>Ranked silver camouflage block for all ships with a texture 4096*4096+2048*1024</annotation>
+		<name>mat_Ranked_silver</name>
+		<shipGroups>RUS_group_6 GER_group_5 IJN_group_6 FRA_group_7</shipGroups>
+		<tiled>false</tiled>
+		<UV>
+			<DeckHouse>1.5 0.75</DeckHouse>
+			<Tile>3 3</Tile>
+			<Gun>0.8 0.8</Gun>
+			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.5</Float>
+			<Misc>0.3 0.3</Misc>
+			<Wire>0.5 0.5</Wire>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Hull>
+				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Hull_mgn>
+			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</DeckHouse>
+				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</DeckHouse_mgn>
+			<Gun>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Gun>
+				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Gun_mgn>
+			<Director>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Director>
+				<Director_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Director_mgn>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+			<Misc>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Misc>
+				<Misc_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Misc_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Wire>
+				<Wire_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			<Bulge>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Bulge>
+				<Bulge_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Bulge_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Wire>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+		</Textures>
+	</camouflage>
+	<camouflage>
+		<annotation>Ranked silver camouflage block for all ships with a texture 4096*2048+4096*4096</annotation>
+		<name>mat_Ranked_silver</name>
+		<shipGroups>FRA_group_5</shipGroups>
+		<tiled>false</tiled>
+		<UV>
+			<DeckHouse>3 3</DeckHouse>
+			<Tile>3 1.5</Tile>
+			<Gun>0.8 0.8</Gun>
+			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.5</Float>
+			<Misc>0.3 0.3</Misc>
+			<Wire>0.5 0.5</Wire>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Hull>
+				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Hull_mgn>
+			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</DeckHouse>
+				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</DeckHouse_mgn>
+			<Gun>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Gun>
+				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Gun_mgn>
+			<Director>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Director>
+				<Director_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Director_mgn>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+			<Misc>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Misc>
+				<Misc_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Misc_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Wire>
+				<Wire_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			<Bulge>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Bulge>
+				<Bulge_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Bulge_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Wire>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+		</Textures>
+	</camouflage>
+	<camouflage>
+		<annotation>Ranked silver camouflage block for all ships with a texture 4096*2048+2048*2048, 2048*1024+1024*1024</annotation>
+		<name>mat_Ranked_silver</name>
+		<shipGroups>FRA_group_6</shipGroups>
+		<tiled>false</tiled>
+		<UV>
+			<DeckHouse>1.5 1.5</DeckHouse>
+			<Tile>3 1.5</Tile>
+			<Gun>0.8 0.8</Gun>
+			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.5</Float>
+			<Misc>0.3 0.3</Misc>
+			<Wire>0.5 0.5</Wire>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Hull>
+				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Hull_mgn>
+			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</DeckHouse>
+				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</DeckHouse_mgn>
+			<Gun>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Gun>
+				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Gun_mgn>
+			<Director>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Director>
+				<Director_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Director_mgn>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+			<Misc>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Misc>
+				<Misc_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Misc_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Wire>
+				<Wire_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			<Bulge>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Bulge>
+				<Bulge_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Bulge_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Wire>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+		</Textures>
+	</camouflage>
+	<camouflage>
+		<annotation>Ranked silver camouflage block for all ships with a texture 4096*2048+1024*1024</annotation>
+		<name>mat_Ranked_silver</name>
+		<shipGroups>FRA_group_8</shipGroups>
+		<tiled>false</tiled>
+		<UV>
+			<DeckHouse>0.75 0.75</DeckHouse>
+			<Tile>3 1.5</Tile>
+			<Gun>0.8 0.8</Gun>
+			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.5</Float>
+			<Misc>0.3 0.3</Misc>
+			<Wire>0.5 0.5</Wire>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Hull>
+				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Hull_mgn>
+			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</DeckHouse>
+				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</DeckHouse_mgn>
+			<Gun>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Gun>
+				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Gun_mgn>
+			<Director>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Director>
+				<Director_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Director_mgn>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+			<Misc>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Misc>
+				<Misc_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Misc_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Wire>
+				<Wire_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			<Bulge>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Bulge>
+				<Bulge_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Bulge_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Wire>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Silver_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Silver_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+		</Textures>
+	</camouflage>
+		<!--//Ranked golden tile material 01-->
+	<camouflage>
+		<annotation>Ranked golden camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
+		<name>mat_Ranked_golden</name>
+		<tiled>false</tiled>
+		<UV>
+			<DeckHouse>1.5 1.5</DeckHouse>
+			<Tile>3 3</Tile>
+			<Gun>0.8 0.8</Gun>
+			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.5</Float>
+			<Misc>0.3 0.3</Misc>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Hull>
+				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Hull_mgn>
+			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</DeckHouse>
+				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</DeckHouse_mgn>
+			<Gun>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Gun>
+				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Gun_mgn>
+			<Director>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Director>
+				<Director_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Director_mgn>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+			<Misc>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Misc>
+				<Misc_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Misc_mgn>
+			<Bulge>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Bulge>
+				<Bulge_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Bulge_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Wire>
+				<Wire_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+		</Textures>
+	</camouflage>
+	<camouflage>
+		<annotation>Ranked golden camouflage block for all ships with a texture 4096*2048</annotation>
+		<name>mat_Ranked_golden</name>
+		<shipGroups>IJN_group_2 USN_group_2 RUS_group_2 UK_group_2 GER_group_2 FRA_group_2 POL_group_1 PAN_group_2 ITA_group_3 NL_group_1 EUR_group_2</shipGroups>
+		<tiled>false</tiled>
+		<UV>
+			<DeckHouse>1.5 1.5</DeckHouse>
+			<Tile>3 1.5</Tile>
+			<Gun>0.8 0.8</Gun>
+			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.5</Float>
+			<Misc>0.3 0.3</Misc>
+			<Wire>0.5 0.5</Wire>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Hull>
+				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Hull_mgn>
+			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</DeckHouse>
+				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</DeckHouse_mgn>
+			<Gun>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Gun>
+				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Gun_mgn>
+			<Director>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Director>
+				<Director_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Director_mgn>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+			<Misc>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Misc>
+				<Misc_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Misc_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Wire>
+				<Wire_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			<Bulge>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Bulge>
+				<Bulge_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Bulge_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Wire>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+		</Textures>
+	</camouflage>
+	<camouflage>
+		<annotation>Ranked golden camouflage block for all ships with a texture 4096*1024</annotation>
+		<name>mat_Ranked_golden</name>
+		<shipGroups>RUS_group_3 </shipGroups>
+		<tiled>false</tiled>
+		<UV>
+			<DeckHouse>0.75 0.75</DeckHouse>
+			<Tile>3 0.75</Tile>
+			<Gun>0.8 0.8</Gun>
+			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.5</Float>
+			<Misc>0.3 0.3</Misc>
+			<Wire>0.5 0.5</Wire>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Hull>
+				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Hull_mgn>
+			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</DeckHouse>
+				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</DeckHouse_mgn>
+			<Gun>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Gun>
+				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Gun_mgn>
+			<Director>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Director>
+				<Director_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Director_mgn>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+			<Misc>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Misc>
+				<Misc_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Misc_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Wire>
+				<Wire_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			<Bulge>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Bulge>
+				<Bulge_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Bulge_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Wire>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+		</Textures>
+	</camouflage>
+	<camouflage>
+		<annotation>Ranked golden camouflage block for all ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
+		<name>mat_Ranked_golden</name>
+		<shipGroups>IJN_group_3 USN_group_3 UK_group_3 GER_group_3 FRA_group_3 ITA_group_2 RUS_group_7</shipGroups>
+		<tiled>false</tiled>
+		<UV>
+			<DeckHouse>3 1.5</DeckHouse>
+			<Tile>3 3</Tile>
+			<Gun>0.8 0.8</Gun>
+			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.5</Float>
+			<Misc>0.3 0.3</Misc>
+			<Wire>0.5 0.5</Wire>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Hull>
+				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Hull_mgn>
+			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</DeckHouse>
+				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</DeckHouse_mgn>
+			<Gun>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Gun>
+				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Gun_mgn>
+			<Director>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Director>
+				<Director_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Director_mgn>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+			<Misc>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Misc>
+				<Misc_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Misc_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Wire>
+				<Wire_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			<Bulge>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Bulge>
+				<Bulge_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Bulge_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Wire>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+		</Textures>
+	</camouflage>
+	<camouflage>
+		<annotation>Ranked golden camouflage block for all ships with a texture 4096*4096+1024*1024</annotation>
+		<name>mat_Ranked_golden</name>
+		<shipGroups>IJN_group_4 USN_group_4 RUS_group_4</shipGroups>
+		<tiled>false</tiled>
+		<UV>
+			<DeckHouse>0.75 0.75</DeckHouse>
+			<Tile>3 3</Tile>
+			<Gun>0.8 0.8</Gun>
+			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.5</Float>
+			<Misc>0.3 0.3</Misc>
+			<Wire>0.5 0.5</Wire>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Hull>
+				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Hull_mgn>
+			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</DeckHouse>
+				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</DeckHouse_mgn>
+			<Gun>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Gun>
+				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Gun_mgn>
+			<Director>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Director>
+				<Director_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Director_mgn>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+			<Misc>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Misc>
+				<Misc_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Misc_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Wire>
+				<Wire_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			<Bulge>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Bulge>
+				<Bulge_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Bulge_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Wire>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+		</Textures>
+	</camouflage>
+	<camouflage>
+		<annotation>Ranked golden camouflage block for all ships with a texture 4096*4096+4096*4096</annotation>
+		<name>mat_Ranked_golden</name>
+		<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4</shipGroups>
+		<tiled>false</tiled>
+		<UV>
+			<DeckHouse>3 3</DeckHouse>
+			<Tile>3 3</Tile>
+			<Gun>0.8 0.8</Gun>
+			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.5</Float>
+			<Misc>0.3 0.3</Misc>
+			<Wire>0.5 0.5</Wire>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Hull>
+				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Hull_mgn>
+			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</DeckHouse>
+				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</DeckHouse_mgn>
+			<Gun>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Gun>
+				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Gun_mgn>
+			<Director>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Director>
+				<Director_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Director_mgn>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+			<Misc>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Misc>
+				<Misc_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Misc_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Wire>
+				<Wire_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			<Bulge>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Bulge>
+				<Bulge_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Bulge_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Wire>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+		</Textures>
+	</camouflage>
+	<camouflage>
+		<annotation>Ranked golden camouflage block for all ships with a texture 4096*4096+2048*1024</annotation>
+		<name>mat_Ranked_golden</name>
+		<shipGroups>RUS_group_6 GER_group_5 IJN_group_6 FRA_group_7</shipGroups>
+		<tiled>false</tiled>
+		<UV>
+			<DeckHouse>1.5 0.75</DeckHouse>
+			<Tile>3 3</Tile>
+			<Gun>0.8 0.8</Gun>
+			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.5</Float>
+			<Misc>0.3 0.3</Misc>
+			<Wire>0.5 0.5</Wire>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Hull>
+				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Hull_mgn>
+			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</DeckHouse>
+				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</DeckHouse_mgn>
+			<Gun>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Gun>
+				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Gun_mgn>
+			<Director>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Director>
+				<Director_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Director_mgn>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+			<Misc>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Misc>
+				<Misc_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Misc_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Wire>
+				<Wire_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			<Bulge>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Bulge>
+				<Bulge_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Bulge_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Wire>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+		</Textures>
+	</camouflage>
+	<camouflage>
+		<annotation>Ranked golden camouflage block for all ships with a texture 4096*2048+4096*4096</annotation>
+		<name>mat_Ranked_golden</name>
+		<shipGroups>FRA_group_5</shipGroups>
+		<tiled>false</tiled>
+		<UV>
+			<DeckHouse>3 3</DeckHouse>
+			<Tile>3 1.5</Tile>
+			<Gun>0.8 0.8</Gun>
+			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.5</Float>
+			<Misc>0.3 0.3</Misc>
+			<Wire>0.5 0.5</Wire>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Hull>
+				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Hull_mgn>
+			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</DeckHouse>
+				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</DeckHouse_mgn>
+			<Gun>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Gun>
+				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Gun_mgn>
+			<Director>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Director>
+				<Director_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Director_mgn>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+			<Misc>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Misc>
+				<Misc_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Misc_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Wire>
+				<Wire_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			<Bulge>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Bulge>
+				<Bulge_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Bulge_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Wire>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+		</Textures>
+	</camouflage>
+	<camouflage>
+		<annotation>Ranked golden camouflage block for all ships with a texture 4096*2048+2048*2048, 2048*1024+1024*1024</annotation>
+		<name>mat_Ranked_golden</name>
+		<shipGroups>FRA_group_6</shipGroups>
+		<tiled>false</tiled>
+		<UV>
+			<DeckHouse>1.5 1.5</DeckHouse>
+			<Tile>3 1.5</Tile>
+			<Gun>0.8 0.8</Gun>
+			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.5</Float>
+			<Misc>0.3 0.3</Misc>
+			<Wire>0.5 0.5</Wire>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Hull>
+				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Hull_mgn>
+			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</DeckHouse>
+				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</DeckHouse_mgn>
+			<Gun>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Gun>
+				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Gun_mgn>
+			<Director>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Director>
+				<Director_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Director_mgn>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+			<Misc>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Misc>
+				<Misc_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Misc_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Wire>
+				<Wire_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			<Bulge>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Bulge>
+				<Bulge_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Bulge_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Wire>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+		</Textures>
+	</camouflage>
+	<camouflage>
+		<annotation>Ranked golden camouflage block for all ships with a texture 4096*2048+1024*1024</annotation>
+		<name>mat_Ranked_golden</name>
+		<shipGroups>FRA_group_8</shipGroups>
+		<tiled>false</tiled>
+		<UV>
+			<DeckHouse>0.75 0.75</DeckHouse>
+			<Tile>3 1.5</Tile>
+			<Gun>0.8 0.8</Gun>
+			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.5</Float>
+			<Misc>0.3 0.3</Misc>
+			<Wire>0.5 0.5</Wire>
+			<Bulge>1 1</Bulge>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Hull>
+				<Hull_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Hull_mgn>
+			<DeckHouse>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</DeckHouse>
+				<DeckHouse_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</DeckHouse_mgn>
+			<Gun>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Gun>
+				<Gun_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Gun_mgn>
+			<Director>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Director>
+				<Director_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Director_mgn>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+			<Misc>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Misc>
+				<Misc_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Misc_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Wire>
+				<Wire_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			<Bulge>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Bulge>
+				<Bulge_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Bulge_mgn>
+			<Wire>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Wire>
+			<Plane>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Plane>
+				<Plane_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Plane_mgn>
+			<Float>content/gameplay/common/camouflage/textures/mat_Rank_Gold_a.dds</Float>
+				<Float_mgn>content/gameplay/common/camouflage/textures/mat_Rank_Gold_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1</Influence_n>
+				</Float_mgn>
+		</Textures>
+	</camouflage>
+	<!--//Unique camouflage and colours block-->
 		<!--//Japanese premium ships camouflage-->
 	<camouflage>
 		<annotation>Tachibana unique permOflage block</annotation>
@@ -27069,6 +30122,8 @@
 		<annotation>Ise unique permOflage block</annotation>
 		<name>camo_permanent_1</name>
 		<targetShip>PJSB526_Ise</targetShip>
+		<targetShip>PJSB906_Ise_TEST1</targetShip>
+		<targetShip>PJSB916_Ise_TEST2</targetShip>
 		<tiled>false</tiled>
 		<UV>
 			<Tile>1 1</Tile>
@@ -27083,7 +30138,7 @@
 			<Hull>content/gameplay/common/camouflage/textures/JSB048_Ise_Hybrid_1945_Hull_camo_01.dds</Hull>
 			<Gun>content/gameplay/common/camouflage/textures/AGM034_16in50_Mk7_camo_01.dds</Gun>
 		</Textures>
-		<colorSchemes>colorSchemeIJNP02</colorSchemes>
+		<colorSchemes>colorSchemeIJNP55</colorSchemes>
 		<colorSchemes>colorSchemeIJNP38</colorSchemes>
 	</camouflage>
 	<camouflage>
@@ -27106,6 +30161,52 @@
 		</Textures>
 		<colorSchemes>colorSchemeIJNP02</colorSchemes>
 		<colorSchemes>colorSchemeIJNP38</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>Tachibana New Year 2021 permOflage block</annotation>
+		<name>camo_NewYear2021</name>
+		<targetShip>PJSD001_Tachibana_1912</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>0.5 0.5</Gun>
+			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.25</Float>
+			<Misc>0.3 0.3</Misc>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/JSD001_Tachibana_1912_camo_NY2021.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Gun>
+			<Director>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Director>
+			<Plane>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Plane>
+			<Float>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Float>
+			<Misc>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Misc>
+		</Textures>
+		<colorSchemes>colorScheme_NewYear2020_01</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>Yahagi New Year 2021 permOflage block</annotation>
+		<name>camo_NewYear2021</name>
+		<targetShip>PJSC505_Yahagi</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>0.5 0.5</Gun>
+			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.25</Float>
+			<Misc>0.3 0.3</Misc>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/JSC040_Yahagi_1944_camo_NY2021.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Gun>
+			<Director>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Director>
+			<Plane>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Plane>
+			<Float>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Float>
+			<Misc>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Misc>
+		</Textures>
+		<colorSchemes>colorScheme_NewYear2020_01</colorSchemes>
 	</camouflage>
 	<!--//Japanese tech tree ships camouflage-->
 	<camouflage>
@@ -27782,6 +30883,53 @@
 			<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_02.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeIJNP45</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>Furutaka New Year 2021 permOflage block</annotation>
+		<name>camo_NewYear2021</name>
+		<targetShip>PJSC005_Furutaka_1926_A_Hull</targetShip>
+		<targetShip>PJSC005_Furutaka_1926_B_Hull</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>0.5 0.5</Gun>
+			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.25</Float>
+			<Misc>0.3 0.3</Misc>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/JSC005_Furutaka_camo_NY2021.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Gun>
+			<Director>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Director>
+			<Plane>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Plane>
+			<Float>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Float>
+			<Misc>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Misc>
+		</Textures>
+		<colorSchemes>colorScheme_NewYear2020_01</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>Furutaka New Year 2021 permOflage block</annotation>
+		<name>camo_NewYear2021</name>
+		<targetShip>PJSC005_Furutaka_1926_C_Hull</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>0.5 0.5</Gun>
+			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.25</Float>
+			<Misc>0.3 0.3</Misc>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/JSC006_Furutaka_1942_camo_NY2021.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Gun>
+			<Director>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Director>
+			<Plane>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Plane>
+			<Float>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Float>
+			<Misc>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Misc>
+		</Textures>
+		<colorSchemes>colorScheme_NewYear2020_01</colorSchemes>
 	</camouflage>
 	<!--//American premium ships camouflage-->
 	<camouflage>
@@ -29879,6 +33027,53 @@
 		<colorSchemes>colorSchemeUSNP16</colorSchemes>
 		<colorSchemes>colorSchemeUSNP15</colorSchemes>
 	</camouflage>
+	<camouflage>
+		<annotation>New_York_1934 New Year 2021 permOflage block</annotation>
+		<name>camo_NewYear2021</name>
+		<targetShip>PASB006_New_York_1934_A_Hull</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>0.5 0.5</Gun>
+			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.25</Float>
+			<Misc>0.3 0.3</Misc>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/ASB006_New_York_1934_camo_NY2021.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Gun>
+			<Director>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Director>
+			<Plane>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Plane>
+			<Float>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Float>
+			<Misc>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Misc>
+		</Textures>
+		<colorSchemes>colorScheme_NewYear2020_01</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>New_York_1934 New Year 2021 permOflage block</annotation>
+		<name>camo_NewYear2021</name>
+		<targetShip>PASB006_New_York_1934_B_Hull</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>0.5 0.5</Gun>
+			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.25</Float>
+			<Misc>0.3 0.3</Misc>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/ASB022_New_York_1942_camo_NY2021.dds</Hull>
+			<DeckHouse>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</DeckHouse>
+			<Gun>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Gun>
+			<Director>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Director>
+			<Plane>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Plane>
+			<Float>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Float>
+			<Misc>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Misc>
+		</Textures>
+		<colorSchemes>colorScheme_NewYear2020_01</colorSchemes>
+	</camouflage>
 	<!--//Russian premium ships camouflage-->
 	<camouflage>
 		<annotation>Avrora unique permOflage block</annotation>
@@ -31531,6 +34726,30 @@
 		</Textures>
 		<colorSchemes>colorSchemeRUSP48</colorSchemes>
 	</camouflage>
+	<camouflage>
+		<annotation>Kotovsky New Year 2021 permOflage block</annotation>
+		<name>camo_NewYear2021</name>
+		<targetShip>PRSC215_Kotovsky</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>0.5 0.5</Gun>
+			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.25</Float>
+			<Misc>0.3 0.3</Misc>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/RSC039_Kotovsky_1938_Hull_camo_NY2021.dds</Hull>
+			<DeckHouse>content/gameplay/common/camouflage/textures/RSC039_Kotovsky_1938_DeckHouse_camo_NY2021.dds</DeckHouse>
+			<Gun>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Gun>
+			<Director>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Director>
+			<Plane>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Plane>
+			<Float>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Float>
+			<Misc>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Misc>
+		</Textures>
+		<colorSchemes>colorScheme_NewYear2020_01</colorSchemes>
+	</camouflage>
 	<!--//British premium ships camouflage-->
 	<camouflage>
 		<annotation>Warspite unique permOflage block</annotation>
@@ -32103,6 +35322,7 @@
 		<annotation>Cossack Sam Historical block</annotation>
 		<name>camo_SamHistorical_1</name>
 		<targetShip>PBSD517_Cossack</targetShip>
+		<targetShip>PBSD598_Black_Cossack</targetShip>
 		<tiled>false</tiled>
 		<UV>
 			<Tile>1 1</Tile>
@@ -32295,6 +35515,28 @@
 		</Textures>
 		<colorSchemes>colorSchemeUKP17</colorSchemes>
 		<colorSchemes>colorSchemeUKP32</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>Vampire_2 unique permOflage block</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PUSD510_Vampire_2</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>-0.8 0.8</Gun>
+			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.25</Float>
+			<Misc>0.3 0.3</Misc>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/USD003_Vampire_2_1959_camo_01.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_02.dds</Gun>
+			<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
+			<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
+		</Textures>
+		<colorSchemes>colorSchemeUKP06</colorSchemes>
+		<colorSchemes>colorSchemeUKP38</colorSchemes>
 	</camouflage>
 	<!--//British tech tree ships camouflage-->
 	<camouflage>
@@ -33172,6 +36414,30 @@
 			<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
 		</Textures>
 		<colorSchemes>colorSchemeUKP46</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>Hawkins New Year 2021 permOflage block</annotation>
+		<name>camo_NewYear2021</name>
+		<targetShip>PBSC205_Hawkins</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>0.5 0.5</Gun>
+			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.25</Float>
+			<Misc>0.3 0.3</Misc>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/BSC020_Hawkins_1940_Hull_camo_NY2021.dds</Hull>
+			<DeckHouse>content/gameplay/common/camouflage/textures/BSC020_Hawkins_1940_Deckhouse_camo_NY2021.dds</DeckHouse>
+			<Gun>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Gun>
+			<Director>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Director>
+			<Plane>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Plane>
+			<Float>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Float>
+			<Misc>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Misc>
+		</Textures>
+		<colorSchemes>colorScheme_NewYear2020_01</colorSchemes>
 	</camouflage>
 	<!--//German premium ships camouflage-->
 	<camouflage>
@@ -34732,6 +37998,29 @@
 		</Textures>
 		<colorSchemes>colorSchemeGERP37</colorSchemes>
 	</camouflage>
+	<camouflage>
+		<annotation>T_22 New Year 2021 permOflage block</annotation>
+		<name>camo_NewYear2021</name>
+		<targetShip>PGSD105_T_22</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>0.5 0.5</Gun>
+			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.25</Float>
+			<Misc>0.3 0.3</Misc>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/GSD004_T22_1945_camo_NY2021.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Gun>
+			<Director>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Director>
+			<Plane>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Plane>
+			<Float>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Float>
+			<Misc>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Misc>
+		</Textures>
+		<colorSchemes>colorScheme_NewYear2020_01</colorSchemes>
+	</camouflage>
 	<!--//French premium ships camouflage-->
 	<camouflage>
 		<annotation>Dunkerque unique permOflage block</annotation>
@@ -35961,6 +39250,26 @@
 		</Textures>
 		<colorSchemes>colorSchemePAN06</colorSchemes>
 	</camouflage>
+	<camouflage>
+		<annotation>Fen Yang permoflage block</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PZSD518_Fen_Yang</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>0.3 0.5</Gun>
+			<Director>1 1</Director>
+			<Plane>1 1</Plane>
+			<Float>1 1</Float>
+			<Misc>1 1</Misc>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/ZSD014_Fen_Yang_1949_camo_01.dds</Hull>
+			<DeckHouse>content/gameplay/common/camouflage/textures/ZSD014_Fen_Yang_1949_Deckhouse_camo_01.dds</DeckHouse>
+			<Gun>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_Italian_Arc_camo_52.dds</Gun>
+		</Textures>
+		<colorSchemes>colorSchemePAN02</colorSchemes>
+	</camouflage>
 	<!--//Italian premium ships camouflage-->
 	<camouflage>
 		<annotation>Duca d Aosta unique permOflage block</annotation>
@@ -36139,6 +39448,28 @@
 		</Textures>
 		<colorSchemes>colorSchemeITAP08</colorSchemes>
 	</camouflage>
+	<camouflage>
+		<annotation>Marco Polo unique permOflage block</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PISB509_Marco_Polo</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>0.6 0.6</Gun>
+			<Director>0.30 0.30</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.25</Float>
+			<Misc>0.3 0.3</Misc>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/ISB008_Marco_Polo_1942_hull_camo_01.dds</Hull>
+			<DeckHouse>content/gameplay/common/camouflage/textures/ISB008_Marco_Polo_1942_deckhouse_camo_01.dds</DeckHouse>
+			<Gun>content/gameplay/common/camouflage/textures/Nelson_guns_camo_02.dds</Gun>
+			<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
+			<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
+		</Textures>
+		<colorSchemes>colorSchemeITAP09</colorSchemes>
+	</camouflage>
 		<!--//Italian tech tree ships camouflage-->
 	<camouflage>
 		<annotation>Trento unique permOflage block</annotation>
@@ -36303,6 +39634,28 @@
 			<Misc>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Misc>
 		</Textures>
 		<colorSchemes>colorSchemeITAP06</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>Lepanto unique permOflage block</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PISB109_Lepanto</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>1 1</Gun>
+			<Director>1 1</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.25</Float>
+			<Misc>0.3 0.3</Misc>
+		</UV>
+		<Textures>
+			<DeckHouse>content/gameplay/common/camouflage/textures/\ISB007_Lepanto_1945_camo_DeckHouse_01.dds</DeckHouse>
+			<Hull>content/gameplay/common/camouflage/textures/\ISB007_Lepanto_1945_camo_01.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_02.dds</Gun>
+			<Director>content/gameplay/common/camouflage/textures/R_gun_camo_02.dds</Director>
+			<Misc>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Misc>
+		</Textures>
+		<colorSchemes>colorSchemeITAP03</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Cristoforo Colombo unique permOflage block</annotation>
@@ -36640,6 +39993,29 @@
 			<Gun>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Gun>
 		</Textures>
 		<colorSchemes>colorSchemeEURP03</colorSchemes>
+	</camouflage>
+	<camouflage>
+		<annotation>Visby New Year 2021 permOflage block</annotation>
+		<name>camo_NewYear2021</name>
+		<targetShip>PWSD105_Visby</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>0.5 0.5</Gun>
+			<Director>0.5 0.5</Director>
+			<Plane>0.5 0.5</Plane>
+			<Float>0.5 0.25</Float>
+			<Misc>0.3 0.3</Misc>
+		</UV>
+		<Textures>
+			<Hull>content/gameplay/common/camouflage/textures/WSD007_Visby_1945_camo_NY2021.dds</Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Gun>
+			<Director>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Director>
+			<Plane>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Plane>
+			<Float>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Float>
+			<Misc>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_misc_NY2021.dds</Misc>
+		</Textures>
+		<colorSchemes>colorScheme_NewYear2020_01</colorSchemes>
 	</camouflage>
 	<!--//Netherlands premium ships camouflage-->
 	<camouflage>
