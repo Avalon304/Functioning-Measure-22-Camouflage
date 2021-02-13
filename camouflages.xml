@@ -33451,14 +33451,14 @@
 			<Misc>1 1</Misc>
 		</UV>
 		<Textures>
-			<Hull>content/gameplay/common/camouflage/textures/ASC065_Austin_1952_camo_01.dds</Hull>
-			<DeckHouse>content/gameplay/common/camouflage/textures/ASC065_Austin_1952_Deckhouse_camo_01.dds</DeckHouse>
-			<Gun>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Gun>
+			<Hull>content/gameplay/common/camouflage/textures/austin.dds</Hull>
+			<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 			<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
-			<Misc>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Misc>
+			<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
 		</Textures>
+		<colorSchemes>colorSchemeUSNP16</colorSchemes>
 		<colorSchemes>colorSchemeUSNP15</colorSchemes>
-		<colorSchemes>colorSchemeUSNP48</colorSchemes>
 	</camouflage>
 	<!--//Russian premium ships camouflage-->
 	<camouflage>
