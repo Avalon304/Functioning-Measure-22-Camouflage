@@ -37,7 +37,7 @@
 		<!--//1. American ships with texture		2048*2048, 4096*4096, 4096*4096+2048*2048-->
 		<shipGroup>
 			<name>USN_group_1</name>
-			<ships> PASD002_Sampson_1917 PASD502_Smith PASD027_Wickes_1918 PASD019_Clemson_1920 PASD014_Leader_1919 PASD005_Farragut_1944 PASD006_Mahan_1936 PASD029_Sims_1941 PASD008_Benson_1945 PASD013_Gearing_1945 PASB001_Michigan_1916 PASB004_Arkansas_1912 PASB013_Arkansas_1912 PASB006_New_York_1934 PASB705_Texas_1944 PASB034_New_Mexico_1941 PASB012_North_Carolina_1945 PASB508_Alabama PASB708_Alabama PASB018_Iowa_1944 PASB509_Missouri PASC001_Erie_1936 PASC002_Chester_1908 PASC003_Albany_1898 PASC004_St_Louis_1906 PASC024_Phoenix_1917 PASC005_Omaha_1923 PASC044_Marblehead_1924 PASC045_Marblehead_1924_Asus PASC007_Cleveland_1945 PASC208_Cleveland PASC012_Pensacola_1944 PASC106_Pensacola_1944 PASC006_Atlanta_1942 PASC507_Indianapolis_1945 PASC707_Flint PASC014_New_Orlean_1944 PASC107_New_Orlean_1944 PASC017_Baltimore_1944 PASC108_Baltimore_1944 PASC020_Des_Moines_1948 PASA004_Langley_1929 PASA006_Independence_1945 PASA507_Saipan_1946 PASA012_Lexington_1944 PASA013_Essex_1945 PASB518_Massachusetts PASB598_Black_Massachusetts PASC710_Salem PASC109_Buffalo PASC206_Dallas PASC209_Seattle PASC210_Worcester PASC597_Nueve_de_Julio_1951 PASC503_Charleston PASA104_Langley PASA108_Lexington PASA528_Saipan PASC718_AZUR_Montpelier PASD810_TST_GEARING PASB729_Georgia PASD505_Hill PXSD017_Gearing_PA PASD597_Black_Sims PASC518_Anchorage PASC587_Black_Atlanta</ships>
+			<ships> PASD002_Sampson_1917 PASD502_Smith PASD027_Wickes_1918 PASD019_Clemson_1920 PASD014_Leader_1919 PASD005_Farragut_1944 PASD006_Mahan_1936 PASD029_Sims_1941 PASD008_Benson_1945 PASD013_Gearing_1945 PASB001_Michigan_1916 PASB004_Arkansas_1912 PASB013_Arkansas_1912 PASB006_New_York_1934 PASB705_Texas_1944 PASB034_New_Mexico_1941 PASB012_North_Carolina_1945 PASB508_Alabama PASB528_Alabama_VL PASB708_Alabama PASB018_Iowa_1944 PASB509_Missouri PASC001_Erie_1936 PASC002_Chester_1908 PASC003_Albany_1898 PASC004_St_Louis_1906 PASC024_Phoenix_1917 PASC005_Omaha_1923 PASC044_Marblehead_1924 PASC045_Marblehead_1924_Asus PASC007_Cleveland_1945 PASC208_Cleveland PASC012_Pensacola_1944 PASC106_Pensacola_1944 PASC006_Atlanta_1942 PASC507_Indianapolis_1945 PASC707_Flint PASC014_New_Orlean_1944 PASC107_New_Orlean_1944 PASC017_Baltimore_1944 PASC108_Baltimore_1944 PASC020_Des_Moines_1948 PASA004_Langley_1929 PASA006_Independence_1945 PASA507_Saipan_1946 PASA012_Lexington_1944 PASA013_Essex_1945 PASB518_Massachusetts PASB598_Black_Massachusetts PASC710_Salem PASC109_Buffalo PASC206_Dallas PASC209_Seattle PASC210_Worcester PASC597_Nueve_de_Julio_1951 PASC503_Charleston PASA104_Langley PASA108_Lexington PASA528_Saipan PASC718_AZUR_Montpelier PASD810_TST_GEARING PASB729_Georgia PASD505_Hill PXSD017_Gearing_PA PASD597_Black_Sims PASC518_Anchorage PASC587_Black_Atlanta</ships>
 		</shipGroup>
 		<!--//2. American ships with texture		4096*2048-->
 		<shipGroup>
@@ -104,7 +104,7 @@
 		<!--//1. British ships with texture			2048*2048, 4096*4096, 4096*4096+2048*2048-->
 		<shipGroup>
 			<name>UK_group_1</name>
-			<ships> PBSD503_Campbeltown_1941 PBSB002_Warspite_1941 PBSC101_Black_Swan PBSC104_Danae PBSC105_Emerald PBSC106_Leander PUSC506_Perth_1942 PBSC107_Fiji PBSC507_Belfast_1959 PBSC528_Belfast_1943 PBSC108_Edinburgh PBSC109_Neptune PBSB103_Bellerophon PBSB104_Orion PBSB105_Iron_Duke PBSB106_Queen_Elizabeth PBSB503_Dreadnought PBSA204_Hermes PBSC505_Exeter PBSC210_Goliath PBSC205_Hawkins PBSC207_Surrey PBSC208_Albemarle PBSC209_Drake PBSC516_London PUSC516_Mysore</ships>
+			<ships> PBSD503_Campbeltown_1941 PBSB002_Warspite_1941 PBSC101_Black_Swan PBSC104_Danae PBSC105_Emerald PBSC106_Leander PUSC506_Perth_1942 PBSC107_Fiji PBSC507_Belfast_1959 PBSC528_Belfast_1943 PBSC108_Edinburgh PBSC109_Neptune PBSB103_Bellerophon PBSB104_Orion PBSB105_Iron_Duke PBSB106_Queen_Elizabeth PBSB503_Dreadnought PBSA204_Hermes PBSC505_Exeter PBSC210_Goliath PBSC205_Hawkins PBSC207_Surrey PBSC208_Albemarle PBSC209_Drake PBSC516_London PUSC516_Mysore PBSC518_Tiger_1959</ships>
 		</shipGroup>
 		<!--//2. British ships with texture			4096*2048-->
 		<shipGroup>
@@ -125,7 +125,7 @@
 		<!--//1. German ships with texture			2048*2048, 4096*4096, 4096*4096+2048*2048-->
 		<shipGroup>
 			<name>GER_group_1</name>
-			<ships> PGSD102_V_25 PGSD103_G_101 PGSD110_Z_52 PGSB103_Nassau PGSB503_Koenig_Albert PGSB104_Kaiser PGSB105_Koenig PGSB106_Bayern PGSB108_Bismarck PGSB002_Tirpiz_1942 PGSB598_Black_Tirpitz PGSC105_Konigsberg PGSC106_Nurnberg PGSC506_Admiral_Graf_Spee PGSC706_HSF_Graf_Spee PGSC107_Yorck PGSC508_Prinz_Eugen PGSC109_Roon PGSD508_Z_39 PGSC509_Siegfried PXSD013_Z_52_PA PGSB508_Odin PGSC507_Munchen PGSD210_Elbing PGSD207_Z_31</ships>
+			<ships> PGSD102_V_25 PGSD103_G_101 PGSD110_Z_52 PGSB103_Nassau PGSB503_Koenig_Albert PGSB104_Kaiser PGSB105_Koenig PGSB106_Bayern PGSB108_Bismarck PGSB002_Tirpiz_1942 PGSB598_Black_Tirpitz PGSC105_Konigsberg PGSC106_Nurnberg PGSC506_Admiral_Graf_Spee PGSC706_HSF_Graf_Spee PGSC107_Yorck PGSC508_Prinz_Eugen PGSC109_Roon PGSD508_Z_39 PGSC509_Siegfried PXSD013_Z_52_PA PGSB508_Odin PGSC507_Munchen PGSD210_Elbing PGSD207_Z_31 PGSC517_Weimar</ships>
 		</shipGroup>
 		<!--//2. German ships with texture			4096*2048, 4096*2048+1024*1024-->
 		<shipGroup>
@@ -1188,6 +1188,46 @@
 			<color3>0.042 0.065 0.105 1.000</color3>
 			<colorUI>0.049 0.076 0.139 1.000</colorUI>
 		</colorScheme>
+		<!--//USN UNIQUE Alabama Veteran VL colour scheme 56-->
+		<colorScheme>
+			<name>colorSchemeUSNP56</name>
+			<color0>0.011 0.011 0.011 1.000</color0>
+			<color1>0.511 0.511 0.511 1.000</color1>
+			<color2>0.170 0.037 0.517 1.000</color2>
+			<color3>0.511 0.280 0.072 1.000</color3>
+		</colorScheme>
+		<!--//USN UNIQUE Alabama Veteran VL colour scheme 57-->
+		<colorScheme>
+			<name>colorSchemeUSNP57</name>
+			<color0>0.011 0.011 0.011 1.000</color0>
+			<color1>0.511 0.511 0.511 1.000</color1>
+			<color2>0.037 0.148 0.517 1.000</color2>
+			<color3>0.511 0.280 0.072 1.000</color3>
+		</colorScheme>
+		<!--//USN UNIQUE Alabama Veteran VL colour scheme 58-->
+		<colorScheme>
+			<name>colorSchemeUSNP58</name>
+			<color0>0.011 0.011 0.011 1.000</color0>
+			<color1>0.511 0.511 0.511 1.000</color1>
+			<color2>0.022 0.316 0.239 1.000</color2>
+			<color3>0.511 0.280 0.072 1.000</color3>
+		</colorScheme>
+		<!--//USN UNIQUE Alabama Veteran VL colour scheme 59-->
+		<colorScheme>
+			<name>colorSchemeUSNP59</name>
+			<color0>0.011 0.011 0.011 1.000</color0>
+			<color1>0.511 0.511 0.511 1.000</color1>
+			<color2>0.316 0.145 0.015 1.000</color2>
+			<color3>0.511 0.280 0.072 1.000</color3>
+		</colorScheme>
+		<!--//USN UNIQUE Alabama Veteran VL colour scheme 60-->
+		<colorScheme>
+			<name>colorSchemeUSNP60</name>
+			<color0>0.011 0.011 0.011 1.000</color0>
+			<color1>0.511 0.511 0.511 1.000</color1>
+			<color2>0.517 0.037 0.037 1.000</color2>
+			<color3>0.511 0.280 0.072 1.000</color3>
+		</colorScheme>
 		<!--//RUS naval blue colour scheme 01 tier1-->
 		<colorScheme>
 			<name>colorSchemeRUS01</name>
@@ -1675,6 +1715,15 @@
 			<color2>0.276 0.272 0.276 1.000</color2>
 			<color3>0.045 0.043 0.038 1.000</color3>
 		</colorScheme>
+		<!--//RUS Ochakov custom colour scheme 2, based on colorSchemeRUSP42 with different colorUI -->
+		<colorScheme>
+			<name>colorSchemeRUSOchakov2</name>
+			<color0>0.350 0.350 0.351 1.000</color0>
+			<color1>0.140 0.200 0.150 1.000</color1>
+			<color2>0.012 0.012 0.012 1.000</color2>
+			<color3>0.160 0.100 0.070 1.000</color3>
+			<colorUI>0.878 0.878 0.878 1.000</colorUI>
+		</colorScheme>
 		<!--//UK naval blue colour scheme 01 tier1 tier2 tier3-->
 		<colorScheme>
 			<name>colorSchemeUK01</name>
@@ -2099,6 +2148,15 @@
 			<color2>0.258 0.277 0.234 1.000</color2>
 			<color3>0.090 0.116 0.084 1.000</color3>
 			<colorUI>0.247 0.262 0.203 1.000</colorUI>
+		</colorScheme>
+		<!--//UK Goliath custom colour scheme 2, based on colorSchemeUKP38 with different colorUI -->
+		<colorScheme>
+			<name>colorSchemeUKGoliath2</name>
+			<color0>0.012 0.041 0.056 1.000</color0>
+			<color1>0.135 0.129 0.086 1.000</color1>
+			<color2>0.258 0.277 0.234 1.000</color2>
+			<color3>0.090 0.116 0.084 1.000</color3>
+			<colorUI>0.639 0.552 0.384 1.000</colorUI>
 		</colorScheme>
 		<!--//UK UNIQUE Implacable collection colour scheme 39-->
 		<colorScheme>
@@ -2572,6 +2630,15 @@
 			<color3>0.078 0.111 0.142 1.000</color3>
 			<colorUI>0.168 0.231 0.290 1.000</colorUI>
 		</colorScheme>
+		<!--//GER UNIQUE Weimar Maerker colour scheme 09-->
+		<colorScheme>
+			<name>colorSchemeGERP47</name>
+			<color0>0.300 0.300 0.300 0.750</color0>
+			<color1>0.035 0.030 0.032 1.000</color1>
+			<color2>0.150 0.130 0.130 1.000</color2>
+			<color3>0.447 0.431 0.431 0.750</color3>
+			<colorUI>0.427 0.466 0.494 1.000</colorUI>
+		</colorScheme>
 		<!--//GER UNIQUE Max_Immelmann colour scheme 07--> 
 		<colorScheme>
 			<name>colorSchemeGER07</name>
@@ -2941,6 +3008,14 @@
 			<color2>0.000 0.020 0.028 0.900</color2>
 			<color3>0.485 0.525 0.425 0.700</color3>
 		</colorScheme>
+		<!--//PAN naval green colour scheme 10 tier10-->
+		<colorScheme>
+			<name>colorSchemePAN10</name>
+			<color0>0.120 0.300 0.520 1.000</color0>
+			<color1>0.324 0.431 0.600 1.000</color1>
+			<color2>0.012 0.002 0.125 1.000</color2>
+			<color3>0.032 0.0652 0.325 1.000</color3>
+		</colorScheme>
 		<!--//ITA naval blue colour scheme 01 tier1 and tier3-->
 		<colorScheme>
 			<name>colorSchemeITA01</name>
@@ -3140,6 +3215,24 @@
 			<color1>0.140 0.140 0.147 1.000</color1>
 			<color2>0.020 0.020 0.020 1.000</color2>
 			<color3>0.100 0.100 0.100 1.000</color3>
+		</colorScheme>
+		<!--//EUR Mysore custom colour scheme 1, based on colorSchemeUKP11 with different colorUI -->
+		<colorScheme>
+			<name>colorSchemeEURMysore1</name>
+			<color0>0.043 0.064 0.074 1.000</color0>
+			<color1>0.330 0.330 0.310 1.000</color1>
+			<color2>0.043 0.064 0.074 1.000</color2>
+			<color3>0.160 0.240 0.280 1.000</color3>
+			<colorUI>0.392 0.435 0.490 1.000</colorUI>
+		</colorScheme>
+		<!--//EUR Mysore custom colour scheme 2, based on colorSchemeUKP37 with different colorUI -->
+		<colorScheme>
+			<name>colorSchemeEURMysore2</name>
+			<color0>0.135 0.129 0.086 1.000</color0>
+			<color1>0.012 0.041 0.056 1.000</color1>
+			<color2>0.208 0.227 0.184 1.000</color2>
+			<color3>0.070 0.096 0.064 1.000</color3>
+			<colorUI>0.639 0.552 0.384 1.000</colorUI>
 		</colorScheme>
 		<!--//NL naval grey colour scheme 01 tier1 tier2 tier3 tier4-->
 		<colorScheme>
@@ -24782,6 +24875,186 @@
 			</Textures>
 			<colorSchemes>colorSchemeITAP11</colorSchemes>
 		</camouflage>
+		<!--//Navy_day_CN tile camouflage-->
+		<camouflage>
+			<annotation>Navy_day_CN tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
+			<name>camo_Navy_day_CN_tile</name>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>2 2</Tile>
+				<DeckHouse>1 1</DeckHouse>
+				<Gun>0.3 0.3</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_CNVMF.dds</Tile>
+			</Textures>
+			<colorSchemes>colorSchemePAN10</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Navy_day_CN tile camouflage block for the ships with a texture 4096*2048</annotation>
+			<name>camo_Navy_day_CN_tile</name>
+			<shipGroups>IJN_group_2 USN_group_2 RUS_group_2 UK_group_2 GER_group_2 FRA_group_2 POL_group_1 PAN_group_2 ITA_group_3 NL_group_1 EUR_group_2 PAM_group_3</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>2.5 1.25</Tile>
+				<DeckHouse>0.5 0.5</DeckHouse>
+				<Gun>0.25 0.25</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_CNVMF.dds</Tile>
+			</Textures>
+			<colorSchemes>colorSchemePAN10</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Navy_day_CN tile camouflage block for the ships with a texture 4096*1024</annotation>
+			<name>camo_Navy_day_CN_tile</name>
+			<shipGroups>RUS_group_3</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>2 0.5</Tile>
+				<DeckHouse>0.75 0.75</DeckHouse>
+				<Gun>0.5 0.5</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_CNVMF.dds</Tile>
+			</Textures>
+			<colorSchemes>colorSchemePAN10</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Navy_day_CN tile camouflage block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
+			<name>camo_Navy_day_CN_tile</name>
+			<shipGroups>IJN_group_3 USN_group_3 UK_group_3 GER_group_3 FRA_group_3 ITA_group_2 RUS_group_7 PAM_group_2</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>2 2</Tile>
+				<DeckHouse>2 1</DeckHouse>
+				<Gun>0.5 0.5</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_CNVMF.dds</Tile>
+			</Textures>
+			<colorSchemes>colorSchemePAN10</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Navy_day_CN tile camouflage block for the ships with a texture 4096*4096+1024*1024</annotation>
+			<name>camo_Navy_day_CN_tile</name>
+			<shipGroups>IJN_group_4 USN_group_4 RUS_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>2 2</Tile>
+				<DeckHouse>0.75 0.75</DeckHouse>
+				<Gun>0.5 0.5</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_CNVMF.dds</Tile>
+			</Textures>
+			<colorSchemes>colorSchemePAN10</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Navy_day_CN tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
+			<name>camo_Navy_day_CN_tile</name>
+			<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 PAN_group_4 ITA_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>2 2</Tile>
+				<DeckHouse>2 2</DeckHouse>
+				<Gun>0.5 0.5</Gun>
+				<Director>0.2 0.2</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_CNVMF.dds</Tile>
+			</Textures>
+			<colorSchemes>colorSchemePAN10</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Navy_day_CN tile camouflage block for the ships with a texture 4096*4096+2048*1024</annotation>
+			<name>camo_Navy_day_CN_tile</name>
+			<shipGroups>RUS_group_6 USN_group_6 GER_group_5 IJN_group_6 FRA_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>2 2</Tile>
+				<DeckHouse>1.5 0.75</DeckHouse>
+				<Gun>0.5 0.5</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_CNVMF.dds</Tile>
+			</Textures>
+			<colorSchemes>colorSchemePAN10</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Navy_day_CN tile camouflage block for the ships with a texture 4096*2048+4096*4096</annotation>
+			<name>camo_Navy_day_CN_tile</name>
+			<shipGroups>FRA_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>2 1</Tile>
+				<DeckHouse>2 2</DeckHouse>
+				<Gun>0.5 0.5</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_CNVMF.dds</Tile>
+			</Textures>
+			<colorSchemes>colorSchemePAN10</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Navy_day_CN tile camouflage block for the ships with a texture 4096*2048+2048*2048, 2048*1024+1024*1024</annotation>
+			<name>camo_Navy_day_CN_tile</name>
+			<shipGroups>FRA_group_6 GER_group_7 UK_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>2 1</Tile>
+				<DeckHouse>1 1</DeckHouse>
+				<Gun>0.4 0.4</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_CNVMF.dds</Tile>
+			</Textures>
+			<colorSchemes>colorSchemePAN10</colorSchemes>
+		</camouflage>
 	<!--//Material tile camouflages-->
 		<!--//Postap tile material 01-->
 	<camouflage>
@@ -32611,6 +32884,7 @@
 		<annotation>Alabama unique permOflage block</annotation>
 		<name>camo_permanent_1</name>
 		<targetShip>PASB508_Alabama</targetShip>
+		<targetShip>PASB528_Alabama_VL</targetShip>
 		<targetShip>PASB708_Alabama</targetShip>
 		<tiled>false</tiled>
 		<UV>
@@ -33329,6 +33603,111 @@
 		</Textures>
 		<colorSchemes>colorSchemeRB03</colorSchemes>
 	</camouflage>
+		<camouflage>
+			<annotation>Alabama Veteran VL Purple permOflage block</annotation>
+			<name>Alabama_Veteran_VL_Purple</name>
+			<targetShip>PASB508_Alabama</targetShip>
+			<targetShip>PASB528_Alabama_VL</targetShip>
+			<targetShip>PASB708_Alabama</targetShip>
+			<tiled>false</tiled>
+			<UV>
+				<Tile>1 1</Tile>
+				<Gun>1 1</Gun>
+				<Director>0.5 0.5</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+			</UV>
+			<Textures>
+				<Hull>content/gameplay/common/camouflage/textures/ASB024_Alabama_1945_Veteran_VL_camo.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+			</Textures>
+			<colorSchemes>colorSchemeUSNP56</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Alabama Veteran VL Blue permOflage block</annotation>
+			<name>Alabama_Veteran_VL_Blue</name>
+			<targetShip>PASB508_Alabama</targetShip>
+			<targetShip>PASB528_Alabama_VL</targetShip>
+			<targetShip>PASB708_Alabama</targetShip>
+			<tiled>false</tiled>
+			<UV>
+				<Tile>1 1</Tile>
+				<Gun>1 1</Gun>
+				<Director>0.5 0.5</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+			</UV>
+			<Textures>
+				<Hull>content/gameplay/common/camouflage/textures/ASB024_Alabama_1945_Veteran_VL_camo.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+			</Textures>
+			<colorSchemes>colorSchemeUSNP57</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Alabama Veteran VL Aquamarine permOflage block</annotation>
+			<name>Alabama_Veteran_VL_Aquamarine</name>
+			<targetShip>PASB508_Alabama</targetShip>
+			<targetShip>PASB528_Alabama_VL</targetShip>
+			<targetShip>PASB708_Alabama</targetShip>
+			<tiled>false</tiled>
+			<UV>
+				<Tile>1 1</Tile>
+				<Gun>1 1</Gun>
+				<Director>0.5 0.5</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+			</UV>
+			<Textures>
+				<Hull>content/gameplay/common/camouflage/textures/ASB024_Alabama_1945_Veteran_VL_camo.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+			</Textures>
+			<colorSchemes>colorSchemeUSNP58</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Alabama Veteran VL Yellow permOflage block</annotation>
+			<name>Alabama_Veteran_VL_Yellow</name>
+			<targetShip>PASB508_Alabama</targetShip>
+			<targetShip>PASB528_Alabama_VL</targetShip>
+			<targetShip>PASB708_Alabama</targetShip>
+			<tiled>false</tiled>
+			<UV>
+				<Tile>1 1</Tile>
+				<Gun>1 1</Gun>
+				<Director>0.5 0.5</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+			</UV>
+			<Textures>
+				<Hull>content/gameplay/common/camouflage/textures/ASB024_Alabama_1945_Veteran_VL_camo.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+			</Textures>
+			<colorSchemes>colorSchemeUSNP59</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Alabama Veteran VL Red permOflage block</annotation>
+			<name>Alabama_Veteran_VL_Red</name>
+			<targetShip>PASB508_Alabama</targetShip>
+			<targetShip>PASB528_Alabama_VL</targetShip>
+			<targetShip>PASB708_Alabama</targetShip>
+			<tiled>false</tiled>
+			<UV>
+				<Tile>1 1</Tile>
+				<Gun>1 1</Gun>
+				<Director>0.5 0.5</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+			</UV>
+			<Textures>
+				<Hull>content/gameplay/common/camouflage/textures/ASB024_Alabama_1945_Veteran_VL_camo.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+			</Textures>
+			<colorSchemes>colorSchemeUSNP60</colorSchemes>
+		</camouflage>
 	<!--//American tech tree ships camouflage-->
 	<camouflage>
 		<annotation>Cleveland New Year unique permOflage block</annotation>
@@ -35958,7 +36337,7 @@
 			<Misc>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Misc>
 		</Textures>
 		<colorSchemes>colorSchemeRUSP34</colorSchemes>
-		<colorSchemes>colorSchemeRUSP42</colorSchemes>
+		<colorSchemes>colorSchemeRUSOchakov2</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Minsk VictoryDay75 permoflage block</annotation>
@@ -36907,6 +37286,29 @@
 			</Textures>
 			<colorSchemes>colorSchemeUKP47</colorSchemes>
 		</camouflage>
+		<camouflage>
+			<annotation>Tiger unique permOflage block</annotation>
+			<name>camo_permanent_1</name>
+			<targetShip>PBSC518_Tiger_1959</targetShip>
+			<tiled>false</tiled>
+			<UV>
+				<Tile>1 1</Tile>
+				<Gun>1 1</Gun>
+				<Director>1 1</Director>
+				<Plane>1 1</Plane>
+				<Float>1 1</Float>
+				<Misc>1 1</Misc>
+			</UV>
+			<Textures>
+				<Hull>content/gameplay/common/camouflage/textures/BSC029_Tiger_1959_hull_camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/BSC029_Tiger_1959_DeckHouse_camo_01.dds</DeckHouse>
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+				<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
+				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
+			</Textures>
+			<colorSchemes>colorSchemeUK02</colorSchemes>
+			<colorSchemes>colorSchemeUKP29</colorSchemes>
+		</camouflage>
 	<!--//British tech tree ships camouflage-->
 	<camouflage>
 		<annotation>Edinburgh unique permOflage block</annotation>
@@ -37515,7 +37917,7 @@
 			<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
 		</Textures>
 		<colorSchemes>colorSchemeUKP10</colorSchemes>
-		<colorSchemes>colorSchemeUKP38</colorSchemes>
+		<colorSchemes>colorSchemeUKGoliath2</colorSchemes>
 	</camouflage>
 	<camouflage>
 		<annotation>Devonshire permOflage block</annotation>
@@ -39542,6 +39944,30 @@
 			</Textures>
 			<colorSchemes>colorSchemeGERP29</colorSchemes>
 			<colorSchemes>colorSchemeGERP07</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Weimar unique permOflage block</annotation>
+			<name>camo_permanent_1</name>
+			<targetShip>PGSC517_Weimar</targetShip>
+			<tiled>false</tiled>
+			<UV>
+				<Tile>1 1</Tile>
+				<Gun>1 1</Gun>
+				<Director>1 1</Director>
+				<Plane>1 1</Plane>
+				<Float>1 1</Float>
+				<Misc>1 1</Misc>
+			</UV>
+			<Textures>
+				<Hull>content/gameplay/common/camouflage/textures/GSC034_Weimar_1936_Camo_1.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Gun>
+				<Director>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Director>
+				<Plane>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Float>
+				<Misc>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Misc>
+			</Textures>
+			<colorSchemes>colorSchemeGERP47</colorSchemes>
+			<colorSchemes>colorSchemeGERP36</colorSchemes>
 		</camouflage>
 	<!--//French premium ships camouflage-->
 	<camouflage>
@@ -41755,8 +42181,8 @@
 		<Textures>
 			<Tile>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Tile>
 		</Textures>
-		<colorSchemes>colorSchemeUKP11</colorSchemes>
-		<colorSchemes>colorSchemeUKP37</colorSchemes>
+		<colorSchemes>colorSchemeEURMysore1</colorSchemes>
+		<colorSchemes>colorSchemeEURMysore2</colorSchemes>
 	</camouflage>
 	<!--//NationX camouflage-->
 	<camouflage>
