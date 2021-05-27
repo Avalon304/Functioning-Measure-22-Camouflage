@@ -42753,12 +42753,12 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/ASC075_Congress_1944_camo_01.dds</Hull>
-				<DeckHouse>content/gameplay/common/camouflage/textures/ASC075_Congress_1944_DeckHouse_camo_01.dds</DeckHouse>
-				<Gun>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Gun>
+				<Hull>content/gameplay/common/camouflage/textures/CB1.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 			</Textures>
-			<colorSchemes>colorSchemeUSN03</colorSchemes>
-			<colorSchemes>colorSchemeUSNP50</colorSchemes>
+			<colorSchemes>colorSchemeUSNP16</colorSchemes>
+			<colorSchemes>colorSchemeUSNP15</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Black Rank camo Crocodile unique permOflage block</annotation>
