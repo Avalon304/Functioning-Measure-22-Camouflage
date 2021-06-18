@@ -25,7 +25,7 @@
 		<!--//5. Japanese ships with texture		4096*4096+4096*4096-->
 		<shipGroup>
 			<name>IJN_group_5</name>
-			<ships> PJSB006_Fuso_1943 PJSA507_Kaga PJSA015_Taiho_1944 PJSB508_Kii PJSB509_Musashi PJSA518_Kaga PJSB018_Yamato_1944 PJSB510_Shikishima PJSB519_Hizen PJSB526_Ise PJSB906_Ise_TEST1 PJSB916_Ise_TEST2 PJSB700_ARP_Yamato PJSA598_Black_Kaga PJSB517_Hyuga</ships>
+			<ships> PJSB006_Fuso_1943 PJSA507_Kaga PJSA015_Taiho_1944 PJSB508_Kii PJSB509_Musashi PJSA518_Kaga PJSB018_Yamato_1944 PJSB510_Shikishima PJSB519_Hizen PJSB526_Ise PJSB906_Ise_TEST1 PJSB916_Ise_TEST2 PJSB700_ARP_Yamato PJSA598_Black_Kaga PJSB517_Hyuga PJSB999_Satsuma</ships>
 		</shipGroup>
 		<!--//6. Japanese ships with texture		4096*4096+2048*1024-->
 		<shipGroup>
@@ -97,7 +97,7 @@
 		<!--//7. Russian ships with texture			4096*4096+4096*2048-->
 		<shipGroup>
 			<name>RUS_group_7</name>
-			<ships> PRSB109_Sovetsky_Soyuz PRSB709_AZUR_Sov_Russia PRSB518_Lenin PRSB538_V_I_Lenin PRSB508_Poltava PRSC208_Tallin PRSC310_Petropavlovsk PRSC210_Pr_84_Alexander_Nevsky PRSC515_Mikoyan PRSC538_Petr_Bagration</ships>
+			<ships> PRSB109_Sovetsky_Soyuz PRSB709_AZUR_Sov_Russia PRSB518_Lenin PRSB538_V_I_Lenin PRSB508_Poltava PRSC208_Tallin PRSC310_Petropavlovsk PRSC210_Pr_84_Alexander_Nevsky PRSC515_Mikoyan PRSC538_Petr_Bagration PRSC548_Bagration</ships>
 		</shipGroup>
 		<!--//4. British ships-->
 		<!--//1. British ships with texture			2048*2048, 4096*4096, 4096*4096+2048*2048-->
@@ -113,12 +113,12 @@
 		<!--//3. British ships with texture			4096*4096+4096*2048, 2048*2048+2048*1024-->
 		<shipGroup>
 			<name>UK_group_3</name>
-			<ships>PBSB109_Lion PBSC110_Minotaur PBSB107_King_George_V PBSB108_Monarch PBSB527_Duke_of_York PBSA508_Indomitable PBSB208_Monarch_T PBSB510_Thunderer PBSC206_Devonshire PBSC508_Cheshire PBSC510_Plymouth PBSB505_Agincourt</ships>
+			<ships>PBSB109_Lion PBSC110_Minotaur PBSB107_King_George_V PBSB108_Monarch PBSB527_Duke_of_York PBSA508_Indomitable PBSB208_Monarch_T PBSB510_Thunderer PBSC206_Devonshire PBSC508_Cheshire PBSC510_Plymouth PBSB505_Agincourt PUSB507_Yukon</ships>
 		</shipGroup>
 		<!--//4. British ships with texture			4096*4096+4096*4096-->
 		<shipGroup>
 			<name>UK_group_4</name>
-			<ships>PBSB110_Conqueror PBSB507_Hood PBSB517_Nelson PBSA106_Furious PBSA108_Implacable PBSA210_Audacious PBSA910_TST_Audacious PBSB508_Vanguard PBSB911_Conqueror_T PBSA518_Ark_Royal</ships>
+			<ships>PBSB110_Conqueror PBSB507_Hood PBSB517_Nelson PBSA106_Furious PBSA108_Implacable PBSA210_Audacious PBSA910_TST_Audacious PBSB508_Vanguard PBSB911_Conqueror_T PBSA518_Ark_Royal PBSB526_Repulse</ships>
 		</shipGroup>
 		<!--//5. British ships with texture 4096*2048+2048*2048-->
 		<shipGroup>
@@ -144,7 +144,7 @@
 		<!--//4. German ships with texture			4096*4096+4096*4096-->
 		<shipGroup>
 			<name>GER_group_4</name>
-			<ships> PGSB109_Friedrich_der_Grosse PGSB110_Grossdeutschland PGSA508_Graf_Zeppelin PGSB506_Prinz_Eithel_Friedrich PGSA518_Graf_Zeppelin PGSC518_Mainz PGSA598_Black_Graf_Zeppelin PGSA106_Weser PGSA108_Parseval PGSA110_Manfred_Richthofen PGSA510_Werner_Voss PGSA506_Erich_Loewenhardt PGSB509_Pommern PGSA104_Rhein PGSA610_Max_Immelmann</ships>
+			<ships> PGSB109_Friedrich_der_Grosse PGSB110_Grossdeutschland PGSA508_Graf_Zeppelin PGSB506_Prinz_Eithel_Friedrich PGSA518_Graf_Zeppelin PGSC518_Mainz PGSA598_Black_Graf_Zeppelin PGSA106_Weser PGSA108_Parseval PGSA110_Manfred_Richthofen PGSA510_Werner_Voss PGSA506_Erich_Loewenhardt PGSB509_Pommern PGSA104_Rhein PGSA610_Max_Immelmann PGSB999_Hannover</ships>
 		</shipGroup>
 		<!--//5. German ships with texture			4096*4096+2048*1024-->
 		<shipGroup>
@@ -267,16 +267,21 @@
 			<name>EUR_group_2</name>
 			<ships>PWSC101_Gryf PWSD102_Tatra PWSD103_Romulus PWSD104_Klas_Horn PWSD105_Visby PWSD106_Vasteras PWSD107_Skane PWSD108_Oland PWSD109_Ostergotland PWSD110_Halland PWSD610_Smaland PWSD910_Lappland</ships>
 		</shipGroup>
+		<!--//3. Europe ships with texture			4096*2048+2048*2048, 2048*1024+1024*1024-->
+		<shipGroup>
+			<name>EUR_group_3</name>
+			<ships>PWSD710_Ragnar</ships>
+		</shipGroup>
 		<!--//12. Netherlands ships-->
 		<!--//1. Netherlands ships with texture		4096*2048+2048*1024-->
 		<shipGroup>
 			<name>NL_group_1</name>
-			<ships>PHSD510_Friesland PWSD510_Friesland PWSC112_Gelderland PWSC111_Van_Kinsbergen</ships>
+			<ships>PHSD510_Friesland PWSD510_Friesland PHSC102_Gelderland PHSC101_Van_Kinsbergen</ships>
 		</shipGroup>
 		<!--//1. Netherlands ships with texture		2048*2048, 4096*4096, 4096*4096+2048*2048-->
 		<shipGroup>
 			<name>NL_group_2</name>
-			<ships>PWSC116_Kijkduin PWSC128_De_Zeven_Provincien PWSC117_Eendracht PWSC119_Johan_de_Witt PWSC118_Haarlem PWSC115_Celebes PWSC114_De_Ruyter PWSC113_Java PWSC110_Gouden_Leeuw</ships>
+			<ships>PHSC106_Kijkduin PHSC508_De_Zeven_Provincien PHSC107_Eendracht PHSC109_Johan_de_Witt PHSC108_Haarlem PHSC105_Celebes PHSC104_De_Ruyter PHSC103_Java PHSC110_Gouden_Leeuw</ships>
 		</shipGroup>
 	</ShipGroups>
 	<ColorSchemes>
@@ -323,6 +328,13 @@
 			<color2>0.208 0.227 0.184 1.000</color2>
 			<color3>0.070 0.096 0.064 1.000</color3>
 			<colorUI>0.639 0.552 0.384 1.000</colorUI>
+		</colorScheme>
+		<colorScheme>
+			<name>colorSchemeEURP05</name>
+			<color0>0.135 0.128 0.130 0.900</color0>
+			<color1>0.020 0.020 0.020 1.000</color1>
+			<color2>0.160 0.160 0.167 0.000</color2>
+			<color3>0.072 0.072 0.072 1.000</color3>
 		</colorScheme>
 		<colorScheme>
 			<name>colorSchemeFRA01</name>
@@ -2958,6 +2970,20 @@
 			<color3>0.200 0.160 0.022 1.000</color3>
 		</colorScheme>
 		<colorScheme>
+			<name>colorScheme_generalBattle_01</name>
+			<color0>0.220 0.220 0.220 1.000</color0>
+			<color1>0.045 0.045 0.045 1.000</color1>
+			<color2>0.000 0.000 0.000 1.000</color2>
+			<color3>0.130 0.140 0.100 1.000</color3>
+		</colorScheme>
+		<colorScheme>
+			<name>colorScheme_Dragon_Boat_Festival</name>
+			<color0>0.400 0.420 0.280 1.000</color0>
+			<color1>0.058 0.068 0.086 1.000</color1>
+			<color2>0.007 0.099 0.037 1.000</color2>
+			<color3>0.000 0.000 0.999 1.000</color3>
+		</colorScheme>
+		<colorScheme>
 			<name>colorSchemeSWDP01</name>
 			<color0>0.017 0.021 0.019 1.000</color0>
 			<color1>0.078 0.094 0.098 1.000</color1>
@@ -3384,6 +3410,13 @@
 			<color2>0.094 0.180 0.180 1.000</color2>
 			<color3>0.040 0.064 0.076 1.000</color3>
 			<colorUI>0.419 0.537 0.556 1.000</colorUI>
+		</colorScheme>
+		<colorScheme>
+			<name>colorSchemeUKP49</name>
+			<color0>0.085 0.089 0.100 1.000</color0>
+			<color1>0.012 0.015 0.023 1.000</color1>
+			<color2>0.035 0.065 0.100 1.000</color2>
+			<color3>0.186 0.205 0.218 1.000</color3>
 		</colorScheme>
 		<colorScheme>
 			<name>colorSchemeUKGoliath2</name>
@@ -4856,7 +4889,7 @@
 		<camouflage>
 			<annotation>HW2019 unique permOflage block for the ships with a texture 4096*2048+2048*2048, 2048*1024+1024*1024</annotation>
 			<name>mat_HW2019_01</name>
-			<shipGroups>FRA_group_6 GER_group_7 UK_group_5</shipGroups>
+			<shipGroups>FRA_group_6 GER_group_7 UK_group_5 EUR_group_3</shipGroups>
 			<tiled>false</tiled>
 			<UV>
 				<DeckHouse>1 0.5</DeckHouse>
@@ -5660,7 +5693,7 @@
 		<camouflage>
 			<annotation>NewYear 2019 unique permOflage block for the ships with a texture 4096*2048+2048*2048, 2048*1024+1024*1024</annotation>
 			<name>mat_NewYear_2019</name>
-			<shipGroups>FRA_group_6 GER_group_7 UK_group_5</shipGroups>
+			<shipGroups>FRA_group_6 GER_group_7 UK_group_5 EUR_group_3</shipGroups>
 			<tiled>false</tiled>
 			<UV>
 				<DeckHouse>1 0.5</DeckHouse>
@@ -6418,7 +6451,7 @@
 		<camouflage>
 			<annotation>Postap unique permOflage block for the ships with a texture 4096*2048+2048*2048, 2048*1024+1024*1024</annotation>
 			<name>mat_Postap_01</name>
-			<shipGroups>FRA_group_6 GER_group_7 UK_group_5</shipGroups>
+			<shipGroups>FRA_group_6 GER_group_7 UK_group_5 EUR_group_3</shipGroups>
 			<tiled>false</tiled>
 			<UV>
 				<DeckHouse>1 1</DeckHouse>
@@ -7341,7 +7374,7 @@
 		<camouflage>
 			<annotation>Ranked bronze camouflage block for all ships with a texture 4096*2048+2048*2048, 2048*1024+1024*1024</annotation>
 			<name>mat_Ranked_bronze</name>
-			<shipGroups>FRA_group_6 GER_group_7 UK_group_5</shipGroups>
+			<shipGroups>FRA_group_6 GER_group_7 UK_group_5 EUR_group_3</shipGroups>
 			<tiled>false</tiled>
 			<UV>
 				<DeckHouse>1.5 1.5</DeckHouse>
@@ -8308,7 +8341,7 @@
 		<camouflage>
 			<annotation>Ranked golden camouflage block for all ships with a texture 4096*2048+2048*2048, 2048*1024+1024*1024</annotation>
 			<name>mat_Ranked_golden</name>
-			<shipGroups>FRA_group_6 GER_group_7 UK_group_5</shipGroups>
+			<shipGroups>FRA_group_6 GER_group_7 UK_group_5 EUR_group_3</shipGroups>
 			<tiled>false</tiled>
 			<UV>
 				<DeckHouse>1.5 1.5</DeckHouse>
@@ -9276,7 +9309,7 @@
 		<camouflage>
 			<annotation>Ranked silver camouflage block for all ships with a texture 4096*2048+2048*2048, 2048*1024+1024*1024</annotation>
 			<name>mat_Ranked_silver</name>
-			<shipGroups>FRA_group_6 GER_group_7 UK_group_5</shipGroups>
+			<shipGroups>FRA_group_6 GER_group_7 UK_group_5 EUR_group_3</shipGroups>
 			<tiled>false</tiled>
 			<UV>
 				<DeckHouse>1.5 1.5</DeckHouse>
@@ -9664,6 +9697,7 @@
 		<camouflage>
 			<annotation>Default tile camouflage block Tier 1 spots</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<tiled>true</tiled>
 			<UV>
 				<DeckHouse>2 2</DeckHouse>
@@ -9683,6 +9717,7 @@
 		<camouflage>
 			<annotation>Default tile camouflage block Tier 2 stripes</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<tiled>true</tiled>
 			<UV>
 				<DeckHouse>1.5 1.5</DeckHouse>
@@ -9702,6 +9737,7 @@
 		<camouflage>
 			<annotation>Default tile camouflage block Tier 3 dazzle</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<tiled>true</tiled>
 			<UV>
 				<DeckHouse>1.5 1.5</DeckHouse>
@@ -9721,6 +9757,7 @@
 		<camouflage>
 			<annotation>Default tile camouflage block Tier 4 economic</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<tiled>true</tiled>
 			<UV>
 				<DeckHouse>1.9 1.9</DeckHouse>
@@ -9740,6 +9777,7 @@
 		<camouflage>
 			<annotation>Europe tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>EUR_group_1</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -9760,6 +9798,7 @@
 		<camouflage>
 			<annotation>Europe tile camouflage block for the ships with a texture 4096*2048, 4096*2048+2048*1024</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>EUR_group_2</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -9778,8 +9817,30 @@
 			<colorSchemes>colorSchemeEUR01</colorSchemes>
 		</camouflage>
 		<camouflage>
+			<annotation>Europe tile camouflage block for the ships with a texture 4096*2048, 4096*2048+2048*1024</annotation>
+			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
+			<shipGroups>EUR_group_3</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1.5 1.5</DeckHouse>
+				<Tile>3 1.5</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>0.7 0.7</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_13.dds</Tile>
+			</Textures>
+			<colorSchemes>colorSchemeEUR01</colorSchemes>
+		</camouflage>
+		<camouflage>
 			<annotation>Europe tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>EUR_group_1</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -9800,6 +9861,7 @@
 		<camouflage>
 			<annotation>Europe tile camouflage block for the ships with a texture 4096*2048, 4096*2048+2048*1024</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>EUR_group_2</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -9818,8 +9880,30 @@
 			<colorSchemes>colorSchemeEUR01</colorSchemes>
 		</camouflage>
 		<camouflage>
+			<annotation>Europe tile camouflage block for the ships with a texture 4096*2048, 4096*2048+2048*1024</annotation>
+			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
+			<shipGroups>EUR_group_3</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1.5 1.5</DeckHouse>
+				<Tile>3 1.5</Tile>
+				<Gun>0.5 0.5</Gun>
+				<Director>0.5 0.5</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1.5 1.5</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/IJN_tile_camo_02.dds</Tile>
+			</Textures>
+			<colorSchemes>colorSchemeEUR01</colorSchemes>
+		</camouflage>
+		<camouflage>
 			<annotation>Europe tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>EUR_group_1</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -9840,6 +9924,7 @@
 		<camouflage>
 			<annotation>Europe tile camouflage block for the ships with a texture 4096*2048, 4096*2048+2048*1024</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>EUR_group_2</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -9858,8 +9943,30 @@
 			<colorSchemes>colorSchemeEUR01</colorSchemes>
 		</camouflage>
 		<camouflage>
+			<annotation>Europe tile camouflage block for the ships with a texture 4096*2048, 4096*2048+2048*1024</annotation>
+			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
+			<shipGroups>EUR_group_3</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1.7 1.7</DeckHouse>
+				<Tile>3.4 1.7</Tile>
+				<Gun>0.7 0.7</Gun>
+				<Director>0.7 0.7</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>3.4 3.4</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_05.dds</Tile>
+			</Textures>
+			<colorSchemes>colorSchemeEUR01</colorSchemes>
+		</camouflage>
+		<camouflage>
 			<annotation>Europe economic tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>EUR_group_1</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -9880,6 +9987,7 @@
 		<camouflage>
 			<annotation>Europe economic tile camouflage block for the ships with a texture 4096*2048, 4096*2048+2048*1024</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>EUR_group_2</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -9898,8 +10006,30 @@
 			<colorSchemes>colorSchemeEUR01</colorSchemes>
 		</camouflage>
 		<camouflage>
+			<annotation>Europe economic tile camouflage block for the ships with a texture 4096*2048, 4096*2048+2048*1024</annotation>
+			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
+			<shipGroups>EUR_group_3</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1.7 1.7</DeckHouse>
+				<Tile>3.4 1.7</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>3.4 3.4</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_04.dds</Tile>
+			</Textures>
+			<colorSchemes>colorSchemeEUR01</colorSchemes>
+		</camouflage>
+		<camouflage>
 			<annotation>French tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>FRA_group_1</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -9921,6 +10051,7 @@
 		<camouflage>
 			<annotation>French tile camouflage block for the ships with a texture 4096*2048</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>FRA_group_2</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -9942,6 +10073,7 @@
 		<camouflage>
 			<annotation>French tile camouflage block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>FRA_group_3</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -9963,6 +10095,7 @@
 		<camouflage>
 			<annotation>French tile camouflage block for the ships with a texture 4096*4096+4096*4096, 2048*2048+2048*2048</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>FRA_group_4</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -9984,6 +10117,7 @@
 		<camouflage>
 			<annotation>French tile camouflage block for the ships with a texture 4096*2048+4096*4096, 2048*1024+2048*2048</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>FRA_group_5</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -10005,6 +10139,7 @@
 		<camouflage>
 			<annotation>French tile camouflage block for the ships with a texture 4096*2048+2048*2048, 2048*1024+1024*1024</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>FRA_group_6</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -10026,6 +10161,7 @@
 		<camouflage>
 			<annotation>French tile camouflage block for the ships with a texture 4096*4096+2048*1024</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>FRA_group_7</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -10047,6 +10183,7 @@
 		<camouflage>
 			<annotation>French tile camouflage block for the ships with a texture 4096*2048+1024*1024</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>FRA_group_8</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -10068,6 +10205,7 @@
 		<camouflage>
 			<annotation>French tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>FRA_group_1</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -10089,6 +10227,7 @@
 		<camouflage>
 			<annotation>French tile camouflage block for the ships with a texture 4096*2048</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>FRA_group_2</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -10110,6 +10249,7 @@
 		<camouflage>
 			<annotation>French tile camouflage block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>FRA_group_3</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -10131,6 +10271,7 @@
 		<camouflage>
 			<annotation>French tile camouflage block for the ships with a texture 4096*4096+4096*4096, 2048*2048+2048*2048</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>FRA_group_4</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -10152,6 +10293,7 @@
 		<camouflage>
 			<annotation>French tile camouflage block for the ships with a texture 4096*2048+4096*4096, 2048*1024+2048*2048</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>FRA_group_5</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -10173,6 +10315,7 @@
 		<camouflage>
 			<annotation>French tile camouflage block for the ships with a texture 4096*2048+2048*2048, 2048*1024+1024*1024</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>FRA_group_6</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -10194,6 +10337,7 @@
 		<camouflage>
 			<annotation>French tile camouflage block for the ships with a texture 4096*4096+2048*1024</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>FRA_group_7</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -10215,6 +10359,7 @@
 		<camouflage>
 			<annotation>French tile camouflage block for the ships with a texture 4096*2048+1024*1024</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>FRA_group_8</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -10236,6 +10381,7 @@
 		<camouflage>
 			<annotation>French tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>FRA_group_1</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -10257,6 +10403,7 @@
 		<camouflage>
 			<annotation>French tile camouflage block for the ships with a texture 4096*2048</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>FRA_group_2</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -10278,6 +10425,7 @@
 		<camouflage>
 			<annotation>French tile camouflage block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>FRA_group_3</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -10299,6 +10447,7 @@
 		<camouflage>
 			<annotation>French tile camouflage block for the ships with a texture 4096*4096+4096*4096, 2048*2048+2048*2048</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>FRA_group_4</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -10320,6 +10469,7 @@
 		<camouflage>
 			<annotation>French tile camouflage block for the ships with a texture 4096*2048+4096*4096, 2048*1024+2048*2048</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>FRA_group_5</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -10341,6 +10491,7 @@
 		<camouflage>
 			<annotation>French tile camouflage block for the ships with a texture 4096*2048+2048*2048, 2048*1024+1024*1024</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>FRA_group_6</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -10362,6 +10513,7 @@
 		<camouflage>
 			<annotation>French tile camouflage block for the ships with a texture 4096*4096+2048*1024</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>FRA_group_7</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -10383,6 +10535,7 @@
 		<camouflage>
 			<annotation>French tile camouflage block for the ships with a texture 4096*2048+1024*1024</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>FRA_group_8</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -10404,6 +10557,7 @@
 		<camouflage>
 			<annotation>French economic tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>FRA_group_1</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -10425,6 +10579,7 @@
 		<camouflage>
 			<annotation>French economic tile camouflage block for the ships with a texture 4096*2048</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>FRA_group_2</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -10446,6 +10601,7 @@
 		<camouflage>
 			<annotation>French economic tile camouflage block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>FRA_group_3</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -10467,6 +10623,7 @@
 		<camouflage>
 			<annotation>French economic tile camouflage block for the ships with a texture 4096*4096+4096*4096, 2048*2048+2048*2048</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>FRA_group_4</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -10488,6 +10645,7 @@
 		<camouflage>
 			<annotation>French economic tile camouflage block for the ships with a texture 4096*2048+4096*4096, 2048*1024+2048*2048</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>FRA_group_5</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -10509,6 +10667,7 @@
 		<camouflage>
 			<annotation>French economic tile camouflage block for the ships with a texture 4096*2048+2048*2048, 2048*1024+1024*1024</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>FRA_group_6</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -10530,6 +10689,7 @@
 		<camouflage>
 			<annotation>French economic tile camouflage block for the ships with a texture 4096*4096+2048*1024</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>FRA_group_7</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -10551,6 +10711,7 @@
 		<camouflage>
 			<annotation>French economic tile camouflage block for the ships with a texture 4096*2048+1024*1024</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>FRA_group_8</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -10572,6 +10733,7 @@
 		<camouflage>
 			<annotation>German tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>GER_group_1</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -10593,6 +10755,7 @@
 		<camouflage>
 			<annotation>German tile camouflage block for the ships with a texture 4096*2048</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>GER_group_2</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -10614,6 +10777,7 @@
 		<camouflage>
 			<annotation>German tile camouflage block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>GER_group_3</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -10635,6 +10799,7 @@
 		<camouflage>
 			<annotation>German tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>GER_group_4</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -10656,6 +10821,7 @@
 		<camouflage>
 			<annotation>German tile camouflage block for the ships with a texture 4096*4096+2048*1024</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>GER_group_5</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -10677,6 +10843,7 @@
 		<camouflage>
 			<annotation>German tile camouflage block for the ships with a texture 4096*2048+2048*2048, 2048*1024+1024*1024</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>GER_group_7</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -10698,6 +10865,7 @@
 		<camouflage>
 			<annotation>German tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>GER_group_1</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -10719,6 +10887,7 @@
 		<camouflage>
 			<annotation>German tile camouflage block for the ships with a texture 4096*2048</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>GER_group_2</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -10740,6 +10909,7 @@
 		<camouflage>
 			<annotation>German tile camouflage block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>GER_group_3</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -10761,6 +10931,7 @@
 		<camouflage>
 			<annotation>German tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>GER_group_4</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -10782,6 +10953,7 @@
 		<camouflage>
 			<annotation>German tile camouflage block for the ships with a texture 4096*4096+2048*1024</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>GER_group_5</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -10803,6 +10975,7 @@
 		<camouflage>
 			<annotation>German tile camouflage block for the ships with a texture 4096*2048+2048*2048, 2048*1024+1024*1024</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>GER_group_7</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -10824,6 +10997,7 @@
 		<camouflage>
 			<annotation>German tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>GER_group_1</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -10845,6 +11019,7 @@
 		<camouflage>
 			<annotation>German tile camouflage block for the ships with a texture 4096*2048</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>GER_group_2</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -10866,6 +11041,7 @@
 		<camouflage>
 			<annotation>German tile camouflage block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>GER_group_3</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -10887,6 +11063,7 @@
 		<camouflage>
 			<annotation>German tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>GER_group_4</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -10908,6 +11085,7 @@
 		<camouflage>
 			<annotation>German tile camouflage block for the ships with a texture 4096*4096+2048*1024</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>GER_group_5</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -10929,6 +11107,7 @@
 		<camouflage>
 			<annotation>German tile camouflage block for the ships with a texture 4096*2048+2048*2048, 2048*1024+1024*1024</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>GER_group_7</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -10950,6 +11129,7 @@
 		<camouflage>
 			<annotation>German economic tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>GER_group_1</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -10971,6 +11151,7 @@
 		<camouflage>
 			<annotation>German economic tile camouflage block for the ships with a texture 4096*2048</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>GER_group_2</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -10992,6 +11173,7 @@
 		<camouflage>
 			<annotation>German economic tile camouflage block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>GER_group_3</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -11013,6 +11195,7 @@
 		<camouflage>
 			<annotation>German economic tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>GER_group_4</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -11034,6 +11217,7 @@
 		<camouflage>
 			<annotation>German economic tile camouflage block for the ships with a texture 4096*4096+2048*1024</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>GER_group_5</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -11055,6 +11239,7 @@
 		<camouflage>
 			<annotation>German economic tile camouflage block for the ships with a texture 4096*2048+2048*2048, 2048*1024+1024*1024</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>GER_group_7</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -11076,6 +11261,7 @@
 		<camouflage>
 			<annotation>Italian tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>ITA_group_1</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -11096,6 +11282,7 @@
 		<camouflage>
 			<annotation>Italian tile camouflage block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>ITA_group_2</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -11116,6 +11303,7 @@
 		<camouflage>
 			<annotation>Italian tile camouflage block for the ships with a texture 4096*2048+2048*1024</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>ITA_group_3</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -11136,6 +11324,7 @@
 		<camouflage>
 			<annotation>Italian tile camouflage block for the ships with a texture 4096*4096+4096*4096, 2048*2048+2048*2048</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>ITA_group_4</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -11156,6 +11345,7 @@
 		<camouflage>
 			<annotation>Italian tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>ITA_group_1</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -11176,6 +11366,7 @@
 		<camouflage>
 			<annotation>Italian tile camouflage block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>ITA_group_2</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -11196,6 +11387,7 @@
 		<camouflage>
 			<annotation>Italian tile camouflage block for the ships with a texture 4096*2048+2048*1024</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>ITA_group_3</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -11216,6 +11408,7 @@
 		<camouflage>
 			<annotation>Italian tile camouflage block for the ships with a texture 4096*4096+4096*4096, 2048*2048+2048*2048</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>ITA_group_4</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -11236,6 +11429,7 @@
 		<camouflage>
 			<annotation>Italian tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>ITA_group_1</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -11256,6 +11450,7 @@
 		<camouflage>
 			<annotation>Italian tile camouflage block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>ITA_group_2</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -11276,6 +11471,7 @@
 		<camouflage>
 			<annotation>Italian tile camouflage block for the ships with a texture 4096*2048+2048*1024</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>ITA_group_3</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -11296,6 +11492,7 @@
 		<camouflage>
 			<annotation>Italian tile camouflage block for the ships with a texture 4096*4096+4096*4096, 2048*2048+2048*2048</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>ITA_group_4</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -11316,6 +11513,7 @@
 		<camouflage>
 			<annotation>Italian economic tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>ITA_group_1</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -11336,6 +11534,7 @@
 		<camouflage>
 			<annotation>Italian economic tile camouflage block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>ITA_group_2</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -11356,6 +11555,7 @@
 		<camouflage>
 			<annotation>Italian economic tile camouflage block for the ships with a texture 4096*2048+2048*1024</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>ITA_group_3</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -11376,6 +11576,7 @@
 		<camouflage>
 			<annotation>Italian economic tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>ITA_group_4</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -11396,6 +11597,7 @@
 		<camouflage>
 			<annotation>Japanese tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>IJN_group_1</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -11417,6 +11619,7 @@
 		<camouflage>
 			<annotation>Japanese tile camouflage block for the ships with a texture 4096*2048</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>IJN_group_2</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -11438,6 +11641,7 @@
 		<camouflage>
 			<annotation>Japanese tile camouflage block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>IJN_group_3</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -11459,6 +11663,7 @@
 		<camouflage>
 			<annotation>Japanese tile camouflage block for the ships with a texture 4096*4096+1024*1024</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>IJN_group_4</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -11480,6 +11685,7 @@
 		<camouflage>
 			<annotation>Japanese tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>IJN_group_5</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -11501,6 +11707,7 @@
 		<camouflage>
 			<annotation>Japanese tile camouflage block for the ships with a texture 4096*4096+2048*1024</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>IJN_group_6</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -11522,6 +11729,7 @@
 		<camouflage>
 			<annotation>Japanese tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>IJN_group_1</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -11543,6 +11751,7 @@
 		<camouflage>
 			<annotation>Japanese tile camouflage block for the ships with a texture 4096*2048</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>IJN_group_2</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -11564,6 +11773,7 @@
 		<camouflage>
 			<annotation>Japanese tile camouflage block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>IJN_group_3</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -11585,6 +11795,7 @@
 		<camouflage>
 			<annotation>Japanese tile camouflage block for the ships with a texture 4096*4096+1024*1024</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>IJN_group_4</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -11606,6 +11817,7 @@
 		<camouflage>
 			<annotation>Japanese tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>IJN_group_5</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -11627,6 +11839,7 @@
 		<camouflage>
 			<annotation>Japanese tile camouflage block for the ships with a texture 4096*4096+2048*1024</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>IJN_group_6</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -11648,6 +11861,7 @@
 		<camouflage>
 			<annotation>Japanese tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>IJN_group_1</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -11669,6 +11883,7 @@
 		<camouflage>
 			<annotation>Japanese tile camouflage block for the ships with a texture 4096*2048</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>IJN_group_2</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -11690,6 +11905,7 @@
 		<camouflage>
 			<annotation>Japanese tile camouflage block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>IJN_group_3</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -11711,6 +11927,7 @@
 		<camouflage>
 			<annotation>Japanese tile camouflage block for the ships with a texture 4096*4096+1024*1024</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>IJN_group_4</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -11732,6 +11949,7 @@
 		<camouflage>
 			<annotation>Japanese tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>IJN_group_5</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -11753,6 +11971,7 @@
 		<camouflage>
 			<annotation>Japanese tile camouflage block for the ships with a texture 4096*4096+2048*1024</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>IJN_group_6</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -11774,6 +11993,7 @@
 		<camouflage>
 			<annotation>Japanese economic tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>IJN_group_1</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -11795,6 +12015,7 @@
 		<camouflage>
 			<annotation>Japanese economic tile camouflage block for the ships with a texture 4096*2048</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>IJN_group_2</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -11816,6 +12037,7 @@
 		<camouflage>
 			<annotation>Japanese economic tile camouflage block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>IJN_group_3</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -11837,6 +12059,7 @@
 		<camouflage>
 			<annotation>Japanese economic tile camouflage block for the ships with a texture 4096*4096+1024*1024</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>IJN_group_4</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -11858,6 +12081,7 @@
 		<camouflage>
 			<annotation>Japanese economic tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>IJN_group_5</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -11879,6 +12103,7 @@
 		<camouflage>
 			<annotation>Japanese economic tile camouflage block for the ships with a texture 4096*4096+2048*1024</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>IJN_group_6</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -11900,6 +12125,7 @@
 		<camouflage>
 			<annotation>Netherlands tile camouflage block for the ships with a texture 4096*2048+2048*1024</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>NL_group_1</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -11920,6 +12146,7 @@
 		<camouflage>
 			<annotation>Netherlands tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>NL_group_2</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -11940,6 +12167,7 @@
 		<camouflage>
 			<annotation>Netherlands tile camouflage block for the ships with a texture 4096*2048+2048*1024</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>NL_group_1</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -11960,6 +12188,7 @@
 		<camouflage>
 			<annotation>Netherlands tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>NL_group_2</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -11980,6 +12209,7 @@
 		<camouflage>
 			<annotation>Netherlands tile camouflage block for the ships with a texture 4096*2048+2048*1024</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>NL_group_1</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12000,6 +12230,7 @@
 		<camouflage>
 			<annotation>Netherlands tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>NL_group_2</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12020,6 +12251,7 @@
 		<camouflage>
 			<annotation>Netherlands economic tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>NL_group_1</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12040,6 +12272,7 @@
 		<camouflage>
 			<annotation>Netherlands economic tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>NL_group_2</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12060,6 +12293,7 @@
 		<camouflage>
 			<annotation>Pan-America tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>PAM_group_1</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12080,6 +12314,7 @@
 		<camouflage>
 			<annotation>Pan-America tile camouflage block for the ships with a texture 4096*2048</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>PAM_group_3</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12100,6 +12335,7 @@
 		<camouflage>
 			<annotation>Pan-America tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>PAM_group_1</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12120,6 +12356,7 @@
 		<camouflage>
 			<annotation>Pan-America tile camouflage block for the ships with a texture 4096*2048</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>PAM_group_3</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12140,6 +12377,7 @@
 		<camouflage>
 			<annotation>Pan-America tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>PAM_group_1</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12160,6 +12398,7 @@
 		<camouflage>
 			<annotation>Pan-America tile camouflage block for the ships with a texture 4096*2048</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>PAM_group_3</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12180,6 +12419,7 @@
 		<camouflage>
 			<annotation>Pan-America economic tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>PAM_group_1</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12200,6 +12440,7 @@
 		<camouflage>
 			<annotation>Pan-America tile camouflage block for the ships with a texture 4096*2048</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>PAM_group_3</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12220,6 +12461,7 @@
 		<camouflage>
 			<annotation>Pan-Asian tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>PAN_group_1</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12240,6 +12482,7 @@
 		<camouflage>
 			<annotation>Pan-Asian tile camouflage block for the ships with a texture 4096*2048</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>PAN_group_2</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12260,6 +12503,7 @@
 		<camouflage>
 			<annotation>Pan-Asian tile camouflage block excluding Taiwan for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>PAN_group_3</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12280,6 +12524,7 @@
 		<camouflage>
 			<annotation>Pan-Asian tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>PAN_group_4</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12300,6 +12545,7 @@
 		<camouflage>
 			<annotation>Pan-Asian tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>PAN_group_1</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12320,6 +12566,7 @@
 		<camouflage>
 			<annotation>Pan-Asian tile camouflage block for the ships with a texture 4096*2048</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>PAN_group_2</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12340,6 +12587,7 @@
 		<camouflage>
 			<annotation>Pan-Asian tile camouflage excluding Taiwan block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>PAN_group_3</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12360,6 +12608,7 @@
 		<camouflage>
 			<annotation>Pan-Asian tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>PAN_group_4</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12380,6 +12629,7 @@
 		<camouflage>
 			<annotation>Pan-Asian tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>PAN_group_1</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12400,6 +12650,7 @@
 		<camouflage>
 			<annotation>Pan-Asian tile camouflage block for the ships with a texture 4096*2048</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>PAN_group_2</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12420,6 +12671,7 @@
 		<camouflage>
 			<annotation>Pan-Asian tile camouflage block excluding Taiwan for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>PAN_group_3</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12440,6 +12692,7 @@
 		<camouflage>
 			<annotation>Pan-Asian tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>PAN_group_4</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12460,6 +12713,7 @@
 		<camouflage>
 			<annotation>Pan-Asian economic tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>PAN_group_1</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12480,6 +12734,7 @@
 		<camouflage>
 			<annotation>Pan-Asian economic tile camouflage block for the ships with a texture 4096*2048</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>PAN_group_2</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12500,6 +12755,7 @@
 		<camouflage>
 			<annotation>Pan-Asian economic tile camouflage block excluding Taiwan for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>PAN_group_3</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12520,6 +12776,7 @@
 		<camouflage>
 			<annotation>Pan-Asian economic tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>PAN_group_4</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12540,6 +12797,7 @@
 		<camouflage>
 			<annotation>Polish tile camouflage block for the ships with a texture 4096*2048</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>POL_group_1</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12560,6 +12818,7 @@
 		<camouflage>
 			<annotation>Polish tile camouflage block for the ships with a texture 4096*2048</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>POL_group_1</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12580,6 +12839,7 @@
 		<camouflage>
 			<annotation>Polish tile camouflage block for the ships with a texture 4096*2048</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>POL_group_1</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12600,6 +12860,7 @@
 		<camouflage>
 			<annotation>Polish economic tile camouflage block for the ships with a texture 4096*2048</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>POL_group_1</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12620,6 +12881,7 @@
 		<camouflage>
 			<annotation>Russian tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>RUS_group_1</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12641,6 +12903,7 @@
 		<camouflage>
 			<annotation>Russian tile camouflage block for the ships with a texture 4096*2048</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>RUS_group_2</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12662,6 +12925,7 @@
 		<camouflage>
 			<annotation>Russian tile camouflage block for the ships with a texture 4096*1024</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>RUS_group_3</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12683,6 +12947,7 @@
 		<camouflage>
 			<annotation>Russian tile camouflage block for the ships with a texture 4096*4096+1024*1024</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>RUS_group_4</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12704,6 +12969,7 @@
 		<camouflage>
 			<annotation>Russian tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>RUS_group_5</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12725,6 +12991,7 @@
 		<camouflage>
 			<annotation>Russian tile camouflage block for the ships with a texture 4096*4096+2048*1024</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>RUS_group_6</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12746,6 +13013,7 @@
 		<camouflage>
 			<annotation>Russian tile camouflage block for the ships with a texture 4096*4096+4096*2048</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>RUS_group_7</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12767,6 +13035,7 @@
 		<camouflage>
 			<annotation>Russian tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>RUS_group_1</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12788,6 +13057,7 @@
 		<camouflage>
 			<annotation>Russian tile camouflage block for the ships with a texture 4096*2048</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>RUS_group_2</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12809,6 +13079,7 @@
 		<camouflage>
 			<annotation>Russian tile camouflage block for the ships with a texture 4096*1024</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>RUS_group_3</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12830,6 +13101,7 @@
 		<camouflage>
 			<annotation>Russian tile camouflage block for the ships with a texture 4096*4096+1024*1024</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>RUS_group_4</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12851,6 +13123,7 @@
 		<camouflage>
 			<annotation>Russian tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>RUS_group_5</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12872,6 +13145,7 @@
 		<camouflage>
 			<annotation>Russian tile camouflage block for the ships with a texture 4096*4096+2048*1024</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>RUS_group_6</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12893,6 +13167,7 @@
 		<camouflage>
 			<annotation>Russian tile camouflage block for the ships with a texture 4096*4096+4096*2048</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>RUS_group_7</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12914,6 +13189,7 @@
 		<camouflage>
 			<annotation>Russian tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>RUS_group_1</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12935,6 +13211,7 @@
 		<camouflage>
 			<annotation>Russian tile camouflage block for the ships with a texture 4096*2048</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>RUS_group_2</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12956,6 +13233,7 @@
 		<camouflage>
 			<annotation>Russian tile camouflage block for the ships with a texture 4096*1024</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>RUS_group_3</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12977,6 +13255,7 @@
 		<camouflage>
 			<annotation>Russian tile camouflage block for the ships with a texture 4096*4096+1024*1024</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>RUS_group_4</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -12998,6 +13277,7 @@
 		<camouflage>
 			<annotation>Russian tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>RUS_group_5</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -13019,6 +13299,7 @@
 		<camouflage>
 			<annotation>Russian tile camouflage block for the ships with a texture 4096*4096+2048*1024</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>RUS_group_6</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -13040,6 +13321,7 @@
 		<camouflage>
 			<annotation>Russian tile camouflage block for the ships with a texture 4096*4096+4096*2048</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>RUS_group_7</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -13061,6 +13343,7 @@
 		<camouflage>
 			<annotation>Russian economic tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>RUS_group_1</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -13082,6 +13365,7 @@
 		<camouflage>
 			<annotation>Russian economic tile camouflage block for the ships with a texture 4096*2048</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>RUS_group_2</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -13103,6 +13387,7 @@
 		<camouflage>
 			<annotation>Russian economic tile camouflage block for the ships with a texture 4096*1024</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>RUS_group_3</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -13124,6 +13409,7 @@
 		<camouflage>
 			<annotation>Russian economic tile camouflage block for the ships with a texture 4096*4096+1024*1024</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>RUS_group_4</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -13145,6 +13431,7 @@
 		<camouflage>
 			<annotation>Russian economic tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>RUS_group_5</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -13166,6 +13453,7 @@
 		<camouflage>
 			<annotation>Russian economic tile camouflage block for the ships with a texture 4096*4096+2048*1024</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>RUS_group_6</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -13187,6 +13475,7 @@
 		<camouflage>
 			<annotation>Russian economic tile camouflage block for the ships with a texture 4096*4096+4096*2048</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>RUS_group_7</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -13666,7 +13955,7 @@
 				<Plane>0.5 0.5</Plane>
 				<Float>0.5 0.12</Float>
 				<Misc>0.3 0.6</Misc>
-				<Bulge>0.5 1</Bulge>
+				<Bulge>0.75 0.75</Bulge>
 			</UV>
 			<Textures>
 				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_ANZACday.dds</Tile>
@@ -16283,7 +16572,7 @@
 				<Plane>0.5 0.5</Plane>
 				<Float>0.5 0.12</Float>
 				<Misc>0.3 0.6</Misc>
-				<Bulge>0.5 1</Bulge>
+				<Bulge>0.75 0.75</Bulge>
 			</UV>
 			<Textures>
 				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_CompasRose_56.dds</Tile>
@@ -17296,6 +17585,205 @@
 				<Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_08.dds</Tile>
 			</Textures>
 			<colorSchemes>colorSchemeGC01</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Tier 11 tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
+			<name>camo_generalBattle_tile</name>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>2 2</Tile>
+				<DeckHouse>1.5 1.5</DeckHouse>
+				<Gun>0.5 0.5</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_generalBattle.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_generalBattle_01</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Tier 11 tile camouflage block for the ships with a texture 4096*2048</annotation>
+			<name>camo_generalBattle_tile</name>
+			<shipGroups>IJN_group_2 USN_group_2 RUS_group_2 UK_group_2 GER_group_2 FRA_group_2 POL_group_1 PAN_group_2 ITA_group_3 NL_group_1 EUR_group_2 PAM_group_3</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>3 1.5</Tile>
+				<DeckHouse>0.75 0.75</DeckHouse>
+				<Gun>0.5 0.5</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_generalBattle.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_generalBattle_01</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Tier 11 tile camouflage block for the ships with a texture 4096*1024</annotation>
+			<name>camo_generalBattle_tile</name>
+			<shipGroups>RUS_group_3</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>3 0.75</Tile>
+				<DeckHouse>0.75 0.75</DeckHouse>
+				<Gun>0.5 0.5</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.5</Float>
+				<Misc>0.6 0.6</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_generalBattle.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_generalBattle_01</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Tier 11 tile camouflage block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
+			<name>camo_generalBattle_tile</name>
+			<shipGroups>IJN_group_3 USN_group_3 UK_group_3 GER_group_3 FRA_group_3 ITA_group_2 RUS_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>2 2</Tile>
+				<DeckHouse>2 1</DeckHouse>
+				<Gun>0.5 0.5</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.5</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_generalBattle.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_generalBattle_01</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Tier 11 tile camouflage block for the ships with a texture 4096*4096+1024*1024</annotation>
+			<name>camo_generalBattle_tile</name>
+			<shipGroups>IJN_group_4 USN_group_4 RUS_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>2 2</Tile>
+				<DeckHouse>0.75 0.75</DeckHouse>
+				<Gun>0.5 0.5</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.5</Float>
+				<Misc>0.6 0.6</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_generalBattle.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_generalBattle_01</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Tier 11 tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
+			<name>camo_generalBattle_tile</name>
+			<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 PAN_group_4 ITA_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>2.3 2.3</Tile>
+				<DeckHouse>2 2</DeckHouse>
+				<Gun>0.5 0.5</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.5</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_generalBattle.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_generalBattle_01</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Tier 11 tile camouflage block for the ships with a texture 4096*4096+2048*1024</annotation>
+			<name>camo_generalBattle_tile</name>
+			<shipGroups>RUS_group_6 USN_group_6 GER_group_5 IJN_group_6 FRA_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>2.1 2.1</Tile>
+				<DeckHouse>1 0.5</DeckHouse>
+				<Gun>0.5 0.5</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.5</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_generalBattle.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_generalBattle_01</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Tier 11 tile camouflage block for the ships with a texture 4096*2048+4096*4096</annotation>
+			<name>camo_generalBattle_tile</name>
+			<shipGroups>FRA_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>2 1</Tile>
+				<DeckHouse>2 2</DeckHouse>
+				<Gun>0.5 0.5</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.5</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_generalBattle.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_generalBattle_01</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Tier 11 tile camouflage block for the ships with a texture 4096*2048+2048*2048, 2048*1024+1024*1024</annotation>
+			<name>camo_generalBattle_tile</name>
+			<shipGroups>FRA_group_6 GER_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>2.3 1.15</Tile>
+				<DeckHouse>1 1</DeckHouse>
+				<Gun>0.5 0.5</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.5</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_generalBattle.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_generalBattle_01</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Tier 11 tile camouflage block for the ships with a texture 4096*2048+1024*1024</annotation>
+			<name>camo_generalBattle_tile</name>
+			<shipGroups>FRA_group_8</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>2.3 1.15</Tile>
+				<DeckHouse>0.75 0.75</DeckHouse>
+				<Gun>0.5 0.5</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.5</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_generalBattle.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_generalBattle_01</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>German Arc 2020 tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
@@ -21111,7 +21599,7 @@
 				<Plane>0.5 0.5</Plane>
 				<Float>0.5 0.12</Float>
 				<Misc>0.3 0.6</Misc>
-				<Bulge>0.5 1</Bulge>
+				<Bulge>1 1</Bulge>
 			</UV>
 			<Textures>
 				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_CNVMF.dds</Tile>
@@ -21489,7 +21977,7 @@
 				<Plane>0.5 0.5</Plane>
 				<Float>0.5 0.25</Float>
 				<Misc>0.3 0.3</Misc>
-				<Bulge>1 1</Bulge>
+				<Bulge>1.5 1.5</Bulge>
 			</UV>
 			<Textures>
 				<Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_02.dds</Tile>
@@ -29373,6 +29861,205 @@
 			<colorSchemes>colorScheme_DMM_01</colorSchemes>
 		</camouflage>
 		<camouflage>
+			<annotation>Dragon_Boat_Festival tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
+			<name>Dragon_Boat_Festival</name>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2.5 2.5</DeckHouse>
+				<Tile>5 5</Tile>
+				<Gun>0.8 0.8</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>1 1</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>0.25 0.25</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_Dragon_Boat_Festival.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Dragon_Boat_Festival</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Dragon_Boat_Festival tile camouflage block for the ships with a texture 4096*2048</annotation>
+			<name>Dragon_Boat_Festival</name>
+			<shipGroups>IJN_group_2 USN_group_2 RUS_group_2 UK_group_2 GER_group_2 FRA_group_2 POL_group_1 PAN_group_2 ITA_group_3 NL_group_1 EUR_group_2 PAM_group_3</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>0.25 0.25</DeckHouse>
+				<Tile>5 2.5</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>1 1</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>0.25 0.25</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_Dragon_Boat_Festival.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Dragon_Boat_Festival</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Dragon_Boat_Festival tile camouflage block for the ships with a texture 4096*1024</annotation>
+			<name>Dragon_Boat_Festival</name>
+			<shipGroups>RUS_group_3 </shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>0.5 0.5</DeckHouse>
+				<Tile>10 2.5</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>1 1</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>0.25 0.25</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_Dragon_Boat_Festival.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Dragon_Boat_Festival</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Dragon_Boat_Festival tile camouflage block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
+			<name>Dragon_Boat_Festival</name>
+			<shipGroups>IJN_group_3 USN_group_3 UK_group_3 GER_group_3 FRA_group_3 ITA_group_2 RUS_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>5 2.5</DeckHouse>
+				<Tile>5 5</Tile>
+				<Gun>0.8 0.8</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>1 1</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>0.25 0.25</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_Dragon_Boat_Festival.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Dragon_Boat_Festival</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Dragon_Boat_Festival tile camouflage block for the ships with a texture 4096*4096+1024*1024</annotation>
+			<name>Dragon_Boat_Festival</name>
+			<shipGroups>IJN_group_4 USN_group_4 RUS_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1.25 1.25</DeckHouse>
+				<Tile>5 5</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>1 1</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>0.25 0.25</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_Dragon_Boat_Festival.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Dragon_Boat_Festival</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Dragon_Boat_Festival tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
+			<name>Dragon_Boat_Festival</name>
+			<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 PAN_group_4 ITA_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>6 6</DeckHouse>
+				<Tile>6 6</Tile>
+				<Gun>0.7 0.7</Gun>
+				<Director>0.7 0.7</Director>
+				<Plane>2 2</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.6 0.6</Misc>
+				<Bulge>0.25 0.25</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_Dragon_Boat_Festival.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Dragon_Boat_Festival</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Dragon_Boat_Festival tile camouflage block for the ships with a texture 4096*4096+2048*1024</annotation>
+			<name>Dragon_Boat_Festival</name>
+			<shipGroups>RUS_group_6 USN_group_6 GER_group_5 IJN_group_6 FRA_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2.5 1.25</DeckHouse>
+				<Tile>5 5</Tile>
+				<Gun>0.7 0.7</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>1 1</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>0.25 0.25</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_Dragon_Boat_Festival.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Dragon_Boat_Festival</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Dragon_Boat_Festival tile camouflage block for the ships with a texture 4096*2048+4096*4096</annotation>
+			<name>Dragon_Boat_Festival</name>
+			<shipGroups>FRA_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>5 5</DeckHouse>
+				<Tile>5 2.5</Tile>
+				<Gun>1 1</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>1 1</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>0.25 0.25</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_Dragon_Boat_Festival.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Dragon_Boat_Festival</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Dragon_Boat_Festival tile camouflage block for the ships with a texture 4096*2048+2048*2048, 2048*1024+1024*1024</annotation>
+			<name>Dragon_Boat_Festival</name>
+			<shipGroups>FRA_group_6 GER_group_7 UK_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2.5 2.5</DeckHouse>
+				<Tile>5 2.5</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>1 1</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>0.25 0.25</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_Dragon_Boat_Festival.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Dragon_Boat_Festival</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Dragon_Boat_Festival tile camouflage block for the ships with a texture 4096*2048+1024*1024</annotation>
+			<name>Dragon_Boat_Festival</name>
+			<shipGroups>FRA_group_8</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1.25 1.25</DeckHouse>
+				<Tile>5 2.5</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>1 1</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>0.25 0.25</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_Dragon_Boat_Festival.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Dragon_Boat_Festival</colorSchemes>
+		</camouflage>
+		<camouflage>
 			<annotation>Sharks vs Eagles tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>Eagles_tile</name>
 			<tiled>true</tiled>
@@ -30659,6 +31346,7 @@
 		<camouflage>
 			<annotation>British tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>UK_group_1</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -30680,6 +31368,7 @@
 		<camouflage>
 			<annotation>British tile camouflage block for the ships with a texture 4096*2048</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>UK_group_2</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -30701,6 +31390,7 @@
 		<camouflage>
 			<annotation>British tile camouflage block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>UK_group_3</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -30722,6 +31412,7 @@
 		<camouflage>
 			<annotation>British tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>UK_group_4</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -30743,6 +31434,7 @@
 		<camouflage>
 			<annotation>British tile camouflage block for the ships with texture 4096*2048+2048*2048, 2048*1024+1024*1024</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>UK_group_5</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -30764,6 +31456,7 @@
 		<camouflage>
 			<annotation>British tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>UK_group_1</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -30785,6 +31478,7 @@
 		<camouflage>
 			<annotation>British tile camouflage block for the ships with a texture 4096*2048</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>UK_group_2</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -30806,6 +31500,7 @@
 		<camouflage>
 			<annotation>British tile camouflage block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>UK_group_3</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -30827,6 +31522,7 @@
 		<camouflage>
 			<annotation>British tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>UK_group_4</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -30848,6 +31544,7 @@
 		<camouflage>
 			<annotation>British tile camouflage block for the ships with texture 4096*2048+2048*2048, 2048*1024+1024*1024</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>UK_group_5</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -30869,6 +31566,7 @@
 		<camouflage>
 			<annotation>British tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>UK_group_1</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -30890,6 +31588,7 @@
 		<camouflage>
 			<annotation>British tile camouflage block for the ships with a texture 4096*2048</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>UK_group_2</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -30911,6 +31610,7 @@
 		<camouflage>
 			<annotation>British tile camouflage block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>UK_group_3</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -30932,6 +31632,7 @@
 		<camouflage>
 			<annotation>British tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>UK_group_4</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -30953,6 +31654,7 @@
 		<camouflage>
 			<annotation>British tile camouflage block for the ships with texture 4096*2048+2048*2048, 2048*1024+1024*1024</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>UK_group_5</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -30974,6 +31676,7 @@
 		<camouflage>
 			<annotation>British economic tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>UK_group_1</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -30995,6 +31698,7 @@
 		<camouflage>
 			<annotation>British economic tile camouflage block for the ships with a texture 4096*2048</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>UK_group_2</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -31016,6 +31720,7 @@
 		<camouflage>
 			<annotation>British economic tile camouflage block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>UK_group_3</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -31037,6 +31742,7 @@
 		<camouflage>
 			<annotation>British economic tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>UK_group_4</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -31058,6 +31764,7 @@
 		<camouflage>
 			<annotation>British tile camouflage block for the ships with texture 4096*2048+2048*2048, 2048*1024+1024*1024</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>UK_group_5</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -31079,6 +31786,7 @@
 		<camouflage>
 			<annotation>American tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>USN_group_1</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -31100,6 +31808,7 @@
 		<camouflage>
 			<annotation>American tile camouflage block for the ships with a texture 4096*2048</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>USN_group_2</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -31121,6 +31830,7 @@
 		<camouflage>
 			<annotation>American tile camouflage block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>USN_group_3</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -31142,6 +31852,7 @@
 		<camouflage>
 			<annotation>American tile camouflage block for the ships with a texture 4096*4096+1024*1024</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>USN_group_4</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -31163,6 +31874,7 @@
 		<camouflage>
 			<annotation>American tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>USN_group_5</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -31184,6 +31896,7 @@
 		<camouflage>
 			<annotation>American tile camouflage block for the ships with a texture 4096*4096+2048*1024</annotation>
 			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>USN_group_6</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -31205,6 +31918,7 @@
 		<camouflage>
 			<annotation>American tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>USN_group_1</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -31226,6 +31940,7 @@
 		<camouflage>
 			<annotation>American tile camouflage block for the ships with a texture 4096*2048</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>USN_group_2</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -31247,6 +31962,7 @@
 		<camouflage>
 			<annotation>American tile camouflage block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>USN_group_3</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -31268,6 +31984,7 @@
 		<camouflage>
 			<annotation>American tile camouflage block for the ships with a texture 4096*4096+1024*1024</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>USN_group_4</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -31289,6 +32006,7 @@
 		<camouflage>
 			<annotation>American tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>USN_group_5</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -31310,6 +32028,7 @@
 		<camouflage>
 			<annotation>American tile camouflage block for the ships with a texture 4096*4096+2048*1024</annotation>
 			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>USN_group_6</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -31331,6 +32050,7 @@
 		<camouflage>
 			<annotation>American tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>USN_group_1</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -31352,6 +32072,7 @@
 		<camouflage>
 			<annotation>American tile camouflage block for the ships with a texture 4096*2048</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>USN_group_2</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -31373,6 +32094,7 @@
 		<camouflage>
 			<annotation>American tile camouflage block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>USN_group_3</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -31394,6 +32116,7 @@
 		<camouflage>
 			<annotation>American tile camouflage block for the ships with a texture 4096*4096+1024*1024</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>USN_group_4</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -31415,6 +32138,7 @@
 		<camouflage>
 			<annotation>American tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>USN_group_5</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -31436,6 +32160,7 @@
 		<camouflage>
 			<annotation>American tile camouflage block for the ships with a texture 4096*4096+2048*1024</annotation>
 			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>USN_group_6</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -31457,6 +32182,7 @@
 		<camouflage>
 			<annotation>American economic tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>USN_group_1</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -31478,6 +32204,7 @@
 		<camouflage>
 			<annotation>American economic tile camouflage block for the ships with a texture 4096*2048</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>USN_group_2</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -31499,6 +32226,7 @@
 		<camouflage>
 			<annotation>American economic tile camouflage block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>USN_group_3</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -31520,6 +32248,7 @@
 		<camouflage>
 			<annotation>American economic tile camouflage block for the ships with a texture 4096*4096+1024*1024</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>USN_group_4</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -31541,6 +32270,7 @@
 		<camouflage>
 			<annotation>American economic tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>USN_group_5</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -31562,6 +32292,7 @@
 		<camouflage>
 			<annotation>American economic tile camouflage block for the ships with a texture 4096*4096+2048*1024</annotation>
 			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
 			<shipGroups>USN_group_6</shipGroups>
 			<tiled>true</tiled>
 			<UV>
@@ -31583,6 +32314,7 @@
 		<camouflage>
 			<annotation>Mysore unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PUSC516_Mysore</targetShip>
 			<tiled>true</tiled>
 			<UV>
@@ -31600,6 +32332,55 @@
 			</Textures>
 			<colorSchemes>colorSchemeEURMysore1</colorSchemes>
 			<colorSchemes>colorSchemeEURMysore2</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Yukon unique permOflage block</annotation>
+			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
+			<targetShip>PUSB507_Yukon</targetShip>
+			<tiled>false</tiled>
+			<UV>
+				<Tile>1 1</Tile>
+				<Gun>1 1</Gun>
+				<Director>0.5 0.5</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+			</UV>
+			<Textures>
+				<Hull>content/gameplay/common/camouflage/textures/USB001_Yukon_1941_Hull_camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/USB001_Yukon_1941_DeckHouse_camo_01.dds</DeckHouse>
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+				<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
+				<Plane>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Float>
+				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
+			</Textures>
+			<colorSchemes>colorSchemeUKP49</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Yukon unique permOflage block</annotation>
+			<name>camo_permanent_2</name>
+			<targetShip>PUSB507_Yukon</targetShip>
+			<tiled>false</tiled>
+			<UV>
+				<Tile>1 1</Tile>
+				<Gun>1 1</Gun>
+				<Director>0.5 0.5</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+			</UV>
+			<Textures>
+				<Hull>content/gameplay/common/camouflage/textures/USB001_Yukon_1941_Hull_camo_02.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/USB001_Yukon_1941_DeckHouse_camo_02.dds</DeckHouse>
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+				<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
+				<Plane>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Float>
+				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
+			</Textures>
+			<colorSchemes>colorSchemeUKP23</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Visby New Year 2021 permOflage block</annotation>
@@ -31627,6 +32408,7 @@
 		<camouflage>
 			<annotation>Viribus Unitis unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PWSB504_Viribus_Unitis</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -31646,6 +32428,7 @@
 		<camouflage>
 			<annotation>Smaland unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PWSD610_Smaland</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -31666,6 +32449,7 @@
 		<camouflage>
 			<annotation>Ostergotland unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PWSD109_Ostergotland</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -31683,6 +32467,7 @@
 		<camouflage>
 			<annotation>Skane unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PWSD107_Skane</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -31700,6 +32485,7 @@
 		<camouflage>
 			<annotation>Oland unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PWSD108_Oland</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -31717,6 +32503,7 @@
 		<camouflage>
 			<annotation>Halland unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PWSD110_Halland</targetShip>
 			<targetShip>PWSD910_Lappland</targetShip>
 			<tiled>false</tiled>
@@ -31736,6 +32523,7 @@
 		<camouflage>
 			<annotation>Vasteras unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PWSD106_Vasteras</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -31749,6 +32537,27 @@
 				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_navy_day_23.dds</Tile>
 			</Textures>
 			<colorSchemes>colorSchemeSWDP01</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Ragnar unique permOflage block</annotation>
+			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
+			<targetShip>PWSD710_Ragnar</targetShip>
+			<tiled>false</tiled>
+			<UV>
+				<Tile>1 1</Tile>
+				<Gun>0.50 0.50</Gun>
+				<Director>0.50 0.50</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+			</UV>
+			<Textures>
+				<DeckHouse>content/gameplay/common/camouflage/textures/WSD014_Ragnar_1954_deckhouse_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/WSD014_Ragnar_1954_camo_01.dds</Hull>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_navy_day_23.dds</Tile>
+			</Textures>
+			<colorSchemes>colorSchemeEURP05</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Smaland unique permOflage block</annotation>
@@ -31982,6 +32791,7 @@
 		<camouflage>
 			<annotation>Dunkerque unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PFSB506_Dunkerque_1940</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -32003,6 +32813,7 @@
 		<camouflage>
 			<annotation>De Grasse unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PFSC506_De_Grasse</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -32024,6 +32835,7 @@
 		<camouflage>
 			<annotation>Aigle unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PFSD506_Aigle</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -32044,6 +32856,7 @@
 		<camouflage>
 			<annotation>Gascogne unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PFSB508_Gascogne</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -32065,6 +32878,7 @@
 		<camouflage>
 			<annotation>Jean Bart unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PFSB518_Jean_Bart</targetShip>
 			<targetShip>PFSB599_Black_Jean_Bart</targetShip>
 			<tiled>false</tiled>
@@ -32087,6 +32901,7 @@
 		<camouflage>
 			<annotation>Le Terrible unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PFSD508_Le_Terrible</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -32107,6 +32922,7 @@
 		<camouflage>
 			<annotation>Bourgogne unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PFSB510_Bourgogne</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -32128,6 +32944,7 @@
 		<camouflage>
 			<annotation>Bayard unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PFSC508_Bayard</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -32149,6 +32966,7 @@
 		<camouflage>
 			<annotation>Siroco unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PFSD504_Siroco</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -32169,6 +32987,7 @@
 		<camouflage>
 			<annotation>Colbert unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PFSC510_Colbert</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -32189,6 +33008,7 @@
 		<camouflage>
 			<annotation>Marceau unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PFSD210_Marceau</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -32209,6 +33029,7 @@
 		<camouflage>
 			<annotation>Champagne unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PFSB528_Champagne</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -32232,6 +33053,7 @@
 		<camouflage>
 			<annotation>Strasbourg unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PFSB507_Strasbourg</targetShip>
 			<targetShip>PFSB516_Strasbourg</targetShip>
 			<tiled>false</tiled>
@@ -32255,6 +33077,7 @@
 		<camouflage>
 			<annotation>Flandre unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PFSB538_Flandre</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -32277,6 +33100,7 @@
 		<camouflage>
 			<annotation>La Galissonniere unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PFSC106_La_Galissonniere</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -32297,6 +33121,7 @@
 		<camouflage>
 			<annotation>Algerie unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PFSC107_Algerie</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -32317,6 +33142,7 @@
 		<camouflage>
 			<annotation>Charles Martel unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PFSC108_Charles_Martel</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -32337,6 +33163,7 @@
 		<camouflage>
 			<annotation>Saint Louis unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PFSC109_Saint_Louis</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -32357,6 +33184,7 @@
 		<camouflage>
 			<annotation>Henri IV unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PFSC110_Henri_IV</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -32378,6 +33206,7 @@
 		<camouflage>
 			<annotation>Normandie unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PFSB106_Normandie</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -32399,6 +33228,7 @@
 		<camouflage>
 			<annotation>Lyon unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PFSB107_Lyon</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -32420,6 +33250,7 @@
 		<camouflage>
 			<annotation>Richelieu Hull A unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PFSB108_Richelieu</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -32441,6 +33272,7 @@
 		<camouflage>
 			<annotation>Richelieu Hull B unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PFSB108_Richelieu_B_Hull</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -32462,6 +33294,7 @@
 		<camouflage>
 			<annotation>Alsace unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PFSB109_Alsace</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -32483,6 +33316,7 @@
 		<camouflage>
 			<annotation>France unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PFSB110_France</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -32504,6 +33338,7 @@
 		<camouflage>
 			<annotation>Le_Fantasque permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PFSD108_Le_Fantasque</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -32524,6 +33359,7 @@
 		<camouflage>
 			<annotation>Mogador permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PFSD109_Mogador</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -32545,6 +33381,7 @@
 		<camouflage>
 			<annotation>Kleber permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PFSD110_Kleber</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -32565,6 +33402,7 @@
 		<camouflage>
 			<annotation>Vauquelin permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PFSD107_Vauquelin</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -32586,6 +33424,7 @@
 		<camouflage>
 			<annotation>Guepard permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PFSD106_Guepard</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -33250,6 +34089,7 @@
 		<camouflage>
 			<annotation>Tirpitz first unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PGSB002_Tirpiz_1942</targetShip>
 			<targetShip>PGSB598_Black_Tirpitz</targetShip>
 			<tiled>false</tiled>
@@ -33272,6 +34112,7 @@
 		<camouflage>
 			<annotation>Emden unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PGSC502_Emden_1908</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -33293,6 +34134,7 @@
 		<camouflage>
 			<annotation>Koenig Albert unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PGSB503_Koenig_Albert</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -33313,6 +34155,7 @@
 		<camouflage>
 			<annotation>Scharnhorst unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PGSB507_Scharnhorst</targetShip>
 			<targetShip>PGSB597_Black_Scharnhorst</targetShip>
 			<tiled>false</tiled>
@@ -33335,6 +34178,7 @@
 		<camouflage>
 			<annotation>Prinz Eugen unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PGSC508_Prinz_Eugen</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -33355,6 +34199,7 @@
 		<camouflage>
 			<annotation>Admiral Graf Spee unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PGSC706_HSF_Graf_Spee</targetShip>
 			<targetShip>PGSC506_Admiral_Graf_Spee</targetShip>
 			<tiled>false</tiled>
@@ -33376,6 +34221,7 @@
 		<camouflage>
 			<annotation>Graf_Zeppelin unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PGSA508_Graf_Zeppelin</targetShip>
 			<targetShip>PGSA518_Graf_Zeppelin</targetShip>
 			<targetShip>PGSA598_Black_Graf_Zeppelin</targetShip>
@@ -33399,6 +34245,7 @@
 		<camouflage>
 			<annotation>Destroyer T-61 unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PGSD506_T_61</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -33411,7 +34258,7 @@
 			</UV>
 			<Textures>
 				<Hull>content/gameplay/common/camouflage/textures/GSD012_T61_1945_camo_01.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/GSD012_T61_1945_camo_01.dds</Gun>
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 			</Textures>
 			<colorSchemes>colorSchemeGERP18</colorSchemes>
 			<colorSchemes>colorSchemeGERP46</colorSchemes>
@@ -33419,6 +34266,7 @@
 		<camouflage>
 			<annotation>Z-39 unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PGSD508_Z_39</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -33439,6 +34287,7 @@
 		<camouflage>
 			<annotation>Prinz Eithel Friedrich unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PGSB506_Prinz_Eithel_Friedrich</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -33460,6 +34309,7 @@
 		<camouflage>
 			<annotation>Siegfried unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PGSC509_Siegfried</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -33481,6 +34331,7 @@
 		<camouflage>
 			<annotation>Mainz unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PGSC518_Mainz</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -33502,6 +34353,7 @@
 		<camouflage>
 			<annotation>Odin second unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PGSB508_Odin</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -33523,6 +34375,7 @@
 		<camouflage>
 			<annotation>Aegir unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PGSC519_Aegir</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -33544,6 +34397,7 @@
 		<camouflage>
 			<annotation>Z_35 second unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PGSD518_Z_35</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -33565,6 +34419,7 @@
 		<camouflage>
 			<annotation>Erich Loewenhardt unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PGSA506_Erich_Loewenhardt</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -33592,6 +34447,7 @@
 		<camouflage>
 			<annotation>Pommern unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PGSB509_Pommern</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -33619,6 +34475,7 @@
 		<camouflage>
 			<annotation>Munchen unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PGSC507_Munchen</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -33643,6 +34500,7 @@
 		<camouflage>
 			<annotation>Z-44 unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PGSD519_Z_44</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -33662,6 +34520,7 @@
 		<camouflage>
 			<annotation>Admiral Hipper unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PGSC108_Hipper</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -33683,6 +34542,7 @@
 		<camouflage>
 			<annotation>Roon unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PGSC109_Roon</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -33704,6 +34564,7 @@
 		<camouflage>
 			<annotation>York unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PGSC107_Yorck</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -33724,6 +34585,7 @@
 		<camouflage>
 			<annotation>Bismark unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PGSB108_Bismarck</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -33745,6 +34607,7 @@
 		<camouflage>
 			<annotation>Friedrich der Grosse unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PGSB109_Friedrich_der_Grosse</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -33766,6 +34629,7 @@
 		<camouflage>
 			<annotation>Gneisenau unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PGSB107_Gneisenau</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -33787,6 +34651,7 @@
 		<camouflage>
 			<annotation>Grossdeutschland unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PGSB110_Grossdeutschland</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -33808,6 +34673,7 @@
 		<camouflage>
 			<annotation>Hindenburg unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PGSC110_Hindenburg</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -33829,6 +34695,7 @@
 		<camouflage>
 			<annotation>Ernst Gaede unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PGSD106_Ernst_Gaede</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -33849,6 +34716,7 @@
 		<camouflage>
 			<annotation>Leberecht Maass unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PGSD107_Leberecht_Maass</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -33869,6 +34737,7 @@
 		<camouflage>
 			<annotation>Z 23 unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PGSD108_Z_23</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -33889,6 +34758,7 @@
 		<camouflage>
 			<annotation>Z 46 unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PGSD109_Z_46</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -33909,6 +34779,7 @@
 		<camouflage>
 			<annotation>Z 52 unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PGSD110_Z_52</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -33929,6 +34800,7 @@
 		<camouflage>
 			<annotation>Bayern Hull AB unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PGSB106_Bayern</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -33950,6 +34822,7 @@
 		<camouflage>
 			<annotation>Nurnberg unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PGSC106_Nurnberg</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -33970,6 +34843,7 @@
 		<camouflage>
 			<annotation>Weser unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PGSA106_Weser</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -33991,6 +34865,7 @@
 		<camouflage>
 			<annotation>Parseval unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PGSA108_Parseval</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -34012,6 +34887,7 @@
 		<camouflage>
 			<annotation>Manfred Richthofen unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PGSA110_Manfred_Richthofen</targetShip>
 			<targetShip>PGSA510_Werner_Voss</targetShip>
 			<tiled>false</tiled>
@@ -34034,6 +34910,7 @@
 		<camouflage>
 			<annotation>Max Immelmann permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PGSA610_Max_Immelmann</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -34059,6 +34936,7 @@
 		<camouflage>
 			<annotation>Elbing permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PGSD210_Elbing</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -34083,6 +34961,7 @@
 		<camouflage>
 			<annotation>Gustav Julius Maerker permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PGSD208_Gustav_Julius_Maerker</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -34108,6 +34987,7 @@
 		<camouflage>
 			<annotation>ZF_2 unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PGSD529_ZF_6</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -34132,6 +35012,7 @@
 		<camouflage>
 			<annotation>Felix_Schultz unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PGSD209_Felix_Schultz</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -34157,6 +35038,7 @@
 		<camouflage>
 			<annotation>Z-31 unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PGSD207_Z_31</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -34181,6 +35063,7 @@
 		<camouflage>
 			<annotation>Weimar unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PGSC517_Weimar</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -34201,6 +35084,28 @@
 			</Textures>
 			<colorSchemes>colorSchemeGERP47</colorSchemes>
 			<colorSchemes>colorSchemeGERP36</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Hannover unique permOflage block</annotation>
+			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
+			<targetShip>PGSB999_Hannover</targetShip>
+			<tiled>false</tiled>
+			<UV>
+				<Tile>1 1</Tile>
+				<Gun>1 1</Gun>
+				<Director>0.5 0.5</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+			</UV>
+			<Textures>
+				<DeckHouse>content/gameplay/common/camouflage/textures/GSB041_Hannover_1945_DeckHouse_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/GSB041_Hannover_1945_Hull_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Gun>
+			</Textures>
+			<colorSchemes>colorSchemeGERP31</colorSchemes>
+			<colorSchemes>colorSchemeGERP39</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Tirpitz second unique permOflage block</annotation>
@@ -34590,6 +35495,7 @@
 		<camouflage>
 			<annotation>Duca d Aosta unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PISC506_DucadAosta</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -34609,6 +35515,7 @@
 		<camouflage>
 			<annotation>Giulio Cesare unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PISB505_Giulio_Cesare</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -34628,6 +35535,7 @@
 		<camouflage>
 			<annotation>Duca degli Abruzzi unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PISC507_Duca_degli_Abruzzi</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -34648,6 +35556,7 @@
 		<camouflage>
 			<annotation>Roma unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PISB508_Roma</targetShip>
 			<targetShip>PISB708_AZUR_Littorio</targetShip>
 			<tiled>false</tiled>
@@ -34669,6 +35578,7 @@
 		<camouflage>
 			<annotation>Leone unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PISD506_Leone</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -34688,6 +35598,7 @@
 		<camouflage>
 			<annotation>Leone unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PISD509_Paolo_Emilio</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -34707,6 +35618,7 @@
 		<camouflage>
 			<annotation>Genova unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PISC505_Genova</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -34726,6 +35638,7 @@
 		<camouflage>
 			<annotation>Gorizia unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PISC607_Gorizia</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -34746,6 +35659,7 @@
 		<camouflage>
 			<annotation>Marco Polo unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PISB509_Marco_Polo</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -34768,6 +35682,7 @@
 		<camouflage>
 			<annotation>Trento unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PISC106_Trento</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -34787,6 +35702,7 @@
 		<camouflage>
 			<annotation>Zara unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PISC107_Zara</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -34807,6 +35723,7 @@
 		<camouflage>
 			<annotation>Verona unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PISC108_Amalfi</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -34826,6 +35743,7 @@
 		<camouflage>
 			<annotation>Torino unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PISC109_Brindisi</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -34846,6 +35764,7 @@
 		<camouflage>
 			<annotation>Milano unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PISC110_Venezia</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -34866,6 +35785,7 @@
 		<camouflage>
 			<annotation>Andrea Doria unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PISB106_Andrea_Doria</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -34888,6 +35808,7 @@
 		<camouflage>
 			<annotation>Francesco Caracciolo unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PISB107_Francesco_Caracciolo</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -34910,6 +35831,7 @@
 		<camouflage>
 			<annotation>Vittorio Veneto unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PISB108_Vittorio_Veneto</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -34932,6 +35854,7 @@
 		<camouflage>
 			<annotation>Lepanto unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PISB109_Lepanto</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -34954,6 +35877,7 @@
 		<camouflage>
 			<annotation>Cristoforo Colombo unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PISB110_Cristoforo_Colombo</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -34976,6 +35900,7 @@
 		<camouflage>
 			<annotation>Napoli unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PISC510_Napoli</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -35205,6 +36130,7 @@
 		<camouflage>
 			<annotation>Tachibana unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSD001_Tachibana_1912</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -35219,6 +36145,7 @@
 		<camouflage>
 			<annotation>Tachibana ASUS unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSD014_Tachibana_1912_Asus</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -35232,6 +36159,7 @@
 		<camouflage>
 			<annotation>Iwaki alpha unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSC026_Iwaki_1944</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -35252,6 +36180,7 @@
 		<camouflage>
 			<annotation>Atago unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSC038_Atago_1944</targetShip>
 			<targetShip>PJSC708_ARP_Takao</targetShip>
 			<targetShip>PJSC718_ARP_Maya</targetShip>
@@ -35276,6 +36205,7 @@
 		<camouflage>
 			<annotation>Yubari unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSC004_Yubari_1944</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -35296,6 +36226,7 @@
 		<camouflage>
 			<annotation>Ishizuchi unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSB008_Ishizuchi_1921</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -35316,6 +36247,7 @@
 		<camouflage>
 			<annotation>Tone unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSC018_Tone</targetShip>
 			<targetShip>PJSC918_Tone_Second</targetShip>
 			<targetShip>PJSC919_Tone_Third</targetShip>
@@ -35338,6 +36270,7 @@
 		<camouflage>
 			<annotation>Mikasa unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSB011_Mikasa_1905</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -35357,6 +36290,7 @@
 		<camouflage>
 			<annotation>Kitakami unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSC610_Kitakami</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -35377,6 +36311,7 @@
 		<camouflage>
 			<annotation>Kamikaze Halloween unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSD017_Kamikaze_1930</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -35396,6 +36331,7 @@
 		<camouflage>
 			<annotation>Kamikaze unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSD025_True_Kamikaze</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -35416,6 +36352,7 @@
 		<camouflage>
 			<annotation>Kamikaze project R unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSD026_Camo_Kamikaze</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -35435,6 +36372,7 @@
 		<camouflage>
 			<annotation>Katori unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSC503_Katori</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -35455,6 +36393,7 @@
 		<camouflage>
 			<annotation>Shinonome unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSD706_Shinonome</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -35475,6 +36414,7 @@
 		<camouflage>
 			<annotation>Ashitaka unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSB507_Ashitaka</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -35496,6 +36436,7 @@
 		<camouflage>
 			<annotation>Mutsu unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSB506_Mutsu</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -35517,6 +36458,7 @@
 		<camouflage>
 			<annotation>Kaga unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSA507_Kaga</targetShip>
 			<targetShip>PJSA518_Kaga</targetShip>
 			<targetShip>PJSA598_Black_Kaga</targetShip>
@@ -35540,6 +36482,7 @@
 		<camouflage>
 			<annotation>HSF Harekaze unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSD708_HSF_Harekaze</targetShip>
 			<targetShip>PJSD528_Harekaze_2</targetShip>
 			<tiled>false</tiled>
@@ -35563,6 +36506,7 @@
 		<camouflage>
 			<annotation>Kii unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSB508_Kii</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -35584,6 +36528,7 @@
 		<camouflage>
 			<annotation>Musasi unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSB509_Musashi</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -35605,6 +36550,7 @@
 		<camouflage>
 			<annotation>Asashio unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSD518_Asashio</targetShip>
 			<targetShip>PJSD598_Black_Asashio</targetShip>
 			<tiled>false</tiled>
@@ -35626,6 +36572,7 @@
 		<camouflage>
 			<annotation>Yahagi unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSC505_Yahagi</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -35646,6 +36593,7 @@
 		<camouflage>
 			<annotation>Azumaya unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSC510_Azumaya</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -35667,6 +36615,7 @@
 		<camouflage>
 			<annotation>Yukikaze unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSD718_AZUR_Yukikaze</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -35686,6 +36635,7 @@
 		<camouflage>
 			<annotation>Yudachi unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSD507_Yudachi</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -35706,6 +36656,7 @@
 		<camouflage>
 			<annotation>Yoshino unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSC520_Yoshino</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -35727,6 +36678,7 @@
 		<camouflage>
 			<annotation>Hayate unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSD510_Hayate</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -35747,6 +36699,7 @@
 		<camouflage>
 			<annotation>Shinonome unique permOflage block 02</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSB510_Shikishima</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -35768,6 +36721,7 @@
 		<camouflage>
 			<annotation>Ise unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSB526_Ise</targetShip>
 			<targetShip>PJSB906_Ise_TEST1</targetShip>
 			<targetShip>PJSB916_Ise_TEST2</targetShip>
@@ -35791,6 +36745,7 @@
 		<camouflage>
 			<annotation>Hizen unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSB519_Hizen</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -35812,6 +36767,7 @@
 		<camouflage>
 			<annotation>Hyuga unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSB517_Hyuga</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -35837,6 +36793,7 @@
 		<camouflage>
 			<annotation>Fubuki unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSD007_Fubuki_1944</targetShip>
 			<targetShip>PJSD106_Fubuki</targetShip>
 			<tiled>false</tiled>
@@ -35858,6 +36815,7 @@
 		<camouflage>
 			<annotation>Shokaku unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSA012_Zuikaku_1944</targetShip>
 			<targetShip>PJSA108_Shokaku</targetShip>
 			<tiled>false</tiled>
@@ -35880,6 +36838,7 @@
 		<camouflage>
 			<annotation>Izumo unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSB021_Izumo_1938</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -35900,6 +36859,7 @@
 		<camouflage>
 			<annotation>Mogami unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSC009_Mogami_1935</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -35922,6 +36882,7 @@
 		<camouflage>
 			<annotation>Hatsuharu unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSD006_Hatsuharu_1945</targetShip>
 			<targetShip>PJSD206_Hatsuharu</targetShip>
 			<tiled>false</tiled>
@@ -35943,6 +36904,7 @@
 		<camouflage>
 			<annotation>Akatsuki unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSD107_Akatsuki</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -35963,6 +36925,7 @@
 		<camouflage>
 			<annotation>Shiratsuyu unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSD207_Shiratsuyu</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -35983,6 +36946,7 @@
 		<camouflage>
 			<annotation>Yugumo unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSD209_Yugumo</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -36003,6 +36967,7 @@
 		<camouflage>
 			<annotation>Akizuki unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSD108_Akizuki</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -36023,6 +36988,7 @@
 		<camouflage>
 			<annotation>Myoko unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSC008_Myoko_1945</targetShip>
 			<targetShip>PJSC705_Myoko</targetShip>
 			<targetShip>PJSC707_Ashigara</targetShip>
@@ -36050,6 +37016,7 @@
 		<camouflage>
 			<annotation>Hiryu unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSA011_Hiryu_1942</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -36071,6 +37038,7 @@
 		<camouflage>
 			<annotation>Taiho unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSA015_Taiho_1944</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -36092,6 +37060,7 @@
 		<camouflage>
 			<annotation>Kagero unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSD010_Kagero_1943</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -36112,6 +37081,7 @@
 		<camouflage>
 			<annotation>Ibuki unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSC012_Ibuki_1944</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -36133,6 +37103,7 @@
 		<camouflage>
 			<annotation>Shimakaze =^.^= unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSD012_Shimakaze_1943</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -36153,6 +37124,7 @@
 		<camouflage>
 			<annotation>Zao unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSC034_Zao_1944</targetShip>
 			<targetShip>PJSC810_TST_ZAO</targetShip>
 			<tiled>false</tiled>
@@ -36174,6 +37146,7 @@
 		<camouflage>
 			<annotation>Hakuryu unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSA017_Hakuryu_1942</targetShip>
 			<targetShip>PJSA110_Hakuryu</targetShip>
 			<targetShip>PJSA917_TST_Hakuryu</targetShip>
@@ -36197,6 +37170,7 @@
 		<camouflage>
 			<annotation>Yamato unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSB018_Yamato_1944</targetShip>
 			<targetShip>PJSB700_ARP_Yamato</targetShip>
 			<tiled>false</tiled>
@@ -36219,6 +37193,7 @@
 		<camouflage>
 			<annotation>Nagato New Year unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSB010_Nagato_1944</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -36240,6 +37215,7 @@
 		<camouflage>
 			<annotation>Amagi unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSB013_Amagi_1942</targetShip>
 			<targetShip>PJSB878_Ignis_Purgatio</targetShip>
 			<targetShip>PJSB888_Ragnarok</targetShip>
@@ -36264,6 +37240,7 @@
 		<camouflage>
 			<annotation>Aoba unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSC007_Aoba_1943</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -36285,6 +37262,7 @@
 		<camouflage>
 			<annotation>Fuso unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSB006_Fuso_1943</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -36306,6 +37284,7 @@
 		<camouflage>
 			<annotation>Ryujo Hull A unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSA009_Ryujo_1933</targetShip>
 			<targetShip>PJSA106_Ryujo</targetShip>
 			<tiled>false</tiled>
@@ -36328,6 +37307,7 @@
 		<camouflage>
 			<annotation>Ryujo Hull BC unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSA009_Ryujo_1933_B_Hull</targetShip>
 			<targetShip>PJSA009_Ryujo_1933_C_Hull</targetShip>
 			<targetShip>PJSA106_Ryujo_B_Hull</targetShip>
@@ -36352,6 +37332,7 @@
 		<camouflage>
 			<annotation>Kitakaze unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSD219_Kitakaze</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -36372,6 +37353,7 @@
 		<camouflage>
 			<annotation>Harugumo unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSD210_Harugumo</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -36392,6 +37374,7 @@
 		<camouflage>
 			<annotation>Kagero unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PJSD208_Kagero</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -36408,6 +37391,28 @@
 			</Textures>
 			<colorSchemes>colorSchemeIJNP08</colorSchemes>
 			<colorSchemes>colorSchemeIJNP41</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Satsuma unique permOflage block</annotation>
+			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
+			<targetShip>PJSB999_Satsuma</targetShip>
+			<tiled>false</tiled>
+			<UV>
+				<Tile>1 1</Tile>
+				<Gun>1 1</Gun>
+				<Director>0.5 0.5</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+			</UV>
+			<Textures>
+				<DeckHouse>content/gameplay/common/camouflage/textures/JSB052_Satsuma_1945_DeckHouse_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/JSB052_Satsuma_1945_Hull_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+			</Textures>
+			<colorSchemes>colorSchemeIJNP03</colorSchemes>
+			<colorSchemes>colorSchemeIJNP15</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Tachibana unique permOflage block</annotation>
@@ -36621,6 +37626,7 @@
 		<camouflage>
 			<annotation>Friesland unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PHSD510_Friesland</targetShip>
 			<targetShip>PWSD510_Friesland</targetShip>
 			<tiled>false</tiled>
@@ -36641,7 +37647,8 @@
 		<camouflage>
 			<annotation>Kijkduin unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
-			<targetShip>PWSC116_Kijkduin</targetShip>
+			<useColorScheme>True</useColorScheme>
+			<targetShip>PHSC106_Kijkduin</targetShip>
 			<tiled>false</tiled>
 			<UV>
 				<Tile>1 1</Tile>
@@ -36663,7 +37670,8 @@
 		<camouflage>
 			<annotation>De Zeven Provincien unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
-			<targetShip>PWSC128_De_Zeven_Provincien</targetShip>
+			<useColorScheme>True</useColorScheme>
+			<targetShip>PHSC508_De_Zeven_Provincien</targetShip>
 			<tiled>false</tiled>
 			<UV>
 				<Tile>1 1</Tile>
@@ -36685,7 +37693,8 @@
 		<camouflage>
 			<annotation>Eendracht unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
-			<targetShip>PWSC117_Eendracht</targetShip>
+			<useColorScheme>True</useColorScheme>
+			<targetShip>PHSC107_Eendracht</targetShip>
 			<tiled>false</tiled>
 			<UV>
 				<Tile>1 1</Tile>
@@ -36706,7 +37715,8 @@
 		<camouflage>
 			<annotation>Johan de Witt unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
-			<targetShip>PWSC119_Johan_de_Witt</targetShip>
+			<useColorScheme>True</useColorScheme>
+			<targetShip>PHSC109_Johan_de_Witt</targetShip>
 			<tiled>false</tiled>
 			<UV>
 				<Tile>1 1</Tile>
@@ -36728,7 +37738,8 @@
 		<camouflage>
 			<annotation>Haarlem unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
-			<targetShip>PWSC118_Haarlem</targetShip>
+			<useColorScheme>True</useColorScheme>
+			<targetShip>PHSC108_Haarlem</targetShip>
 			<tiled>false</tiled>
 			<UV>
 				<Tile>1 1</Tile>
@@ -36750,7 +37761,8 @@
 		<camouflage>
 			<annotation>Gouden Leeuw unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
-			<targetShip>PWSC110_Gouden_Leeuw</targetShip>
+			<useColorScheme>True</useColorScheme>
+			<targetShip>PHSC110_Gouden_Leeuw</targetShip>
 			<tiled>false</tiled>
 			<UV>
 				<Tile>1 1</Tile>
@@ -36772,6 +37784,7 @@
 		<camouflage>
 			<annotation>Nueve de Julio unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PVSC507_Nueve_de_Julio_1951</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -36792,6 +37805,7 @@
 		<camouflage>
 			<annotation>Almirante Abreu unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PVSC502_Almirante_Abreu</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -36811,6 +37825,7 @@
 		<camouflage>
 			<annotation>Jurua unique permoflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PVSD506_Jurua</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -36891,6 +37906,7 @@
 		<camouflage>
 			<annotation>Hsiang Yang unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PZSD110_Hsiang_Yang</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -36910,6 +37926,7 @@
 		<camouflage>
 			<annotation>Chung Mu unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PZSD109_Chung_Mu</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -36929,6 +37946,7 @@
 		<camouflage>
 			<annotation>Hsien Yang unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PZSD108_Hsien_Yang</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -36948,6 +37966,7 @@
 		<camouflage>
 			<annotation>Gadjah_Mada unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PZSD107_Gadjah_Mada</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -36967,6 +37986,7 @@
 		<camouflage>
 			<annotation>Fu Shun unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PZSD106_Fu_Shun</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -36986,6 +38006,7 @@
 		<camouflage>
 			<annotation>Sanzang permoflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PZSA508_Saipan_Sanzang</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -37006,6 +38027,7 @@
 		<camouflage>
 			<annotation>Wujing permoflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PZSB519_Alsace_Wujing</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -37027,6 +38049,7 @@
 		<camouflage>
 			<annotation>Anshan unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PZSD506_Anshan</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -37046,6 +38069,7 @@
 		<camouflage>
 			<annotation>Lo Yang unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PZSD508_LoYang</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -37065,6 +38089,7 @@
 		<camouflage>
 			<annotation>Huang he unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PZSC506_Huang_he</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -37084,6 +38109,7 @@
 		<camouflage>
 			<annotation>Irian unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PZSC508_Irian</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -37104,6 +38130,7 @@
 		<camouflage>
 			<annotation>Siliwangi unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PZSD208_Siliwangi_1959</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -37123,6 +38150,7 @@
 		<camouflage>
 			<annotation>Wukong permoflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PZSC518_Martel_Wukong</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -37146,6 +38174,7 @@
 		<camouflage>
 			<annotation>Bajie permoflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PZSB509_Izumo_Bajie</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -37169,6 +38198,7 @@
 		<camouflage>
 			<annotation>Fen Yang permoflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PZSD518_Fen_Yang</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -37255,6 +38285,7 @@
 		<camouflage>
 			<annotation>Blyskawica unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PWSD501_Blyskawica</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -37274,6 +38305,7 @@
 		<camouflage>
 			<annotation>Orkan unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PWSD508_Orkan</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -37495,6 +38527,7 @@
 		<camouflage>
 			<annotation>Avrora unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSC001_Avrora_1917</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -37515,6 +38548,7 @@
 		<camouflage>
 			<annotation>Diana ASUS unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSC010_Diana_1905_Asus</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -37534,6 +38568,7 @@
 		<camouflage>
 			<annotation>Diana unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSC002_Diana_1905</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -37554,6 +38589,7 @@
 		<camouflage>
 			<annotation>Murmansk unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSC003_Murmansk_1944</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -37574,6 +38610,7 @@
 		<camouflage>
 			<annotation>Gremyashchy unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSD001_Gremyashchy_1942</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -37594,6 +38631,7 @@
 		<camouflage>
 			<annotation>Nikolay I unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSB001_Nikolay_I</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -37614,6 +38652,7 @@
 		<camouflage>
 			<annotation>Kutuzov unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSC508_Kutuzov_1952</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -37635,6 +38674,7 @@
 		<camouflage>
 			<annotation>Molotov unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSC506_Molotov_1943</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -37655,6 +38695,7 @@
 		<camouflage>
 			<annotation>Krasni Krym unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSC505_KrasniKrym</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -37676,6 +38717,7 @@
 		<camouflage>
 			<annotation>Leningrad unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSD507_Leningrad_1944</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -37696,6 +38738,7 @@
 		<camouflage>
 			<annotation>Oleg unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSC503_Oleg</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -37716,6 +38759,7 @@
 		<camouflage>
 			<annotation>Okhotnik unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSD505_Okhotnik_1917</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -37736,6 +38780,7 @@
 		<camouflage>
 			<annotation>Admiral Makarov unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSC606_Admiral_Makarov</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -37757,6 +38802,7 @@
 		<camouflage>
 			<annotation>Oktyabrskaya Revolutsiya unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSB505_Oktyabrskaya_Revolutsiya</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -37778,6 +38824,7 @@
 		<camouflage>
 			<annotation>Varyag unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSC513_Varyag</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -37798,6 +38845,7 @@
 		<camouflage>
 			<annotation>Kronshtadt unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSC509_Kronshtadt</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -37819,6 +38867,7 @@
 		<camouflage>
 			<annotation>Stalingrad unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSC510_Stalingrad</targetShip>
 			<targetShip>PRSC520_Stalingrad</targetShip>
 			<tiled>false</tiled>
@@ -37841,6 +38890,7 @@
 		<camouflage>
 			<annotation>Lazo unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSC518_Lazo</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -37862,6 +38912,7 @@
 		<camouflage>
 			<annotation>Pr 41 Neustrashimy unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSD709_Pr_41_Neustrashimy</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -37882,6 +38933,7 @@
 		<camouflage>
 			<annotation>Lenin unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSB518_Lenin</targetShip>
 			<targetShip>PRSB538_V_I_Lenin</targetShip>
 			<tiled>false</tiled>
@@ -37904,6 +38956,7 @@
 		<camouflage>
 			<annotation>Smolensk unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSC610_Smolensk</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -37924,6 +38977,7 @@
 		<camouflage>
 			<annotation>Slava unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSB510_Slava</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -37945,6 +38999,7 @@
 		<camouflage>
 			<annotation>Poltava unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSB508_Poltava</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -37966,6 +39021,7 @@
 		<camouflage>
 			<annotation>Borodino unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSB528_Borodino</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -37987,6 +39043,7 @@
 		<camouflage>
 			<annotation>Mikoyan unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSC515_Mikoyan</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -38008,6 +39065,7 @@
 		<camouflage>
 			<annotation>R_10 permoflage block 01</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSD810_R_10</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -38031,6 +39089,7 @@
 		<camouflage>
 			<annotation>Tashkent historical unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSD409_Pr_20i_Tashkent</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -38050,6 +39109,7 @@
 		<camouflage>
 			<annotation>Kiev pr48 unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSD308_Pr_48</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -38070,6 +39130,7 @@
 		<camouflage>
 			<annotation>Schors unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSC107_Schors</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -38090,6 +39151,7 @@
 		<camouflage>
 			<annotation>Dmitry Donskoy unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSC109_Dmitry_Donskoy</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -38111,6 +39173,7 @@
 		<camouflage>
 			<annotation>Chapaev Hull A unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSC108_Pr_68_Chapaev_A_Hull</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -38132,6 +39195,7 @@
 		<camouflage>
 			<annotation>Chapaev Hull B unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSC108_Pr_68_Chapaev_B_Hull</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -38153,6 +39217,7 @@
 		<camouflage>
 			<annotation>Udaloy pr35 unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSD209_Pr_35</targetShip>
 			<targetShip>PRSD107_Pr_35_Udaloy</targetShip>
 			<tiled>false</tiled>
@@ -38174,6 +39239,7 @@
 		<camouflage>
 			<annotation>Ognevoy pr30 unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSD208_Pr_30</targetShip>
 			<targetShip>PRSD106_Pr_30_Ognevoy</targetShip>
 			<tiled>false</tiled>
@@ -38195,6 +39261,7 @@
 		<camouflage>
 			<annotation>Khabarovsk unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSD110_Pr_24_Khabarovsk</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -38215,6 +39282,7 @@
 		<camouflage>
 			<annotation>Moskva unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSC110_Pr_66_Moskva</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -38236,6 +39304,7 @@
 		<camouflage>
 			<annotation>Budeny Hull A unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSC106_Pr_94_Budeny</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -38256,6 +39325,7 @@
 		<camouflage>
 			<annotation>Budeny Hull B unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSC106_Pr_94_Budeny_B_Hull</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -38276,6 +39346,7 @@
 		<camouflage>
 			<annotation>Grozovoy unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSD210_Grozovoy_pr_40N</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -38296,6 +39367,7 @@
 		<camouflage>
 			<annotation>Minsk unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSD207_Minsk</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -38316,6 +39388,7 @@
 		<camouflage>
 			<annotation>Gnevniy Pr 7 unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSD206_Pr_7</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -38337,6 +39410,7 @@
 		<camouflage>
 			<annotation>Sinop unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSB107_Sinop</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -38358,6 +39432,7 @@
 		<camouflage>
 			<annotation>Sovetsky Soyuz unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSB109_Sovetsky_Soyuz</targetShip>
 			<targetShip>PRSB709_AZUR_Sov_Russia</targetShip>
 			<tiled>false</tiled>
@@ -38380,6 +39455,7 @@
 		<camouflage>
 			<annotation>Vladivostok unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSB108_Vladivostok</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -38401,6 +39477,7 @@
 		<camouflage>
 			<annotation>Sovetskaya Rossiya unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSB110_Sovetskaya_Rossiya</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -38422,6 +39499,7 @@
 		<camouflage>
 			<annotation>Izmail unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSB106_Izmail</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -38443,6 +39521,7 @@
 		<camouflage>
 			<annotation>Kirov unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSC105_Kirov</targetShip>
 			<targetShip>PRSC525_Kirov</targetShip>
 			<tiled>false</tiled>
@@ -38464,6 +39543,7 @@
 		<camouflage>
 			<annotation>Petr Bagration unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSC538_Petr_Bagration</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -38487,6 +39567,7 @@
 		<camouflage>
 			<annotation>Tallin unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSC208_Tallin</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -38510,6 +39591,7 @@
 		<camouflage>
 			<annotation>Riga unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSC209_Riga</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -38533,6 +39615,7 @@
 		<camouflage>
 			<annotation>Petropavlovsk unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSC310_Petropavlovsk</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -38556,6 +39639,7 @@
 		<camouflage>
 			<annotation>Alexander Nevsky unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSC210_Pr_84_Alexander_Nevsky</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -38577,6 +39661,7 @@
 		<camouflage>
 			<annotation>Ochakov unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PRSC528_Ochakov</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -38754,7 +39839,7 @@
 		<camouflage>
 			<annotation>Lenin Rostelekom permoflage block 01</annotation>
 			<name>camo_Rostelecom_1</name>
-			<targetShip>PRSB538_V_I_Lenin</targetShip>
+			<targetShip>PRSB518_Lenin</targetShip>
 			<tiled>false</tiled>
 			<UV>
 				<Tile>1 1</Tile>
@@ -38802,7 +39887,7 @@
 		<camouflage>
 			<annotation>Petr Bagration Rostelekom permoflage block 01</annotation>
 			<name>camo_Rostelecom_1</name>
-			<targetShip>PRSC538_Petr_Bagration</targetShip>
+			<targetShip>PRSC548_Bagration</targetShip>
 			<tiled>false</tiled>
 			<UV>
 				<Tile>1 1</Tile>
@@ -39290,6 +40375,7 @@
 		<camouflage>
 			<annotation>Warspite unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PBSB002_Warspite_1941</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -39311,6 +40397,7 @@
 		<camouflage>
 			<annotation>Campbeltown unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PBSD503_Campbeltown_1941</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -39331,6 +40418,7 @@
 		<camouflage>
 			<annotation>Belfast unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PBSC507_Belfast_1959</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -39352,6 +40440,7 @@
 		<camouflage>
 			<annotation>Perth unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PUSC506_Perth_1942</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -39372,6 +40461,7 @@
 		<camouflage>
 			<annotation>Hood first unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PBSB507_Hood</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -39393,6 +40483,7 @@
 		<camouflage>
 			<annotation>Gallant unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PBSD506_Gallant</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -39413,6 +40504,7 @@
 		<camouflage>
 			<annotation>Nelson premium unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PBSB517_Nelson</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -39434,6 +40526,7 @@
 		<camouflage>
 			<annotation>Vampire unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PUSD503_Vampire</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -39454,6 +40547,7 @@
 		<camouflage>
 			<annotation>Duke of Yorck unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PBSB527_Duke_of_York</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -39475,6 +40569,7 @@
 		<camouflage>
 			<annotation>Haida unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PUSD507_Haida</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -39495,6 +40590,7 @@
 		<camouflage>
 			<annotation>Cossack unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PBSD517_Cossack</targetShip>
 			<targetShip>PBSD598_Black_Cossack</targetShip>
 			<tiled>false</tiled>
@@ -39516,6 +40612,7 @@
 		<camouflage>
 			<annotation>Indomitable unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PBSA508_Indomitable</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -39537,6 +40634,7 @@
 		<camouflage>
 			<annotation>Vanguard unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PBSB508_Vanguard</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -39558,6 +40656,7 @@
 		<camouflage>
 			<annotation>Dreadnought unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PBSB503_Dreadnought</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -39578,6 +40677,7 @@
 		<camouflage>
 			<annotation>Exeter unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PBSC505_Exeter</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -39598,6 +40698,7 @@
 		<camouflage>
 			<annotation>Thunderer unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PBSB510_Thunderer</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -39619,6 +40720,7 @@
 		<camouflage>
 			<annotation>Ark Royal unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PBSA518_Ark_Royal</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -39640,6 +40742,7 @@
 		<camouflage>
 			<annotation>London unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PBSC516_London</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -39663,6 +40766,7 @@
 		<camouflage>
 			<annotation>Cheshire unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PBSC508_Cheshire</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -39686,6 +40790,7 @@
 		<camouflage>
 			<annotation>Belfast unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PBSC528_Belfast_1943</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -39707,6 +40812,7 @@
 		<camouflage>
 			<annotation>Plymouth unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PBSC510_Plymouth</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -39730,6 +40836,7 @@
 		<camouflage>
 			<annotation>Vampire_2 unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PUSD510_Vampire_2</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -39752,6 +40859,7 @@
 		<camouflage>
 			<annotation>Agincourt unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PBSB505_Agincourt</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -39775,6 +40883,7 @@
 		<camouflage>
 			<annotation>Tiger unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PBSC518_Tiger_1959</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -39798,6 +40907,7 @@
 		<camouflage>
 			<annotation>Edinburgh unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PBSC108_Edinburgh</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -39819,6 +40929,7 @@
 		<camouflage>
 			<annotation>Neptune unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PBSC109_Neptune</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -39839,6 +40950,7 @@
 		<camouflage>
 			<annotation>Fiji unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PBSC107_Fiji</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -39859,6 +40971,7 @@
 		<camouflage>
 			<annotation>Minotaur unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PBSC110_Minotaur</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -39880,6 +40993,7 @@
 		<camouflage>
 			<annotation>Leander unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PBSC106_Leander</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -39900,6 +41014,7 @@
 		<camouflage>
 			<annotation>Lion unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PBSB109_Lion</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -39921,6 +41036,7 @@
 		<camouflage>
 			<annotation>Conqueror unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PBSB110_Conqueror</targetShip>
 			<targetShip>PBSB911_Conqueror_T</targetShip>
 			<tiled>false</tiled>
@@ -39943,6 +41059,7 @@
 		<camouflage>
 			<annotation>Queen_Elizabeth unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PBSB106_Queen_Elizabeth</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -39964,6 +41081,7 @@
 		<camouflage>
 			<annotation>Monarch unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PBSB108_Monarch</targetShip>
 			<targetShip>PBSB208_Monarch_T</targetShip>
 			<tiled>false</tiled>
@@ -39985,6 +41103,7 @@
 		<camouflage>
 			<annotation>King George V unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PBSB107_King_George_V</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -40006,6 +41125,7 @@
 		<camouflage>
 			<annotation>Icarus unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PBSD106_Icarus</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -40026,6 +41146,7 @@
 		<camouflage>
 			<annotation>Jervis unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PBSD107_Jervis</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -40046,6 +41167,7 @@
 		<camouflage>
 			<annotation>Lightning unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PBSD108_Lightning</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -40066,6 +41188,7 @@
 		<camouflage>
 			<annotation>Jutland unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PBSD109_Jutland</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -40086,6 +41209,7 @@
 		<camouflage>
 			<annotation>Daring unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PBSD110_Daring</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -40106,6 +41230,7 @@
 		<camouflage>
 			<annotation>Furious unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PBSA106_Furious</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -40127,6 +41252,7 @@
 		<camouflage>
 			<annotation>Implacable unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PBSA108_Implacable</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -40148,6 +41274,7 @@
 		<camouflage>
 			<annotation>Audacious unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PBSA210_Audacious</targetShip>
 			<targetShip>PBSA910_TST_Audacious</targetShip>
 			<tiled>false</tiled>
@@ -40170,6 +41297,7 @@
 		<camouflage>
 			<annotation>Goliath unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PBSC210_Goliath</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -40193,6 +41321,7 @@
 		<camouflage>
 			<annotation>Devonshire permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PBSC206_Devonshire</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -40216,6 +41345,7 @@
 		<camouflage>
 			<annotation>Surrey unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PBSC207_Surrey</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -40238,6 +41368,7 @@
 		<camouflage>
 			<annotation>Albemarle unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PBSC208_Albemarle</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -40261,6 +41392,7 @@
 		<camouflage>
 			<annotation>Drake unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PBSC209_Drake</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -40283,6 +41415,7 @@
 		<camouflage>
 			<annotation>Druid unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PBSD510_Druid</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -40301,6 +41434,29 @@
 				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
 			</Textures>
 			<colorSchemes>colorSchemeUKP48</colorSchemes>
+			<colorSchemes>colorSchemeUKP34</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Repulse unique permOflage block</annotation>
+			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
+			<targetShip>PBSB526_Repulse</targetShip>
+			<tiled>false</tiled>
+			<UV>
+				<Tile>1 1</Tile>
+				<Gun>0.45 0.45</Gun>
+				<Director>0.45 0.45</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+			</UV>
+			<Textures>
+				<DeckHouse>content/gameplay/common/camouflage/textures/BSB032_Repulse_1941_DeckHouse_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/BSB032_Repulse_1941_Hull_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
+			</Textures>
+			<colorSchemes>colorSchemeUKP03</colorSchemes>
 			<colorSchemes>colorSchemeUKP34</colorSchemes>
 		</camouflage>
 		<camouflage>
@@ -41227,6 +42383,7 @@
 		<camouflage>
 			<annotation>Marblehead unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASC044_Marblehead_1924</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -41247,6 +42404,7 @@
 		<camouflage>
 			<annotation>Marblehead ASUS unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASC045_Marblehead_1924_Asus</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -41267,6 +42425,7 @@
 		<camouflage>
 			<annotation>Arkansas unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASB013_Arkansas_1912</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -41287,6 +42446,7 @@
 		<camouflage>
 			<annotation>Albany unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASC003_Albany_1898</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -41306,6 +42466,7 @@
 		<camouflage>
 			<annotation>Atlanta unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASC006_Atlanta_1942</targetShip>
 			<targetShip>PASC587_Black_Atlanta</targetShip>
 			<tiled>false</tiled>
@@ -41327,6 +42488,7 @@
 		<camouflage>
 			<annotation>Sims unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASD029_Sims_1941</targetShip>
 			<targetShip>PASD597_Black_Sims</targetShip>
 			<tiled>false</tiled>
@@ -41348,6 +42510,7 @@
 		<camouflage>
 			<annotation>Smith unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASD502_Smith</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -41368,6 +42531,7 @@
 		<camouflage>
 			<annotation>Saipan unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASA507_Saipan_1946</targetShip>
 			<targetShip>PASA528_Saipan</targetShip>
 			<tiled>false</tiled>
@@ -41390,6 +42554,7 @@
 		<camouflage>
 			<annotation>Indianapolis unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASC507_Indianapolis_1945</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -41410,6 +42575,7 @@
 		<camouflage>
 			<annotation>Texas unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASB705_Texas_1944</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -41431,6 +42597,7 @@
 		<camouflage>
 			<annotation>Arizona unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASB506_Arizona_1941</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -41452,6 +42619,7 @@
 		<camouflage>
 			<annotation>Black unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASD709_Black</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -41473,6 +42641,7 @@
 		<camouflage>
 			<annotation>Flint unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASC707_Flint</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -41493,6 +42662,7 @@
 		<camouflage>
 			<annotation>Missouri first unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASB509_Missouri</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -41513,6 +42683,7 @@
 		<camouflage>
 			<annotation>Alabama unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASB508_Alabama</targetShip>
 			<targetShip>PASB528_Alabama_VL</targetShip>
 			<targetShip>PASB708_Alabama</targetShip>
@@ -41535,6 +42706,7 @@
 		<camouflage>
 			<annotation>Kidd unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASD508_Kidd</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -41555,6 +42727,7 @@
 		<camouflage>
 			<annotation>Enterprise unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASA508_Enterprise</targetShip>
 			<targetShip>PASA518_Enterprise</targetShip>
 			<tiled>false</tiled>
@@ -41578,6 +42751,7 @@
 		<camouflage>
 			<annotation>Massachusetts unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASB518_Massachusetts</targetShip>
 			<targetShip>PASB598_Black_Massachusetts</targetShip>
 			<tiled>false</tiled>
@@ -41599,6 +42773,7 @@
 		<camouflage>
 			<annotation>Salem unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASC710_Salem</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -41620,6 +42795,7 @@
 		<camouflage>
 			<annotation>Monaghan unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASD506_Monaghan</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -41640,6 +42816,7 @@
 		<camouflage>
 			<annotation>Boise_1951 unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASC597_Nueve_de_Julio_1951</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -41661,6 +42838,7 @@
 		<camouflage>
 			<annotation>Alaska unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASC510_Alaska</targetShip>
 			<targetShip>PASC599_Black_Alaska</targetShip>
 			<tiled>false</tiled>
@@ -41683,6 +42861,7 @@
 		<camouflage>
 			<annotation>Wichita unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASC508_Wichita</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -41704,6 +42883,7 @@
 		<camouflage>
 			<annotation>Charleston unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASC503_Charleston</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -41724,6 +42904,7 @@
 		<camouflage>
 			<annotation>West Virginia unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASB507_West_Virginia</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -41745,6 +42926,7 @@
 		<camouflage>
 			<annotation>Montpelier unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASC718_AZUR_Montpelier</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -41766,6 +42948,7 @@
 		<camouflage>
 			<annotation>Georgia unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASB729_Georgia</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -41787,6 +42970,7 @@
 		<camouflage>
 			<annotation>Benham unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASD509_Benham</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -41807,6 +42991,7 @@
 		<camouflage>
 			<annotation>Hill unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASD505_Hill</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -41827,6 +43012,7 @@
 		<camouflage>
 			<annotation>Somers unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASD510_Somers</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -41847,6 +43033,7 @@
 		<camouflage>
 			<annotation>Ohio unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASB510_Ohio</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -41868,6 +43055,7 @@
 		<camouflage>
 			<annotation>California unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASB707_California</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -41889,6 +43077,7 @@
 		<camouflage>
 			<annotation>Puerto Rico unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASC610_Puerto_Rico</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -41910,6 +43099,7 @@
 		<camouflage>
 			<annotation>Roosevelt permoflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASA510_Roosevelt</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -41931,6 +43121,7 @@
 		<camouflage>
 			<annotation>Anchorage unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASC518_Anchorage</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -41955,6 +43146,7 @@
 		<camouflage>
 			<annotation>Florida unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASB517_Florida</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -41980,6 +43172,7 @@
 		<camouflage>
 			<annotation>Oklahoma unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASB505_Oklahoma</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -42003,6 +43196,7 @@
 		<camouflage>
 			<annotation>Cleveland unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASC007_Cleveland_1945</targetShip>
 			<targetShip>PASC208_Cleveland</targetShip>
 			<tiled>false</tiled>
@@ -42024,6 +43218,7 @@
 		<camouflage>
 			<annotation>Lexington unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASA012_Lexington_1944</targetShip>
 			<targetShip>PASA108_Lexington</targetShip>
 			<tiled>false</tiled>
@@ -42047,6 +43242,7 @@
 		<camouflage>
 			<annotation>Fletcher unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASD021_Fletcher_1943</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -42068,6 +43264,7 @@
 		<camouflage>
 			<annotation>Iowa unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASB018_Iowa_1944</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -42088,6 +43285,7 @@
 		<camouflage>
 			<annotation>New Orleans unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASC014_New_Orlean_1944</targetShip>
 			<targetShip>PASC107_New_Orlean_1944</targetShip>
 			<tiled>false</tiled>
@@ -42109,6 +43307,7 @@
 		<camouflage>
 			<annotation>Ranger unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASA010_Ranger_1944</targetShip>
 			<targetShip>PXSA807_Ranger</targetShip>
 			<targetShip>PASA106_Ranger</targetShip>
@@ -42132,6 +43331,7 @@
 		<camouflage>
 			<annotation>New York unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASB006_New_York_1934</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -42153,6 +43353,7 @@
 		<camouflage>
 			<annotation>North Carolina Hull C unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASB012_North_Carolina_1945</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -42173,6 +43374,7 @@
 		<camouflage>
 			<annotation>Benson Hull AB unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASD008_Benson_1945</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -42193,6 +43395,7 @@
 		<camouflage>
 			<annotation>Bemson Hull C unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASD008_Benson_1945_C_Hull_1944</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -42213,6 +43416,7 @@
 		<camouflage>
 			<annotation>Essex unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASA013_Essex_1945</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -42234,6 +43438,7 @@
 		<camouflage>
 			<annotation>Baltimore unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASC017_Baltimore_1944</targetShip>
 			<targetShip>PASC108_Baltimore_1944</targetShip>
 			<tiled>false</tiled>
@@ -42255,6 +43460,7 @@
 		<camouflage>
 			<annotation>Mahan Hull AB unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASD006_Mahan_1936</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -42275,6 +43481,7 @@
 		<camouflage>
 			<annotation>Mahan Hull C unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASD006_Mahan_1936_C_Hull</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -42295,6 +43502,7 @@
 		<camouflage>
 			<annotation>Midway unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASA015_Midway_1945</targetShip>
 			<targetShip>PASA110_Midway</targetShip>
 			<targetShip>PASA915_TST_Midway</targetShip>
@@ -42318,6 +43526,7 @@
 		<camouflage>
 			<annotation>Montana unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASB017_Montana_1945</targetShip>
 			<targetShip>PASB810_TST_MONTANA</targetShip>
 			<tiled>false</tiled>
@@ -42340,6 +43549,7 @@
 		<camouflage>
 			<annotation>Des Moines unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASC020_Des_Moines_1948</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -42361,6 +43571,7 @@
 		<camouflage>
 			<annotation>Gearing unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASD013_Gearing_1945</targetShip>
 			<targetShip>PASD810_TST_GEARING </targetShip>
 			<tiled>false</tiled>
@@ -42382,6 +43593,7 @@
 		<camouflage>
 			<annotation>Pensacola Hull A unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASC012_Pensacola_1944</targetShip>
 			<targetShip>PASC106_Pensacola_1944</targetShip>
 			<tiled>false</tiled>
@@ -42403,6 +43615,7 @@
 		<camouflage>
 			<annotation>Pensacola Hull B unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASC012_Pensacola_1944_B_Hull_1944</targetShip>
 			<targetShip>PASC106_Pensacola_1944_B_Hull_1944</targetShip>
 			<tiled>false</tiled>
@@ -42424,6 +43637,7 @@
 		<camouflage>
 			<annotation>Farragut Hull AB unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASD005_Farragut_1944</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -42444,6 +43658,7 @@
 		<camouflage>
 			<annotation>Farragut Hull C unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASD005_Farragut_1944_C_Hull</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -42464,6 +43679,7 @@
 		<camouflage>
 			<annotation>Independence unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASA006_Independence_1945</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -42485,6 +43701,7 @@
 		<camouflage>
 			<annotation>New Mexico unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASB034_New_Mexico_1941</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -42505,6 +43722,7 @@
 		<camouflage>
 			<annotation>Colorado unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASB008_Colorado_1945</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -42526,6 +43744,7 @@
 		<camouflage>
 			<annotation>Buffalo unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASC109_Buffalo</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -42546,6 +43765,7 @@
 		<camouflage>
 			<annotation>Dallas unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASC206_Dallas</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -42566,6 +43786,7 @@
 		<camouflage>
 			<annotation>Helena unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASC207_Helena</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -42587,6 +43808,7 @@
 		<camouflage>
 			<annotation>Worcester unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASC210_Worcester</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -42608,6 +43830,7 @@
 		<camouflage>
 			<annotation>Seattle unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASC209_Seattle</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -42629,6 +43852,7 @@
 		<camouflage>
 			<annotation>PASB110_Vermont permoflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASB110_Vermont</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -42652,6 +43876,7 @@
 		<camouflage>
 			<annotation>Minnesota permoflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASB109_Minnesota</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -42675,6 +43900,7 @@
 		<camouflage>
 			<annotation>Kansas permoflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASB108_Kansas</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -42698,6 +43924,7 @@
 		<camouflage>
 			<annotation>Austin unique permoflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASC810_Austin</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -42721,6 +43948,7 @@
 		<camouflage>
 			<annotation>Constellation unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASB538_Constellation</targetShip>
 			<tiled>false</tiled>
 			<UV>
@@ -42742,6 +43970,7 @@
 		<camouflage>
 			<annotation>Congress unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
 			<targetShip>PASC528_Congress</targetShip>
 			<tiled>false</tiled>
 			<UV>
