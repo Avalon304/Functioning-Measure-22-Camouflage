@@ -44324,6 +44324,7 @@
 			<name>camo_permanent_1</name>
 			<useColorScheme>True</useColorScheme>
 			<targetShip>PASB110_Vermont</targetShip>
+			<targetShip>PASB910_Connecticut</targetShip>
 			<tiled>false</tiled>
 			<UV>
 				<Tile>1 1</Tile>
