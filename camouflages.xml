@@ -45805,7 +45805,7 @@
 			<Textures>
 				<Hull>content/gameplay/common/camouflage/textures/occ.dds</Hull>
 				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
-				<Bulge>content/gameplay/common/camouflage/textures/ASC078_Tulsa_1951_Bulge_Camo_01.dds</Bulge>
+				<Bulge>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Bulge>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RGB.dds</Plane>
 				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RGB.dds</Float>
