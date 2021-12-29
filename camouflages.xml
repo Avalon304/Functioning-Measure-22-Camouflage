@@ -50811,20 +50811,20 @@
         
 			<Textures>
             
-				<Hull>content/gameplay/common/camouflage/textures/ASD060_Forrest_Sherman_1958_Hull_Camo_01.dds</Hull>
+				<Hull>content/gameplay/common/camouflage/textures/Sherman.dds</Hull>
             
-				<DeckHouse>content/gameplay/common/camouflage/textures/ASD060_Forrest_Sherman_1958_DeckHouse_Camo_01.dds</DeckHouse>
+				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
             
-				<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Gun>
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
             
-				<Director>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Director>
+				<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
             
-				<Misc>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Misc>
+				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
         
 			</Textures>
         
-			<colorSchemes>colorSchemeUSNP49</colorSchemes>
 			<colorSchemes>colorSchemeUSNP16</colorSchemes>
+			<colorSchemes>colorSchemeUSNP15</colorSchemes>
     
 		</camouflage>
 		<camouflage>
