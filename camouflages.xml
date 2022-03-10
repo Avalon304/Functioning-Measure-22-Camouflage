@@ -51531,10 +51531,10 @@
         
 			<Textures>
             
-				<Hull>content/gameplay/common/camouflage/textures/ASA031_United_States_1952_Hull_camo_01.dds</Hull>
+				<Hull>content/gameplay/common/camouflage/textures/superCV.dds</Hull>
             
-				<DeckHouse>content/gameplay/common/camouflage/textures/ASA031_United_States_1952_DeckHouse_camo_01.dds</DeckHouse>
-				<Bulge>content/gameplay/common/camouflage/textures/ASA031_United_States_1952_Bulge_camo_01.dds</Bulge>
+				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+				<Bulge>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Bulge>
             
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
             
@@ -51544,9 +51544,9 @@
         
 			</Textures>
         
-			<colorSchemes>colorSchemeUSNP62</colorSchemes>
+			<colorSchemes>colorSchemeUSNP16</colorSchemes>
         
-			<colorSchemes>colorSchemeUSNP52</colorSchemes>
+			<colorSchemes>colorSchemeUSNP15</colorSchemes>
     
 		</camouflage>
 		<camouflage>
