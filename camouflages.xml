@@ -25,7 +25,7 @@
 		<!--//5. Japanese ships with texture		4096*4096+4096*4096-->
 		<shipGroup>
 			<name>IJN_group_5</name>
-			<ships> PJSB006_Fuso_1943 PJSA507_Kaga PJSA015_Taiho_1944 PJSB508_Kii PJSB509_Musashi PJSA518_Kaga PJSB018_Yamato_1944 PJSB510_Shikishima PJSB519_Hizen PJSB526_Ise PJSB906_Ise_TEST1 PJSB916_Ise_TEST2 PJSB700_ARP_Yamato PJSA598_Black_Kaga PJSB517_Hyuga PJSB111_Satsuma</ships>
+			<ships> PJSB006_Fuso_1943 PJSA507_Kaga PJSA015_Taiho_1944 PJSB508_Kii PJSB509_Musashi PJSA518_Kaga PJSB018_Yamato_1944 PJSB510_Shikishima PJSB519_Hizen PJSB526_Ise PJSB906_Ise_TEST1 PJSB916_Ise_TEST2 PJSB700_ARP_Yamato PJSA598_Black_Kaga PJSB517_Hyuga PJSB111_Satsuma PJSB529_Iwami</ships>
 		</shipGroup>
 		<!--//6. Japanese ships with texture		4096*4096+2048*1024-->
 		<shipGroup>
@@ -118,7 +118,7 @@
 		<!--//1. British ships with texture			2048*2048, 4096*4096, 4096*4096+2048*2048-->
 		<shipGroup>
 			<name>UK_group_1</name>
-			<ships> PBSD503_Campbeltown_1941 PBSB002_Warspite_1941 PBSC101_Black_Swan PBSC104_Danae PBSC105_Emerald PBSC106_Leander PUSC506_Perth_1942 PBSC107_Fiji PBSC507_Belfast_1959 PBSC528_Belfast_1943 PBSC108_Edinburgh PBSC109_Neptune PBSB103_Bellerophon PBSB104_Orion PBSB105_Iron_Duke PBSB106_Queen_Elizabeth PBSB503_Dreadnought PBSA204_Hermes PBSC505_Exeter PBSC210_Goliath PBSC910_Cyclops PBSC205_Hawkins PBSC207_Surrey PBSC208_Albemarle PBSC209_Drake PBSC516_London PUSC516_Mysore PBSC518_Tiger_1959 PBSC526_Dido</ships>
+			<ships> PBSD503_Campbeltown_1941 PBSB002_Warspite_1941 PBSC101_Black_Swan PBSC104_Danae PBSC105_Emerald PBSC106_Leander PUSC506_Perth_1942 PBSC107_Fiji PBSC507_Belfast_1959 PBSC528_Belfast_1943 PBSC108_Edinburgh PBSC109_Neptune PBSB103_Bellerophon PBSB104_Orion PBSB105_Iron_Duke PBSB106_Queen_Elizabeth PBSB503_Dreadnought PBSA204_Hermes PBSC505_Exeter PBSC210_Goliath PBSC910_Cyclops PBSC205_Hawkins PBSC207_Surrey PBSC208_Albemarle PBSC209_Drake PBSC516_London PUSC516_Mysore PBSC518_Tiger_1959 PBSC526_Dido PBSC111_Edgar</ships>
 		</shipGroup>
 		<!--//2. British ships with texture			4096*2048-->
 		<shipGroup>
@@ -159,7 +159,7 @@
 		<!--//4. German ships with texture			4096*4096+4096*4096-->
 		<shipGroup>
 			<name>GER_group_4</name>
-			<ships> PGSB109_Friedrich_der_Grosse PGSB110_Grossdeutschland PGSA508_Graf_Zeppelin PGSB506_Prinz_Eithel_Friedrich PGSA518_Graf_Zeppelin PGSC518_Mainz PGSA598_Black_Graf_Zeppelin PGSA106_Weser PGSA108_Parseval PGSA110_Manfred_Richthofen PGSA510_Werner_Voss PGSA506_Erich_Loewenhardt PGSB509_Pommern PGSA104_Rhein PGSA610_Max_Immelmann PGSB999_Hannover PGSB210_Schlieffen PGSB209_Prinz_Rupprecht PGSC718_Warhammer_Blacktemplar PGSB310_Preussen</ships>
+			<ships> PGSB109_Friedrich_der_Grosse PGSB110_Grossdeutschland PGSA508_Graf_Zeppelin PGSB506_Prinz_Eithel_Friedrich PGSA518_Graf_Zeppelin PGSC518_Mainz PGSA598_Black_Graf_Zeppelin PGSA106_Weser PGSA108_Parseval PGSA110_Manfred_Richthofen PGSA510_Werner_Voss PGSA506_Erich_Loewenhardt PGSB509_Pommern PGSA104_Rhein PGSA610_Max_Immelmann PGSB999_Hannover PGSB210_Schlieffen PGSB209_Prinz_Rupprecht PGSC718_Warhammer_Blacktemplar PGSB310_Preussen PGSB610_Mecklenburg</ships>
 		</shipGroup>
 		<!--//5. German ships with texture			4096*4096+2048*1024-->
 		<shipGroup>
@@ -180,7 +180,7 @@
 		<!--//1. French ships with texture			2048*2048, 4096*4096, 4096*4096+2048*2048-->
 		<shipGroup>
 			<name>FRA_group_1</name>
-			<ships> PFSC102_Jurien PFSC103_Friant PFSC104_Duguay_Trouin PFSC105_Emile_Bertin PFSC106_La_Galissonniere PFSC506_De_Grasse PFSC107_Algerie PFSC108_Charles_Martel PZSC518_Martel_Wukong PFSC109_Saint_Louis PFSC110_Henri_IV PFSD506_Aigle PFSD508_Le_Terrible PFSD108_Le_Fantasque PFSC510_Colbert PFSB103_Turenne PFSB104_Courbet PFSB105_Bretagne</ships>
+			<ships> PFSC102_Jurien PFSC103_Friant PFSC104_Duguay_Trouin PFSC105_Emile_Bertin PFSC106_La_Galissonniere PFSC506_De_Grasse PFSC107_Algerie PFSC108_Charles_Martel PZSC518_Martel_Wukong PFSC109_Saint_Louis PFSC110_Henri_IV PFSD506_Aigle PFSD508_Le_Terrible PFSD108_Le_Fantasque PFSC510_Colbert PFSB103_Turenne PFSB104_Courbet PFSB105_Bretagne PFSC507_Toulon</ships>
 		</shipGroup>
 		<!--//2. French ships with texture			4096*2048-->
 		<shipGroup>
@@ -190,7 +190,7 @@
 		<!--//3. French ships with texture			4096*4096+4096*2048, 2048*2048+2048*1024-->
 		<shipGroup>
 			<name>FRA_group_3</name>
-			<ships> PFSB506_Dunkerque_1940 PFSB106_Normandie PFSD103_Fusilier PFSB507_Strasbourg PFSB516_Strasbourg PFSC509_Carnot</ships>
+			<ships> PFSB506_Dunkerque_1940 PFSB106_Normandie PFSD103_Fusilier PFSB507_Strasbourg PFSB516_Strasbourg PFSC509_Carnot PFSC210_Marseille PFSC209_Brest</ships>
 		</shipGroup>
 		<!--//4. French ships with texture			4096*4096+4096*4096, 2048*2048+2048*2048-->
 		<shipGroup>
@@ -200,7 +200,7 @@
 		<!--//5. French ships with texture			4096*2048+4096*4096, 2048*1024+2048*2048-->
 		<shipGroup>
 			<name>FRA_group_5</name>
-			<ships>PFSB107_Lyon</ships>
+			<ships>PFSB107_Lyon PFSC208_Cherbourg</ships>
 		</shipGroup>
 		<!--//6. French ships with texture			4096*2048+2048*2048, 2048*1024+1024*1024-->
 		<shipGroup>
@@ -592,6 +592,30 @@
 			<color2>0.000 0.000 0.000 0.000</color2>
 			<color3>0.072 0.072 0.072 1.000</color3>
 			<colorUI>0.380 0.368 0.360 1.000</colorUI>
+		</colorScheme>
+		<colorScheme>
+			<name>colorSchemeToulon</name>
+			<color0>0.178 0.175 0.171 1.000</color0>
+			<color1>0.178 0.175 0.171 1.000</color1>
+			<color2>0.178 0.175 0.171 1.000</color2>
+			<color3>0.178 0.175 0.171 1.000</color3>
+			<colorUI>0.460 0.456 0.452 1.000</colorUI>
+		</colorScheme>
+		<colorScheme>
+			<name>colorSchemeBrest</name>
+			<color0>0.239 0.255 0.267 1.000</color0>
+			<color1>0.012 0.020 0.064 1.000</color1>
+			<color2>0.058 0.064 0.072 1.000</color2>
+			<color3>0.094 0.201 0.359 0.000</color3>
+			<colorUI>0.525 0.540 0.552 1.000</colorUI>
+		</colorScheme>
+		<colorScheme>
+			<name>colorSchemeCherbourg</name>
+			<color0>0.280 0.280 0.280 1.000</color0>
+			<color1>0.058 0.064 0.072 1.000</color1>
+			<color2>0.096 0.119 0.148 1.000</color2>
+			<color3>0.000 0.000 0.000 0.000</color3>
+			<colorUI>0.129 0.133 0.137 1.000</colorUI>
 		</colorScheme>
 		<colorScheme>
 			<name>colorSchemeGER01</name>
@@ -1328,6 +1352,14 @@
 			<color2>0.344 0.364 0.316 1.000</color2>
 			<color3>0.025 0.037 0.002 0.784</color3>
 			<colorUI>0.509 0.529 0.278 1.000</colorUI>
+		</colorScheme>
+		<colorScheme>
+			<name>colorSchemeIJNIwami</name>
+			<color0>0.085 0.082 0.068 1.000</color0>
+			<color1>0.208 0.220 0.130 1.000</color1>
+			<color2>0.344 0.364 0.316 1.000</color2>
+			<color3>0.025 0.037 0.002 0.784</color3>
+			<colorUI>0.500 0.500 0.500 1.000</colorUI>
 		</colorScheme>
 		<colorScheme>
 			<name>colorSchemeIJNP13</name>
@@ -3372,6 +3404,27 @@
     
 		</colorScheme>
 		<colorScheme>
+			<name>colorScheme_StPatric</name>
+			<color0>0.010 0.220 0.056 1.000</color0>
+			<color1>0.119 0.235 0.020 1.000</color1>
+			<color2>0.000 0.030 0.008 1.000</color2>
+			<color3>0.000 0.000 0.000 0.000</color3>
+		</colorScheme>
+		<colorScheme>
+			<name>color_EGS_01</name>
+			<color0>0.034 0.034 0.034 1.000</color0>
+			<color1>0.340 0.325 0.325 1.000</color1>
+			<color2>0.162 0.169 0.169 1.000</color2>
+			<color3>0.029 0.289 0.033 0.000</color3>
+		</colorScheme>
+		<colorScheme>
+			<name>colorScheme_Fields</name>
+			<color0>0.050 0.120 0.100 1.000</color0>
+			<color1>0.020 0.040 0.000 1.000</color1>
+			<color2>0.262 0.269 0.100 1.000</color2>
+			<color3>0.100 0.220 0.100 1.000</color3>
+		</colorScheme>
+		<colorScheme>
 			<name>colorSchemeSWDP01</name>
 			<color0>0.017 0.021 0.019 1.000</color0>
 			<color1>0.078 0.094 0.098 1.000</color1>
@@ -3871,6 +3924,14 @@
 			<colorUI>0.247 0.262 0.203 1.000</colorUI>
 		</colorScheme>
 		<colorScheme>
+			<name>colorSchemeEdgar</name>
+			<color0>0.270 0.301 0.338 1.000</color0>
+			<color1>0.400 0.400 0.400 1.000</color1>
+			<color2>0.060 0.070 0.020 1.000</color2>
+			<color3>0.015 0.010 0.130 1.000</color3>
+			<colorUI>0.552 0.580 0.611 1.000</colorUI>
+		</colorScheme>
+		<colorScheme>
 			<name>colorSchemeUSN01</name>
 			<color0>0.184 0.212 0.231 0.784</color0>
 			<color1>0.004 0.012 0.020 1.000</color1>
@@ -4289,6 +4350,70 @@
 					<Influence_g> 0.0 </Influence_g>
 					<Influence_n> 0.0 </Influence_n>
 				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_a.dds</Director>
+				<Director_mgn>
+				content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_a.dds</Plane>
+				<Plane_mgn>
+				content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_a.dds</Float>
+				<Float_mgn>
+				content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_a.dds</Misc>
+				<Misc_mgn>
+				content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Misc_mgn>
+				<Bulge>content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_a.dds</Bulge>
+				<Bulge_mgn>
+				content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Bulge_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_a.dds</Wire>
+				<Wire_mgn>
+				content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			</Textures>
+			<colorSchemes>colorSchemeUSNP17</colorSchemes>
+			<realm>all</realm>
+		</camouflage>
+		<camouflage>
+			<annotation>mat_BlackAlbedo unique permOflage for ST Alabama</annotation>
+			<name>mat_BlackAlbedo_noGuns</name>
+			<tiled>false</tiled>
+			<UV>
+				<DeckHouse>0.5 0.5</DeckHouse>
+				<Tile>1 1</Tile>
+				<Gun>0.5 0.5</Gun>
+				<Director>0.5 0.5</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.5</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 				<Director>content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_a.dds</Director>
 				<Director_mgn>
 				content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
@@ -5638,6 +5763,333 @@
 			</Textures>
 		</camouflage>
 		<camouflage>
+			<annotation>FR25 ItalianArc 2022 unique permOflage</annotation>
+			<name>mat_ItalianArc_2022</name>
+			<tiled>false</tiled>
+			<targetShip>PISD507_FR25</targetShip>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>1 1</Tile>
+				<Gun>1 1</Gun>
+				<Director>1 1</Director>
+				<Plane>1 1</Plane>
+				<Float>1 1</Float>
+				<Misc>1 1</Misc>
+				<Wire>1 1</Wire>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+				<Gun>content/gameplay/common/camouflage/textures/mat_Beige_01.dds</Gun>
+				<Gun_mgn>
+				content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_Beige_01.dds</Director>
+				<Director_mgn>
+					content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_Beige_01.dds</Plane>
+				<Plane_mgn>
+					content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_Beige_01.dds</Float>
+				<Float_mgn>
+					content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_Beige_01.dds</Misc>
+				<Misc_mgn>
+					content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Misc_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Wire>
+				<Bulge>content/gameplay/common/camouflage/textures/mat_Beige_01.dds</Bulge>
+				<Bulge_mgn>
+					content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Bulge_mgn>
+			</Textures>
+			<colorSchemes>colorSchemeUSNP17</colorSchemes>
+			<realm>all</realm>
+		</camouflage>
+		<camouflage>
+			<annotation>Luca_Tarigo ItalianArc 2022 unique permOflage</annotation>
+			<name>mat_ItalianArc_2022</name>
+			<tiled>false</tiled>
+			<targetShip>PISD107_Luca_Tarigo</targetShip>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>1 1</Tile>
+				<Gun>1 1</Gun>
+				<Director>1 1</Director>
+				<Plane>1 1</Plane>
+				<Float>1 1</Float>
+				<Misc>1 1</Misc>
+				<Wire>1 1</Wire>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+				<Gun>content/gameplay/common/camouflage/textures/mat_Beige_01.dds</Gun>
+				<Gun_mgn>
+				content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_Beige_01.dds</Director>
+				<Director_mgn>
+					content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_Beige_01.dds</Plane>
+				<Plane_mgn>
+					content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_Beige_01.dds</Float>
+				<Float_mgn>
+					content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_Beige_01.dds</Misc>
+				<Misc_mgn>
+					content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Misc_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Wire>
+				<Bulge>content/gameplay/common/camouflage/textures/mat_Beige_01.dds</Bulge>
+				<Bulge_mgn>
+					content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Bulge_mgn>
+			</Textures>
+			<colorSchemes>colorSchemeUSNP17</colorSchemes>
+			<realm>all</realm>
+		</camouflage>
+		<camouflage>
+			<annotation>Vittorio_Cuniberti ItalianArc 2022 unique permOflage</annotation>
+			<name>mat_ItalianArc_2022</name>
+			<tiled>false</tiled>
+			<targetShip>PISD108_Vittorio_Cuniberti</targetShip>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>1 1</Tile>
+				<Gun>1 1</Gun>
+				<Director>1 1</Director>
+				<Plane>1 1</Plane>
+				<Float>1 1</Float>
+				<Misc>1 1</Misc>
+				<Wire>1 1</Wire>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/mat_Beige_01.dds</Gun>
+				<Gun_mgn>
+				content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_Beige_01.dds</Director>
+				<Director_mgn>
+					content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_Beige_01.dds</Plane>
+				<Plane_mgn>
+					content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_Beige_01.dds</Float>
+				<Float_mgn>
+					content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_Beige_01.dds</Misc>
+				<Misc_mgn>
+					content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Misc_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Wire>
+				<Bulge>content/gameplay/common/camouflage/textures/mat_Beige_01.dds</Bulge>
+				<Bulge_mgn>
+					content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Bulge_mgn>
+			</Textures>
+			<colorSchemes>colorSchemeUSNP17</colorSchemes>
+			<realm>all</realm>
+		</camouflage>
+		<camouflage>
+			<annotation>Adriatico ItalianArc 2022 unique permOflage</annotation>
+			<name>mat_ItalianArc_2022</name>
+			<tiled>false</tiled>
+			<targetShip>PISD109_Adriatico</targetShip>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>1 1</Tile>
+				<Gun>1 1</Gun>
+				<Director>1 1</Director>
+				<Plane>1 1</Plane>
+				<Float>1 1</Float>
+				<Misc>1 1</Misc>
+				<Wire>1 1</Wire>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/mat_Beige_01.dds</Gun>
+				<Gun_mgn>
+				content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_Beige_01.dds</Director>
+				<Director_mgn>
+					content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_Beige_01.dds</Plane>
+				<Plane_mgn>
+					content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_Beige_01.dds</Float>
+				<Float_mgn>
+					content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_Beige_01.dds</Misc>
+				<Misc_mgn>
+					content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Misc_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Wire>
+				<Bulge>content/gameplay/common/camouflage/textures/mat_Beige_01.dds</Bulge>
+				<Bulge_mgn>
+					content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Bulge_mgn>
+			</Textures>
+			<colorSchemes>colorSchemeUSNP17</colorSchemes>
+			<realm>all</realm>
+		</camouflage>
+		<camouflage>
+			<annotation>Attilio_Regolo ItalianArc 2022 unique permOflage</annotation>
+			<name>mat_ItalianArc_2022</name>
+			<tiled>false</tiled>
+			<targetShip>PISD110_Attilio_Regolo</targetShip>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>1 1</Tile>
+				<Gun>1 1</Gun>
+				<Director>1 1</Director>
+				<Plane>1 1</Plane>
+				<Float>1 1</Float>
+				<Misc>1 1</Misc>
+				<Wire>1 1</Wire>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/mat_Beige_01.dds</Gun>
+				<Gun_mgn>
+				content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_Beige_01.dds</Director>
+				<Director_mgn>
+					content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_Beige_01.dds</Plane>
+				<Plane_mgn>
+					content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_Beige_01.dds</Float>
+				<Float_mgn>
+					content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_Beige_01.dds</Misc>
+				<Misc_mgn>
+					content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Misc_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Wire>
+				<Bulge>content/gameplay/common/camouflage/textures/mat_Beige_01.dds</Bulge>
+				<Bulge_mgn>
+					content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Bulge_mgn>
+			</Textures>
+			<colorSchemes>colorSchemeUSNP17</colorSchemes>
+			<realm>all</realm>
+		</camouflage>
+		<camouflage>
 			<annotation>NewYear 2019 unique permOflage</annotation>
 			<name>mat_NewYear_2019</name>
 			<tiled>false</tiled>
@@ -6451,6 +6903,2500 @@
 				<Wire>content/gameplay/common/camouflage/textures/Mat_NewYear2019_wire_a.dds</Wire>
 				<Wire_mgn>
 					content/gameplay/common/camouflage/textures/Mat_NewYear2019_wire_a.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>mat_Patrick_Skin unique permOflage</annotation>
+			<name>mat_Patrick_Skin</name>
+			<tiled>false</tiled>
+			<UV>
+				<DeckHouse>0.5 0.5</DeckHouse>
+				<Tile>1 1</Tile>
+				<Gun>0.5 0.5</Gun>
+				<Director>0.5 0.5</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.5</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+				<Gun_mgn>
+				content/gameplay/common/camouflage/textures/mat_Patrick_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Gun_mgn>
+				<Gun>content/gameplay/common/camouflage/textures/mat_Patrick_a.dds</Gun>
+				<Gun_mgn>
+				content/gameplay/common/camouflage/textures/mat_Patrick_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_Patrick_a.dds</Director>
+				<Director_mgn>
+				content/gameplay/common/camouflage/textures/mat_Patrick_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_Patrick_a.dds</Plane>
+				<Plane_mgn>
+				content/gameplay/common/camouflage/textures/mat_Patrick_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_Patrick_a.dds</Float>
+				<Float_mgn>
+				content/gameplay/common/camouflage/textures/mat_Patrick_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_Patrick_a.dds</Misc>
+				<Misc_mgn>
+				content/gameplay/common/camouflage/textures/mat_Patrick_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Misc_mgn>
+				<Bulge>content/gameplay/common/camouflage/textures/mat_Patrick_a.dds</Bulge>
+				<Bulge_mgn>
+				content/gameplay/common/camouflage/textures/mat_Patrick_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Bulge_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/mat_Patrick_a.dds</Wire>
+				<Wire_mgn>
+				content/gameplay/common/camouflage/textures/mat_Patrick_mgn.dds
+					<Influence_m> 0.85 </Influence_m>
+					<Influence_g> 0.85 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Wire_mgn>
+			</Textures>
+			<realm>all</realm>
+			<colorSchemes>colorSchemeUSNP17</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Postap unique permOflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
+			<name>mat_Postap2022_Barracuda</name>
+			<tiled>false</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>2 2</Tile>
+				<Gun>0.7 0.7</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+			</UV>
+			<Textures>
+				<DeckHouse>content/gameplay/common/camouflage/textures/mat_PostAp2022_Barracuda_a.dds</DeckHouse>
+				<DeckHouse_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</DeckHouse_mgn>
+				<Hull>content/gameplay/common/camouflage/textures/mat_PostAp2022_Barracuda_a.dds</Hull>
+				<Hull_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Hull_mgn>
+				<Gun>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Gun>
+				<Gun_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Director>
+				<Director_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Plane>
+				<Plane_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Float>
+				<Float_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Misc>
+				<Misc_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Misc_mgn>
+				<Bulge>content/gameplay/common/camouflage/textures/mat_PostAp2022_Barracuda_a.dds</Bulge>
+				<Bulge_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Bulge_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_a.dds</Wire>
+				<Wire_mgn>
+				content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>Postap unique permOflage block for the ships with a texture 4096*2048</annotation>
+			<name>mat_Postap2022_Barracuda</name>
+			<shipGroups>IJN_group_2 USN_group_2 RUS_group_2 UK_group_2 GER_group_2 FRA_group_2 POL_group_1 PAN_group_2 ITA_group_3 NL_group_1 EUR_group_2 PAM_group_3</shipGroups>
+			<tiled>false</tiled>
+			<UV>
+				<Tile>2 1</Tile>
+				<Gun>0.4 0.4</Gun>
+				<Director>0.4 0.4</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>1 1</Misc>
+				<Bulge>2 2</Bulge>
+			</UV>
+			<Textures>
+				<DeckHouse>content/gameplay/common/camouflage/textures/mat_PostAp2022_Barracuda_a.dds</DeckHouse>
+				<DeckHouse_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</DeckHouse_mgn>
+				<Hull>content/gameplay/common/camouflage/textures/mat_PostAp2022_Barracuda_a.dds</Hull>
+				<Hull_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Hull_mgn>
+				<Gun>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Gun>
+				<Gun_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Director>
+				<Director_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Plane>
+				<Plane_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Float>
+				<Float_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Misc>
+				<Misc_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Misc_mgn>
+				<Bulge>content/gameplay/common/camouflage/textures/mat_PostAp2022_Barracuda_a.dds</Bulge>
+				<Bulge_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Bulge_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_a.dds</Wire>
+				<Wire_mgn>
+				content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>Postap unique permOflage block for the ships with a texture 4096*1024</annotation>
+			<name>mat_Postap2022_Barracuda</name>
+			<shipGroups>RUS_group_3 </shipGroups>
+			<tiled>false</tiled>
+			<UV>
+				<Tile>3 0.75</Tile>
+				<Gun>0.4 0.4</Gun>
+				<Director>0.4 0.4</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>1 1</Misc>
+				<Bulge>2 2</Bulge>
+			</UV>
+			<Textures>
+				<DeckHouse>content/gameplay/common/camouflage/textures/mat_PostAp2022_Barracuda_a.dds</DeckHouse>
+				<DeckHouse_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</DeckHouse_mgn>
+				<Hull>content/gameplay/common/camouflage/textures/mat_PostAp2022_Barracuda_a.dds</Hull>
+				<Hull_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Hull_mgn>
+				<Gun>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Gun>
+				<Gun_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Director>
+				<Director_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Plane>
+				<Plane_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Float>
+				<Float_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Misc>
+				<Misc_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Misc_mgn>
+				<Bulge>content/gameplay/common/camouflage/textures/mat_PostAp2022_Barracuda_a.dds</Bulge>
+				<Bulge_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Bulge_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_a.dds</Wire>
+				<Wire_mgn>
+				content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>Postap unique permOflage block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
+			<name>mat_Postap2022_Barracuda</name>
+			<shipGroups>IJN_group_3 USN_group_3 UK_group_3 GER_group_3 FRA_group_3 ITA_group_2 RUS_group_7</shipGroups>
+			<tiled>false</tiled>
+			<UV>
+				<DeckHouse>2 1</DeckHouse>
+				<Tile>2 2</Tile>
+				<Gun>0.4 0.4</Gun>
+				<Director>0.4 0.4</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>1 1</Misc>
+				<Bulge>2 2</Bulge>
+			</UV>
+			<Textures>
+				<DeckHouse>content/gameplay/common/camouflage/textures/mat_PostAp2022_Barracuda_a.dds</DeckHouse>
+				<DeckHouse_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</DeckHouse_mgn>
+				<Hull>content/gameplay/common/camouflage/textures/mat_PostAp2022_Barracuda_a.dds</Hull>
+				<Hull_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Hull_mgn>
+				<Gun>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Gun>
+				<Gun_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Director>
+				<Director_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Plane>
+				<Plane_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Float>
+				<Float_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Misc>
+				<Misc_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Misc_mgn>
+				<Bulge>content/gameplay/common/camouflage/textures/mat_PostAp2022_Barracuda_a.dds</Bulge>
+				<Bulge_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Bulge_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_a.dds</Wire>
+				<Wire_mgn>
+				content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>Postap unique permOflage block for the ships with a texture 4096*4096+1024*1024</annotation>
+			<name>mat_Postap2022_Barracuda</name>
+			<shipGroups>IJN_group_4 USN_group_4 RUS_group_4</shipGroups>
+			<tiled>false</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>2 2</Tile>
+				<Gun>0.4 0.4</Gun>
+				<Director>0.4 0.4</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>1 1</Misc>
+				<Bulge>2 2</Bulge>
+			</UV>
+			<Textures>
+				<DeckHouse>content/gameplay/common/camouflage/textures/mat_PostAp2022_Barracuda_a.dds</DeckHouse>
+				<DeckHouse_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</DeckHouse_mgn>
+				<Hull>content/gameplay/common/camouflage/textures/mat_PostAp2022_Barracuda_a.dds</Hull>
+				<Hull_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Hull_mgn>
+				<Gun>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Gun>
+				<Gun_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Director>
+				<Director_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Plane>
+				<Plane_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Float>
+				<Float_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Misc>
+				<Misc_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Misc_mgn>
+				<Bulge>content/gameplay/common/camouflage/textures/mat_PostAp2022_Barracuda_a.dds</Bulge>
+				<Bulge_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Bulge_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_a.dds</Wire>
+				<Wire_mgn>
+				content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>Postap unique permOflage block for the ships with a texture 4096*4096+4096*4096</annotation>
+			<name>mat_Postap2022_Barracuda</name>
+			<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 PAN_group_4 ITA_group_4</shipGroups>
+			<tiled>false</tiled>
+			<UV>
+				<DeckHouse>2 2</DeckHouse>
+				<Tile>2 2</Tile>
+				<Gun>0.4 0.4</Gun>
+				<Director>0.4 0.4</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>1 1</Misc>
+				<Bulge>2 2</Bulge>
+			</UV>
+			<Textures>
+				<DeckHouse>content/gameplay/common/camouflage/textures/mat_PostAp2022_Barracuda_a.dds</DeckHouse>
+				<DeckHouse_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</DeckHouse_mgn>
+				<Hull>content/gameplay/common/camouflage/textures/mat_PostAp2022_Barracuda_a.dds</Hull>
+				<Hull_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Hull_mgn>
+				<Gun>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Gun>
+				<Gun_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Director>
+				<Director_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Plane>
+				<Plane_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Float>
+				<Float_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Misc>
+				<Misc_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Misc_mgn>
+				<Bulge>content/gameplay/common/camouflage/textures/mat_PostAp2022_Barracuda_a.dds</Bulge>
+				<Bulge_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Bulge_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_a.dds</Wire>
+				<Wire_mgn>
+				content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>Postap unique permOflage block for the ships with a texture 4096*4096+2048*1024</annotation>
+			<name>mat_Postap2022_Barracuda</name>
+			<shipGroups>RUS_group_6 USN_group_6 GER_group_5 IJN_group_6 FRA_group_7</shipGroups>
+			<tiled>false</tiled>
+			<UV>
+				<DeckHouse>1 0.5</DeckHouse>
+				<Tile>2 2</Tile>
+				<Gun>0.4 0.4</Gun>
+				<Director>0.4 0.4</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>1 1</Misc>
+				<Bulge>2 2</Bulge>
+			</UV>
+			<Textures>
+				<DeckHouse>content/gameplay/common/camouflage/textures/mat_PostAp2022_Barracuda_a.dds</DeckHouse>
+				<DeckHouse_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</DeckHouse_mgn>
+				<Hull>content/gameplay/common/camouflage/textures/mat_PostAp2022_Barracuda_a.dds</Hull>
+				<Hull_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Hull_mgn>
+				<Gun>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Gun>
+				<Gun_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Director>
+				<Director_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Plane>
+				<Plane_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Float>
+				<Float_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Misc>
+				<Misc_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Misc_mgn>
+				<Bulge>content/gameplay/common/camouflage/textures/mat_PostAp2022_Barracuda_a.dds</Bulge>
+				<Bulge_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Bulge_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_a.dds</Wire>
+				<Wire_mgn>
+				content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>Postap unique permOflage block for the ships with a texture 4096*2048+4096*4096</annotation>
+			<name>mat_Postap2022_Barracuda</name>
+			<shipGroups>FRA_group_5</shipGroups>
+			<tiled>false</tiled>
+			<UV>
+				<DeckHouse>2 2</DeckHouse>
+				<Tile>2 1</Tile>
+				<Gun>0.4 0.4</Gun>
+				<Director>0.4 0.4</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>1 1</Misc>
+				<Bulge>2 2</Bulge>
+			</UV>
+			<Textures>
+				<DeckHouse>content/gameplay/common/camouflage/textures/mat_PostAp2022_Barracuda_a.dds</DeckHouse>
+				<DeckHouse_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</DeckHouse_mgn>
+				<Hull>content/gameplay/common/camouflage/textures/mat_PostAp2022_Barracuda_a.dds</Hull>
+				<Hull_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Hull_mgn>
+				<Gun>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Gun>
+				<Gun_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Director>
+				<Director_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Plane>
+				<Plane_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Float>
+				<Float_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Misc>
+				<Misc_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Misc_mgn>
+				<Bulge>content/gameplay/common/camouflage/textures/mat_PostAp2022_Barracuda_a.dds</Bulge>
+				<Bulge_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Bulge_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_a.dds</Wire>
+				<Wire_mgn>
+				content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>Postap unique permOflage block for the ships with a texture 4096*2048+2048*2048, 2048*1024+1024*1024</annotation>
+			<name>mat_Postap2022_Barracuda</name>
+			<shipGroups>FRA_group_6 GER_group_7 UK_group_5 EUR_group_3</shipGroups>
+			<tiled>false</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>2 1</Tile>
+				<Gun>0.4 0.4</Gun>
+				<Director>0.4 0.4</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>1 1</Misc>
+				<Bulge>2 2</Bulge>
+			</UV>
+			<Textures>
+				<DeckHouse>content/gameplay/common/camouflage/textures/mat_PostAp2022_Barracuda_a.dds</DeckHouse>
+				<DeckHouse_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</DeckHouse_mgn>
+				<Hull>content/gameplay/common/camouflage/textures/mat_PostAp2022_Barracuda_a.dds</Hull>
+				<Hull_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Hull_mgn>
+				<Gun>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Gun>
+				<Gun_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Director>
+				<Director_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Plane>
+				<Plane_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Float>
+				<Float_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Misc>
+				<Misc_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Misc_mgn>
+				<Bulge>content/gameplay/common/camouflage/textures/mat_PostAp2022_Barracuda_a.dds</Bulge>
+				<Bulge_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Bulge_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_a.dds</Wire>
+				<Wire_mgn>
+				content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>Postap unique permOflage block for the ships with a texture 4096*2048+1024*1024</annotation>
+			<name>mat_Postap2022_Barracuda</name>
+			<shipGroups>FRA_group_8</shipGroups>
+			<tiled>false</tiled>
+			<UV>
+				<DeckHouse>0.5 0.5</DeckHouse>
+				<Tile>2 1</Tile>
+				<Gun>0.4 0.4</Gun>
+				<Director>0.4 0.4</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.5 0.5</Misc>
+				<Bulge>2 2</Bulge>
+			</UV>
+			<Textures>
+				<DeckHouse>content/gameplay/common/camouflage/textures/mat_PostAp2022_Barracuda_a.dds</DeckHouse>
+				<DeckHouse_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</DeckHouse_mgn>
+				<Hull>content/gameplay/common/camouflage/textures/mat_PostAp2022_Barracuda_a.dds</Hull>
+				<Hull_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Hull_mgn>
+				<Gun>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Gun>
+				<Gun_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Director>
+				<Director_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Plane>
+				<Plane_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Float>
+				<Float_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Barracuda_a.dds</Misc>
+				<Misc_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Misc_mgn>
+				<Bulge>content/gameplay/common/camouflage/textures/mat_PostAp2022_Barracuda_a.dds</Bulge>
+				<Bulge_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Bulge_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_a.dds</Wire>
+				<Wire_mgn>
+				content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>Postap unique permOflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
+			<name>mat_Postap2022_Moray</name>
+			<tiled>false</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>2 2</Tile>
+				<Gun>0.7 0.7</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+			</UV>
+			<Textures>
+				<DeckHouse>content/gameplay/common/camouflage/textures/mat_PostAp2022_Moray_a.dds</DeckHouse>
+				<DeckHouse_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</DeckHouse_mgn>
+				<Hull>content/gameplay/common/camouflage/textures/mat_PostAp2022_Moray_a.dds</Hull>
+				<Hull_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Hull_mgn>
+				<Gun>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Gun>
+				<Gun_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Director>
+				<Director_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Plane>
+				<Plane_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Float>
+				<Float_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Misc>
+				<Misc_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Misc_mgn>
+				<Bulge>content/gameplay/common/camouflage/textures/mat_PostAp2022_Moray_a.dds</Bulge>
+				<Bulge_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Bulge_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_a.dds</Wire>
+				<Wire_mgn>
+				content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>Postap unique permOflage block for the ships with a texture 4096*2048</annotation>
+			<name>mat_Postap2022_Moray</name>
+			<shipGroups>IJN_group_2 USN_group_2 RUS_group_2 UK_group_2 GER_group_2 FRA_group_2 POL_group_1 PAN_group_2 ITA_group_3 NL_group_1 EUR_group_2 PAM_group_3</shipGroups>
+			<tiled>false</tiled>
+			<UV>
+				<Tile>2 1</Tile>
+				<Gun>0.4 0.4</Gun>
+				<Director>0.4 0.4</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>1 1</Misc>
+				<Bulge>2 2</Bulge>
+			</UV>
+			<Textures>
+				<DeckHouse>content/gameplay/common/camouflage/textures/mat_PostAp2022_Moray_a.dds</DeckHouse>
+				<DeckHouse_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</DeckHouse_mgn>
+				<Hull>content/gameplay/common/camouflage/textures/mat_PostAp2022_Moray_a.dds</Hull>
+				<Hull_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Hull_mgn>
+				<Gun>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Gun>
+				<Gun_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Director>
+				<Director_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Plane>
+				<Plane_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Float>
+				<Float_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Misc>
+				<Misc_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Misc_mgn>
+				<Bulge>content/gameplay/common/camouflage/textures/mat_PostAp2022_Moray_a.dds</Bulge>
+				<Bulge_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Bulge_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_a.dds</Wire>
+				<Wire_mgn>
+				content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>Postap unique permOflage block for the ships with a texture 4096*1024</annotation>
+			<name>mat_Postap2022_Moray</name>
+			<shipGroups>RUS_group_3 </shipGroups>
+			<tiled>false</tiled>
+			<UV>
+				<Tile>3 0.75</Tile>
+				<Gun>0.4 0.4</Gun>
+				<Director>0.4 0.4</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>1 1</Misc>
+				<Bulge>2 2</Bulge>
+			</UV>
+			<Textures>
+				<DeckHouse>content/gameplay/common/camouflage/textures/mat_PostAp2022_Moray_a.dds</DeckHouse>
+				<DeckHouse_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</DeckHouse_mgn>
+				<Hull>content/gameplay/common/camouflage/textures/mat_PostAp2022_Moray_a.dds</Hull>
+				<Hull_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Hull_mgn>
+				<Gun>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Gun>
+				<Gun_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Director>
+				<Director_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Plane>
+				<Plane_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Float>
+				<Float_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Misc>
+				<Misc_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Misc_mgn>
+				<Bulge>content/gameplay/common/camouflage/textures/mat_PostAp2022_Moray_a.dds</Bulge>
+				<Bulge_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Bulge_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_a.dds</Wire>
+				<Wire_mgn>
+				content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>Postap unique permOflage block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
+			<name>mat_Postap2022_Moray</name>
+			<shipGroups>IJN_group_3 USN_group_3 UK_group_3 GER_group_3 FRA_group_3 ITA_group_2 RUS_group_7</shipGroups>
+			<tiled>false</tiled>
+			<UV>
+				<DeckHouse>2 1</DeckHouse>
+				<Tile>2 2</Tile>
+				<Gun>0.4 0.4</Gun>
+				<Director>0.4 0.4</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>1 1</Misc>
+				<Bulge>2 2</Bulge>
+			</UV>
+			<Textures>
+				<DeckHouse>content/gameplay/common/camouflage/textures/mat_PostAp2022_Moray_a.dds</DeckHouse>
+				<DeckHouse_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</DeckHouse_mgn>
+				<Hull>content/gameplay/common/camouflage/textures/mat_PostAp2022_Moray_a.dds</Hull>
+				<Hull_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Hull_mgn>
+				<Gun>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Gun>
+				<Gun_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Director>
+				<Director_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Plane>
+				<Plane_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Float>
+				<Float_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Misc>
+				<Misc_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Misc_mgn>
+				<Bulge>content/gameplay/common/camouflage/textures/mat_PostAp2022_Moray_a.dds</Bulge>
+				<Bulge_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Bulge_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_a.dds</Wire>
+				<Wire_mgn>
+				content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>Postap unique permOflage block for the ships with a texture 4096*4096+1024*1024</annotation>
+			<name>mat_Postap2022_Moray</name>
+			<shipGroups>IJN_group_4 USN_group_4 RUS_group_4</shipGroups>
+			<tiled>false</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>2 2</Tile>
+				<Gun>0.4 0.4</Gun>
+				<Director>0.4 0.4</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>1 1</Misc>
+				<Bulge>2 2</Bulge>
+			</UV>
+			<Textures>
+				<DeckHouse>content/gameplay/common/camouflage/textures/mat_PostAp2022_Moray_a.dds</DeckHouse>
+				<DeckHouse_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</DeckHouse_mgn>
+				<Hull>content/gameplay/common/camouflage/textures/mat_PostAp2022_Moray_a.dds</Hull>
+				<Hull_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Hull_mgn>
+				<Gun>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Gun>
+				<Gun_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Director>
+				<Director_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Plane>
+				<Plane_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Float>
+				<Float_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Misc>
+				<Misc_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Misc_mgn>
+				<Bulge>content/gameplay/common/camouflage/textures/mat_PostAp2022_Moray_a.dds</Bulge>
+				<Bulge_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Bulge_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_a.dds</Wire>
+				<Wire_mgn>
+				content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>Postap unique permOflage block for the ships with a texture 4096*4096+4096*4096</annotation>
+			<name>mat_Postap2022_Moray</name>
+			<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 PAN_group_4 ITA_group_4</shipGroups>
+			<tiled>false</tiled>
+			<UV>
+				<DeckHouse>2 2</DeckHouse>
+				<Tile>2 2</Tile>
+				<Gun>0.4 0.4</Gun>
+				<Director>0.4 0.4</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>1 1</Misc>
+				<Bulge>2 2</Bulge>
+			</UV>
+			<Textures>
+				<DeckHouse>content/gameplay/common/camouflage/textures/mat_PostAp2022_Moray_a.dds</DeckHouse>
+				<DeckHouse_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</DeckHouse_mgn>
+				<Hull>content/gameplay/common/camouflage/textures/mat_PostAp2022_Moray_a.dds</Hull>
+				<Hull_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Hull_mgn>
+				<Gun>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Gun>
+				<Gun_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Director>
+				<Director_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Plane>
+				<Plane_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Float>
+				<Float_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Misc>
+				<Misc_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Misc_mgn>
+				<Bulge>content/gameplay/common/camouflage/textures/mat_PostAp2022_Moray_a.dds</Bulge>
+				<Bulge_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Bulge_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_a.dds</Wire>
+				<Wire_mgn>
+				content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>Postap unique permOflage block for the ships with a texture 4096*4096+2048*1024</annotation>
+			<name>mat_Postap2022_Moray</name>
+			<shipGroups>RUS_group_6 USN_group_6 GER_group_5 IJN_group_6 FRA_group_7</shipGroups>
+			<tiled>false</tiled>
+			<UV>
+				<DeckHouse>1 0.5</DeckHouse>
+				<Tile>2 2</Tile>
+				<Gun>0.4 0.4</Gun>
+				<Director>0.4 0.4</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>1 1</Misc>
+				<Bulge>2 2</Bulge>
+			</UV>
+			<Textures>
+				<DeckHouse>content/gameplay/common/camouflage/textures/mat_PostAp2022_Moray_a.dds</DeckHouse>
+				<DeckHouse_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</DeckHouse_mgn>
+				<Hull>content/gameplay/common/camouflage/textures/mat_PostAp2022_Moray_a.dds</Hull>
+				<Hull_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Hull_mgn>
+				<Gun>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Gun>
+				<Gun_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Director>
+				<Director_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Plane>
+				<Plane_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Float>
+				<Float_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Misc>
+				<Misc_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Misc_mgn>
+				<Bulge>content/gameplay/common/camouflage/textures/mat_PostAp2022_Moray_a.dds</Bulge>
+				<Bulge_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Bulge_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_a.dds</Wire>
+				<Wire_mgn>
+				content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>Postap unique permOflage block for the ships with a texture 4096*2048+4096*4096</annotation>
+			<name>mat_Postap2022_Moray</name>
+			<shipGroups>FRA_group_5</shipGroups>
+			<tiled>false</tiled>
+			<UV>
+				<DeckHouse>2 2</DeckHouse>
+				<Tile>2 1</Tile>
+				<Gun>0.4 0.4</Gun>
+				<Director>0.4 0.4</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>1 1</Misc>
+				<Bulge>2 2</Bulge>
+			</UV>
+			<Textures>
+				<DeckHouse>content/gameplay/common/camouflage/textures/mat_PostAp2022_Moray_a.dds</DeckHouse>
+				<DeckHouse_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</DeckHouse_mgn>
+				<Hull>content/gameplay/common/camouflage/textures/mat_PostAp2022_Moray_a.dds</Hull>
+				<Hull_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Hull_mgn>
+				<Gun>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Gun>
+				<Gun_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Director>
+				<Director_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Plane>
+				<Plane_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Float>
+				<Float_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Misc>
+				<Misc_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Misc_mgn>
+				<Bulge>content/gameplay/common/camouflage/textures/mat_PostAp2022_Moray_a.dds</Bulge>
+				<Bulge_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Bulge_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_a.dds</Wire>
+				<Wire_mgn>
+				content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>Postap unique permOflage block for the ships with a texture 4096*2048+2048*2048, 2048*1024+1024*1024</annotation>
+			<name>mat_Postap2022_Moray</name>
+			<shipGroups>FRA_group_6 GER_group_7 UK_group_5 EUR_group_3</shipGroups>
+			<tiled>false</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>2 1</Tile>
+				<Gun>0.4 0.4</Gun>
+				<Director>0.4 0.4</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>1 1</Misc>
+				<Bulge>2 2</Bulge>
+			</UV>
+			<Textures>
+				<DeckHouse>content/gameplay/common/camouflage/textures/mat_PostAp2022_Moray_a.dds</DeckHouse>
+				<DeckHouse_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</DeckHouse_mgn>
+				<Hull>content/gameplay/common/camouflage/textures/mat_PostAp2022_Moray_a.dds</Hull>
+				<Hull_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Hull_mgn>
+				<Gun>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Gun>
+				<Gun_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Director>
+				<Director_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Plane>
+				<Plane_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Float>
+				<Float_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Misc>
+				<Misc_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Misc_mgn>
+				<Bulge>content/gameplay/common/camouflage/textures/mat_PostAp2022_Moray_a.dds</Bulge>
+				<Bulge_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Bulge_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_a.dds</Wire>
+				<Wire_mgn>
+				content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>Postap unique permOflage block for the ships with a texture 4096*2048+1024*1024</annotation>
+			<name>mat_Postap2022_Moray</name>
+			<shipGroups>FRA_group_8</shipGroups>
+			<tiled>false</tiled>
+			<UV>
+				<DeckHouse>0.5 0.5</DeckHouse>
+				<Tile>2 1</Tile>
+				<Gun>0.4 0.4</Gun>
+				<Director>0.4 0.4</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.5 0.5</Misc>
+				<Bulge>2 2</Bulge>
+			</UV>
+			<Textures>
+				<DeckHouse>content/gameplay/common/camouflage/textures/mat_PostAp2022_Moray_a.dds</DeckHouse>
+				<DeckHouse_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</DeckHouse_mgn>
+				<Hull>content/gameplay/common/camouflage/textures/mat_PostAp2022_Moray_a.dds</Hull>
+				<Hull_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Hull_mgn>
+				<Gun>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Gun>
+				<Gun_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Director>
+				<Director_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Plane>
+				<Plane_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Float>
+				<Float_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Moray_a.dds</Misc>
+				<Misc_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Misc_mgn>
+				<Bulge>content/gameplay/common/camouflage/textures/mat_PostAp2022_Moray_a.dds</Bulge>
+				<Bulge_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Bulge_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_a.dds</Wire>
+				<Wire_mgn>
+				content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>Postap unique permOflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
+			<name>mat_Postap2022_Octopus</name>
+			<tiled>false</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>2 2</Tile>
+				<Gun>0.7 0.7</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+			</UV>
+			<Textures>
+				<DeckHouse>content/gameplay/common/camouflage/textures/mat_PostAp2022_Octopus_a.dds</DeckHouse>
+				<DeckHouse_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</DeckHouse_mgn>
+				<Hull>content/gameplay/common/camouflage/textures/mat_PostAp2022_Octopus_a.dds</Hull>
+				<Hull_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Hull_mgn>
+				<Gun>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Gun>
+				<Gun_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Director>
+				<Director_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Plane>
+				<Plane_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Float>
+				<Float_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Misc>
+				<Misc_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Misc_mgn>
+				<Bulge>content/gameplay/common/camouflage/textures/mat_PostAp2022_Octopus_a.dds</Bulge>
+				<Bulge_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Bulge_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_a.dds</Wire>
+				<Wire_mgn>
+				content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>Postap unique permOflage block for the ships with a texture 4096*2048</annotation>
+			<name>mat_Postap2022_Octopus</name>
+			<shipGroups>IJN_group_2 USN_group_2 RUS_group_2 UK_group_2 GER_group_2 FRA_group_2 POL_group_1 PAN_group_2 ITA_group_3 NL_group_1 EUR_group_2 PAM_group_3</shipGroups>
+			<tiled>false</tiled>
+			<UV>
+				<Tile>2 1</Tile>
+				<Gun>0.4 0.4</Gun>
+				<Director>0.4 0.4</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>1 1</Misc>
+				<Bulge>2 2</Bulge>
+			</UV>
+			<Textures>
+				<DeckHouse>content/gameplay/common/camouflage/textures/mat_PostAp2022_Octopus_a.dds</DeckHouse>
+				<DeckHouse_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</DeckHouse_mgn>
+				<Hull>content/gameplay/common/camouflage/textures/mat_PostAp2022_Octopus_a.dds</Hull>
+				<Hull_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Hull_mgn>
+				<Gun>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Gun>
+				<Gun_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Director>
+				<Director_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Plane>
+				<Plane_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Float>
+				<Float_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Misc>
+				<Misc_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Misc_mgn>
+				<Bulge>content/gameplay/common/camouflage/textures/mat_PostAp2022_Octopus_a.dds</Bulge>
+				<Bulge_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Bulge_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_a.dds</Wire>
+				<Wire_mgn>
+				content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>Postap unique permOflage block for the ships with a texture 4096*1024</annotation>
+			<name>mat_Postap2022_Octopus</name>
+			<shipGroups>RUS_group_3 </shipGroups>
+			<tiled>false</tiled>
+			<UV>
+				<Tile>3 0.75</Tile>
+				<Gun>0.4 0.4</Gun>
+				<Director>0.4 0.4</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>1 1</Misc>
+				<Bulge>2 2</Bulge>
+			</UV>
+			<Textures>
+				<DeckHouse>content/gameplay/common/camouflage/textures/mat_PostAp2022_Octopus_a.dds</DeckHouse>
+				<DeckHouse_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</DeckHouse_mgn>
+				<Hull>content/gameplay/common/camouflage/textures/mat_PostAp2022_Octopus_a.dds</Hull>
+				<Hull_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Hull_mgn>
+				<Gun>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Gun>
+				<Gun_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Director>
+				<Director_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Plane>
+				<Plane_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Float>
+				<Float_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Misc>
+				<Misc_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Misc_mgn>
+				<Bulge>content/gameplay/common/camouflage/textures/mat_PostAp2022_Octopus_a.dds</Bulge>
+				<Bulge_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Bulge_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_a.dds</Wire>
+				<Wire_mgn>
+				content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>Postap unique permOflage block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
+			<name>mat_Postap2022_Octopus</name>
+			<shipGroups>IJN_group_3 USN_group_3 UK_group_3 GER_group_3 FRA_group_3 ITA_group_2 RUS_group_7</shipGroups>
+			<tiled>false</tiled>
+			<UV>
+				<DeckHouse>2 1</DeckHouse>
+				<Tile>2 2</Tile>
+				<Gun>0.4 0.4</Gun>
+				<Director>0.4 0.4</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>1 1</Misc>
+				<Bulge>2 2</Bulge>
+			</UV>
+			<Textures>
+				<DeckHouse>content/gameplay/common/camouflage/textures/mat_PostAp2022_Octopus_a.dds</DeckHouse>
+				<DeckHouse_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</DeckHouse_mgn>
+				<Hull>content/gameplay/common/camouflage/textures/mat_PostAp2022_Octopus_a.dds</Hull>
+				<Hull_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Hull_mgn>
+				<Gun>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Gun>
+				<Gun_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Director>
+				<Director_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Plane>
+				<Plane_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Float>
+				<Float_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Misc>
+				<Misc_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Misc_mgn>
+				<Bulge>content/gameplay/common/camouflage/textures/mat_PostAp2022_Octopus_a.dds</Bulge>
+				<Bulge_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Bulge_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_a.dds</Wire>
+				<Wire_mgn>
+				content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>Postap unique permOflage block for the ships with a texture 4096*4096+1024*1024</annotation>
+			<name>mat_Postap2022_Octopus</name>
+			<shipGroups>IJN_group_4 USN_group_4 RUS_group_4</shipGroups>
+			<tiled>false</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>2 2</Tile>
+				<Gun>0.4 0.4</Gun>
+				<Director>0.4 0.4</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>1 1</Misc>
+				<Bulge>2 2</Bulge>
+			</UV>
+			<Textures>
+				<DeckHouse>content/gameplay/common/camouflage/textures/mat_PostAp2022_Octopus_a.dds</DeckHouse>
+				<DeckHouse_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</DeckHouse_mgn>
+				<Hull>content/gameplay/common/camouflage/textures/mat_PostAp2022_Octopus_a.dds</Hull>
+				<Hull_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Hull_mgn>
+				<Gun>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Gun>
+				<Gun_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Director>
+				<Director_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Plane>
+				<Plane_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Float>
+				<Float_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Misc>
+				<Misc_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Misc_mgn>
+				<Bulge>content/gameplay/common/camouflage/textures/mat_PostAp2022_Octopus_a.dds</Bulge>
+				<Bulge_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Bulge_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_a.dds</Wire>
+				<Wire_mgn>
+				content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>Postap unique permOflage block for the ships with a texture 4096*4096+4096*4096</annotation>
+			<name>mat_Postap2022_Octopus</name>
+			<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 PAN_group_4 ITA_group_4</shipGroups>
+			<tiled>false</tiled>
+			<UV>
+				<DeckHouse>2 2</DeckHouse>
+				<Tile>2 2</Tile>
+				<Gun>0.4 0.4</Gun>
+				<Director>0.4 0.4</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>1 1</Misc>
+				<Bulge>2 2</Bulge>
+			</UV>
+			<Textures>
+				<DeckHouse>content/gameplay/common/camouflage/textures/mat_PostAp2022_Octopus_a.dds</DeckHouse>
+				<DeckHouse_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</DeckHouse_mgn>
+				<Hull>content/gameplay/common/camouflage/textures/mat_PostAp2022_Octopus_a.dds</Hull>
+				<Hull_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Hull_mgn>
+				<Gun>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Gun>
+				<Gun_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Director>
+				<Director_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Plane>
+				<Plane_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Float>
+				<Float_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Misc>
+				<Misc_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Misc_mgn>
+				<Bulge>content/gameplay/common/camouflage/textures/mat_PostAp2022_Octopus_a.dds</Bulge>
+				<Bulge_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Bulge_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_a.dds</Wire>
+				<Wire_mgn>
+				content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>Postap unique permOflage block for the ships with a texture 4096*4096+2048*1024</annotation>
+			<name>mat_Postap2022_Octopus</name>
+			<shipGroups>RUS_group_6 USN_group_6 GER_group_5 IJN_group_6 FRA_group_7</shipGroups>
+			<tiled>false</tiled>
+			<UV>
+				<DeckHouse>1 0.5</DeckHouse>
+				<Tile>2 2</Tile>
+				<Gun>0.4 0.4</Gun>
+				<Director>0.4 0.4</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>1 1</Misc>
+				<Bulge>2 2</Bulge>
+			</UV>
+			<Textures>
+				<DeckHouse>content/gameplay/common/camouflage/textures/mat_PostAp2022_Octopus_a.dds</DeckHouse>
+				<DeckHouse_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</DeckHouse_mgn>
+				<Hull>content/gameplay/common/camouflage/textures/mat_PostAp2022_Octopus_a.dds</Hull>
+				<Hull_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Hull_mgn>
+				<Gun>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Gun>
+				<Gun_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Director>
+				<Director_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Plane>
+				<Plane_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Float>
+				<Float_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Misc>
+				<Misc_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Misc_mgn>
+				<Bulge>content/gameplay/common/camouflage/textures/mat_PostAp2022_Octopus_a.dds</Bulge>
+				<Bulge_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Bulge_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_a.dds</Wire>
+				<Wire_mgn>
+				content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>Postap unique permOflage block for the ships with a texture 4096*2048+4096*4096</annotation>
+			<name>mat_Postap2022_Octopus</name>
+			<shipGroups>FRA_group_5</shipGroups>
+			<tiled>false</tiled>
+			<UV>
+				<DeckHouse>2 2</DeckHouse>
+				<Tile>2 1</Tile>
+				<Gun>0.4 0.4</Gun>
+				<Director>0.4 0.4</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>1 1</Misc>
+				<Bulge>2 2</Bulge>
+			</UV>
+			<Textures>
+				<DeckHouse>content/gameplay/common/camouflage/textures/mat_PostAp2022_Octopus_a.dds</DeckHouse>
+				<DeckHouse_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</DeckHouse_mgn>
+				<Hull>content/gameplay/common/camouflage/textures/mat_PostAp2022_Octopus_a.dds</Hull>
+				<Hull_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Hull_mgn>
+				<Gun>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Gun>
+				<Gun_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Director>
+				<Director_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Plane>
+				<Plane_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Float>
+				<Float_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Misc>
+				<Misc_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Misc_mgn>
+				<Bulge>content/gameplay/common/camouflage/textures/mat_PostAp2022_Octopus_a.dds</Bulge>
+				<Bulge_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Bulge_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_a.dds</Wire>
+				<Wire_mgn>
+				content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>Postap unique permOflage block for the ships with a texture 4096*2048+2048*2048, 2048*1024+1024*1024</annotation>
+			<name>mat_Postap2022_Octopus</name>
+			<shipGroups>FRA_group_6 GER_group_7 UK_group_5 EUR_group_3</shipGroups>
+			<tiled>false</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>2 1</Tile>
+				<Gun>0.4 0.4</Gun>
+				<Director>0.4 0.4</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>1 1</Misc>
+				<Bulge>2 2</Bulge>
+			</UV>
+			<Textures>
+				<DeckHouse>content/gameplay/common/camouflage/textures/mat_PostAp2022_Octopus_a.dds</DeckHouse>
+				<DeckHouse_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</DeckHouse_mgn>
+				<Hull>content/gameplay/common/camouflage/textures/mat_PostAp2022_Octopus_a.dds</Hull>
+				<Hull_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Hull_mgn>
+				<Gun>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Gun>
+				<Gun_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Director>
+				<Director_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Plane>
+				<Plane_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Float>
+				<Float_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Misc>
+				<Misc_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Misc_mgn>
+				<Bulge>content/gameplay/common/camouflage/textures/mat_PostAp2022_Octopus_a.dds</Bulge>
+				<Bulge_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Bulge_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_a.dds</Wire>
+				<Wire_mgn>
+				content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>Postap unique permOflage block for the ships with a texture 4096*2048+1024*1024</annotation>
+			<name>mat_Postap2022_Octopus</name>
+			<shipGroups>FRA_group_8</shipGroups>
+			<tiled>false</tiled>
+			<UV>
+				<DeckHouse>0.5 0.5</DeckHouse>
+				<Tile>2 1</Tile>
+				<Gun>0.4 0.4</Gun>
+				<Director>0.4 0.4</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.5 0.5</Misc>
+				<Bulge>2 2</Bulge>
+			</UV>
+			<Textures>
+				<DeckHouse>content/gameplay/common/camouflage/textures/mat_PostAp2022_Octopus_a.dds</DeckHouse>
+				<DeckHouse_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</DeckHouse_mgn>
+				<Hull>content/gameplay/common/camouflage/textures/mat_PostAp2022_Octopus_a.dds</Hull>
+				<Hull_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Hull_mgn>
+				<Gun>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Gun>
+				<Gun_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Director>
+				<Director_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Plane>
+				<Plane_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Float>
+				<Float_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_Octopus_a.dds</Misc>
+				<Misc_mgn>
+					content/gameplay/common/camouflage/textures/mat_PostAp2022_Misc_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.1 </Influence_n>
+				</Misc_mgn>
+				<Bulge>content/gameplay/common/camouflage/textures/mat_PostAp2022_Octopus_a.dds</Bulge>
+				<Bulge_mgn>
+					content/gameplay/common/camouflage/textures/mat_Postap_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Bulge_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_a.dds</Wire>
+				<Wire_mgn>
+				content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_mgn.dds
 					<Influence_m> 0.0 </Influence_m>
 					<Influence_g> 0.0 </Influence_g>
 					<Influence_n> 0.0 </Influence_n>
@@ -18959,7 +21905,10 @@
 			<Textures>
 				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Contributors_02_37.dds</Tile>
 			</Textures>
-			<colorSchemes>colorScheme_Contributors_02</colorSchemes>
+			<colorSchemes>
+				colorScheme_Contributors_02 
+				 
+			</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Contributors 02 tile camouflage block for the ships with a texture 4096*2048</annotation>
@@ -18979,7 +21928,10 @@
 			<Textures>
 				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Contributors_02_37.dds</Tile>
 			</Textures>
-			<colorSchemes>colorScheme_Contributors_02</colorSchemes>
+			<colorSchemes>
+				colorScheme_Contributors_02 
+				 
+			</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Contributors 02 tile camouflage block for the ships with a texture 4096*2048+2048*1024</annotation>
@@ -18999,7 +21951,10 @@
 			<Textures>
 				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Contributors_02_37.dds</Tile>
 			</Textures>
-			<colorSchemes>colorScheme_Contributors_02</colorSchemes>
+			<colorSchemes>
+				colorScheme_Contributors_02 
+				 
+			</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Contributors 02 tile camouflage block for the ships with a texture 4096*1024</annotation>
@@ -19019,7 +21974,10 @@
 			<Textures>
 				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Contributors_02_37.dds</Tile>
 			</Textures>
-			<colorSchemes>colorScheme_Contributors_02</colorSchemes>
+			<colorSchemes>
+				colorScheme_Contributors_02 
+				 
+			</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Contributors 02 tile camouflage block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
@@ -19039,7 +21997,10 @@
 			<Textures>
 				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Contributors_02_37.dds</Tile>
 			</Textures>
-			<colorSchemes>colorScheme_Contributors_02</colorSchemes>
+			<colorSchemes>
+				colorScheme_Contributors_02 
+				 
+			</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Contributors 02 tile camouflage block for the ships with a texture 4096*4096+1024*1024</annotation>
@@ -19059,7 +22020,10 @@
 			<Textures>
 				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Contributors_02_37.dds</Tile>
 			</Textures>
-			<colorSchemes>colorScheme_Contributors_02</colorSchemes>
+			<colorSchemes>
+				colorScheme_Contributors_02 
+				 
+			</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Contributors 02 tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
@@ -19079,7 +22043,10 @@
 			<Textures>
 				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Contributors_02_37.dds</Tile>
 			</Textures>
-			<colorSchemes>colorScheme_Contributors_02</colorSchemes>
+			<colorSchemes>
+				colorScheme_Contributors_02 
+				 
+			</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Contributors 02 tile camouflage block for the ships with a texture 4096*4096+2048*1024</annotation>
@@ -19099,7 +22066,10 @@
 			<Textures>
 				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Contributors_02_37.dds</Tile>
 			</Textures>
-			<colorSchemes>colorScheme_Contributors_02</colorSchemes>
+			<colorSchemes>
+				colorScheme_Contributors_02 
+				 
+			</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Contributors 02 tile camouflage block for the ships with a texture 4096*2048+4096*4096</annotation>
@@ -19116,10 +22086,14 @@
 				<Misc>0.3 0.3</Misc>
 				<Bulge>1 1</Bulge>
 			</UV>
+			
 			<Textures>
 				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Contributors_02_37.dds</Tile>
 			</Textures>
-			<colorSchemes>colorScheme_Contributors_02</colorSchemes>
+			<colorSchemes>
+				colorScheme_Contributors_02 
+				 
+			</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Contributors 02 tile camouflage block for the ships with a texture 4096*2048+2048*2048, 2048*1024+1024*1024</annotation>
@@ -19139,7 +22113,10 @@
 			<Textures>
 				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Contributors_02_37.dds</Tile>
 			</Textures>
-			<colorSchemes>colorScheme_Contributors_02</colorSchemes>
+			<colorSchemes>
+				colorScheme_Contributors_02 
+				 
+			</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Contributors 02 tile camouflage block for the ships with a texture 4096*2048+1024*1024</annotation>
@@ -19159,7 +22136,10 @@
 			<Textures>
 				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Contributors_02_37.dds</Tile>
 			</Textures>
-			<colorSchemes>colorScheme_Contributors_02</colorSchemes>
+			<colorSchemes>
+				colorScheme_Contributors_02 
+				 
+			</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>DutchArc tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
@@ -19381,6 +22361,225 @@
 			<colorSchemes>colorSchemeDutchArc</colorSchemes>
 		</camouflage>
 		<camouflage>
+			<annotation>EGS tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
+			<name>camo_EGS_tile</name>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1.5 1.5</DeckHouse>
+				<Tile>3.0 3.0</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Steam_29.dds</Tile>
+			</Textures>
+			<colorSchemes>color_EGS_01</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>EGS tile camouflage block for the ships with a texture 4096*2048</annotation>
+			<name>camo_EGS_tile</name>
+			<shipGroups>IJN_group_2 USN_group_2 RUS_group_2 UK_group_2 GER_group_2 FRA_group_2 POL_group_1 PAN_group_2 ITA_group_3 NL_group_1 EUR_group_2 PAM_group_3 IJN_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>0.75 0.75</DeckHouse>
+				<Tile>3.0 1.5</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Steam_29.dds</Tile>
+			</Textures>
+			<colorSchemes>color_EGS_01</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>EGS tile camouflage block for the ships with a texture 4096*2048+2048*1024</annotation>
+			<name>camo_EGS_tile</name>
+			<shipGroups>USN_group_8</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse> 1 0.5</DeckHouse>
+				<Tile>3.0 1.5</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Steam_29.dds</Tile>
+			</Textures>
+			<colorSchemes>color_EGS_01</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>EGS tile camouflage block for the ships with a texture 4096*1024</annotation>
+			<name>camo_EGS_tile</name>
+			<shipGroups>RUS_group_3 GER_group_6 USN_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1.5 1.5</DeckHouse>
+				<Tile>3.0 0.75</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Steam_29.dds</Tile>
+			</Textures>
+			<colorSchemes>color_EGS_01</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>EGS tile camouflage block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
+			<name>camo_EGS_tile</name>
+			<shipGroups>IJN_group_3 USN_group_3 UK_group_3 GER_group_3 FRA_group_3 ITA_group_2 RUS_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>3.0 1.5</DeckHouse>
+				<Tile>3.0 3.0</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Steam_29.dds</Tile>
+			</Textures>
+			<colorSchemes>color_EGS_01</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>EGS tile camouflage block for the ships with a texture 4096*4096+1024*1024</annotation>
+			<name>camo_EGS_tile</name>
+			<shipGroups>IJN_group_4 USN_group_4 RUS_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>0.75 0.75</DeckHouse>
+				<Tile>3.0 3.0</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Steam_29.dds</Tile>
+			</Textures>
+			<colorSchemes>color_EGS_01</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>EGS tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
+			<name>camo_EGS_tile</name>
+			<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 PAN_group_4 ITA_group_4 PAM_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>3.0 3.0</DeckHouse>
+				<Tile>3.0 3.0</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Steam_29.dds</Tile>
+			</Textures>
+			<colorSchemes>color_EGS_01</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>EGS tile camouflage block for the ships with a texture 4096*4096+2048*1024</annotation>
+			<name>camo_EGS_tile</name>
+			<shipGroups>RUS_group_6 USN_group_6 GER_group_5 IJN_group_6 FRA_group_7 PAN_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1.5 0.75</DeckHouse>
+				<Tile>3.0 3.0</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Steam_29.dds</Tile>
+			</Textures>
+			<colorSchemes>color_EGS_01</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>EGS tile camouflage block for the ships with a texture 4096*2048+4096*4096</annotation>
+			<name>camo_EGS_tile</name>
+			<shipGroups>FRA_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>3.0 3.0</DeckHouse>
+				<Tile>3.0 1.5</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Steam_29.dds</Tile>
+			</Textures>
+			<colorSchemes>color_EGS_01</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>EGS tile camouflage block for the ships with a texture 4096*2048+2048*2048, 2048*1024+1024*1024</annotation>
+			<name>camo_EGS_tile</name>
+			<shipGroups>FRA_group_6 GER_group_7 UK_group_5 EUR_group_3</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1.5 1.5</DeckHouse>
+				<Tile>3.0 1.5</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Steam_29.dds</Tile>
+			</Textures>
+			<colorSchemes>color_EGS_01</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>EGS tile camouflage block for the ships with a texture 4096*2048+1024*1024</annotation>
+			<name>camo_EGS_tile</name>
+			<shipGroups>FRA_group_8 ITA_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>0.75 0.75</DeckHouse>
+				<Tile>3.0 1.5</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Steam_29.dds</Tile>
+			</Textures>
+			<colorSchemes>color_EGS_01</colorSchemes>
+		</camouflage>
+		<camouflage>
 			<annotation>Restless Fire tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_EU_special_tile</name>
 			<tiled>true</tiled>
@@ -19598,6 +22797,225 @@
 				<Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_07.dds</Tile>
 			</Textures>
 			<colorSchemes>colorSchemeRF01</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Black templar tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
+			<name>camo_Fields_tile</name>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>3.6 3.6</Tile>
+				<DeckHouse>1.3 1.3</DeckHouse>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>2.6 2.6</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Fields.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Fields</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Black templar tile camouflage block for the ships with a texture 4096*2048</annotation>
+			<name>camo_Fields_tile</name>
+			<shipGroups>IJN_group_2 USN_group_2 RUS_group_2 UK_group_2 GER_group_2 FRA_group_2 POL_group_1 PAN_group_2 ITA_group_3 NL_group_1 EUR_group_2 PAM_group_3 IJN_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>3.6 2.3</Tile>
+				<DeckHouse>1.3 1.3</DeckHouse>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Fields.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Fields</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Black templar tile camouflage block for the ships with a texture 4096*2048+2048*1024</annotation>
+			<name>camo_Fields_tile</name>
+			<shipGroups>USN_group_8</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>3.6 2.3</Tile>
+				<DeckHouse>2.3 1.65</DeckHouse>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Fields.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Fields</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Black templar tile camouflage block for the ships with a texture 4096*1024</annotation>
+			<name>camo_Fields_tile</name>
+			<shipGroups>RUS_group_3 GER_group_6 USN_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>3.6 1.7</Tile>
+				<DeckHouse>1.3 1.3</DeckHouse>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Fields.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Fields</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Black templar tile camouflage block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
+			<name>camo_Fields_tile</name>
+			<shipGroups>IJN_group_3 USN_group_3 UK_group_3 GER_group_3 FRA_group_3 ITA_group_2 RUS_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>3.6 3.6</Tile>
+				<DeckHouse>3.6 2.6</DeckHouse>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Fields.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Fields</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Black templar tile camouflage block for the ships with a texture 4096*4096+1024*1024</annotation>
+			<name>camo_Fields_tile</name>
+			<shipGroups>IJN_group_4 USN_group_4 RUS_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>3.6 3.6</Tile>
+				<DeckHouse>1.7 1.7</DeckHouse>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Fields.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Fields</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Black templar tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
+			<name>camo_Fields_tile</name>
+			<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 PAN_group_4 ITA_group_4 PAM_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>3.6 3.6</Tile>
+				<DeckHouse>3.6 3.6</DeckHouse>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Fields.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Fields</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Black templar tile camouflage block for the ships with a texture 4096*4096+2048*1024</annotation>
+			<name>camo_Fields_tile</name>
+			<shipGroups>RUS_group_6 USN_group_6 GER_group_5 IJN_group_6 FRA_group_7 PAN_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>3.6 3.6</Tile>
+				<DeckHouse>2.6 1.7</DeckHouse>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Fields.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Fields</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Black templar tile camouflage block for the ships with a texture 4096*2048+4096*4096</annotation>
+			<name>camo_Fields_tile</name>
+			<shipGroups>FRA_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>3.6 2.6</Tile>
+				<DeckHouse>3.6 3.6</DeckHouse>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Fields.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Fields</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Black templar tile camouflage block for the ships with a texture 4096*2048+2048*2048, 2048*1024+1024*1024</annotation>
+			<name>camo_Fields_tile</name>
+			<shipGroups>FRA_group_6 GER_group_7 UK_group_5 EUR_group_3</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>3.6 2.6</Tile>
+				<DeckHouse>1.7 1.7</DeckHouse>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Fields.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Fields</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Black templar tile camouflage block for the ships with a texture 4096*2048+1024*1024</annotation>
+			<name>camo_Fields_tile</name>
+			<shipGroups>FRA_group_8 ITA_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>3.6 2.6</Tile>
+				<DeckHouse>1.7 1.7</DeckHouse>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Fields.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Fields</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>France arc tile camouflage block for all ships</annotation>
@@ -29867,6 +33285,225 @@
 			<colorSchemes>color_Steam_01</colorSchemes>
 		</camouflage>
 		<camouflage>
+			<annotation>St. Patrick tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
+			<name>camo_StPatrick_tile</name>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>4 4</Tile>
+				<DeckHouse>2 2</DeckHouse>
+				<Gun>1 1</Gun>
+				<Director>0.5 0.5</Director>
+				<Plane>0.3 0.3</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.5 0.5</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_StPatrick.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_StPatric</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>St. Patrick tile camouflage block for the ships with a texture 4096*2048</annotation>
+			<name>camo_StPatrick_tile</name>
+			<shipGroups>IJN_group_2 USN_group_2 RUS_group_2 UK_group_2 GER_group_2 FRA_group_2 POL_group_1 PAN_group_2 ITA_group_3 NL_group_1 EUR_group_2 PAM_group_3 IJN_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>1 1</Gun>
+				<Director>0.5 0.5</Director>
+				<Plane>0.3 0.3</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.5 0.5</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_StPatrick.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_StPatric</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>EGS tile camouflage block for the ships with a texture 4096*2048+2048*1024</annotation>
+			<name>camo_StPatrick_tile</name>
+			<shipGroups>USN_group_8</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse> 1 0.5</DeckHouse>
+				<Tile>3.0 1.5</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_StPatrick.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_StPatric</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>St. Patrick tile camouflage block for the ships with a texture 4096*1024</annotation>
+			<name>camo_StPatrick_tile</name>
+			<shipGroups>RUS_group_3 GER_group_6 USN_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>4 1</Tile>
+				<Gun>1 1</Gun>
+				<Director>0.5 0.5</Director>
+				<Plane>0.3 0.3</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.5 0.5</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_StPatrick.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_StPatric</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>St. Patrick tile camouflage block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
+			<name>camo_StPatrick_tile</name>
+			<shipGroups>IJN_group_3 USN_group_3 UK_group_3 GER_group_3 FRA_group_3 ITA_group_2 RUS_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>4 2</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>1 1</Gun>
+				<Director>0.5 0.5</Director>
+				<Plane>0.3 0.3</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.5 0.5</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_StPatrick.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_StPatric</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>St. Patrick tile camouflage block for the ships with a texture 4096*4096+1024*1024</annotation>
+			<name>camo_StPatrick_tile</name>
+			<shipGroups>IJN_group_4 USN_group_4 RUS_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>1 1</Gun>
+				<Director>0.5 0.5</Director>
+				<Plane>0.3 0.3</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.5 0.5</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_StPatrick.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_StPatric</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>St. Patrick tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
+			<name>camo_StPatrick_tile</name>
+			<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 PAN_group_4 ITA_group_4 PAM_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>4 4</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>1 1</Gun>
+				<Director>0.5 0.5</Director>
+				<Plane>0.3 0.3</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.5 0.5</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_StPatrick.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_StPatric</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>St. Patrick tile camouflage block for the ships with a texture 4096*4096+2048*1024</annotation>
+			<name>camo_StPatrick_tile</name>
+			<shipGroups>RUS_group_6 USN_group_6 GER_group_5 IJN_group_6 FRA_group_7 PAN_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 1</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>1 1</Gun>
+				<Director>0.5 0.5</Director>
+				<Plane>0.3 0.3</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.5 0.5</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_StPatrick.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_StPatric</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>St. Patrick tile camouflage block for the ships with a texture 4096*2048+4096*4096</annotation>
+			<name>camo_StPatrick_tile</name>
+			<shipGroups>FRA_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>4 4</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>1 1</Gun>
+				<Director>0.5 0.5</Director>
+				<Plane>0.3 0.3</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.5 0.5</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_StPatrick.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_StPatric</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>St. Patrick tile camouflage block for the ships with a texture 4096*2048+2048*2048, 2048*1024+1024*1024</annotation>
+			<name>camo_StPatrick_tile</name>
+			<shipGroups>FRA_group_6 GER_group_7 UK_group_5 EUR_group_3</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 2</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>1 1</Gun>
+				<Director>0.5 0.5</Director>
+				<Plane>0.3 0.3</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.5 0.5</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_StPatrick.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_StPatric</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>St. Patrick tile camouflage block for the ships with a texture 4096*2048+1024*1024</annotation>
+			<name>camo_StPatrick_tile</name>
+			<shipGroups>FRA_group_8 ITA_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>1 1</Gun>
+				<Director>0.5 0.5</Director>
+				<Plane>0.3 0.3</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.5 0.5</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_StPatrick.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_StPatric</colorSchemes>
+		</camouflage>
+		<camouflage>
 			<annotation>NewYear2021 skin tile camouflage block</annotation>
 			<name>camo_Strasbourg_NewYear2021</name>
 			<tiled>true</tiled>
@@ -39192,6 +42829,183 @@
     
 		</camouflage>
 		<camouflage>
+        
+			<annotation>Toulon permOflage block</annotation>
+        
+			<name>camo_permanent_1</name>
+        
+			<useColorScheme>True</useColorScheme>
+        
+			<targetShip>PFSC507_Toulon</targetShip>
+        
+			<tiled>false</tiled>
+        
+			<UV>
+            
+				<Tile>1 1</Tile>
+            
+				<Gun>0.6 0.6</Gun>
+            
+				<Director>0.6 0.6</Director>
+            
+				<Plane>0.5 0.5</Plane>
+            
+				<Float>0.5 0.25</Float>
+            
+				<Misc>0.3 0.3</Misc>
+        
+			</UV>
+        
+			<Textures>
+            
+				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+            
+				<Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Hull>
+            
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+            
+				<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
+            
+				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
+        
+			</Textures>
+			<colorSchemes>colorSchemeToulon</colorSchemes>
+			<colorSchemes>colorSchemeFRAP57</colorSchemes>
+    
+		</camouflage>
+		<camouflage>
+        
+			<annotation>Marseille permOflage block</annotation>
+        
+			<name>camo_permanent_1</name>
+        
+			<useColorScheme>True</useColorScheme>
+        
+			<targetShip>PFSC210_Marseille</targetShip>
+        
+			<tiled>false</tiled>
+        
+			<UV>
+            
+				<Tile>1 1</Tile>
+            
+				<Gun>0.6 0.6</Gun>
+            
+				<Director>0.6 0.6</Director>
+            
+				<Plane>0.5 0.5</Plane>
+            
+				<Float>0.5 0.25</Float>
+            
+				<Misc>0.3 0.3</Misc>
+        
+			</UV>
+        
+			<Textures>
+            
+				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+            
+				<Hull>content/gameplay/common/camouflage/textures/FSC029_Marseille_1944_camo_01.dds</Hull>
+            
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+            
+				<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
+            
+				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
+        
+			</Textures>
+			<colorSchemes>colorSchemeFRABourgogne</colorSchemes>
+			<colorSchemes>colorSchemeFRAP58</colorSchemes>
+		</camouflage>
+		<camouflage>
+        
+			<annotation>Brest permOflage block</annotation>
+        
+			<name>camo_permanent_1</name>
+        
+			<useColorScheme>True</useColorScheme>
+        
+			<targetShip>PFSC209_Brest</targetShip>
+        
+			<tiled>false</tiled>
+        
+			<UV>
+            
+				<Tile>1 1</Tile>
+            
+				<Gun>0.6 0.6</Gun>
+            
+				<Director>0.6 0.6</Director>
+            
+				<Plane>0.5 0.5</Plane>
+            
+				<Float>0.5 0.25</Float>
+            
+				<Misc>0.3 0.3</Misc>
+        
+			</UV>
+        
+			<Textures>
+            
+				<DeckHouse>content/gameplay/common/camouflage/textures/FSC028_Brest_1944_DeckHouse_camo_01.dds</DeckHouse>
+            
+				<Hull>content/gameplay/common/camouflage/textures/FSC028_Brest_1944_camo_01.dds</Hull>
+            
+				<Gun>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Gun>
+            
+				<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
+            
+				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
+        
+			</Textures>
+			<colorSchemes>colorSchemeBrest</colorSchemes>
+			<colorSchemes>colorSchemeFRA01</colorSchemes>
+		</camouflage>
+		<camouflage>
+        
+			<annotation>Cherbourg permOflage block</annotation>
+        
+			<name>camo_permanent_1</name>
+        
+			<useColorScheme>True</useColorScheme>
+        
+			<targetShip>PFSC208_Cherbourg</targetShip>
+        
+			<tiled>false</tiled>
+        
+			<UV>
+            
+				<Tile>1 1</Tile>
+            
+				<Gun>0.6 0.6</Gun>
+            
+				<Director>0.6 0.6</Director>
+            
+				<Plane>0.5 0.5</Plane>
+            
+				<Float>0.5 0.25</Float>
+            
+				<Misc>0.3 0.3</Misc>
+        
+			</UV>
+        
+			<Textures>
+            
+				<DeckHouse>content/gameplay/common/camouflage/textures/FSC027_Cherbourg_1942_DeckHouse_camo_01.dds</DeckHouse>
+            
+				<Hull>content/gameplay/common/camouflage/textures/FSC027_Cherbourg_1942_camo_01.dds</Hull>
+            
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+            
+				<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
+            
+				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
+        
+			</Textures>
+			<colorSchemes>colorSchemeCherbourg</colorSchemes>
+			<colorSchemes>colorSchemeFRA02</colorSchemes>
+		</camouflage>
+		<camouflage>
 			<annotation>Gascogne unique permOflage block</annotation>
 			<name>camo_permanent_2</name>
 			<targetShip>PFSB508_Gascogne</targetShip>
@@ -41252,6 +45066,56 @@
 			<colorSchemes>colorSchemeGERP16</colorSchemes>
             
 			<colorSchemes>colorSchemeGERP45</colorSchemes>
+    
+		</camouflage>
+		<camouflage>
+        
+			<annotation> Mecklenburg unique permOflage block</annotation>
+        
+			<name>camo_permanent_1</name>
+        
+			<useColorScheme>True</useColorScheme>
+        
+			<targetShip>PGSB610_Mecklenburg</targetShip>
+        
+			<tiled>false</tiled>
+        
+			<UV>
+            
+				<Tile>1 1</Tile>
+            
+				<Gun>1 1</Gun>
+            
+				<Director>0.5 0.5</Director>
+            
+				<Plane>0.5 0.5</Plane>
+            
+				<Float>0.5 0.25</Float>
+            
+				<Misc>0.3 0.3</Misc>
+        
+			</UV>
+        
+			<Textures>
+            
+				<DeckHouse>content/gameplay/common/camouflage/textures/GSB047_Mecklenburg_1945_Deckhouse_camo_01.dds</DeckHouse>
+            
+				<Hull>content/gameplay/common/camouflage/textures/GSB047_Mecklenburg_1945_Hull_camo_01.dds</Hull>
+            
+				<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Gun>
+            
+				<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
+            
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Plane>
+            
+				<Float>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Float>
+            
+				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
+        
+			</Textures>
+		    
+			<colorSchemes>colorSchemeGERP13</colorSchemes>
+			<colorSchemes>colorSchemeGER07</colorSchemes>
     
 		</camouflage>
 		<camouflage>
@@ -43853,10 +47717,34 @@
 				<DeckHouse>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</DeckHouse>
 				<Hull>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Hull>
 				<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Gun>
+				<Director>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Director>
 				<Misc>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Misc>
 			</Textures>
 			<colorSchemes>colorSchemeIJNP57</colorSchemes>
 			<colorSchemes>colorSchemeIJNP03</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Iwami unique permOflage block</annotation>
+			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
+			<targetShip>PJSB529_Iwami</targetShip>
+			<tiled>false</tiled>
+			<UV>
+				<Tile>1 1</Tile>
+				<Gun>4 4</Gun>
+				<Director>0.5 0.5</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+			</UV>
+			<Textures>
+				<DeckHouse>content/gameplay/common/camouflage/textures/JSB056_Iwami_1944_DeckHouse_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/JSB056_Iwami_1944_Hull_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/AGM034_16in50_Mk7_camo_01.dds</Gun>
+				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
+			</Textures>
+			<colorSchemes>colorSchemeIJNP04</colorSchemes>
+			<colorSchemes>colorSchemeIJNIwami</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Tachibana unique permOflage block</annotation>
@@ -44436,7 +48324,7 @@
 			<colorSchemes>color_NY_2018_02</colorSchemes>
 		</camouflage>
 		<camouflage>
-			<annotation>Hsiang Yang unique permOflage block</annotation>
+			<annotation>Yue Yang unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
 			<useColorScheme>True</useColorScheme>
 			<targetShip>PZSD110_Hsiang_Yang</targetShip>
@@ -48809,6 +52697,49 @@
 			<colorSchemes>colorSchemeUKMarlborough2</colorSchemes>
 		</camouflage>
 		<camouflage>
+        
+			<annotation>Eagle unique permOflage block</annotation>
+        
+			<name>camo_permanent_1</name>
+        
+			<useColorScheme>True</useColorScheme>
+        
+			<targetShip>PBSA111_Eagle</targetShip>
+        
+			<tiled>false</tiled>
+        
+			<UV>
+            
+				<Tile>1 1</Tile>
+            
+				<Gun>0.45 0.45</Gun>
+            
+				<Director>0.45 0.45</Director>
+            
+				<Plane>0.5 0.5</Plane>
+            
+				<Float>0.5 0.25</Float>
+            
+				<Misc>0.3 0.3</Misc>
+        
+			</UV>
+        
+			<Textures>
+            
+				<DeckHouse>content/gameplay/common/camouflage/textures/BSA010_Eagle_1956_deckhouse_camo_01.dds</DeckHouse>
+            
+				<Hull>content/gameplay/common/camouflage/textures/BSA010_Eagle_1956_camo_01.dds</Hull>
+            
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+            
+				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
+				<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
+        
+			</Textures>
+			<colorSchemes>colorSchemeUKP54</colorSchemes>
+			<colorSchemes>colorSchemeUKP17</colorSchemes>
+		</camouflage>
+		<camouflage>
 			<annotation>Dido unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
 			<useColorScheme>True</useColorScheme>
@@ -48830,6 +52761,30 @@
 			</Textures>
 			<colorSchemes>colorSchemeUKP52</colorSchemes>
 			<colorSchemes>colorSchemeUKP18</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Edgar unique permOflage block</annotation>
+			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
+			<targetShip>PBSC111_Edgar</targetShip>
+			<tiled>false</tiled>
+			<UV>
+				<Tile>1 1</Tile>
+				<Gun>0.45 0.45</Gun>
+				<Director>0.45 0.45</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+			</UV>
+			<Textures>
+				<Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
+				<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
+			</Textures>
+			<colorSchemes>colorSchemeEdgar</colorSchemes>
+			<colorSchemes>colorSchemeUKP36</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Hood second unique permOflage block</annotation>
@@ -49927,6 +53882,7 @@
 			<useColorScheme>True</useColorScheme>
 			<targetShip>PASA507_Saipan_1946</targetShip>
 			<targetShip>PASA528_Saipan</targetShip>
+			<targetShip>PASA598_Black_Saipan</targetShip>
 			<tiled>false</tiled>
 			<UV>
 				<Tile>1 1</Tile>
