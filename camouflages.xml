@@ -56566,7 +56566,7 @@
 				<Misc>1 1</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/Hotfire.dds</Hull>
+				<Hull>content/gameplay/common/camouflage/textures/Sandy.dds</Hull>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 				<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
 				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
