@@ -56232,7 +56232,7 @@
 			<colorSchemes>colorSchemeUSNP15</colorSchemes>
 		</camouflage>
 		<camouflage>
-			<annotation>Pensacola Hull A unique permOflage block</annotation>
+			<annotation>Pensacola Hull B unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
 			<useColorScheme>True</useColorScheme>
 			<targetShip>PASC012_Pensacola_1944</targetShip>
@@ -56247,7 +56247,7 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/rc.dds</Hull>
+				<Hull>content/gameplay/common/camouflage/textures/coke.dds</Hull>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
 				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
@@ -56256,7 +56256,7 @@
 			<colorSchemes>colorSchemeUSNP15</colorSchemes>
 		</camouflage>
 		<camouflage>
-			<annotation>Pensacola Hull B unique permOflage block</annotation>
+			<annotation>Pensacola Hull A unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
 			<useColorScheme>True</useColorScheme>
 			<targetShip>PASC012_Pensacola_1944_B_Hull_1944</targetShip>
