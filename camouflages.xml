@@ -55305,9 +55305,9 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<DeckHouse>content/gameplay/common/camouflage/textures/1701.dds</DeckHouse>
+				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
 				<Hull>content/gameplay/common/camouflage/textures/1701.dds</Hull>
-				<Bulge>content/gameplay/common/camouflage/textures/ASA001_Enterprise_1944_Bulge_camo_01.dds</Bulge>
+				<Bulge>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Bulge>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
 				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
