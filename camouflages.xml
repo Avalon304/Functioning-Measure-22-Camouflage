@@ -49324,13 +49324,13 @@
 				<Misc>1 1</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/ZSA001_Sanzang_1946_camo_01.dds</Hull>
-				<DeckHouse>content/gameplay/common/camouflage/textures/ZSA001_Sanzang_1946_DeckHouse_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/220only.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
+				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemePAN03</colorSchemes>
+			<colorSchemes>colorSchemeUSNP16</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Wujing permoflage block</annotation>
