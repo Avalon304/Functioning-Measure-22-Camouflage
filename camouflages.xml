@@ -51,7 +51,7 @@
 		<!--//3. American ships with texture		4096*4096+4096*2048, 2048*2048+2048*1024-->
 		<shipGroup>
 			<name>USN_group_3</name>
-			<ships> PASD709_Black PASB506_Arizona_1941 PASB008_Colorado_1945 PASB017_Montana_1945 PASC510_Alaska PASB507_West_Virginia PASB810_TST_MONTANA PASB510_Ohio PASC599_Black_Alaska PASB517_Florida PASB108_Kansas PASB505_Oklahoma PASC528_Congress PASC538_Rochester PASC519_Tulsa PASC111_Annapolis</ships>
+			<ships> PASD709_Black PASB506_Arizona_1941 PASB008_Colorado_1945 PASB017_Montana_1945 PASC510_Alaska PASB507_West_Virginia PASB810_TST_MONTANA PASB510_Ohio PASC599_Black_Alaska PASB517_Florida PASB108_Kansas PASB505_Oklahoma PASC528_Congress PASC538_Rochester PASC519_Tulsa PASC111_Annapolis PASC509_Vallejo</ships>
 		</shipGroup>
 		<!--//4. American ships with texture		4096*4096+1024*1024-->
 		<shipGroup>
@@ -133,7 +133,7 @@
 		<!--//4. British ships with texture			4096*4096+4096*4096-->
 		<shipGroup>
 			<name>UK_group_4</name>
-			<ships>PBSB110_Conqueror PBSB507_Hood PBSB517_Nelson PBSA106_Furious PBSA108_Implacable PBSA210_Audacious PBSA910_TST_Audacious PBSB508_Vanguard PBSB911_Conqueror_T PBSA518_Ark_Royal PBSB526_Repulse PBSB610_Incomparable PBSC610_Gibraltar PBSB509_Marlborough PBSA111_Eagle PBSB537_Collingwood PBSB210_St_Vincent PBSB209_Duncan PBSB207_Rooke PBSB204_Queen_Mary PBSB208_Hawke PBSB998_St_Lawrence</ships>
+			<ships>PBSB110_Conqueror PBSB507_Hood PBSB517_Nelson PBSA106_Furious PBSA108_Implacable PBSA210_Audacious PBSA910_TST_Audacious PBSB508_Vanguard PBSB911_Conqueror_T PBSA518_Ark_Royal PBSB526_Repulse PBSB610_Incomparable PBSC610_Gibraltar PBSB509_Marlborough PBSA111_Eagle PBSB537_Collingwood PBSB210_St_Vincent PBSB209_Duncan PBSB207_Rooke PBSB204_Queen_Mary PBSB208_Hawke PBSB998_St_Lawrence PBSA510_Malta</ships>
 		</shipGroup>
 		<!--//5. British ships with texture 4096*2048+2048*2048-->
 		<shipGroup>
@@ -305,7 +305,7 @@
 		<!--//2. Europe ships with texture			4096*2048, 4096*2048+2048*1024-->
 		<shipGroup>
 			<name>EUR_group_2</name>
-			<ships>PWSC101_Gryf PWSD102_Tatra PWSD103_Romulus PWSD104_Klas_Horn PWSD105_Visby PWSD106_Vasteras PWSD107_Skane PWSD108_Oland PWSD109_Ostergotland PWSD110_Halland PWSD610_Smaland PWSD910_Lappland PWSD111_Dalarna</ships>
+			<ships>PWSC101_Gryf PWSD102_Tatra PWSD103_Romulus PWSD104_Klas_Horn PWSD105_Visby PWSD106_Vasteras PWSD107_Skane PWSD108_Oland PWSD109_Ostergotland PWSD110_Halland PWSD610_Smaland PWSD910_Lappland PWSD111_Dalarna PWSD509_Velos</ships>
 		</shipGroup>
 		<!--//3. Europe ships with texture			4096*2048+2048*2048, 2048*1024+1024*1024-->
 		<shipGroup>
@@ -342,6 +342,13 @@
 			<color1>0.257 0.251 0.251 1.000</color1>
 			<color2>0.130 0.130 0.138 1.000</color2>
 			<color3>0.040 0.040 0.050 1.000</color3>
+		</colorScheme>
+		<colorScheme>
+			<name>colorSchemeVelos</name>
+			<color0>0.157 0.205 0.220 1.000</color0>
+			<color1>0.010 0.010 0.010 1.000</color1>
+			<color2>0.000 0.000 0.000 0.000</color2>
+			<color3>0.000 0.000 0.000 0.000</color3>
 		</colorScheme>
 		<colorScheme>
 			<name>colorSchemeEURP01</name>
@@ -3562,7 +3569,7 @@
         
 			<name>colorScheme_Incomparable_CR</name>
         
-			<color0>0.380 0.380 0.380 1.000</color0>
+			<color0>0.184 0.205 0.223 1.000</color0>
         
 			<color1>0.143 0.143 0.143 1.000</color1>
         
@@ -4112,12 +4119,20 @@
 			<colorUI>0.247 0.262 0.203 1.000</colorUI>
 		</colorScheme>
 		<colorScheme>
-			<name>colorSchemeEdgar</name>
+			<name>colorSchemeEdgar1</name>
 			<color0>0.270 0.301 0.338 1.000</color0>
-			<color1>0.400 0.400 0.400 1.000</color1>
-			<color2>0.060 0.070 0.020 1.000</color2>
-			<color3>0.015 0.010 0.130 1.000</color3>
+			<color1>0.000 0.000 0.000 0.000</color1>
+			<color2>0.000 0.000 0.000 0.000</color2>
+			<color3>0.000 0.000 0.000 0.000</color3>
 			<colorUI>0.552 0.580 0.611 1.000</colorUI>
+		</colorScheme>
+		<colorScheme>
+			<name>colorSchemeEdgar2</name>
+			<color0>0.208 0.227 0.184 1.000</color0>
+			<color1>0.000 0.000 0.000 0.000</color1>
+			<color2>0.000 0.000 0.000 0.000</color2>
+			<color3>0.000 0.000 0.000 0.000</color3>
+			<colorUI>0.247 0.262 0.203 1.000</colorUI>
 		</colorScheme>
 		<colorScheme>
 			<name>colorSchemeHuron</name>
@@ -4174,6 +4189,14 @@
 			<colorUI>0.430 0.420 0.360 1.000</colorUI>
         
     
+		</colorScheme>
+		<colorScheme>
+			<name>colorSchemeUKP55</name>
+			<color0>0.180 0.201 0.220 1.000</color0>
+			<color1>0.180 0.201 0.220 1.000</color1>
+			<color2>0.029 0.048 0.072 1.000</color2>
+			<color3>0.029 0.048 0.072 1.000</color3>
+			<colorUI>0.4 0.458 0.501 1.000</colorUI>
 		</colorScheme>
 		<colorScheme>
 			<name>colorSchemeUSN01</name>
@@ -4590,6 +4613,22 @@
 			<color1>0.165 0.185 0.235 1.000</color1>
 			<color2>0.015 0.027 0.050 1.000</color2>
 			<color3>0.147 0.090 0.122 1.000</color3>
+			<colorUI>0.338 0.408 0.486 1.000</colorUI>
+		</colorScheme>
+		<colorScheme>
+			<name>colorSchemePuertoRicoCeremonial</name>
+			<color0>0.000 0.000 0.000 0.000</color0>
+			<color1>0.530 0.530 0.530 1.000</color1>
+			<color2>0.000 0.000 0.000 0.000</color2>
+			<color3>0.000 0.000 0.000 0.000</color3>
+			<colorUI>0.338 0.408 0.486 1.000</colorUI>
+		</colorScheme>
+		<colorScheme>
+			<name>colorSchemeUSNP65</name>
+			<color0>0.139 0.154 0.173 1.000</color0>
+			<color1>0.055 0.075 0.115 1.000</color1>
+			<color2>0.139 0.154 0.173 1.000</color2>
+			<color3>0.139 0.154 0.173 1.000</color3>
 			<colorUI>0.338 0.408 0.486 1.000</colorUI>
 		</colorScheme>
 	</ColorSchemes>
@@ -20472,6 +20511,245 @@
 			<colorSchemes>colorSchemeBD01</colorSchemes>
 		</camouflage>
 		<camouflage>
+			<annotation>Brazilian Anniversary tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
+			<name>camo_Brazilian_Anniversary_tile</name>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>2.5 2.5</Tile>
+				<DeckHouse>1.3 1.3</DeckHouse>
+				<Gun>0.4 0.4</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Brazilian_Anniversary.dds</Tile>
+			</Textures>
+			<colorSchemes>color_EGS_01</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Brazilian Anniversary tile camouflage block for the ships with a texture 4096*2048</annotation>
+			<name>camo_Brazilian_Anniversary_tile</name>
+			<shipGroups>IJN_group_2 USN_group_2 RUS_group_2 UK_group_2 GER_group_2 FRA_group_2 POL_group_1 PAN_group_2 ITA_group_3 NL_group_1 PAM_group_3 IJN_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>0.7 0.7</DeckHouse>
+				<Tile>2.5 1.3</Tile>
+				<Gun>0.4 0.4</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Brazilian_Anniversary.dds</Tile>
+			</Textures>
+			<colorSchemes>color_EGS_01</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Brazilian Anniversary tile camouflage block for the ships with a texture 4096*2048+2048*1024</annotation>
+			<name>camo_Brazilian_Anniversary_tile</name>
+			<shipGroups>USN_group_8 EUR_group_2</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>2.5 1.3</Tile>
+				<DeckHouse>1.3 0.7</DeckHouse>
+				<Gun>0.4 0.4</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Brazilian_Anniversary.dds</Tile>
+			</Textures>
+			<colorSchemes>color_EGS_01</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Brazilian Anniversary tile camouflage block for the ships with a texture 4096*1024</annotation>
+			<name>camo_Brazilian_Anniversary_tile</name>
+			<shipGroups>RUS_group_3 GER_group_6 USN_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>2.5 0.7</Tile>
+				<DeckHouse>0.7 0.7</DeckHouse>
+				<Gun>0.4 0.4</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Brazilian_Anniversary.dds</Tile>
+			</Textures>
+			<colorSchemes>color_EGS_01</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Brazilian Anniversary tile camouflage block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
+			<name>camo_Brazilian_Anniversary_tile</name>
+			<shipGroups>IJN_group_3 USN_group_3 UK_group_3 GER_group_3 FRA_group_3 ITA_group_2 RUS_group_7 PAM_group_2</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>2.5 2.5</Tile>
+				<DeckHouse>2.5 1.7</DeckHouse>
+				<Gun>0.4 0.4</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Brazilian_Anniversary.dds</Tile>
+			</Textures>
+			<colorSchemes>color_EGS_01</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Brazilian Anniversary tile camouflage block for the ships with a texture 4096*4096+1024*1024</annotation>
+			<name>camo_Brazilian_Anniversary_tile</name>
+			<shipGroups>IJN_group_4 USN_group_4 RUS_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>2.5 2.5</Tile>
+				<DeckHouse>0.7 0.7</DeckHouse>
+				<Gun>0.4 0.4</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Brazilian_Anniversary.dds</Tile>
+			</Textures>
+			<colorSchemes>color_EGS_01</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Brazilian Anniversary tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
+			<name>camo_Brazilian_Anniversary_tile</name>
+			<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 PAN_group_4 ITA_group_4 PAM_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>2.5 2.5</Tile>
+				<DeckHouse>2.5 2.5</DeckHouse>
+				<Gun>0.4 0.4</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Brazilian_Anniversary.dds</Tile>
+			</Textures>
+			<colorSchemes>color_EGS_01</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Brazilian Anniversary tile camouflage block for the ships with a texture 4096*4096+2048*1024</annotation>
+			<name>camo_Brazilian_Anniversary_tile</name>
+			<shipGroups>RUS_group_6 USN_group_6 GER_group_5 IJN_group_6 FRA_group_7 PAN_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>2.5 2.5</Tile>
+				<DeckHouse>1.3 0.7</DeckHouse>
+				<Gun>0.4 0.4</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Brazilian_Anniversary.dds</Tile>
+			</Textures>
+			<colorSchemes>color_EGS_01</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Brazilian Anniversary tile camouflage block for the ships with a texture 4096*2048+4096*4096</annotation>
+			<name>camo_Brazilian_Anniversary_tile</name>
+			<shipGroups>FRA_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>2.5 1.3</Tile>
+				<DeckHouse>2.5 2.5</DeckHouse>
+				<Gun>0.4 0.4</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Brazilian_Anniversary.dds</Tile>
+			</Textures>
+			<colorSchemes>color_EGS_01</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Brazilian Anniversary tile camouflage block for the ships with a texture 4096*2048+2048*2048, 2048*1024+1024*1024</annotation>
+			<name>camo_Brazilian_Anniversary_tile</name>
+			<shipGroups>FRA_group_6 GER_group_7 UK_group_5 EUR_group_3 SP_group_2</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>2.5 1.3</Tile>
+				<DeckHouse>1.3 1.3</DeckHouse>
+				<Gun>0.4 0.4</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Brazilian_Anniversary.dds</Tile>
+			</Textures>
+			<colorSchemes>color_EGS_01</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Brazilian Anniversary tile camouflage block for the ships with a texture 4096*2048+1024*1024</annotation>
+			<name>camo_Brazilian_Anniversary_tile</name>
+			<shipGroups>FRA_group_8 ITA_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>2.5 1.3</Tile>
+				<DeckHouse>0.7 0.7</DeckHouse>
+				<Gun>0.4 0.4</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Brazilian_Anniversary.dds</Tile>
+			</Textures>
+			<colorSchemes>color_EGS_01</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Brazilian Anniversary tile camouflage block for the ships with a texture 4096*2048+2048*1024</annotation>
+			<name>camo_Brazilian_Anniversary_tile</name>
+			<shipGroups>NL_group_1</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1.3 0.7</DeckHouse>
+				<Tile>2.5 1.3</Tile>
+				<Gun>0.4 0.4</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>0.7 0.7</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_Brazilian_Anniversary.dds</Tile>
+			</Textures>
+			<colorSchemes>color_EGS_01</colorSchemes>
+		</camouflage>
+		<camouflage>
 			<annotation>Canada day tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_CanadaDay_tile_01</name>
 			<tiled>true</tiled>
@@ -25769,6 +26047,18 @@
 				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_HW_partner_26.dds</Tile>
 			</Textures>
 			<colorSchemes>colorSchemeMsi01</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Incomparable Clanes skin permOflage block</annotation>
+			<name>camo_Incomparable_Clanes</name>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>1 1</Tile>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Incomparable_CR</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Camouflage colors for Incomparable skins</annotation>
@@ -42958,6 +43248,29 @@
 			<colorSchemes>colorSchemeSWDP01</colorSchemes>
 		</camouflage>
 		<camouflage>
+			<annotation>Velos unique permOflage block</annotation>
+			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
+			<targetShip>PWSD509_Velos</targetShip>
+			<tiled>false</tiled>
+			<UV>
+				<Tile>1 1</Tile>
+				<Gun>1.5 1.2</Gun>
+				<Director>1.5 1.2</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+			</UV>
+			<Textures>
+				<DeckHouse>content/gameplay/common/camouflage/textures/WSD016_Velos_1960_deckhouse_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/WSD016_Velos_1960_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Float>
+			</Textures>
+			<colorSchemes>colorSchemeVelos</colorSchemes>
+		</camouflage>
+		<camouflage>
 			<annotation>Smaland unique permOflage block</annotation>
 			<name>camo_SwedenArc_style</name>
 			<targetShip>PWSD610_Smaland</targetShip>
@@ -54554,8 +54867,8 @@
 				<Plane>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Plane>
 				<Float>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeEdgar</colorSchemes>
-			<colorSchemes>colorSchemeUKP36</colorSchemes>
+			<colorSchemes>colorSchemeEdgar1</colorSchemes>
+			<colorSchemes>colorSchemeEdgar2</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Collingwood unique permOflage block</annotation>
@@ -54808,6 +55121,55 @@
         
 			<colorSchemes>colorSchemeHawke</colorSchemes>
 			<colorSchemes>colorSchemeUKP14</colorSchemes>
+    
+		</camouflage>
+		<camouflage>
+        
+			<annotation>Malta unique permOflage block</annotation>
+        
+			<name>camo_permanent_1</name>
+        
+			<useColorScheme>True</useColorScheme>
+        
+			<targetShip>PBSA510_Malta</targetShip>
+        
+			<tiled>false</tiled>
+        
+			<UV>
+            
+				<Tile>1 1</Tile>
+            
+				<Gun>0.45 0.45</Gun>
+            
+				<Director>0.45 0.45</Director>
+            
+				<Plane>0.5 0.5</Plane>
+            
+				<Float>0.5 0.25</Float>
+            
+				<Misc>0.3 0.3</Misc>
+        
+			</UV>
+        
+			<Textures>
+            
+				<Hull>content/gameplay/common/camouflage/textures/BSA004_Malta_1950_Hull_camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/BSA004_Malta_1950_Deckhouse_camo_01.dds</DeckHouse>
+            
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+            
+				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
+            
+				<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
+            
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_G.dds</Plane>
+            
+				<Float>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Float>
+        
+			</Textures>
+        
+			<colorSchemes>colorSchemeUKP55</colorSchemes>
+			<colorSchemes>colorSchemeUKP32</colorSchemes>
     
 		</camouflage>
 		<camouflage>
@@ -55616,6 +55978,30 @@
 				<Float>content/gameplay/common/camouflage/textures/B_gun_camo_01.dds</Float>
 			</Textures>
 			<colorSchemes>colorScheme_Hornet_Ceremonial</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Puerto Rico ceremonial permoflage block</annotation>
+			<name>camo_Ceremonial</name>
+			<targetShip>PASC610_Puerto_Rico</targetShip>
+			<tiled>false</tiled>
+			<UV>
+				<Tile>1 1</Tile>
+				<Gun>0.5 0.5</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+			</UV>
+			<Textures>
+				<Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+				<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Gun>
+				<Director>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Director>
+				<Misc>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Misc>
+				<Plane>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Float>
+			</Textures>
+			<colorSchemes>colorSchemePuertoRicoCeremonial</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Austin unique permOflage block</annotation>
@@ -57849,6 +58235,31 @@
 			</Textures>
 			<colorSchemes>colorSchemeUSNP63</colorSchemes>
 			<colorSchemes>colorSchemeUSNP52</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Vallejo unique permOflage block</annotation>
+			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
+			<targetShip>PASC509_Vallejo</targetShip>
+			<tiled>false</tiled>
+			<UV>
+				<Tile>1 1</Tile>
+				<Gun>0.75 0.75</Gun>
+				<Director>0.5 0.5</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+			</UV>
+			<Textures>
+				<Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+				<Bulge>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Bulge>
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Float>
+			</Textures>
+			<colorSchemes>colorSchemeUSNP65</colorSchemes>
+			<colorSchemes>colorSchemeUSNP12</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Black Rank camo Crocodile unique permOflage block</annotation>
