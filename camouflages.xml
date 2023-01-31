@@ -62296,15 +62296,15 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/ASB079_Illinois_1953_camo_01.dds</Hull>
-				<DeckHouse>content/gameplay/common/camouflage/textures/ASB079_Illinois_1953_Deckhouse_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/Illinois.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
 				<Bulge>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Bulge>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RGB.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Float>
+				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeIllinois</colorSchemes>
-			<colorSchemes>colorSchemeIllinois_alt</colorSchemes>
+			<colorSchemes>colorSchemeUSNP16</colorSchemes>
+			<colorSchemes>colorSchemeUSNP15</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Black Rank camo Crocodile unique permOflage block</annotation>
@@ -62366,8 +62366,8 @@
 			<Textures>
 				<Hull>content/gameplay/common/camouflage/textures/ASB015_Missouri_1950_camo_02.dds</Hull>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Float>
+				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
 			</Textures>
 			<colorSchemes>colorSchemeUSNP16</colorSchemes>
 			<colorSchemes>colorSchemeUSNP15</colorSchemes>
