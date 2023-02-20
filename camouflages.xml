@@ -598,6 +598,14 @@
 			<colorUI>0.309 0.470 0.615 1.000</colorUI>
 		</colorScheme>
 		<colorScheme>
+			<name>colorSchemeDupleix2</name>
+			<color0>0.022 0.099 0.164 1.000</color0>
+			<color1>0.094 0.201 0.359 1.000</color1>
+			<color2>0.375 0.349 0.316 1.000</color2>
+			<color3>0.000 0.000 0.000 0.000</color3>
+			<colorUI>0.309 0.470 0.615 1.000</colorUI>
+		</colorScheme>
+		<colorScheme>
 			<name>colorSchemeFRAP54</name>
 			<color0>0.375 0.349 0.316 1.000</color0>
 			<color1>0.012 0.020 0.064 1.000</color1>
