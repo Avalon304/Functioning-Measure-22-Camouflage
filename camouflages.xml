@@ -53921,14 +53921,14 @@
 				<Misc>1 1</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Hull>
+				<Hull>content/gameplay/common/camouflage/textures/Allende.dds</Hull>
 				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
 				<Plane>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Plane>
 				<Float>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemePAM_Ignacio_Allende</colorSchemes>
+			<colorSchemes>colorSchemeUSNP16</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Santander de Janeiro unique permoflage block</annotation>
@@ -53945,14 +53945,14 @@
 				<Misc>1 1</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Hull>
+				<Hull>content/gameplay/common/camouflage/textures/Santander.dds</Hull>
 				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
 				<Plane>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Plane>
 				<Float>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemePAM_Santander</colorSchemes>
+			<colorSchemes>colorSchemeUSNP16</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>San_Martin unique permoflage block</annotation>
@@ -53969,14 +53969,14 @@
 				<Misc>1 1</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Hull>
+				<Hull>content/gameplay/common/camouflage/textures/SanMartin.dds</Hull>
 				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
 				<Plane>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Plane>
 				<Float>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemePAM_San_Martin</colorSchemes>
+			<colorSchemes>colorSchemeUSNP16</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Almirante_Grau unique permoflage block</annotation>
