@@ -63527,6 +63527,7 @@
 			</UV>
 			<Textures>
 				<Hull>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</DeckHouse>
 				<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Gun>
 			</Textures>
 			<colorSchemes>colorSchemeUSNP16</colorSchemes>
@@ -63572,6 +63573,7 @@
 			</UV>
 			<Textures>
 				<Hull>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</DeckHouse>
 				<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Gun>
 			</Textures>
 			<colorSchemes>colorSchemeUSNP16</colorSchemes>
@@ -63592,6 +63594,7 @@
 			</UV>
 			<Textures>
 				<Hull>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</DeckHouse>
 				<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Gun>
 			</Textures>
 			<colorSchemes>colorSchemeUSNP16</colorSchemes>
@@ -63612,6 +63615,7 @@
 			</UV>
 			<Textures>
 				<Hull>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</DeckHouse>
 				<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Gun>
 			</Textures>
 			<colorSchemes>colorSchemeUSNP16</colorSchemes>
