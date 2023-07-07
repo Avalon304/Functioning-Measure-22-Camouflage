@@ -288,7 +288,7 @@
 		<!--//4. Italian ships with texture			4096*4096+4096*4096, 2048*2048+2048*2048-->
 		<shipGroup>
 			<name>ITA_group_4</name>
-			<ships>PISB110_Cristoforo_Colombo PISB509_Marco_Polo PISB109_Lepanto PISC510_Napoli PISC590_Black_Napoli PISB519_Giuseppe_Verdi PISA508_Aquila PISB990_Amerigo_Vespucci</ships>
+			<ships>PISB110_Cristoforo_Colombo PISB509_Marco_Polo PISB109_Lepanto PISC510_Napoli PISC590_Black_Napoli PISB519_Giuseppe_Verdi PISA508_Aquila PISB990_Amerigo_Vespucci PISB510_Ruggiero_di_Lauria</ships>
 		</shipGroup>
 		<!--//5. Italian ships with texture			4096*2048+1024*1024-->
 		<shipGroup>
@@ -352,7 +352,7 @@
 		<!--//1. Spain ships with texture			2048*2048, 4096*4096, 4096*4096+2048*2048-->
 		<shipGroup>
 			<name>SP_group_1</name>
-			<ships> PSSC506_Canarias PSSC108_Cataluna PSSC104_Almirante_Cervera PSSC105_Galicia PSSC106_Baleares PSSC107_Asturias PSSC109_Andalucia PSSC110_Castilla PSSC102_Mendez_Nunez</ships>
+			<ships> PSSC506_Canarias PSSC108_Cataluna PSSC104_Almirante_Cervera PSSC105_Galicia PSSC106_Baleares PSSC107_Asturias PSSC109_Andalucia PSSC110_Castilla PSSC102_Mendez_Nunez PSSC508_Numancia</ships>
 		</shipGroup>
 		<!--//2. Spain ships with texture			4096*2048, 4096*2048+2048*1048, 4096*2048+1024*1024-->
 		<shipGroup>
@@ -1459,6 +1459,13 @@
 			<color1>0.002 0.002 0.002 1.000</color1>
 			<color2>0.100 0.130 0.160 1.000</color2>
 			<color3>0.340 0.350 0.340 1.000</color3>
+		</colorScheme>
+		<colorScheme>
+			<name>colorSchemeITAP20</name>
+			<color0>0.210 0.211 0.225 1.000</color0>
+			<color1>0.045 0.058 0.066 1.000</color1>
+			<color2>0.517 0.517 0.517 1.000</color2>
+			<color3>0.210 0.211 0.225 1.000</color3>
 		</colorScheme>
 		<colorScheme>
 			<name>colorSchemeIJN01</name>
@@ -4194,6 +4201,20 @@
 			<color1>0.003 0.023 0.020 1.000</color1>
 			<color2>0.003 0.023 0.020 1.000</color2>
 			<color3>0.003 0.023 0.020 1.000</color3>
+		</colorScheme>
+		<colorScheme>
+			<name>colorScheme_PQ17</name>
+			<color0>0.517 0.517 0.448 1.000</color0>
+			<color1>0.010 0.020 0.040 1.000</color1>
+			<color2>0.135 0.335 0.235 1.000</color2>
+			<color3>0.000 0.000 0.000 0.000</color3>
+		</colorScheme>
+		<colorScheme>
+			<name>colorScheme_ID_FireIce</name>
+			<color0>0.070 0.010 0.015 1.000</color0>
+			<color1>0.015 0.033 0.105 1.000</color1>
+			<color2>0.055 0.202 0.476 1.000</color2>
+			<color3>0.003 0.023 0.020 0.000</color3>
 		</colorScheme>
 		<colorScheme>
 			<name>colorSchemeSWDP01</name>
@@ -27478,6 +27499,35 @@
 			<colorSchemes>colorScheme_Gothic_Bismarck_01</colorSchemes>
 		</camouflage>
 		<camouflage>
+			<annotation>camo_Halford_IND unique permOflage</annotation>
+			<name>camo_Halford_IND</name>
+			<targetShip>PASD519_Halford</targetShip>
+			<tiled>false</tiled>
+			<UV>
+				<DeckHouse>0.5 0.5</DeckHouse>
+				<Tile>1 1</Tile>
+				<Gun>0.75 0.75</Gun>
+				<Director>0.5 0.5</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.5</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Hull>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</DeckHouse>
+				<Gun>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Gun>
+				<Director>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Director>
+				<Plane>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Float>
+				<Misc>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Misc>
+				<Bulge>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Bulge>
+				<Wire>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Wire>
+			</Textures>
+			<colorSchemes>colorScheme_ID_FireIce</colorSchemes>
+			<realm>all</realm>
+		</camouflage>
+		<camouflage>
 			<annotation>Halloween 2016 tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_halloween_2016_tile</name>
 			<tiled>true</tiled>
@@ -35516,6 +35566,245 @@
 			<colorSchemes>colorScheme_Postap_01</colorSchemes>
 		</camouflage>
 		<camouflage>
+			<annotation>PQ17 tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
+			<name>camo_PQ17_tile</name>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>2 2</Tile>
+				<DeckHouse>1.0 1.0</DeckHouse>
+				<Gun>0.3 0.3</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_PQ17.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_PQ17</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>PQ17 tile camouflage block for the ships with a texture 4096*2048</annotation>
+			<name>camo_PQ17_tile</name>
+			<shipGroups>IJN_group_2 USN_group_2 RUS_group_2 UK_group_2 GER_group_2 FRA_group_2 POL_group_1 PAN_group_2 ITA_group_3 NL_group_1 PAM_group_3 IJN_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>0.5 0.5</DeckHouse>
+				<Tile>2 1.0</Tile>
+				<Gun>0.3 0.3</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_PQ17.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_PQ17</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>PQ17 tile camouflage block for the ships with a texture 4096*2048+2048*1024</annotation>
+			<name>camo_PQ17_tile</name>
+			<shipGroups>USN_group_8 EUR_group_2 GER_group_8</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>2 1.0</Tile>
+				<DeckHouse>1.0 0.5</DeckHouse>
+				<Gun>0.3 0.3</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_PQ17.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_PQ17</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>PQ17 tile camouflage block for the ships with a texture 4096*1024</annotation>
+			<name>camo_PQ17_tile</name>
+			<shipGroups>RUS_group_3 GER_group_6 USN_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>2 0.5</Tile>
+				<DeckHouse>0.5 0.5</DeckHouse>
+				<Gun>0.3 0.3</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_PQ17.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_PQ17</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>PQ17 tile camouflage block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
+			<name>camo_PQ17_tile</name>
+			<shipGroups>IJN_group_3 USN_group_3 UK_group_3 GER_group_3 FRA_group_3 ITA_group_2 RUS_group_7 PAM_group_2 PAN_group_6</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>2 2</Tile>
+				<DeckHouse>2 1.0</DeckHouse>
+				<Gun>0.3 0.3</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_PQ17.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_PQ17</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>PQ17 tile camouflage block for the ships with a texture 4096*4096+1024*1024</annotation>
+			<name>camo_PQ17_tile</name>
+			<shipGroups>IJN_group_4 USN_group_4 RUS_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>2 2</Tile>
+				<DeckHouse>0.5 0.5</DeckHouse>
+				<Gun>0.3 0.3</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_PQ17.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_PQ17</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>PQ17 tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
+			<name>camo_PQ17_tile</name>
+			<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 PAN_group_4 ITA_group_4 PAM_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>2 2</Tile>
+				<DeckHouse>2 2</DeckHouse>
+				<Gun>0.3 0.3</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_PQ17.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_PQ17</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>PQ17 tile camouflage block for the ships with a texture 4096*4096+2048*1024</annotation>
+			<name>camo_PQ17_tile</name>
+			<shipGroups>RUS_group_6 USN_group_6 GER_group_5 UK_group_6 IJN_group_6 FRA_group_7 PAN_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>2 2</Tile>
+				<DeckHouse>1.0 0.5</DeckHouse>
+				<Gun>0.3 0.3</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_PQ17.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_PQ17</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>PQ17 tile camouflage block for the ships with a texture 4096*2048+4096*4096</annotation>
+			<name>camo_PQ17_tile</name>
+			<shipGroups>FRA_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>2 1.0</Tile>
+				<DeckHouse>2 2</DeckHouse>
+				<Gun>0.3 0.3</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_PQ17.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_PQ17</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>PQ17 tile camouflage block for the ships with a texture 4096*2048+2048*2048, 2048*1024+1024*1024</annotation>
+			<name>camo_PQ17_tile</name>
+			<shipGroups>FRA_group_6 GER_group_7 UK_group_5 EUR_group_3 SP_group_2 NL_group_3 RUS_group_8</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>2 1.0</Tile>
+				<DeckHouse>1.0 1.0</DeckHouse>
+				<Gun>0.3 0.3</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_PQ17.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_PQ17</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>PQ17 tile camouflage block for the ships with a texture 4096*2048+1024*1024</annotation>
+			<name>camo_PQ17_tile</name>
+			<shipGroups>FRA_group_8 ITA_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>2 1.0</Tile>
+				<DeckHouse>0.5 0.5</DeckHouse>
+				<Gun>0.3 0.3</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_PQ17.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_PQ17</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>PQ17 tile camouflage block for the ships with a texture 4096*2048+2048*1024</annotation>
+			<name>camo_PQ17_tile</name>
+			<shipGroups>NL_group_1</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1.0 0.5</DeckHouse>
+				<Tile>2.0 1.0</Tile>
+				<Gun>0.4 0.4</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>0.7 0.7</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_PQ17.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_PQ17</colorSchemes>
+		</camouflage>
+		<camouflage>
 			<annotation>Public Test 2022 tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_PT2022_tile</name>
 			<tiled>true</tiled>
@@ -41861,6 +42150,34 @@
 				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_WhOrc.dds</Tile>
 			</Textures>
 			<colorSchemes>colorScheme_WhOrk</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>camo_WestVirginia_IND unique permOflage</annotation>
+			<name>camo_WestVirginia_IND</name>
+			<tiled>false</tiled>
+			<UV>
+				<DeckHouse>0.5 0.5</DeckHouse>
+				<Tile>1 1</Tile>
+				<Gun>0.5 0.5</Gun>
+				<Director>0.5 0.5</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.5</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Hull>content/gameplay/common/camouflage/textures/B_gun_camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/B_gun_camo_01.dds</DeckHouse>
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+				<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
+				<Plane>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Float>
+				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
+				<Bulge>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Bulge>
+				<Wire>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Wire>
+			</Textures>
+			<colorSchemes>colorScheme_ID_FireIce</colorSchemes>
+			<realm>all</realm>
 		</camouflage>
 		<camouflage>
 			<annotation>WH40K Chaos skin camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
@@ -51677,6 +51994,31 @@
 			<colorSchemes>colorSchemeITAP19</colorSchemes>
 		</camouflage>
 		<camouflage>
+			<annotation>Ruggiero di Lauria unique permOflage block</annotation>
+			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
+			<targetShip>PISB510_Ruggiero_di_Lauria</targetShip>
+			<tiled>false</tiled>
+			<UV>
+				<Tile>1 1</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.30 0.30</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+			</UV>
+			<Textures>
+				<Hull>content/gameplay/common/camouflage/textures/ISB020_Ruggiero_di_Lauria_1944_Hull_camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ISB020_Ruggiero_di_Lauria_1944_DeckHouse_camo_01.dds</DeckHouse>
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+				<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
+				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
+			</Textures>
+			<colorSchemes>colorSchemeITAP20</colorSchemes>
+		</camouflage>
+		<camouflage>
         
 			<annotation>Aviere unique permOflage block</annotation>
         
@@ -58227,6 +58569,32 @@
 			<colorSchemes>colorSchemeSPP02</colorSchemes>
 		</camouflage>
 		<camouflage>
+			<annotation>Numancia unique permOflage block</annotation>
+			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
+			<targetShip>PSSC508_Numancia</targetShip>
+			<tiled>false</tiled>
+			<UV>
+				<Hull>1 1</Hull>
+				<DeckHouse>1 1</DeckHouse>
+				<Gun>0.5 0.5</Gun>
+				<Director>0.5 0.5</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+			</UV>
+			<Textures>
+				<Hull>content/gameplay/common/camouflage/textures/SSC012_Numancia_1939_camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</DeckHouse>
+				<Gun>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Gun>
+				<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
+				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_G.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_G.dds</Float>
+			</Textures>
+			<colorSchemes>colorSchemeSPP01</colorSchemes>
+		</camouflage>
+		<camouflage>
 			<annotation>Canarias unique permOflage block</annotation>
 			<name>camo_permanent_flag</name>
 			<useColorScheme>True</useColorScheme>
@@ -58515,6 +58883,33 @@
 			</UV>
 			<Textures>
 				<Hull>content/gameplay/common/camouflage/textures/SSC003_Mendez_Nunez_1950_camo_flag.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+				<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
+				<Plane>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Float>
+				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
+			</Textures>
+			<colorSchemes>colorSchemeSPP02</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Numancia unique permOflage block</annotation>
+			<name>camo_permanent_flag</name>
+			<useColorScheme>True</useColorScheme>
+			<targetShip>PSSC508_Numancia</targetShip>
+			<tiled>false</tiled>
+			<UV>
+				<Tile>1 1</Tile>
+				<Hull>1 1</Hull>
+				<DeckHouse>1 1</DeckHouse>
+				<Gun>0.5 0.5</Gun>
+				<Director>0.5 0.5</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+			</UV>
+			<Textures>
+				<Hull>content/gameplay/common/camouflage/textures/SSC012_Numancia_1939_camo_flag.dds</Hull>
 				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 				<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
