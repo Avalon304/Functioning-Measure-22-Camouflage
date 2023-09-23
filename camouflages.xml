@@ -57132,7 +57132,7 @@
         
 			<Textures>
             
-				<Hull>content/gameplay/common/camouflage/textures/ZSD019_Kunming_1947_camo_01.dds</Hull>
+				<Hull>content/gameplay/common/camouflage/textures/Kunming.dds</Hull>
             
 				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
             
@@ -57148,7 +57148,7 @@
         
 			</Textures>
         
-			<colorSchemes>colorSchemePANP06</colorSchemes>
+			<colorSchemes>colorSchemeUSNP16</colorSchemes>
     
 		</camouflage>
 		<camouflage>
@@ -64452,7 +64452,7 @@
 			</UV>
 			<Textures>
 				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
-				<Hull>content/gameplay/common/camouflage/textures/ogdevil.dds</Hull>
+				<Hull>content/gameplay/common/camouflage/textures/devil.dds</Hull>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
 				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
@@ -66353,15 +66353,15 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Hull>
+				<Hull>content/gameplay/common/camouflage/textures/JHump.dds</Hull>
 				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
 				<Bulge>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Bulge>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 				<Plane>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Plane>
 				<Float>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Float>
 			</Textures>
-			<colorSchemes>colorScheme_JHumphreys</colorSchemes>
-			<colorSchemes>colorScheme_JHumphreys_alt</colorSchemes>
+			<colorSchemes>colorSchemeUSNP16</colorSchemes>
+			<colorSchemes>colorSchemeUSNP15</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Illinois unique permOflage block</annotation>
