@@ -65906,7 +65906,7 @@
 			</UV>
 			<Textures>
 				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
-				<Hull>content/gameplay/common/camouflage/textures/devil.dds</Hull>
+				<Hull>content/gameplay/common/camouflage/textures/ogdevil.dds</Hull>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
 				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
