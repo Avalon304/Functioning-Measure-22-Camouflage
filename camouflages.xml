@@ -41,7 +41,7 @@
 		<!--//1. American ships with texture		2048*2048, 4096*4096, 4096*4096+2048*2048-->
 		<shipGroup>
 			<name>USN_group_1</name>
-			<ships> PASD502_Smith  PASB001_Michigan_1916 PASB004_Arkansas_1912 PASB013_Arkansas_1912 PASB006_New_York_1934 PASB705_Texas_1944 PASB034_New_Mexico_1941 PASB012_North_Carolina_1945 PASB808_Colorful_North_Carolina PASB508_Alabama PASB528_Alabama_VL PASB708_Alabama PASB018_Iowa_1944 PASB509_Missouri PASC001_Erie_1936 PASC002_Chester_1908 PASC003_Albany_1898 PASC004_St_Louis_1906 PASC024_Phoenix_1917 PASC005_Omaha_1923 PASC044_Marblehead_1924 PASC045_Marblehead_1924_Asus PASC007_Cleveland_1945 PASC208_Cleveland PASC012_Pensacola_1944 PASC106_Pensacola_1944 PASC006_Atlanta_1942 PASC507_Indianapolis_1945 PASC707_Flint PASC014_New_Orlean_1944 PASC107_New_Orlean_1944 PASC017_Baltimore_1944 PASC108_Baltimore_1944 PASC020_Des_Moines_1948 PASA004_Langley_1929 PASA006_Independence_1945 PASA507_Saipan_1946 PASA012_Lexington_1944 PASA013_Essex_1945 PASB518_Massachusetts PASB598_Black_Massachusetts PASC710_Salem PASC109_Buffalo PASC206_Dallas PASC209_Seattle PASC210_Worcester PASC597_Nueve_de_Julio_1951 PASC503_Charleston PASA104_Langley PASA108_Lexington PASA908_Concord_Bridge PASA528_Saipan PASC718_AZUR_Montpelier PASB729_Georgia PASD505_Hill PXSD017_Gearing_PA PASD597_Black_Sims PASC518_Anchorage PASC587_Black_Atlanta PASB538_Constellation PASC548_San_Diego PASA910_Essex PASC505_Rattlehead PASA020_Essex</ships>
+			<ships> PASD502_Smith  PASB001_Michigan_1916 PASB004_Arkansas_1912 PASB013_Arkansas_1912 PASB006_New_York_1934 PASB705_Texas_1944 PASB034_New_Mexico_1941 PASB012_North_Carolina_1945 PASB808_Colorful_North_Carolina PASB508_Alabama PASB528_Alabama_VL PASB708_Alabama PASB018_Iowa_1944 PASB509_Missouri PASC001_Erie_1936 PASC002_Chester_1908 PASC003_Albany_1898 PASC004_St_Louis_1906 PASC024_Phoenix_1917 PASC005_Omaha_1923 PASC044_Marblehead_1924 PASC045_Marblehead_1924_Asus PASC007_Cleveland_1945 PASC208_Cleveland PASC012_Pensacola_1944 PASC106_Pensacola_1944 PASC006_Atlanta_1942 PASC507_Indianapolis_1945 PASC707_Flint PASC014_New_Orlean_1944 PASC107_New_Orlean_1944 PASC017_Baltimore_1944 PASC108_Baltimore_1944 PASC020_Des_Moines_1948 PASA004_Langley_1929 PASA006_Independence_1945 PASA507_Saipan_1946 PASA012_Lexington_1944 PASA013_Essex_1945 PASB518_Massachusetts PASB598_Black_Massachusetts PASC710_Salem PASC109_Buffalo PASC206_Dallas PASC209_Seattle PASC210_Worcester PASC597_Nueve_de_Julio_1951 PASC503_Charleston PASA104_Langley PASA108_Lexington PASA908_Concord_Bridge PASA528_Saipan PASC718_AZUR_Montpelier PASB729_Georgia PASD505_Hill PXSD017_Gearing_PA PASD597_Black_Sims PASC518_Anchorage PASC587_Black_Atlanta PASB538_Constellation PASC548_San_Diego PASA910_Essex PASC505_Rattlehead PASA020_Essex PASB720_Rhode_Island PASA026_Independence</ships>
 		</shipGroup>
 		<!--//2. American ships with texture		4096*2048-->
 		<shipGroup>
@@ -242,7 +242,7 @@
 		<!--//1. Pan-Asian ships with texture		2048*2048, 4096*4096, 4096*4096+2048*2048-->
 		<shipGroup>
 			<name>PAN_group_1</name>
-			<ships> PZSD508_LoYang PZSC508_Irian PZSA508_Saipan_Sanzang PZSC108_Harbin PZSC107_Chumphon PZSC106_Rahmat PZSC509_Dalian PZSC503_Ning_Hai PZSD510_Lushun</ships>
+			<ships> PZSD508_LoYang PZSC508_Irian PZSA508_Saipan_Sanzang PZSC108_Harbin PZSC107_Chumphon PZSC106_Rahmat PZSC509_Dalian PZSC503_Ning_Hai PZSD510_Lushun PZSC719_Tianjin</ships>
 		</shipGroup>
 		<!--//2. Pan-Asian ships with texture		4096*2048-->
 		<shipGroup>
@@ -17397,6 +17397,69 @@
 				</Wire_mgn>
 			</Textures>
 			<colorSchemes>colorScheme_PanamericaEA2023</colorSchemes>
+			<realm>all</realm>
+		</camouflage>
+		<camouflage>
+			<annotation>mat_Space_KoTs unique permOflage</annotation>
+			<name>mat_Space_KoTs</name>
+			<tiled>false</tiled>
+			<UV>
+				<DeckHouse>0.5 0.5</DeckHouse>
+				<Tile>1 1</Tile>
+				<Gun>0.5 0.5</Gun>
+				<Director>0.5 0.5</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.5</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+				<Gun>content/gameplay/common/camouflage/textures/mat_Black_a.dds</Gun>
+				<Gun_mgn>
+				content/gameplay/common/camouflage/textures/mat_alum_01_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_White_a.dds</Director>
+				<Director_mgn>
+				content/gameplay/common/camouflage/textures/mat_alum_01_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_alum_01_a.dds</Plane>
+				<Plane_mgn>
+				content/gameplay/common/camouflage/textures/mat_alum_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_alum_01_a.dds</Float>
+				<Float_mgn>
+				content/gameplay/common/camouflage/textures/mat_alum_01_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_Black_a.dds</Misc>
+				<Misc_mgn>
+				content/gameplay/common/camouflage/textures/mat_alum_01_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Misc_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/mat_Black_a.dds</Wire>
+				<Wire_mgn>
+				content/gameplay/common/camouflage/textures/mat_alum_01_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			</Textures>
+			<colorSchemes>colorSchemeUSNP17</colorSchemes>
 			<realm>all</realm>
 		</camouflage>
 		<camouflage>
@@ -49768,6 +49831,7 @@
 			<name>camo_permanent_1</name>
 			<useColorScheme>True</useColorScheme>
 			<targetShip>PWSD206_Stord</targetShip>
+			<targetShip>PWSD717_Stord_1943</targetShip>
 			<tiled>false</tiled>
 			<UV>
 				<Tile>1 1</Tile>
@@ -58678,6 +58742,29 @@
 			<colorSchemes>colorSchemePANP03</colorSchemes>
 		</camouflage>
 		<camouflage>
+			<annotation>Tianjin unique permOflage block</annotation>
+			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
+			<targetShip>PZSC719_Tianjin</targetShip>
+			<tiled>false</tiled>
+			<UV>
+				<Tile>1 1</Tile>
+				<Gun>1 1</Gun>
+				<Director>0.5 0.5</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+			</UV>
+			<Textures>
+				<Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Float>
+			</Textures>
+			<colorSchemes>colorSchemeSun_Yat_Sen</colorSchemes>
+		</camouflage>
+		<camouflage>
 			<annotation>Bajie Skin permoflage block</annotation>
 			<name>camo_skin_JtW_Bajie_01</name>
 			<targetShip>PZSB509_Izumo_Bajie</targetShip>
@@ -66764,6 +66851,7 @@
 			<name>camo_permanent_1</name>
 			<useColorScheme>True</useColorScheme>
 			<targetShip>PASA013_Essex_1945</targetShip>
+			<targetShip>PASA020_Essex</targetShip>
 			<tiled>false</tiled>
 			<UV>
 				<Tile>1 1</Tile>
@@ -67050,7 +67138,7 @@
 			<annotation>Independence unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
 			<useColorScheme>True</useColorScheme>
-			<targetShip>PASA006_Independence_1945</targetShip>
+			<targetShip>PASA026_Independence</targetShip>
 			<tiled>false</tiled>
 			<UV>
 				<Tile>1 1</Tile>
@@ -67911,6 +67999,30 @@
 			</Textures>
 			<colorSchemes>colorSchemeUSNP16</colorSchemes>
 			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Rhode Island unique permOflage block</annotation>
+			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
+			<targetShip>PASB720_Rhode_Island</targetShip>
+			<tiled>false</tiled>
+			<UV>
+				<Tile>1 1</Tile>
+				<Gun>0.8 0.8</Gun>
+				<Director>0.8 0.8</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+			</UV>
+			<Textures>
+				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Float>
+			</Textures>
+			<colorSchemes>colorSchemeUSNP01</colorSchemes>
+			<colorSchemes>colorSchemeUSNP54</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Black Rank camo Crocodile unique permOflage block</annotation>
