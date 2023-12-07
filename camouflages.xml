@@ -10,7 +10,7 @@
 		<!--//2. Japanese ships with texture		4096*2048-->
 		<shipGroup>
 			<name>IJN_group_2</name>
-			<ships> PJSD207_Shiratsuyu PJSD107_Akatsuki PJSD209_Yugumo PJSC035_Chikuma_1912 PJSC015_Tatsuta_1919 PJSC026_Iwaki_1944 PJSD518_Asashio PJSD598_Black_Asashio PJSD210_Harugumo PJSD208_Kagero PJSD718_AZUR_Yukikaze PJSD507_Yudachi PJSD510_Hayate PXSD018_Harugumo_PA PJSS508_I58 PJSS518_I56 PJSS528_I54</ships>
+			<ships> PJSD207_Shiratsuyu PJSD107_Akatsuki PJSD209_Yugumo PJSC035_Chikuma_1912 PJSC015_Tatsuta_1919 PJSC026_Iwaki_1944 PJSD518_Asashio PJSD598_Black_Asashio PJSD210_Harugumo PJSD208_Kagero PJSD718_AZUR_Yukikaze PJSD507_Yudachi PJSD510_Hayate PXSD018_Harugumo_PA PJSS508_I58 PJSS518_I56 PJSS528_I54 PJSD719_Minegumo</ships>
 		</shipGroup>
 		<!--//3. Japanese ships with texture		4096*4096+4096*2048, 2048*2048+2048*1024-->
 		<shipGroup>
@@ -128,7 +128,7 @@
 		<!--//2. British ships with texture			4096*2048-->
 		<shipGroup>
 			<name>UK_group_2</name>
-			<ships> PBSD506_Gallant PBSC102_Weymouth PBSC103_Caledon PUSD503_Vampire PUSD507_Haida PBSD517_Cossack PBSD102_Medea PBSD103_Valkyrie PBSD104_Wakeful PBSD105_Acasta PBSD106_Icarus PBSD107_Jervis PBSD108_Lightning PBSD108_Lightning PBSD109_Jutland PBSD519_Somme PBSD110_Daring PXSD019_Daring_PA PBSD598_Black_Cossack PUSD510_Vampire_2 PUSD517_Huron PBSS508_Alliance</ships>
+			<ships> PBSD506_Gallant PBSC102_Weymouth PBSC103_Caledon PUSD503_Vampire PUSD507_Haida PBSD517_Cossack PBSD102_Medea PBSD103_Valkyrie PBSD104_Wakeful PBSD105_Acasta PBSD106_Icarus PBSD107_Jervis PBSD108_Lightning PBSD108_Lightning PBSD109_Jutland PBSD519_Somme PBSD110_Daring PXSD019_Daring_PA PBSD598_Black_Cossack PUSD510_Vampire_2 PUSD517_Huron PBSS508_Alliance PBSD717_Jupiter_1942</ships>
 		</shipGroup>
 		<!--//3. British ships with texture			4096*4096+4096*2048, 2048*2048+2048*1024-->
 		<shipGroup>
@@ -288,7 +288,7 @@
 		<!--//4. Italian ships with texture			4096*4096+4096*4096, 2048*2048+2048*2048-->
 		<shipGroup>
 			<name>ITA_group_4</name>
-			<ships>PISB110_Cristoforo_Colombo PISB509_Marco_Polo PISB109_Lepanto PISC510_Napoli PISC590_Black_Napoli PISB519_Giuseppe_Verdi PISA508_Aquila PISB990_Amerigo_Vespucci PISB510_Ruggiero_di_Lauria PISC519_Michelangelo</ships>
+			<ships>PISB110_Cristoforo_Colombo PISB509_Marco_Polo PISB109_Lepanto PISC510_Napoli PISC590_Black_Napoli PISB519_Giuseppe_Verdi PISA508_Aquila PISB990_Amerigo_Vespucci PISB510_Ruggiero_di_Lauria PISC519_Michelangelo PISB710_Sicilia</ships>
 		</shipGroup>
 		<!--//5. Italian ships with texture			4096*2048+1024*1024-->
 		<shipGroup>
@@ -472,6 +472,13 @@
 			<color1>0.330 0.330 0.330 1.000</color1>
 			<color2>0.080 0.101 0.025 1.000</color2>
 			<color3>0.164 0.154 0.167 1.000</color3>
+		</colorScheme>
+		<colorScheme>
+			<name>colorScheme_Stord_1943</name>
+			<color0>0.187 0.203 0.195 1.000</color0>
+			<color1>0.038 0.049 0.056 1.000</color1>
+			<color2>0.015 0.040 0.065 1.000</color2>
+			<color3>0.117 0.133 0.125 1.000</color3>
 		</colorScheme>
 		<colorScheme>
 			<name>colorSchemeFRA01</name>
@@ -6888,6 +6895,70 @@
 			<realm>all</realm>
 		</camouflage>
 		<camouflage>
+			<annotation>mat_Defence_Christmas2023 unique permOflage</annotation>
+			<name>mat_Defence_Christmas2023</name>
+			<tiled>false</tiled>
+			<UV>
+				<DeckHouse>0.5 0.5</DeckHouse>
+				<Tile>1 1</Tile>
+				<Gun>2.0 2.0</Gun>
+				<Director>1.0 1.0</Director>
+				<Plane>2.0 2.0</Plane>
+				<Float>2.0 2.0</Float>
+				<Misc>1.2 1.2</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+				<Gun>content/gameplay/common/camouflage/textures/mat_Defence_Christmas2023.dds</Gun>
+				<Gun_mgn>
+				content/gameplay/common/camouflage/textures/mat_Kitakami_Christmas2023_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_Defence_Christmas2023.dds</Director>
+				<Director_mgn>
+				content/gameplay/common/camouflage/textures/mat_Kitakami_Christmas2023_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_Defence_Christmas2023.dds</Plane>
+				<Plane_mgn>
+				content/gameplay/common/camouflage/textures/mat_Kitakami_Christmas2023_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_Defence_Christmas2023.dds</Float>
+				<Float_mgn>
+				content/gameplay/common/camouflage/textures/mat_Kitakami_Christmas2023_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_Defence_Christmas2023.dds</Misc>
+				<Misc_mgn>
+				content/gameplay/common/camouflage/textures/mat_Kitakami_Christmas2023_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Misc_mgn>
+				<Bulge>content/gameplay/common/camouflage/textures/mat_Defence_Christmas2023.dds</Bulge>
+				<Bulge_mgn>
+				content/gameplay/common/camouflage/textures/mat_Kitakami_Christmas2023_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Bulge_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Wire>
+			</Textures>
+			<colorSchemes>colorSchemeUSNP17</colorSchemes>
+			<realm>all</realm>
+		</camouflage>
+		<camouflage>
 			<annotation>mat_Edinburge_Rangers unique permOflage</annotation>
 			<name>mat_Edinburge_Rangers</name>
 			<tiled>false</tiled>
@@ -9615,6 +9686,70 @@
 				content/gameplay/common/camouflage/textures/mat_alum_01_mgn.dds
 					<Influence_m> 0.0 </Influence_m>
 					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Bulge_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Wire>
+			</Textures>
+			<colorSchemes>colorSchemeUSNP17</colorSchemes>
+			<realm>all</realm>
+		</camouflage>
+		<camouflage>
+			<annotation>mat_Kitakami_Christmas2023 unique permOflage</annotation>
+			<name>mat_Kitakami_Christmas2023</name>
+			<tiled>false</tiled>
+			<UV>
+				<DeckHouse>0.5 0.5</DeckHouse>
+				<Tile>1 1</Tile>
+				<Gun>2.0 2.0</Gun>
+				<Director>1.0 1.0</Director>
+				<Plane>2.0 2.0</Plane>
+				<Float>2.0 2.0</Float>
+				<Misc>1.0 1.0</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+				<Gun>content/gameplay/common/camouflage/textures/mat_Kitakami_Christmas2023.dds</Gun>
+				<Gun_mgn>
+				content/gameplay/common/camouflage/textures/mat_Kitakami_Christmas2023_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_Kitakami_Christmas2023.dds</Director>
+				<Director_mgn>
+				content/gameplay/common/camouflage/textures/mat_Kitakami_Christmas2023_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_Kitakami_Christmas2023.dds</Plane>
+				<Plane_mgn>
+				content/gameplay/common/camouflage/textures/mat_Kitakami_Christmas2023_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_Kitakami_Christmas2023.dds</Float>
+				<Float_mgn>
+				content/gameplay/common/camouflage/textures/mat_Kitakami_Christmas2023_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_Kitakami_Christmas2023.dds</Misc>
+				<Misc_mgn>
+				content/gameplay/common/camouflage/textures/mat_Kitakami_Christmas2023_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Misc_mgn>
+				<Bulge>content/gameplay/common/camouflage/textures/mat_Kitakami_Christmas2023.dds</Bulge>
+				<Bulge_mgn>
+				content/gameplay/common/camouflage/textures/mat_Kitakami_Christmas2023_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
 					<Influence_n> 0.0 </Influence_n>
 				</Bulge_mgn>
 				<Wire>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Wire>
@@ -49831,7 +49966,6 @@
 			<name>camo_permanent_1</name>
 			<useColorScheme>True</useColorScheme>
 			<targetShip>PWSD206_Stord</targetShip>
-			<targetShip>PWSD717_Stord_1943</targetShip>
 			<tiled>false</tiled>
 			<UV>
 				<Tile>1 1</Tile>
@@ -49981,6 +50115,28 @@
 				<Float>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Float>
 			</Textures>
 			<colorSchemes>colorScheme_Karl_XIV_Johan</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Stord 1943 unique permOflage block</annotation>
+			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
+			<targetShip>PWSD717_Stord_1943</targetShip>
+			<tiled>false</tiled>
+			<UV>
+				<Tile>1 1</Tile>
+				<Gun>1.5 1.2</Gun>
+				<Director>1.5 1.2</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+			</UV>
+			<Textures>
+				<Hull>content/gameplay/common/camouflage/textures/WSD301_Stord_prem_1943_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Float>
+			</Textures>
+			<colorSchemes>colorScheme_Stord_1943</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Smaland unique permOflage block</annotation>
@@ -54089,6 +54245,30 @@
 			<colorSchemes>colorSchemeITAP10</colorSchemes>
 		</camouflage>
 		<camouflage>
+			<annotation>Michelangelo Dock</annotation>
+			<name>camo_Michelangelo_Dock</name>
+			<targetShip>PISC519_Michelangelo</targetShip>
+			<tiled>false</tiled>
+			<UV>
+				<Tile>1 1</Tile>
+				<Gun>1.5 1.35</Gun>
+				<Director>0.8 0.8</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+			</UV>
+			<Textures>
+				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Gun>
+				<Director>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Director>
+				<Misc>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Misc>
+				<Plane>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Float>
+			</Textures>
+			<colorSchemes>colorScheme_Michelangelo_Dock</colorSchemes>
+		</camouflage>
+		<camouflage>
 			<annotation>Duca d Aosta unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
 			<useColorScheme>True</useColorScheme>
@@ -54513,6 +54693,7 @@
 			<useColorScheme>True</useColorScheme>
 			<targetShip>PISB110_Cristoforo_Colombo</targetShip>
 			<targetShip>PISB990_Amerigo_Vespucci</targetShip>
+			<targetShip>PISB710_Sicilia</targetShip>
 			<tiled>false</tiled>
 			<UV>
 				<Tile>1 1</Tile>
@@ -54841,6 +55022,31 @@
 				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
 			</Textures>
 			<colorSchemes>colorScheme_Ferruccio</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Sicilia unique permOflage block</annotation>
+			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
+			<targetShip>PISB710_Sicilia</targetShip>
+			<tiled>false</tiled>
+			<UV>
+				<Tile>1 1</Tile>
+				<Gun>1 1</Gun>
+				<Director>0.8 0.8</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+			</UV>
+			<Textures>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ISB021_Sicilia_1946_DeckHouse_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/ISB021_Sicilia_1946_hull_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Gun>
+				<Director>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Director>
+				<Misc>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Misc>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
+			</Textures>
+			<colorSchemes>colorSchemeITAP13</colorSchemes>
 		</camouflage>
 		<camouflage>
         
