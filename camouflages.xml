@@ -1525,6 +1525,13 @@
 			<color3>0.210 0.211 0.225 0.000</color3>
 		</colorScheme>
 		<colorScheme>
+			<name>colorScheme_Michelangelo_Dock</name>
+			<color0>0.192 0.232 0.251 0.000</color0>
+			<color1>0.330 0.330 0.330 1.000</color1>
+			<color2>0.330 0.330 0.330 1.000</color2>
+			<color3>0.330 0.330 0.330 1.000</color3>
+		</colorScheme>
+		<colorScheme>
 			<name>colorSchemeIJN01</name>
 			<color0>0.080 0.078 0.072 1.000</color0>
 			<color1>0.036 0.048 0.012 1.000</color1>
