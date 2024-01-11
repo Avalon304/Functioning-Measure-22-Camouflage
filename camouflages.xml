@@ -123,17 +123,17 @@
 		<!--//1. British ships with texture			2048*2048, 4096*4096, 4096*4096+2048*2048-->
 		<shipGroup>
 			<name>UK_group_1</name>
-			<ships> PBSD503_Campbeltown_1941 PBSB002_Warspite_1941 PBSC101_Black_Swan PBSC104_Danae PBSC105_Emerald PBSC106_Leander PUSC506_Perth_1942 PBSC107_Fiji PBSC507_Belfast_1959 PBSC528_Belfast_1943 PBSC108_Edinburgh PBSC888_Edinburgh_PR PBSC109_Neptune PBSB103_Bellerophon PBSB104_Orion PBSB105_Iron_Duke PBSB106_Queen_Elizabeth PBSB503_Dreadnought PBSA204_Hermes PBSC505_Exeter PBSC210_Goliath PBSC910_Cyclops PBSC205_Hawkins PBSC207_Surrey PBSC208_Albemarle PBSC209_Drake PBSC516_London PUSC516_Mysore PBSC518_Tiger_1959 PBSC526_Dido PBSC111_Edgar PBSC538_Hampshire PBSB203_Indefatigable PBSB206_Renown PBSS106_Undine PBSS108_Sturdy PBSS110_Thrasher PBSB547_Renown_1944</ships>
+			<ships> PBSD503_Campbeltown_1941 PBSB002_Warspite_1941 PBSC101_Black_Swan PBSC104_Danae PBSC105_Emerald PBSC106_Leander PUSC506_Perth_1942 PBSC107_Fiji PBSC507_Belfast_1959 PBSC528_Belfast_1943 PBSC108_Edinburgh PBSC888_Edinburgh_PR PBSC109_Neptune PBSB103_Bellerophon PBSB104_Orion PBSB105_Iron_Duke PBSB106_Queen_Elizabeth PBSB503_Dreadnought PBSA204_Hermes PBSC505_Exeter PBSC210_Goliath PBSC910_Cyclops PBSC205_Hawkins PBSC207_Surrey PBSC208_Albemarle PBSC209_Drake PBSC516_London PUSC516_Mysore PBSC518_Tiger_1959 PBSC526_Dido PBSC111_Edgar PBSC538_Hampshire PBSB203_Indefatigable PBSB206_Renown PBSS106_Undine PBSS108_Sturdy PBSS110_Thrasher PBSB547_Renown_1944 PUSC014_Dunedin PUSC001_Sutlej PUSC015_Delhi</ships>
 		</shipGroup>
 		<!--//2. British ships with texture			4096*2048-->
 		<shipGroup>
 			<name>UK_group_2</name>
-			<ships> PBSD506_Gallant PBSC102_Weymouth PBSC103_Caledon PUSD503_Vampire PUSD507_Haida PBSD517_Cossack PBSD102_Medea PBSD103_Valkyrie PBSD104_Wakeful PBSD105_Acasta PBSD106_Icarus PBSD107_Jervis PBSD108_Lightning PBSD108_Lightning PBSD109_Jutland PBSD519_Somme PBSD110_Daring PXSD019_Daring_PA PBSD598_Black_Cossack PUSD510_Vampire_2 PUSD517_Huron PBSS508_Alliance PBSD717_Jupiter_1942</ships>
+			<ships> PBSD506_Gallant PBSC102_Weymouth PBSC103_Caledon PUSD503_Vampire PUSD507_Haida PBSD517_Cossack PBSD102_Medea PBSD103_Valkyrie PBSD104_Wakeful PBSD105_Acasta PBSD106_Icarus PBSD107_Jervis PBSD108_Lightning PBSD108_Lightning PBSD109_Jutland PBSD519_Somme PBSD110_Daring PXSD019_Daring_PA PBSD598_Black_Cossack PUSD510_Vampire_2 PUSD517_Huron PBSS508_Alliance PBSD717_Jupiter_1942 PUSC012_Port_Jackson PUSC013_Caradoc</ships>
 		</shipGroup>
 		<!--//3. British ships with texture			4096*4096+4096*2048, 2048*2048+2048*1024-->
 		<shipGroup>
 			<name>UK_group_3</name>
-			<ships>PBSB109_Lion PBSC110_Minotaur PBSB107_King_George_V PBSB108_Monarch PBSB527_Duke_of_York PBSA508_Indomitable PBSB208_Monarch_T PBSB510_Thunderer PBSC206_Devonshire PBSC508_Cheshire PBSC558_AZUR_Cheshire PBSC510_Plymouth PBSB505_Agincourt PUSB507_Yukon PBSB205_Tiger PBSC710_Monmouth PUSC509_Hector PUSC510_Brisbane PBSC810_Defence</ships>
+			<ships>PBSB109_Lion PBSC110_Minotaur PBSB107_King_George_V PBSB108_Monarch PBSB527_Duke_of_York PBSA508_Indomitable PBSB208_Monarch_T PBSB510_Thunderer PBSC206_Devonshire PBSC508_Cheshire PBSC558_AZUR_Cheshire PBSC510_Plymouth PBSB505_Agincourt PUSB507_Yukon PBSB205_Tiger PBSC020_Monmouth PUSC509_Hector PUSC510_Brisbane PBSC810_Defence PUSC017_Uganda PUSC018_Auckland PUSC019_Encounter</ships>
 		</shipGroup>
 		<!--//4. British ships with texture			4096*4096+4096*4096-->
 		<shipGroup>
@@ -154,7 +154,7 @@
 		<!--//1. German ships with texture			2048*2048, 4096*4096, 4096*4096+2048*2048-->
 		<shipGroup>
 			<name>GER_group_1</name>
-			<ships> PGSD102_V_25 PGSD103_G_101 PGSD110_Z_52 PGSB103_Nassau PGSB503_Koenig_Albert PGSB104_Kaiser PGSB105_Koenig PGSB106_Bayern PGSB108_Bismarck PGSB002_Tirpiz_1942 PGSB598_Black_Tirpitz PGSC105_Konigsberg PGSC106_Nurnberg PGSC506_Admiral_Graf_Spee PGSC706_HSF_Graf_Spee PGSC107_Yorck PGSC508_Prinz_Eugen PGSC109_Roon PGSC809_Colorful_Roon PGSD508_Z_39 PGSC509_Siegfried PXSD013_Z_52_PA PGSB508_Odin PGSC507_Munchen PGSD210_Elbing PGSD207_Z_31 PGSC517_Weimar PGSB203_Von_der_Tann PGSB204_Moltke PGSC516_Leipzig PGSD990_Lubeck</ships>
+			<ships> PGSD102_V_25 PGSD103_G_101 PGSD110_Z_52 PGSB103_Nassau PGSB503_Koenig_Albert PGSB104_Kaiser PGSB105_Koenig PGSB106_Bayern PGSB108_Bismarck PGSB002_Tirpiz_1942 PGSB598_Black_Tirpitz PGSC105_Konigsberg PGSC106_Nurnberg PGSC506_Admiral_Graf_Spee PGSC706_HSF_Graf_Spee PGSC107_Yorck PGSC508_Prinz_Eugen PGSC109_Roon PGSC809_Colorful_Roon PGSD508_Z_39 PGSC509_Siegfried PXSD013_Z_52_PA PGSB508_Odin PGSC507_Munchen PGSD210_Elbing PGSD207_Z_31 PGSC517_Weimar PGSB203_Von_der_Tann PGSB204_Moltke PGSC516_Leipzig PGSD990_Lubeck PGSC728_Wiesbaden</ships>
 		</shipGroup>
 		<!--//2. German ships with texture			4096*2048, 4096*2048+1024*1024-->
 		<shipGroup>
@@ -363,6 +363,11 @@
 		<shipGroup>
 			<name>SP_group_2</name>
 			<ships> PSSD510_Alvaro_de_Bazan PSSC101_Jupiter PSSC103_Navarra</ships>
+		</shipGroup>
+		<!--//3. Spain ships with texture		4096*4096+4096*2048-->
+		<shipGroup>
+			<name>SP_group_3</name>
+			<ships> PSSB719_Victoria </ships>
 		</shipGroup>
 	</ShipGroups>
 	<ColorSchemes>
@@ -1336,6 +1341,22 @@
 			<colorUI>0.239 0.313 0.392 1.000</colorUI>
 		</colorScheme>
 		<colorScheme>
+			<name>colorScheme_Wiesbaden</name>
+			<color0>0.138 0.133 0.145 1.000</color0>
+			<color1>0.138 0.133 0.145 0.000</color1>
+			<color2>0.138 0.133 0.145 0.000</color2>
+			<color3>0.138 0.133 0.145 0.000</color3>
+			<colorUI>0.545 0.541 0.565 1.000</colorUI>
+		</colorScheme>
+		<colorScheme>
+			<name>colorScheme_Wiesbaden_alt</name>
+			<color0>0.039 0.040 0.052 1.000</color0>
+			<color1>0.009 0.036 0.059 0.000</color1>
+			<color2>0.021 0.033 0.046 0.000</color2>
+			<color3>0.000 0.000 0.000 0.000</color3>
+			<colorUI>0.110 0.180 0.243 1.000</colorUI>
+		</colorScheme>
+		<colorScheme>
 			<name>colorSchemeITA01</name>
 			<color0>0.094 0.114 0.133 1.000</color0>
 			<color1>0.013 0.023 0.036 1.000</color1>
@@ -2288,6 +2309,22 @@
 			<colorUI>0.667 0.667 0.620 1.000</colorUI>
 		</colorScheme>
 		<colorScheme>
+			<name>colorSchemeIJN_Minegumo</name>
+			<color0>0.045 0.048 0.045 1.000</color0>
+			<color1>0.045 0.048 0.045 1.000</color1>
+			<color2>0.045 0.048 0.045 1.000</color2>
+			<color3>0.045 0.048 0.045 1.000</color3>
+			<colorUI>0.420 0.440 0.450 1.000</colorUI>
+		</colorScheme>
+		<colorScheme>
+			<name>colorSchemeIJN_Minegumo_alt</name>
+			<color0>0.156 0.152 0.137 1.000</color0>
+			<color1>0.156 0.152 0.137 1.000</color1>
+			<color2>0.156 0.152 0.137 1.000</color2>
+			<color3>0.156 0.152 0.137 1.000</color3>
+			<colorUI>0.647 0.643 0.624 1.000</colorUI>
+		</colorScheme>
+		<colorScheme>
 			<name>colorSchemeNL01</name>
 			<color0>0.068 0.088 0.119 1.000</color0>
 			<color1>0.017 0.028 0.038 1.000</color1>
@@ -3222,6 +3259,14 @@
 			<color1>0.445 0.283 0.027 1.000</color1>
 			<color2>0.068 0.088 0.119 1.000</color2>
 			<color3>0.176 0.021 0.021 1.000</color3>
+			<colorUI>0.068 0.088 0.119 1.000</colorUI>
+		</colorScheme>
+		<colorScheme>
+			<name>colorScheme_Victoria</name>
+			<color0>0.307 0.311 0.330 1.000</color0>
+			<color1>0.445 0.283 0.027 0.000</color1>
+			<color2>0.068 0.088 0.119 0.000</color2>
+			<color3>0.176 0.021 0.021 0.000</color3>
 			<colorUI>0.068 0.088 0.119 1.000</colorUI>
 		</colorScheme>
 		<colorScheme>
@@ -5194,6 +5239,38 @@
 			<colorUI>0.647 0.639 0.584 1.000</colorUI>
 		</colorScheme>
 		<colorScheme>
+			<name>colorSchemeJupiter</name>
+			<color0>00.017 0.017 0.017 1.000</color0>
+			<color1>0.330 0.330 0.330 0.000</color1>
+			<color2>0.180 0.201 0.220 1.000</color2>
+			<color3>0.055 0.080 0.111 1.000</color3>
+			<colorUI>0.275 0.275 0.271 1.000</colorUI>
+		</colorScheme>
+		<colorScheme>
+			<name>colorSchemeJupiter_alt</name>
+			<color0>0.067 0.076 0.089 1.000</color0>
+			<color1>0.159 0.153 0.112 1.000</color1>
+			<color2>0.258 0.277 0.234 1.000</color2>
+			<color3>0.090 0.116 0.084 1.000</color3>
+			<colorUI>0.471 0.502 0.537 1.000</colorUI>
+		</colorScheme>
+		<colorScheme>
+			<name>colorSchemeCerberus</name>
+			<color0>0.015 0.027 0.050 1.000</color0>
+			<color1>0.015 0.027 0.050 1.000</color1>
+			<color2>0.015 0.027 0.050 1.000</color2>
+			<color3>0.015 0.027 0.050 1.000</color3>
+			<colorUI>0.239 0.318 0.420 1.000</colorUI>
+		</colorScheme>
+		<colorScheme>
+			<name>colorSchemeCerberus_alt</name>
+			<color0>0.015 0.020 0.023 1.000</color0>
+			<color1>0.015 0.020 0.023 1.000</color1>
+			<color2>0.015 0.020 0.023 1.000</color2>
+			<color3>0.015 0.020 0.023 1.000</color3>
+			<colorUI>0.263 0.298 0.322 1.000</colorUI>
+		</colorScheme>
+		<colorScheme>
 			<name>colorSchemeUSN01</name>
 			<color0>0.184 0.212 0.231 0.784</color0>
 			<color1>0.004 0.012 0.020 1.000</color1>
@@ -5799,6 +5876,20 @@
 			<color1>0.180 0.004 0.013 0.950</color1>
 			<color2>0.014 0.037 0.086 1.000</color2>
 			<color3>0.475 0.604 0.686 0.650</color3>
+		</colorScheme>
+		<colorScheme>
+			<name>colorScheme_Yorktown_130</name>
+			<color0>0.157 0.194 0.271 1.000</color0>
+			<color1>1.000 0.000 0.000 0.000</color1>
+			<color2>1.000 0.000 0.000 0.000</color2>
+			<color3>0.968 0.184 0.215 0.000</color3>
+		</colorScheme>
+		<colorScheme>
+			<name>colorScheme_Essex_130</name>
+			<color0>0.405 0.437 0.494 1.000</color0>
+			<color1>1.000 0.000 0.000 0.000</color1>
+			<color2>1.000 0.000 0.000 0.000</color2>
+			<color3>0.000 0.000 0.000 0.000</color3>
 		</colorScheme>
 	</ColorSchemes>
 	<Camouflages>
@@ -17799,6 +17890,76 @@
 			</Textures>
 		</camouflage>
 		<camouflage>
+			<annotation>mat_TheRussianBadger unique permOflage</annotation>
+			<name>mat_TheRussianBadger</name>
+			<tiled>false</tiled>
+			<UV>
+				<DeckHouse>1.0 1.0</DeckHouse>
+				<Tile>1.0 1.0</Tile>
+				<Gun>2.0 2.0</Gun>
+				<Director>2.0 2.0</Director>
+				<Plane>2.0 2.0</Plane>
+				<Float>2.0 2.0</Float>
+				<Misc>2.0 2.0</Misc>
+				<Bulge>1.0 1.0</Bulge>
+			</UV>
+			<Textures>
+				<Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+				<Gun>content/gameplay/common/camouflage/textures/mat_TheRussianBadger.dds</Gun>
+				<Gun_mgn>
+					content/gameplay/common/camouflage/textures/mat_alum_01_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_TheRussianBadger.dds</Director>
+				<Director_mgn>
+					content/gameplay/common/camouflage/textures/mat_alum_01_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_TheRussianBadger.dds</Plane>
+				<Plane_mgn>
+					content/gameplay/common/camouflage/textures/mat_alum_01_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_TheRussianBadger.dds</Float>
+				<Float_mgn>
+					content/gameplay/common/camouflage/textures/mat_alum_01_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_TheRussianBadger.dds</Misc>
+				<Misc_mgn>
+					content/gameplay/common/camouflage/textures/mat_alum_01_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Misc_mgn>
+				<Bulge>content/gameplay/common/camouflage/textures/mat_TheRussianBadger.dds</Bulge>
+				<Bulge_mgn>
+					content/gameplay/common/camouflage/textures/mat_alum_01_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Bulge_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/mat_TheRussianBadger.dds</Wire>
+				<Wire_mgn>
+					content/gameplay/common/camouflage/textures/mat_alum_01_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			</Textures>
+			<colorSchemes>colorSchemeUSNP17</colorSchemes>
+			<realm>all</realm>
+		</camouflage>
+		<camouflage>
 			<annotation>mat_Three_Kingdoms_Lazure unique permOflage</annotation>
 			<name>mat_Three_Kingdoms_Lazure</name>
 			<tiled>false</tiled>
@@ -22883,6 +23044,27 @@
 		</camouflage>
 		<camouflage>
 			<annotation>Spain tile camouflage block for the ships with a texture 4096*4096+4096*2048</annotation>
+			<name>camo_1_tile</name>
+			<useColorScheme>True</useColorScheme>
+			<shipGroups>SP_group_3</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>3.8 1.9</DeckHouse>
+				<Tile>3.8 3.8</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>2 2</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_13.dds</Tile>
+			</Textures>
+			<colorSchemes>colorSchemeSP01</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Spain tile camouflage block for the ships with a texture 4096*4096+4096*2048</annotation>
 			<name>camo_2_tile</name>
 			<useColorScheme>True</useColorScheme>
 			<shipGroups>SP_group_1</shipGroups>
@@ -22911,6 +23093,27 @@
 			<UV>
 				<DeckHouse>2.0 2.0</DeckHouse>
 				<Tile>3.7 1.85</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>2 2</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/IJN_tile_camo_02.dds</Tile>
+			</Textures>
+			<colorSchemes>colorSchemeSP01</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Spain tile camouflage block for the ships with a texture 4096*4096+4096*2048</annotation>
+			<name>camo_2_tile</name>
+			<useColorScheme>True</useColorScheme>
+			<shipGroups>SP_group_3</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>3.8 1.9</DeckHouse>
+				<Tile>3.8 3.8</Tile>
 				<Gun>0.6 0.6</Gun>
 				<Director>0.6 0.6</Director>
 				<Plane>0.5 0.5</Plane>
@@ -22966,6 +23169,27 @@
 			<colorSchemes>colorSchemeSP01</colorSchemes>
 		</camouflage>
 		<camouflage>
+			<annotation>Spain tile camouflage block for the ships with a texture 4096*4096+4096*2048</annotation>
+			<name>camo_3_tile</name>
+			<useColorScheme>True</useColorScheme>
+			<shipGroups>SP_group_3</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>3.8 1.9</DeckHouse>
+				<Tile>3.8 3.8</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>2 2</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_05.dds</Tile>
+			</Textures>
+			<colorSchemes>colorSchemeSP01</colorSchemes>
+		</camouflage>
+		<camouflage>
 			<annotation>Spain economic tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_economic_tile</name>
 			<useColorScheme>True</useColorScheme>
@@ -22995,6 +23219,27 @@
 			<UV>
 				<DeckHouse>2.0 2.0</DeckHouse>
 				<Tile>3.7 1.85</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>2 2</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_04.dds</Tile>
+			</Textures>
+			<colorSchemes>colorSchemeSP01</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Spain economic tile camouflage block for the ships with a texture 4096*4096+4096*2048</annotation>
+			<name>camo_economic_tile</name>
+			<useColorScheme>True</useColorScheme>
+			<shipGroups>SP_group_3</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>3.8 1.9</DeckHouse>
+				<Tile>3.8 3.8</Tile>
 				<Gun>0.6 0.6</Gun>
 				<Director>0.6 0.6</Director>
 				<Plane>0.5 0.5</Plane>
@@ -49634,6 +49879,32 @@
     
 		</camouflage>
 		<camouflage>
+			<annotation>Cerberus unique permOflage block</annotation>
+			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
+			<targetShip>PUSC010_Cerberus</targetShip>
+			<tiled>false</tiled>
+			<UV>
+				<Tile>1 1</Tile>
+				<Gun>0.45 0.45</Gun>
+				<Director>0.45 0.45</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+			</UV>
+			<Textures>
+				<Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
+				<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
+				<Plane>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Float>
+			</Textures>
+			<colorSchemes>colorSchemeCerberus</colorSchemes>
+			<colorSchemes>colorSchemeCerberus_alt</colorSchemes>
+		</camouflage>
+		<camouflage>
 			<annotation>Yukon unique permOflage block</annotation>
 			<name>camo_permanent_2</name>
 			<targetShip>PUSB507_Yukon</targetShip>
@@ -53724,6 +53995,31 @@
 			<colorSchemes>colorSchemeSchill_alt</colorSchemes>
 		</camouflage>
 		<camouflage>
+			<annotation>Wiesbaden unique permOflage block</annotation>
+			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
+			<targetShip>PGSC728_Wiesbaden</targetShip>
+			<tiled>false</tiled>
+			<UV>
+				<Tile>1 1</Tile>
+				<Gun>2 2</Gun>
+				<Director>0.5 0.5</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+			</UV>
+			<Textures>
+				<Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+				<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_G.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Float>
+				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
+			</Textures>
+			<colorSchemes>colorScheme_Wiesbaden</colorSchemes>
+			<colorSchemes>colorScheme_Wiesbaden_alt</colorSchemes>
+		</camouflage>
+		<camouflage>
 			<annotation>Tirpitz second unique permOflage block</annotation>
 			<name>camo_permanent_2</name>
 			<useColorScheme>True</useColorScheme>
@@ -57401,6 +57697,29 @@
 			</Textures>
 			<colorSchemes>colorSchemeIJN_I54</colorSchemes>
 			<colorSchemes>colorSchemeIJNP56</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Minegumo unique permOflage block</annotation>
+			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
+			<targetShip>PJSD719_Minegumo</targetShip>
+			<tiled>false</tiled>
+			<UV>
+				<Tile>1 1</Tile>
+				<Gun>0.30 0.25</Gun>
+				<Director>0.30 0.25</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+			</UV>
+			<Textures>
+				<Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Float>
+			</Textures>
+			<colorSchemes>colorSchemeIJN_Minegumo</colorSchemes>
+			<colorSchemes>colorSchemeIJN_Minegumo_alt</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Tachibana unique permOflage block</annotation>
@@ -61903,6 +62222,29 @@
 			<colorSchemes>colorSchemeSPP01</colorSchemes>
 		</camouflage>
 		<camouflage>
+			<annotation>Victoria unique permOflage block</annotation>
+			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
+			<targetShip>PSSB719_Victoria</targetShip>
+			<tiled>false</tiled>
+			<UV>
+				<Tile>1 1</Tile>
+				<Gun>1.2 0.8</Gun>
+				<Director>1.2 0.8</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+			</UV>
+			<Textures>
+				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Float>
+			</Textures>
+			<colorSchemes>colorScheme_Victoria</colorSchemes>
+		</camouflage>
+		<camouflage>
 			<annotation>Canarias unique permOflage block</annotation>
 			<name>camo_permanent_flag</name>
 			<useColorScheme>True</useColorScheme>
@@ -64450,7 +64792,7 @@
         
 			<useColorScheme>True</useColorScheme>
         
-			<targetShip>PBSC710_Monmouth</targetShip>
+			<targetShip>PBSC020_Monmouth</targetShip>
         
 			<tiled>false</tiled>
         
@@ -64781,6 +65123,29 @@
 			<colorSchemes>colorSchemeHampshire</colorSchemes>
 			<colorSchemes>colorSchemeNottingham2</colorSchemes>
     
+		</camouflage>
+		<camouflage>
+			<annotation>Jupiter unique permOflage block</annotation>
+			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
+			<targetShip>PBSD717_Jupiter_1942</targetShip>
+			<tiled>false</tiled>
+			<UV>
+				<Tile>1 1</Tile>
+				<Gun>1 1</Gun>
+				<Director>0.5 0.5</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+			</UV>
+			<Textures>
+				<Hull>content/gameplay/common/camouflage/textures/BSD021_Jupiter_1942_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Float>
+			</Textures>
+			<colorSchemes>colorSchemeJupiter</colorSchemes>
+			<colorSchemes>colorSchemeJupiter_alt</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Hood second unique permOflage block</annotation>
@@ -65710,6 +66075,31 @@
 				<Float>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Float>
 			</Textures>
 			<colorSchemes>colorSchemePopeye</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Essex 130 unique color style</annotation>
+			<name>camo_Essex_130</name>
+			<useColorScheme>True</useColorScheme>
+			<tiled>false</tiled>
+			<UV>
+				<Tile>1 1</Tile>
+				<Gun>1 1</Gun>
+				<Director>0.5 0.5</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+			</UV>
+			<Textures>
+				<DeckHouse>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Hull>
+				<Bulge>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Bulge>
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+				<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
+				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
+				<Plane>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Float>
+			</Textures>
+			<colorSchemes>colorScheme_Essex_130</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Texas Lone Star unique permOflage block</annotation>
@@ -68664,6 +69054,32 @@
 				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RGB.dds</Float>
 			</Textures>
 			<colorSchemes>colorSchemeWOWS02</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Yorktown 130 unique coloring</annotation>
+			<name>camo_Yorktown_130</name>
+			<useColorScheme>True</useColorScheme>
+			<targetShip>PASA028_Yorktown</targetShip>
+			<tiled>false</tiled>
+			<UV>
+				<Tile>1 1</Tile>
+				<Gun>1 1</Gun>
+				<Director>0.5 0.5</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+			</UV>
+			<Textures>
+				<DeckHouse>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Hull>
+				<Bulge>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Bulge>
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+				<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
+				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
+				<Plane>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Float>
+			</Textures>
+			<colorSchemes>colorScheme_Yorktown_130</colorSchemes>
 		</camouflage>
 	</Camouflages>
 </data>
