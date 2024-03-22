@@ -123,7 +123,7 @@
 		<!--//1. British ships with texture			2048*2048, 4096*4096, 4096*4096+2048*2048-->
 		<shipGroup>
 			<name>UK_group_1</name>
-			<ships> PBSD503_Campbeltown_1941 PBSB002_Warspite_1941 PBSC101_Black_Swan PBSC104_Danae PBSC105_Emerald PBSC106_Leander PUSC506_Perth_1942 PBSC107_Fiji PBSC507_Belfast_1959 PBSC528_Belfast_1943 PBSC108_Edinburgh PBSC888_Edinburgh_PR PBSC109_Neptune PBSB103_Bellerophon PBSB104_Orion PBSB105_Iron_Duke PBSB106_Queen_Elizabeth PBSB503_Dreadnought PBSA204_Hermes PBSC505_Exeter PBSC210_Goliath PBSC910_Cyclops PBSC205_Hawkins PBSC207_Surrey PBSC208_Albemarle PBSC209_Drake PBSC516_London PUSC516_Mysore PBSC518_Tiger_1959 PBSC526_Dido PBSC111_Edgar PBSC538_Hampshire PBSB203_Indefatigable PBSB206_Renown PBSS106_Undine PBSS108_Sturdy PBSS110_Thrasher PBSB547_Renown_1944 PUSC014_Dunedin PUSC001_Sutlej PUSC015_Delhi PUSC025_Red_Fort</ships>
+			<ships> PBSD503_Campbeltown_1941 PBSB002_Warspite_1941 PBSC101_Black_Swan PBSC104_Danae PBSC105_Emerald PBSC106_Leander PUSC506_Perth_1942 PBSC107_Fiji PBSC507_Belfast_1959 PBSC528_Belfast_1943 PBSC108_Edinburgh PBSC888_Edinburgh_PR PBSC109_Neptune PBSB103_Bellerophon PBSB104_Orion PBSB105_Iron_Duke PBSB106_Queen_Elizabeth PBSB503_Dreadnought PBSA204_Hermes PBSC505_Exeter PBSC210_Goliath PBSC910_Cyclops PBSC205_Hawkins PBSC207_Surrey PBSC208_Albemarle PBSC209_Drake PBSC516_London PUSC516_Mysore PBSC518_Tiger_1959 PBSC526_Dido PBSC111_Edgar PBSC538_Hampshire PBSB203_Indefatigable PBSB206_Renown PBSS106_Undine PBSS108_Sturdy PBSS110_Thrasher PBSB547_Renown_1944 PUSC014_Dunedin PUSC001_Sutlej PUSC015_Delhi PUSC025_Red_Fort PBSC716_Orion_1944</ships>
 		</shipGroup>
 		<!--//2. British ships with texture			4096*2048-->
 		<shipGroup>
@@ -138,7 +138,7 @@
 		<!--//4. British ships with texture			4096*4096+4096*4096-->
 		<shipGroup>
 			<name>UK_group_4</name>
-			<ships>PBSB110_Conqueror PBSB507_Hood PBSB517_Nelson PBSA106_Furious PBSA108_Implacable PBSA210_Audacious PBSA910_TST_Audacious PBSB508_Vanguard PBSB911_Conqueror_T PBSA518_Ark_Royal PBSB526_Repulse PBSB536_Black_Repulse PBSB610_Incomparable PBSC610_Gibraltar PBSB509_Marlborough PBSA111_Eagle PBSB537_Collingwood PBSB210_St_Vincent PBSB209_Duncan PBSB207_Rooke PBSB204_Queen_Mary PBSB208_Hawke PBSB998_St_Lawrence PBSA510_Malta PBSA528_Colossus PBSB810_Cumberland PBSB111_Devastation PBSB609_Scarlet_Thunder PUSC010_Cerberus</ships>
+			<ships>PBSB110_Conqueror PBSB507_Hood PBSB517_Nelson PBSA106_Furious PBSA108_Implacable PBSA210_Audacious PBSA910_TST_Audacious PBSB508_Vanguard PBSB911_Conqueror_T PBSA518_Ark_Royal PBSB526_Repulse PBSB536_Black_Repulse PBSB610_Incomparable PBSC610_Gibraltar PBSB509_Marlborough PBSA111_Eagle PBSB537_Collingwood PBSB210_St_Vincent PBSB209_Duncan PBSB207_Rooke PBSB204_Queen_Mary PBSB208_Hawke PBSB998_St_Lawrence PBSA510_Malta PBSA528_Colossus PBSB810_Cumberland PBSB111_Devastation PBSB609_Scarlet_Thunder PUSC010_Cerberus PBSB727_Duke_of_Bronte</ships>
 		</shipGroup>
 		<!--//5. British ships with texture 4096*2048+2048*2048-->
 		<shipGroup>
@@ -195,7 +195,7 @@
 		<!--//1. French ships with texture			2048*2048, 4096*4096, 4096*4096+2048*2048-->
 		<shipGroup>
 			<name>FRA_group_1</name>
-			<ships> PFSC102_Jurien PFSC103_Friant PFSC104_Duguay_Trouin PFSC105_Emile_Bertin PFSC106_La_Galissonniere PFSC506_De_Grasse PFSC107_Algerie PFSC108_Charles_Martel PZSC518_Martel_Wukong PFSC109_Saint_Louis PFSC110_Henri_IV PFSD506_Aigle PFSD508_Le_Terrible PFSD108_Le_Fantasque PFSC510_Colbert PFSB103_Turenne PFSB104_Courbet PFSB105_Bretagne PFSC507_Toulon PFSC516_Dupleix</ships>
+			<ships> PFSC102_Jurien PFSC103_Friant PFSC104_Duguay_Trouin PFSC105_Emile_Bertin PFSC106_La_Galissonniere PFSC506_De_Grasse PFSC107_Algerie PFSC108_Charles_Martel PZSC518_Martel_Wukong PFSC109_Saint_Louis PFSC110_Henri_IV PFSD506_Aigle PFSD508_Le_Terrible PFSD108_Le_Fantasque PFSC510_Colbert PFSB103_Turenne PFSB104_Courbet PFSB105_Bretagne PFSC507_Toulon PFSC516_Dupleix PFSC716_Montcalm</ships>
 		</shipGroup>
 		<!--//2. French ships with texture			4096*2048-->
 		<shipGroup>
@@ -772,6 +772,22 @@
 			<color2>0.046 0.053 0.078 0.000</color2>
 			<color3>0.009 0.009 0.009 0.000</color3>
 			<colorUI>0.360 0.440 0.550 1.000</colorUI>
+		</colorScheme>
+		<colorScheme>
+			<name>colorSchemePFSC716Montcalm</name>
+			<color0>0.165 0.185 0.235 1.000</color0>
+			<color1>0.015 0.027 0.050 1.000</color1>
+			<color2>0.165 0.185 0.235 0.000</color2>
+			<color3>0.009 0.009 0.009 0.000</color3>
+			<colorUI>0.267 0.345 0.447 1.000</colorUI>
+		</colorScheme>
+		<colorScheme>
+			<name>colorSchemePFSC716Montcalm_alt</name>
+			<color0>0.012 0.020 0.064 1.000</color0>
+			<color1>0.165 0.185 0.235 1.000</color1>
+			<color2>0.165 0.185 0.235 0.000</color2>
+			<color3>0.278 0.305 0.316 0.000</color3>
+			<colorUI>0.627 0.663 0.722 1.000</colorUI>
 		</colorScheme>
 		<colorScheme>
 			<name>colorSchemeGER01</name>
@@ -2325,6 +2341,22 @@
 			<colorUI>0.647 0.643 0.624 1.000</colorUI>
 		</colorScheme>
 		<colorScheme>
+			<name>colorSchemeIJN_Chikuma_2_Hyb</name>
+			<color0>0.045 0.048 0.045 1.000</color0>
+			<color1>0.045 0.048 0.045 0.000</color1>
+			<color2>0.045 0.048 0.045 0.000</color2>
+			<color3>0.045 0.048 0.045 0.000</color3>
+			<colorUI>0.420 0.440 0.450 1.000</colorUI>
+		</colorScheme>
+		<colorScheme>
+			<name>colorSchemeIJN_Chikuma_2_Hyb_alt</name>
+			<color0>0.160 0.180 0.190 1.000</color0>
+			<color1>0.015 0.033 0.060 0.000</color1>
+			<color2>0.337 0.337 0.278 0.000</color2>
+			<color3>0.160 0.180 0.190 0.000</color3>
+			<colorUI>0.702 0.706 0.659 1.000</colorUI>
+		</colorScheme>
+		<colorScheme>
 			<name>colorSchemeNL01</name>
 			<color0>0.068 0.088 0.119 1.000</color0>
 			<color1>0.017 0.028 0.038 1.000</color1>
@@ -2350,6 +2382,13 @@
 			<color0>0.307 0.311 0.330 1.000</color0>
 			<color1>0.130 0.135 0.155 0.000</color1>
 			<color2>0.068 0.088 0.119 1.000</color2>
+			<color3>0.017 0.028 0.038 0.000</color3>
+		</colorScheme>
+		<colorScheme>
+			<name>colorSchemePrins_Van_Oranje</name>
+			<color0>0.631 0.616 0.522 1.000</color0>
+			<color1>0.130 0.135 0.155 0.000</color1>
+			<color2>0.068 0.088 0.119 0.000</color2>
 			<color3>0.017 0.028 0.038 0.000</color3>
 		</colorScheme>
 		<colorScheme>
@@ -4420,6 +4459,111 @@
 			<color3>0.013 0.030 0.123 1.000</color3>
 		</colorScheme>
 		<colorScheme>
+			<name>colorScheme_Pinata_Temp</name>
+			<color0>0.250 0.200 0.500 0.000</color0>
+			<color1>0.000 0.550 0.550 1.500</color1>
+			<color2>0.800 1.000 0.000 1.500</color2>
+			<color3>1.000 0.000 0.400 1.500</color3>
+		</colorScheme>
+		<colorScheme>
+			<name>colorScheme_Pinata_Black_Sale</name>
+			<color0>0.000 0.000 0.000 1.000</color0>
+			<color1>0.000 0.550 0.330 1.500</color1>
+			<color2>0.800 1.000 0.000 1.500</color2>
+			<color3>1.000 0.000 0.400 1.500</color3>
+		</colorScheme>
+		<colorScheme>
+			<name>colorScheme_Pinata_Pink_Sale</name>
+			<color0>0.513 0.048 0.268 1.000</color0>
+			<color1>0.000 0.550 0.330 1.500</color1>
+			<color2>0.800 1.000 0.000 1.500</color2>
+			<color3>1.000 0.000 0.400 1.500</color3>
+		</colorScheme>
+		<colorScheme>
+			<name>colorScheme_Pinata_Green_Sale</name>
+			<color0>0.015 0.350 0.130 1.000</color0>
+			<color1>0.000 0.550 0.550 1.500</color1>
+			<color2>0.350 1.000 0.000 1.500</color2>
+			<color3>1.000 0.000 0.400 1.500</color3>
+		</colorScheme>
+		<colorScheme>
+			<name>colorScheme_Pinata_Dark_Purple</name>
+			<color0>0.180 0.006 0.370 1.000</color0>
+			<color1>0.000 0.550 0.550 1.500</color1>
+			<color2>0.800 1.000 0.000 1.500</color2>
+			<color3>1.000 0.000 0.400 1.500</color3>
+		</colorScheme>
+		<colorScheme>
+			<name>colorScheme_Pinata_Light_Purple</name>
+			<color0>0.250 0.200 0.500 1.000</color0>
+			<color1>0.000 0.550 0.550 1.500</color1>
+			<color2>0.800 1.000 0.000 1.500</color2>
+			<color3>1.000 0.000 0.400 1.500</color3>
+		</colorScheme>
+		<colorScheme>
+			<name>colorScheme_Pinata_Dark_Blue</name>
+			<color0>0.000 0.050 0.250 1.000</color0>
+			<color1>0.000 0.550 0.550 1.500</color1>
+			<color2>0.800 1.000 0.000 1.500</color2>
+			<color3>1.000 0.000 0.400 1.500</color3>
+		</colorScheme>
+		<colorScheme>
+			<name>colorScheme_Pinata_Light_Blue</name>
+			<color0>0.000 0.350 0.350 1.000</color0>
+			<color1>0.000 0.550 0.550 1.500</color1>
+			<color2>0.800 1.000 0.000 1.500</color2>
+			<color3>1.000 0.000 0.400 1.500</color3>
+		</colorScheme>
+		<colorScheme>
+			<name>colorScheme_Pinata_Dark_Green</name>
+			<color0>0.115 0.150 0.030 1.000</color0>
+			<color1>0.000 0.550 0.550 1.500</color1>
+			<color2>0.800 1.000 0.000 1.500</color2>
+			<color3>1.000 0.000 0.400 1.500</color3>
+		</colorScheme>
+		<colorScheme>
+			<name>colorScheme_Pinata_Light_Green</name>
+			<color0>0.000 0.170 0.120 1.000</color0>
+			<color1>0.000 0.550 0.550 1.500</color1>
+			<color2>0.800 1.000 0.000 1.500</color2>
+			<color3>1.000 0.000 0.400 1.500</color3>
+		</colorScheme>
+		<colorScheme>
+			<name>colorScheme_Pinata_Red</name>
+			<color0>0.513 0.048 0.048 1.000</color0>
+			<color1>0.000 0.550 0.330 1.500</color1>
+			<color2>0.800 1.000 0.000 1.500</color2>
+			<color3>1.000 0.000 0.400 1.500</color3>
+		</colorScheme>
+		<colorScheme>
+			<name>colorScheme_Pinata_Pink</name>
+			<color0>1.000 0.330 0.550 1.000</color0>
+			<color1>0.000 0.550 0.550 1.500</color1>
+			<color2>0.800 1.000 0.000 1.500</color2>
+			<color3>1.000 0.000 0.400 1.500</color3>
+		</colorScheme>
+		<colorScheme>
+			<name>colorScheme_Pinata_Dark_Orange</name>
+			<color0>1.000 0.170 0.050 1.000</color0>
+			<color1>0.000 0.550 0.550 1.500</color1>
+			<color2>0.800 1.000 0.000 1.500</color2>
+			<color3>1.000 0.000 0.400 1.500</color3>
+		</colorScheme>
+		<colorScheme>
+			<name>colorScheme_Pinata_Light_Orange</name>
+			<color0>1.000 0.330 0.050 1.000</color0>
+			<color1>0.000 0.550 0.550 1.500</color1>
+			<color2>0.800 1.000 0.000 1.500</color2>
+			<color3>1.000 0.000 0.400 1.500</color3>
+		</colorScheme>
+		<colorScheme>
+			<name>colorScheme_Pinata_Yellow</name>
+			<color0>1.000 0.700 0.000 1.000</color0>
+			<color1>0.000 0.550 0.550 1.500</color1>
+			<color2>0.800 1.000 0.000 1.500</color2>
+			<color3>1.000 0.000 0.400 1.500</color3>
+		</colorScheme>
+		<colorScheme>
 			<name>colorSchemeSWDP01</name>
 			<color0>0.017 0.021 0.019 1.000</color0>
 			<color1>0.078 0.094 0.098 1.000</color1>
@@ -5240,7 +5384,7 @@
 		</colorScheme>
 		<colorScheme>
 			<name>colorSchemeJupiter</name>
-			<color0>00.017 0.017 0.017 1.000</color0>
+			<color0>0.017 0.017 0.017 1.000</color0>
 			<color1>0.330 0.330 0.330 0.000</color1>
 			<color2>0.180 0.201 0.220 1.000</color2>
 			<color3>0.055 0.080 0.111 1.000</color3>
@@ -5269,6 +5413,54 @@
 			<color2>0.015 0.020 0.023 1.000</color2>
 			<color3>0.015 0.020 0.023 1.000</color3>
 			<colorUI>0.263 0.298 0.322 1.000</colorUI>
+		</colorScheme>
+		<colorScheme>
+			<name>colorSchemeEncounter</name>
+			<color0>0.015 0.027 0.050 1.000</color0>
+			<color1>0.015 0.020 0.023 0.000</color1>
+			<color2>0.015 0.020 0.023 0.000</color2>
+			<color3>0.015 0.027 0.050 0.000</color3>
+			<colorUI>0.329 0.396 0.490 1.000</colorUI>
+		</colorScheme>
+		<colorScheme>
+			<name>colorSchemeEncounter_alt</name>
+			<color0>0.067 0.076 0.089 1.000</color0>
+			<color1>0.015 0.020 0.023 0.000</color1>
+			<color2>0.015 0.020 0.023 0.000</color2>
+			<color3>0.015 0.020 0.023 0.000</color3>
+			<colorUI>0.494 0.525 0.565 1.000</colorUI>
+		</colorScheme>
+		<colorScheme>
+			<name>colorSchemeUganda</name>
+			<color0>0.416 0.470 0.529 1.000</color0>
+			<color1>0.069 0.127 0.242 1.000</color1>
+			<color2>0.015 0.020 0.023 0.000</color2>
+			<color3>0.015 0.027 0.050 0.000</color3>
+			<colorUI>0.675 0.706 0.725 1.000</colorUI>
+		</colorScheme>
+		<colorScheme>
+			<name>colorSchemeUganda_alt</name>
+			<color0>0.055 0.080 0.111 1.000</color0>
+			<color1>0.180 0.201 0.220 1.000</color1>
+			<color2>0.090 0.116 0.084 0.000</color2>
+			<color3>0.015 0.020 0.023 0.000</color3>
+			<colorUI>0.376 0.455 0.525 1.000</colorUI>
+		</colorScheme>
+		<colorScheme>
+			<name>colorSchemeOrion_1944</name>
+			<color0>0.080 0.103 0.127 1.000</color0>
+			<color1>0.415 0.470 0.529 1.000</color1>
+			<color2>0.015 0.027 0.050 0.000</color2>
+			<color3>0.015 0.027 0.050 0.000</color3>
+			<colorUI>0.431 0.494 0.545 1.000</colorUI>
+		</colorScheme>
+		<colorScheme>
+			<name>colorSchemeOrion_1944_alt</name>
+			<color0>0.057 0.065 0.050 1.000</color0>
+			<color1>0.148 0.142 0.104 1.000</color1>
+			<color2>0.015 0.020 0.023 0.000</color2>
+			<color3>0.015 0.020 0.023 0.000</color3>
+			<colorUI>0.388 0.420 0.373 1.000</colorUI>
 		</colorScheme>
 		<colorScheme>
 			<name>colorSchemeUSN01</name>
@@ -5909,6 +6101,80 @@
 		</colorScheme>
 	</ColorSchemes>
 	<Camouflages>
+		<camouflage>
+			<annotation> New Zealand mat camo for Auckland black color style</annotation>
+			<name>mat_Auckland_NZ</name>
+			<tiled>false</tiled>
+			<targetShip>PUSC018_Auckland</targetShip>
+			<UV>
+				<DeckHouse>0.5 0.5</DeckHouse>
+				<Tile>1 1</Tile>
+				<Gun>0.5 0.5</Gun>
+				<Director>0.5 0.5</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.5</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+				<Hull>1 1</Hull>
+			</UV>
+			<Textures>
+				<Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+				<Gun>content/gameplay/common/camouflage/textures/mat_camo/mat_NZ_Black.dds</Gun>
+				<Gun_mgn>
+				content/gameplay/common/camouflage/textures/mat_camo/mat_India_Green_mgn.dds
+					<Influence_m> 0.9 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_camo/mat_NZ_Black.dds</Director>
+				<Director_mgn>
+				content/gameplay/common/camouflage/textures/mat_camo/mat_India_Green_mgn.dds
+					<Influence_m> 0.9 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_camo/mat_NZ_Black.dds</Plane>
+				<Plane_mgn>
+				content/gameplay/common/camouflage/textures/mat_camo/mat_India_Green_mgn.dds
+					<Influence_m> 0.9 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_camo/mat_NZ_Black.dds</Float>
+				<Float_mgn>
+				content/gameplay/common/camouflage/textures/mat_camo/mat_India_Green_mgn.dds
+					<Influence_m> 0.9 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_camo/mat_NZ_Black.dds</Misc>
+				<Misc_mgn>
+				content/gameplay/common/camouflage/textures/mat_camo/mat_India_Green_mgn.dds
+					<Influence_m> 0.9 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Misc_mgn>
+				<Bulge>content/gameplay/common/camouflage/textures/mat_camo/mat_NZ_Black.dds</Bulge>
+				<Bulge_mgn>
+				content/gameplay/common/camouflage/textures/mat_camo/mat_India_Green_mgn.dds
+					<Influence_m> 0.9 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Bulge_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/mat_camo/mat_NZ_Black.dds</Wire>
+            
+				<Wire_mgn>
+				content/gameplay/common/camouflage/textures/mat_camo/mat_India_Green_mgn.dds
+					<Influence_m> 0.9 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+            
+				</Wire_mgn>
+			</Textures>
+			<colorSchemes>colorSchemeUSNP17</colorSchemes>
+			<realm>all</realm>
+		</camouflage>
 		<camouflage>
 			<annotation>mat_Azur_DarkGrey_2 unique permOflage</annotation>
 			<name>mat_Azur_DarkGrey_2</name>
@@ -6741,6 +7007,80 @@
 			<realm>all</realm>
 		</camouflage>
 		<camouflage>
+			<annotation> Australia mat camo for Cerberus black color style</annotation>
+			<name>mat_Cerberus_Australia</name>
+			<tiled>false</tiled>
+			<targetShip>PUSC010_Cerberus</targetShip>
+			<UV>
+				<DeckHouse>0.5 0.5</DeckHouse>
+				<Tile>1 1</Tile>
+				<Gun>0.5 0.5</Gun>
+				<Director>0.5 0.5</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.5</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+				<Hull>1 1</Hull>
+			</UV>
+			<Textures>
+				<Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+				<Gun>content/gameplay/common/camouflage/textures/mat_camo/mat_NZ_Black.dds</Gun>
+				<Gun_mgn>
+				content/gameplay/common/camouflage/textures/mat_alum_01_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_camo/mat_NZ_Black.dds</Director>
+				<Director_mgn>
+				content/gameplay/common/camouflage/textures/mat_alum_01_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_camo/mat_NZ_Black.dds</Plane>
+				<Plane_mgn>
+				content/gameplay/common/camouflage/textures/mat_alum_01_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_camo/mat_NZ_Black.dds</Float>
+				<Float_mgn>
+				content/gameplay/common/camouflage/textures/mat_alum_01_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_camo/mat_NZ_Black.dds</Misc>
+				<Misc_mgn>
+				content/gameplay/common/camouflage/textures/mat_alum_01_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Misc_mgn>
+				<Bulge>content/gameplay/common/camouflage/textures/mat_camo/mat_NZ_Black.dds</Bulge>
+				<Bulge_mgn>
+				content/gameplay/common/camouflage/textures/mat_alum_01_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Bulge_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/mat_camo/mat_NZ_Black.dds</Wire>
+            
+				<Wire_mgn>
+				content/gameplay/common/camouflage/textures/mat_alum_01_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+            
+				</Wire_mgn>
+			</Textures>
+			<colorSchemes>colorSchemeUSNP17</colorSchemes>
+			<realm>all</realm>
+		</camouflage>
+		<camouflage>
 			<annotation>mat_Cheshire_Azur unique permOflage</annotation>
 			<name>mat_Cheshire_Azur</name>
 			<tiled>false</tiled>
@@ -7073,6 +7413,79 @@
 			<realm>all</realm>
 		</camouflage>
 		<camouflage>
+			<annotation> India mat camo for Delhi green color style</annotation>
+			<name>mat_Delhi_India</name>
+			<tiled>false</tiled>
+			<targetShip>PUSC015_Delhi</targetShip>
+			<UV>
+				<DeckHouse>0.5 0.5</DeckHouse>
+				<Tile>1 1</Tile>
+				<Gun>0.5 0.5</Gun>
+				<Director>0.5 0.5</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.5</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+				<Hull>1 1</Hull>
+			</UV>
+			<Textures>
+				<Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+				<Gun>content/gameplay/common/camouflage/textures/mat_camo/mat_India_Green.dds</Gun>
+				<Gun_mgn>
+				content/gameplay/common/camouflage/textures/mat_camo/mat_India_Green_mgn.dds
+					<Influence_m> 0.9 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_camo/mat_India_Green.dds</Director>
+				<Director_mgn>
+				content/gameplay/common/camouflage/textures/mat_camo/mat_India_Green_mgn.dds
+					<Influence_m> 0.9 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_camo/mat_India_Green.dds</Plane>
+				<Plane_mgn>
+				content/gameplay/common/camouflage/textures/mat_camo/mat_India_Green_mgn.dds
+					<Influence_m> 0.9 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_camo/mat_India_Green.dds</Float>
+				<Float_mgn>
+				content/gameplay/common/camouflage/textures/mat_camo/mat_India_Green_mgn.dds
+					<Influence_m> 0.9 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_camo/mat_India_Green.dds</Misc>
+				<Misc_mgn>
+				content/gameplay/common/camouflage/textures/mat_camo/mat_India_Green_mgn.dds
+					<Influence_m> 0.9 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Misc_mgn>
+				<Bulge>content/gameplay/common/camouflage/textures/mat_camo/mat_India_Green.dds</Bulge>
+				<Bulge_mgn>
+				content/gameplay/common/camouflage/textures/mat_camo/mat_India_Green_mgn.dds
+					<Influence_m> 0.9 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Bulge_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/mat_camo/mat_India_Green.dds</Wire>
+				<Wire_mgn>
+				content/gameplay/common/camouflage/textures/mat_camo/mat_India_Green_mgn.dds
+					<Influence_m> 0.9 </Influence_m>
+					<Influence_g> 0.5 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+            
+				</Wire_mgn>
+			</Textures>
+			<colorSchemes>colorSchemeUSNP17</colorSchemes>
+			<realm>all</realm>
+		</camouflage>
+		<camouflage>
 			<annotation>mat_Edinburge_Rangers unique permOflage</annotation>
 			<name>mat_Edinburge_Rangers</name>
 			<tiled>false</tiled>
@@ -7202,6 +7615,82 @@
 					<Influence_g> 0.0 </Influence_g>
 					<Influence_n> 0.0 </Influence_n>
 				</Wire_mgn>
+			</Textures>
+			<colorSchemes>colorSchemeUSNP17</colorSchemes>
+			<realm>all</realm>
+		</camouflage>
+		<camouflage>
+			<annotation>camouflage for Essex april 1 pinata </annotation>
+			<name>mat_Essex_Pinata</name>
+			<targetShip>PASA020_Essex</targetShip>
+			<tiled>false</tiled>
+			<UV>
+				<DeckHouse>0.8 0.8</DeckHouse>
+				<Tile>2.5 2.5</Tile>
+				<Gun>0.35 0.35</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.25 0.25</Plane>
+				<Float>0.25 0.125</Float>
+				<Misc>0.01 0.01</Misc>
+			</UV>
+			<Textures>
+				<DeckHouse>content/gameplay/common/camouflage/textures/mat_Pinata3_a.dds</DeckHouse>
+				<DeckHouse_mgn>
+					content/gameplay/common/camouflage/textures/mat_Pinata_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</DeckHouse_mgn>
+				<Hull>content/gameplay/common/camouflage/textures/mat_Pinata1_a.dds</Hull>
+				<Hull_mgn>
+					content/gameplay/common/camouflage/textures/mat_Pinata_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Hull_mgn>
+				<Gun>content/gameplay/common/camouflage/textures/mat_Pinata3_a.dds</Gun>
+				<Gun_mgn>
+					content/gameplay/common/camouflage/textures/mat_Pinata_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_Pinata3_a.dds</Director>
+				<Director_mgn>
+					content/gameplay/common/camouflage/textures/mat_Pinata_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_Pinata3_a.dds</Plane>
+				<Plane_mgn>
+					content/gameplay/common/camouflage/textures/mat_Pinata_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_Pinata3_a.dds</Float>
+				<Float_mgn>
+					content/gameplay/common/camouflage/textures/mat_Pinata_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_Pinata3_a.dds</Misc>
+				<Misc_mgn>
+					content/gameplay/common/camouflage/textures/mat_Pinata_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Misc_mgn>
+				<Bulge>content/gameplay/common/camouflage/textures/mat_Pinata3_a.dds</Bulge>
+				<Bulge_mgn>
+					content/gameplay/common/camouflage/textures/mat_Pinata_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Bulge_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/mat_Nadeshot.dds</Wire>
 			</Textures>
 			<colorSchemes>colorSchemeUSNP17</colorSchemes>
 			<realm>all</realm>
@@ -10201,6 +10690,82 @@
 					<Influence_n> 0.0 </Influence_n>
 				</Bulge_mgn>
 				<Wire>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Wire>
+			</Textures>
+			<colorSchemes>colorSchemeUSNP17</colorSchemes>
+			<realm>all</realm>
+		</camouflage>
+		<camouflage>
+			<annotation>camouflage for Manfred Richthofen april 1 pinata </annotation>
+			<name>mat_Manfred_Pinata</name>
+			<targetShip>PGSA110_Manfred_Richthofen</targetShip>
+			<tiled>false</tiled>
+			<UV>
+				<DeckHouse>3 3</DeckHouse>
+				<Tile>3 3</Tile>
+				<Gun>0.35 0.35</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.12 0.12</Plane>
+				<Float>0.25 0.125</Float>
+				<Misc>0.01 0.01</Misc>
+			</UV>
+			<Textures>
+				<DeckHouse>content/gameplay/common/camouflage/textures/mat_Pinata1r_a.dds</DeckHouse>
+				<DeckHouse_mgn>
+					content/gameplay/common/camouflage/textures/mat_Pinata_r_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</DeckHouse_mgn>
+				<Hull>content/gameplay/common/camouflage/textures/mat_Pinata3_a.dds</Hull>
+				<Hull_mgn>
+					content/gameplay/common/camouflage/textures/mat_Pinata_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Hull_mgn>
+				<Gun>content/gameplay/common/camouflage/textures/mat_Pinata3_a.dds</Gun>
+				<Gun_mgn>
+					content/gameplay/common/camouflage/textures/mat_Pinata_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_Pinata3_a.dds</Director>
+				<Director_mgn>
+					content/gameplay/common/camouflage/textures/mat_Pinata_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_Pinata3_a.dds</Plane>
+				<Plane_mgn>
+					content/gameplay/common/camouflage/textures/mat_Pinata_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_Pinata3_a.dds</Float>
+				<Float_mgn>
+					content/gameplay/common/camouflage/textures/mat_Pinata_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_Pinata3_a.dds</Misc>
+				<Misc_mgn>
+					content/gameplay/common/camouflage/textures/mat_Pinata_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Misc_mgn>
+				<Bulge>content/gameplay/common/camouflage/textures/mat_Pinata3_a.dds</Bulge>
+				<Bulge_mgn>
+					content/gameplay/common/camouflage/textures/mat_Pinata_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Bulge_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/mat_Nadeshot.dds</Wire>
 			</Textures>
 			<colorSchemes>colorSchemeUSNP17</colorSchemes>
 			<realm>all</realm>
@@ -17981,6 +18546,82 @@
 					<Influence_n> 0.0 </Influence_n>
 				</Bulge_mgn>
 				<Wire>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Wire>
+			</Textures>
+			<colorSchemes>colorSchemeUSNP17</colorSchemes>
+			<realm>all</realm>
+		</camouflage>
+		<camouflage>
+			<annotation>camouflage for Schlieffen april 1 pinata </annotation>
+			<name>mat_Schlieffen_Pinata</name>
+			<targetShip>PGSB210_Schlieffen</targetShip>
+			<tiled>false</tiled>
+			<UV>
+				<DeckHouse>2.5 2.5</DeckHouse>
+				<Tile>2.5 2.5</Tile>
+				<Gun>0.8 0.8</Gun>
+				<Director>0.2 0.2</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.5</Float>
+				<Misc>0.2 0.2</Misc>
+			</UV>
+			<Textures>
+				<DeckHouse>content/gameplay/common/camouflage/textures/mat_Pinata1r_a.dds</DeckHouse>
+				<DeckHouse_mgn>
+					content/gameplay/common/camouflage/textures/mat_Pinata_r_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</DeckHouse_mgn>
+				<Hull>content/gameplay/common/camouflage/textures/mat_Pinata3_a.dds</Hull>
+				<Hull_mgn>
+					content/gameplay/common/camouflage/textures/mat_Pinata_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Hull_mgn>
+				<Gun>content/gameplay/common/camouflage/textures/mat_Pinata3_a.dds</Gun>
+				<Gun_mgn>
+					content/gameplay/common/camouflage/textures/mat_Pinata_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_Pinata1r_a.dds</Director>
+				<Director_mgn>
+					content/gameplay/common/camouflage/textures/mat_Pinata_r_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_Pinata3_a.dds</Plane>
+				<Plane_mgn>
+					content/gameplay/common/camouflage/textures/mat_Pinata_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_Pinata3_a.dds</Float>
+				<Float_mgn>
+					content/gameplay/common/camouflage/textures/mat_Pinata_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_Pinata3_a.dds</Misc>
+				<Misc_mgn>
+					content/gameplay/common/camouflage/textures/mat_Pinata_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Misc_mgn>
+				<Bulge>content/gameplay/common/camouflage/textures/mat_Pinata3_a.dds</Bulge>
+				<Bulge_mgn>
+					content/gameplay/common/camouflage/textures/mat_Pinata_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 1.0 </Influence_g>
+					<Influence_n> 1.0 </Influence_n>
+				</Bulge_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/mat_Nadeshot.dds</Wire>
 			</Textures>
 			<colorSchemes>colorSchemeUSNP17</colorSchemes>
 			<realm>all</realm>
@@ -38463,6 +39104,3291 @@
 			<colorSchemes>colorSchemePD01</colorSchemes>
 		</camouflage>
 		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile</name>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 2</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.3 0.3</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1.3 1.3</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Temp</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile</name>
+			<shipGroups>IJN_group_2 USN_group_2 RUS_group_2 UK_group_2 GER_group_2 FRA_group_2 POL_group_1 PAN_group_2 ITA_group_3 NL_group_1 EUR_group_2 PAM_group_3 IJN_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.7 0.7</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Temp</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile</name>
+			<shipGroups>USN_group_8</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 1</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Temp</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile</name>
+			<shipGroups>RUS_group_3 GER_group_6 USN_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1.5 1.5</DeckHouse>
+				<Tile>6 1.5</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Temp</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile</name>
+			<shipGroups>IJN_group_3 USN_group_3 UK_group_3 GER_group_3 FRA_group_3 ITA_group_2 RUS_group_7 PAM_group_2 PAN_group_6</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>4 2</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Temp</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile</name>
+			<shipGroups>IJN_group_4 USN_group_4 RUS_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Temp</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile</name>
+			<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 PAN_group_4 ITA_group_4 PAM_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>4 4</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Temp</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile</name>
+			<shipGroups>RUS_group_6 USN_group_6 GER_group_5 UK_group_6 IJN_group_6 FRA_group_7 PAN_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 1</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Temp</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile</name>
+			<shipGroups>FRA_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>4 4</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Temp</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile</name>
+			<shipGroups>FRA_group_6 GER_group_7 UK_group_5 EUR_group_3 SP_group_2 NL_group_3 RUS_group_8</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 2</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Temp</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile</name>
+			<shipGroups>FRA_group_8 ITA_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Temp</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_aqua</name>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 2</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.3 0.3</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1.3 1.3</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Light_Blue</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_aqua</name>
+			<shipGroups>IJN_group_2 USN_group_2 RUS_group_2 UK_group_2 GER_group_2 FRA_group_2 POL_group_1 PAN_group_2 ITA_group_3 NL_group_1 EUR_group_2 PAM_group_3 IJN_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.7 0.7</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Light_Blue</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_aqua</name>
+			<shipGroups>USN_group_8</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 1</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Light_Blue</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_aqua</name>
+			<shipGroups>RUS_group_3 GER_group_6 USN_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1.5 1.5</DeckHouse>
+				<Tile>6 1.5</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Light_Blue</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_aqua</name>
+			<shipGroups>IJN_group_3 USN_group_3 UK_group_3 GER_group_3 FRA_group_3 ITA_group_2 RUS_group_7 PAM_group_2 PAN_group_6</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>4 2</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Light_Blue</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_aqua</name>
+			<shipGroups>IJN_group_4 USN_group_4 RUS_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Light_Blue</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_aqua</name>
+			<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 PAN_group_4 ITA_group_4 PAM_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>4 4</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Light_Blue</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_aqua</name>
+			<shipGroups>RUS_group_6 USN_group_6 GER_group_5 UK_group_6 IJN_group_6 FRA_group_7 PAN_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 1</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Light_Blue</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_aqua</name>
+			<shipGroups>FRA_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>4 4</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Light_Blue</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_aqua</name>
+			<shipGroups>FRA_group_6 GER_group_7 UK_group_5 EUR_group_3 SP_group_2 NL_group_3 RUS_group_8</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 2</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Light_Blue</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_aqua</name>
+			<shipGroups>FRA_group_8 ITA_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Light_Blue</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_black</name>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 2</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.3 0.3</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1.3 1.3</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Black_Sale</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_black</name>
+			<shipGroups>IJN_group_2 USN_group_2 RUS_group_2 UK_group_2 GER_group_2 FRA_group_2 POL_group_1 PAN_group_2 ITA_group_3 NL_group_1 EUR_group_2 PAM_group_3 IJN_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.7 0.7</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Black_Sale</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_black</name>
+			<shipGroups>USN_group_8</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 1</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Black_Sale</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_black</name>
+			<shipGroups>RUS_group_3 GER_group_6 USN_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1.5 1.5</DeckHouse>
+				<Tile>6 1.5</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Black_Sale</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_black</name>
+			<shipGroups>IJN_group_3 USN_group_3 UK_group_3 GER_group_3 FRA_group_3 ITA_group_2 RUS_group_7 PAM_group_2 PAN_group_6</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>4 2</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Black_Sale</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_black</name>
+			<shipGroups>IJN_group_4 USN_group_4 RUS_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Black_Sale</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_black</name>
+			<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 PAN_group_4 ITA_group_4 PAM_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>4 4</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Black_Sale</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_black</name>
+			<shipGroups>RUS_group_6 USN_group_6 GER_group_5 UK_group_6 IJN_group_6 FRA_group_7 PAN_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 1</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Black_Sale</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_black</name>
+			<shipGroups>FRA_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>4 4</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Black_Sale</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_black</name>
+			<shipGroups>FRA_group_6 GER_group_7 UK_group_5 EUR_group_3 SP_group_2 NL_group_3 RUS_group_8</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 2</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Black_Sale</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_black</name>
+			<shipGroups>FRA_group_8 ITA_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Black_Sale</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_blue</name>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 2</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.3 0.3</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1.3 1.3</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Dark_Blue</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_blue</name>
+			<shipGroups>IJN_group_2 USN_group_2 RUS_group_2 UK_group_2 GER_group_2 FRA_group_2 POL_group_1 PAN_group_2 ITA_group_3 NL_group_1 EUR_group_2 PAM_group_3 IJN_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.7 0.7</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Dark_Blue</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_blue</name>
+			<shipGroups>USN_group_8</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 1</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Dark_Blue</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_blue</name>
+			<shipGroups>RUS_group_3 GER_group_6 USN_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1.5 1.5</DeckHouse>
+				<Tile>6 1.5</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Dark_Blue</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_blue</name>
+			<shipGroups>IJN_group_3 USN_group_3 UK_group_3 GER_group_3 FRA_group_3 ITA_group_2 RUS_group_7 PAM_group_2 PAN_group_6</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>4 2</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Dark_Blue</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_blue</name>
+			<shipGroups>IJN_group_4 USN_group_4 RUS_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Dark_Blue</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_blue</name>
+			<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 PAN_group_4 ITA_group_4 PAM_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>4 4</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Dark_Blue</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_blue</name>
+			<shipGroups>RUS_group_6 USN_group_6 GER_group_5 UK_group_6 IJN_group_6 FRA_group_7 PAN_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 1</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Dark_Blue</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_blue</name>
+			<shipGroups>FRA_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>4 4</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Dark_Blue</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_blue</name>
+			<shipGroups>FRA_group_6 GER_group_7 UK_group_5 EUR_group_3 SP_group_2 NL_group_3 RUS_group_8</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 2</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Dark_Blue</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_blue</name>
+			<shipGroups>FRA_group_8 ITA_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Dark_Blue</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_carrot</name>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 2</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.3 0.3</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1.3 1.3</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Dark_Orange</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_carrot</name>
+			<shipGroups>IJN_group_2 USN_group_2 RUS_group_2 UK_group_2 GER_group_2 FRA_group_2 POL_group_1 PAN_group_2 ITA_group_3 NL_group_1 EUR_group_2 PAM_group_3 IJN_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.7 0.7</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Dark_Orange</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_carrot</name>
+			<shipGroups>USN_group_8</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 1</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Dark_Orange</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_carrot</name>
+			<shipGroups>RUS_group_3 GER_group_6 USN_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1.5 1.5</DeckHouse>
+				<Tile>6 1.5</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Dark_Orange</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_carrot</name>
+			<shipGroups>IJN_group_3 USN_group_3 UK_group_3 GER_group_3 FRA_group_3 ITA_group_2 RUS_group_7 PAM_group_2 PAN_group_6</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>4 2</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Dark_Orange</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_carrot</name>
+			<shipGroups>IJN_group_4 USN_group_4 RUS_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Dark_Orange</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_carrot</name>
+			<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 PAN_group_4 ITA_group_4 PAM_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>4 4</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Dark_Orange</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_carrot</name>
+			<shipGroups>RUS_group_6 USN_group_6 GER_group_5 UK_group_6 IJN_group_6 FRA_group_7 PAN_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 1</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Dark_Orange</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_carrot</name>
+			<shipGroups>FRA_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>4 4</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Dark_Orange</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_carrot</name>
+			<shipGroups>FRA_group_6 GER_group_7 UK_group_5 EUR_group_3 SP_group_2 NL_group_3 RUS_group_8</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 2</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Dark_Orange</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_carrot</name>
+			<shipGroups>FRA_group_8 ITA_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Dark_Orange</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_emerald</name>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 2</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.3 0.3</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1.3 1.3</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Light_Green</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_emerald</name>
+			<shipGroups>IJN_group_2 USN_group_2 RUS_group_2 UK_group_2 GER_group_2 FRA_group_2 POL_group_1 PAN_group_2 ITA_group_3 NL_group_1 EUR_group_2 PAM_group_3 IJN_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.7 0.7</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Light_Green</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_emerald</name>
+			<shipGroups>USN_group_8</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 1</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Light_Green</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_emerald</name>
+			<shipGroups>RUS_group_3 GER_group_6 USN_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1.5 1.5</DeckHouse>
+				<Tile>6 1.5</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Light_Green</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_emerald</name>
+			<shipGroups>IJN_group_3 USN_group_3 UK_group_3 GER_group_3 FRA_group_3 ITA_group_2 RUS_group_7 PAM_group_2 PAN_group_6</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>4 2</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Light_Green</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_emerald</name>
+			<shipGroups>IJN_group_4 USN_group_4 RUS_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Light_Green</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_emerald</name>
+			<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 PAN_group_4 ITA_group_4 PAM_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>4 4</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Light_Green</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_emerald</name>
+			<shipGroups>RUS_group_6 USN_group_6 GER_group_5 UK_group_6 IJN_group_6 FRA_group_7 PAN_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 1</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Light_Green</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_emerald</name>
+			<shipGroups>FRA_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>4 4</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Light_Green</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_emerald</name>
+			<shipGroups>FRA_group_6 GER_group_7 UK_group_5 EUR_group_3 SP_group_2 NL_group_3 RUS_group_8</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 2</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Light_Green</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_emerald</name>
+			<shipGroups>FRA_group_8 ITA_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Light_Green</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_green</name>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 2</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.3 0.3</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1.3 1.3</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Green_Sale</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_green</name>
+			<shipGroups>IJN_group_2 USN_group_2 RUS_group_2 UK_group_2 GER_group_2 FRA_group_2 POL_group_1 PAN_group_2 ITA_group_3 NL_group_1 EUR_group_2 PAM_group_3 IJN_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.7 0.7</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Green_Sale</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_green</name>
+			<shipGroups>USN_group_8</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 1</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Green_Sale</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_green</name>
+			<shipGroups>RUS_group_3 GER_group_6 USN_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1.5 1.5</DeckHouse>
+				<Tile>6 1.5</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Green_Sale</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_green</name>
+			<shipGroups>IJN_group_3 USN_group_3 UK_group_3 GER_group_3 FRA_group_3 ITA_group_2 RUS_group_7 PAM_group_2 PAN_group_6</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>4 2</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Green_Sale</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_green</name>
+			<shipGroups>IJN_group_4 USN_group_4 RUS_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Green_Sale</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_green</name>
+			<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 PAN_group_4 ITA_group_4 PAM_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>4 4</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Green_Sale</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_green</name>
+			<shipGroups>RUS_group_6 USN_group_6 GER_group_5 UK_group_6 IJN_group_6 FRA_group_7 PAN_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 1</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Green_Sale</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_green</name>
+			<shipGroups>FRA_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>4 4</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Green_Sale</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_green</name>
+			<shipGroups>FRA_group_6 GER_group_7 UK_group_5 EUR_group_3 SP_group_2 NL_group_3 RUS_group_8</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 2</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Green_Sale</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_green</name>
+			<shipGroups>FRA_group_8 ITA_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Green_Sale</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_indigo</name>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 2</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.3 0.3</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1.3 1.3</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Dark_Purple</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_indigo</name>
+			<shipGroups>IJN_group_2 USN_group_2 RUS_group_2 UK_group_2 GER_group_2 FRA_group_2 POL_group_1 PAN_group_2 ITA_group_3 NL_group_1 EUR_group_2 PAM_group_3 IJN_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.7 0.7</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Dark_Purple</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_indigo</name>
+			<shipGroups>USN_group_8</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 1</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Dark_Purple</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_indigo</name>
+			<shipGroups>RUS_group_3 GER_group_6 USN_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1.5 1.5</DeckHouse>
+				<Tile>6 1.5</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Dark_Purple</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_indigo</name>
+			<shipGroups>IJN_group_3 USN_group_3 UK_group_3 GER_group_3 FRA_group_3 ITA_group_2 RUS_group_7 PAM_group_2 PAN_group_6</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>4 2</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Dark_Purple</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_indigo</name>
+			<shipGroups>IJN_group_4 USN_group_4 RUS_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Dark_Purple</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_indigo</name>
+			<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 PAN_group_4 ITA_group_4 PAM_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>4 4</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Dark_Purple</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_indigo</name>
+			<shipGroups>RUS_group_6 USN_group_6 GER_group_5 UK_group_6 IJN_group_6 FRA_group_7 PAN_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 1</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Dark_Purple</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_indigo</name>
+			<shipGroups>FRA_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>4 4</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Dark_Purple</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_indigo</name>
+			<shipGroups>FRA_group_6 GER_group_7 UK_group_5 EUR_group_3 SP_group_2 NL_group_3 RUS_group_8</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 2</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Dark_Purple</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_indigo</name>
+			<shipGroups>FRA_group_8 ITA_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Dark_Purple</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_khaki</name>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 2</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.3 0.3</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1.3 1.3</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Dark_Green</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_khaki</name>
+			<shipGroups>IJN_group_2 USN_group_2 RUS_group_2 UK_group_2 GER_group_2 FRA_group_2 POL_group_1 PAN_group_2 ITA_group_3 NL_group_1 EUR_group_2 PAM_group_3 IJN_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.7 0.7</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Dark_Green</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_khaki</name>
+			<shipGroups>USN_group_8</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 1</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Dark_Green</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_khaki</name>
+			<shipGroups>RUS_group_3 GER_group_6 USN_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1.5 1.5</DeckHouse>
+				<Tile>6 1.5</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Dark_Green</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_khaki</name>
+			<shipGroups>IJN_group_3 USN_group_3 UK_group_3 GER_group_3 FRA_group_3 ITA_group_2 RUS_group_7 PAM_group_2 PAN_group_6</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>4 2</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Dark_Green</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_khaki</name>
+			<shipGroups>IJN_group_4 USN_group_4 RUS_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Dark_Green</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_khaki</name>
+			<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 PAN_group_4 ITA_group_4 PAM_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>4 4</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Dark_Green</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_khaki</name>
+			<shipGroups>RUS_group_6 USN_group_6 GER_group_5 UK_group_6 IJN_group_6 FRA_group_7 PAN_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 1</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Dark_Green</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_khaki</name>
+			<shipGroups>FRA_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>4 4</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Dark_Green</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_khaki</name>
+			<shipGroups>FRA_group_6 GER_group_7 UK_group_5 EUR_group_3 SP_group_2 NL_group_3 RUS_group_8</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 2</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Dark_Green</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_khaki</name>
+			<shipGroups>FRA_group_8 ITA_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Dark_Green</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_lilac</name>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 2</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.3 0.3</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1.3 1.3</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Light_Purple</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_lilac</name>
+			<shipGroups>IJN_group_2 USN_group_2 RUS_group_2 UK_group_2 GER_group_2 FRA_group_2 POL_group_1 PAN_group_2 ITA_group_3 NL_group_1 EUR_group_2 PAM_group_3 IJN_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.7 0.7</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Light_Purple</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_lilac</name>
+			<shipGroups>USN_group_8</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 1</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Light_Purple</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_lilac</name>
+			<shipGroups>RUS_group_3 GER_group_6 USN_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1.5 1.5</DeckHouse>
+				<Tile>6 1.5</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Light_Purple</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_lilac</name>
+			<shipGroups>IJN_group_3 USN_group_3 UK_group_3 GER_group_3 FRA_group_3 ITA_group_2 RUS_group_7 PAM_group_2 PAN_group_6</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>4 2</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Light_Purple</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_lilac</name>
+			<shipGroups>IJN_group_4 USN_group_4 RUS_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Light_Purple</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_lilac</name>
+			<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 PAN_group_4 ITA_group_4 PAM_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>4 4</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Light_Purple</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_lilac</name>
+			<shipGroups>RUS_group_6 USN_group_6 GER_group_5 UK_group_6 IJN_group_6 FRA_group_7 PAN_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 1</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Light_Purple</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_lilac</name>
+			<shipGroups>FRA_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>4 4</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Light_Purple</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_lilac</name>
+			<shipGroups>FRA_group_6 GER_group_7 UK_group_5 EUR_group_3 SP_group_2 NL_group_3 RUS_group_8</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 2</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Light_Purple</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_lilac</name>
+			<shipGroups>FRA_group_8 ITA_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Light_Purple</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_orange</name>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 2</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.3 0.3</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1.3 1.3</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Light_Orange</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_orange</name>
+			<shipGroups>IJN_group_2 USN_group_2 RUS_group_2 UK_group_2 GER_group_2 FRA_group_2 POL_group_1 PAN_group_2 ITA_group_3 NL_group_1 EUR_group_2 PAM_group_3 IJN_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.7 0.7</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Light_Orange</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_orange</name>
+			<shipGroups>USN_group_8</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 1</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Light_Orange</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_orange</name>
+			<shipGroups>RUS_group_3 GER_group_6 USN_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1.5 1.5</DeckHouse>
+				<Tile>6 1.5</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Light_Orange</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_orange</name>
+			<shipGroups>IJN_group_3 USN_group_3 UK_group_3 GER_group_3 FRA_group_3 ITA_group_2 RUS_group_7 PAM_group_2 PAN_group_6</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>4 2</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Light_Orange</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_orange</name>
+			<shipGroups>IJN_group_4 USN_group_4 RUS_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Light_Orange</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_orange</name>
+			<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 PAN_group_4 ITA_group_4 PAM_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>4 4</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Light_Orange</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_orange</name>
+			<shipGroups>RUS_group_6 USN_group_6 GER_group_5 UK_group_6 IJN_group_6 FRA_group_7 PAN_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 1</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Light_Orange</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_orange</name>
+			<shipGroups>FRA_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>4 4</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Light_Orange</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_orange</name>
+			<shipGroups>FRA_group_6 GER_group_7 UK_group_5 EUR_group_3 SP_group_2 NL_group_3 RUS_group_8</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 2</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Light_Orange</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_orange</name>
+			<shipGroups>FRA_group_8 ITA_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Light_Orange</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_pink</name>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 2</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.3 0.3</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1.3 1.3</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Pink</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_pink</name>
+			<shipGroups>IJN_group_2 USN_group_2 RUS_group_2 UK_group_2 GER_group_2 FRA_group_2 POL_group_1 PAN_group_2 ITA_group_3 NL_group_1 EUR_group_2 PAM_group_3 IJN_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.7 0.7</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Pink</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_pink</name>
+			<shipGroups>USN_group_8</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 1</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Pink</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_pink</name>
+			<shipGroups>RUS_group_3 GER_group_6 USN_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1.5 1.5</DeckHouse>
+				<Tile>6 1.5</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Pink</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_pink</name>
+			<shipGroups>IJN_group_3 USN_group_3 UK_group_3 GER_group_3 FRA_group_3 ITA_group_2 RUS_group_7 PAM_group_2 PAN_group_6</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>4 2</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Pink</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_pink</name>
+			<shipGroups>IJN_group_4 USN_group_4 RUS_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Pink</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_pink</name>
+			<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 PAN_group_4 ITA_group_4 PAM_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>4 4</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Pink</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_pink</name>
+			<shipGroups>RUS_group_6 USN_group_6 GER_group_5 UK_group_6 IJN_group_6 FRA_group_7 PAN_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 1</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Pink</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_pink</name>
+			<shipGroups>FRA_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>4 4</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Pink</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_pink</name>
+			<shipGroups>FRA_group_6 GER_group_7 UK_group_5 EUR_group_3 SP_group_2 NL_group_3 RUS_group_8</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 2</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Pink</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_pink</name>
+			<shipGroups>FRA_group_8 ITA_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Pink</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_purple</name>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 2</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.3 0.3</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1.3 1.3</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Pink_Sale</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_purple</name>
+			<shipGroups>IJN_group_2 USN_group_2 RUS_group_2 UK_group_2 GER_group_2 FRA_group_2 POL_group_1 PAN_group_2 ITA_group_3 NL_group_1 EUR_group_2 PAM_group_3 IJN_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.7 0.7</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Pink_Sale</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_purple</name>
+			<shipGroups>USN_group_8</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 1</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Pink_Sale</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_purple</name>
+			<shipGroups>RUS_group_3 GER_group_6 USN_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1.5 1.5</DeckHouse>
+				<Tile>6 1.5</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Pink_Sale</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_purple</name>
+			<shipGroups>IJN_group_3 USN_group_3 UK_group_3 GER_group_3 FRA_group_3 ITA_group_2 RUS_group_7 PAM_group_2 PAN_group_6</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>4 2</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Pink_Sale</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_purple</name>
+			<shipGroups>IJN_group_4 USN_group_4 RUS_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Pink_Sale</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_purple</name>
+			<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 PAN_group_4 ITA_group_4 PAM_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>4 4</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Pink_Sale</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_purple</name>
+			<shipGroups>RUS_group_6 USN_group_6 GER_group_5 UK_group_6 IJN_group_6 FRA_group_7 PAN_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 1</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Pink_Sale</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_purple</name>
+			<shipGroups>FRA_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>4 4</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Pink_Sale</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_purple</name>
+			<shipGroups>FRA_group_6 GER_group_7 UK_group_5 EUR_group_3 SP_group_2 NL_group_3 RUS_group_8</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 2</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Pink_Sale</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_purple</name>
+			<shipGroups>FRA_group_8 ITA_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Pink_Sale</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_red</name>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 2</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.3 0.3</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1.3 1.3</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Red</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_red</name>
+			<shipGroups>IJN_group_2 USN_group_2 RUS_group_2 UK_group_2 GER_group_2 FRA_group_2 POL_group_1 PAN_group_2 ITA_group_3 NL_group_1 EUR_group_2 PAM_group_3 IJN_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.7 0.7</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Red</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_red</name>
+			<shipGroups>USN_group_8</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 1</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Red</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_red</name>
+			<shipGroups>RUS_group_3 GER_group_6 USN_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1.5 1.5</DeckHouse>
+				<Tile>6 1.5</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Red</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_red</name>
+			<shipGroups>IJN_group_3 USN_group_3 UK_group_3 GER_group_3 FRA_group_3 ITA_group_2 RUS_group_7 PAM_group_2 PAN_group_6</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>4 2</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Red</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_red</name>
+			<shipGroups>IJN_group_4 USN_group_4 RUS_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Red</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_red</name>
+			<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 PAN_group_4 ITA_group_4 PAM_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>4 4</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Red</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_red</name>
+			<shipGroups>RUS_group_6 USN_group_6 GER_group_5 UK_group_6 IJN_group_6 FRA_group_7 PAN_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 1</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Red</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_red</name>
+			<shipGroups>FRA_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>4 4</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Red</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_red</name>
+			<shipGroups>FRA_group_6 GER_group_7 UK_group_5 EUR_group_3 SP_group_2 NL_group_3 RUS_group_8</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 2</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Red</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_red</name>
+			<shipGroups>FRA_group_8 ITA_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Red</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_yellow</name>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 2</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.3 0.3</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1.3 1.3</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Yellow</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_yellow</name>
+			<shipGroups>IJN_group_2 USN_group_2 RUS_group_2 UK_group_2 GER_group_2 FRA_group_2 POL_group_1 PAN_group_2 ITA_group_3 NL_group_1 EUR_group_2 PAM_group_3 IJN_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.7 0.7</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Yellow</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_yellow</name>
+			<shipGroups>USN_group_8</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 1</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Yellow</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_yellow</name>
+			<shipGroups>RUS_group_3 GER_group_6 USN_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1.5 1.5</DeckHouse>
+				<Tile>6 1.5</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Yellow</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_yellow</name>
+			<shipGroups>IJN_group_3 USN_group_3 UK_group_3 GER_group_3 FRA_group_3 ITA_group_2 RUS_group_7 PAM_group_2 PAN_group_6</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>4 2</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Yellow</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_yellow</name>
+			<shipGroups>IJN_group_4 USN_group_4 RUS_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Yellow</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_yellow</name>
+			<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 PAN_group_4 ITA_group_4 PAM_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>4 4</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Yellow</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_yellow</name>
+			<shipGroups>RUS_group_6 USN_group_6 GER_group_5 UK_group_6 IJN_group_6 FRA_group_7 PAN_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 1</DeckHouse>
+				<Tile>4 4</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Yellow</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_yellow</name>
+			<shipGroups>FRA_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>4 4</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Yellow</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_yellow</name>
+			<shipGroups>FRA_group_6 GER_group_7 UK_group_5 EUR_group_3 SP_group_2 NL_group_3 RUS_group_8</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>2 2</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Yellow</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pinata tile camouflage block for all of the ships</annotation>
+			<name>camo_Pinata_tile_yellow</name>
+			<shipGroups>FRA_group_8 ITA_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>4 2</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pinata_Yellow</colorSchemes>
+		</camouflage>
+		<camouflage>
 			<annotation>Pi Day 2018 tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_Pi_day_2018_tile</name>
 			<tiled>true</tiled>
@@ -50400,6 +54326,133 @@
 			<colorSchemes>colorSchemeCerberus_alt</colorSchemes>
 		</camouflage>
 		<camouflage>
+			<annotation>Encounter unique permOflage block</annotation>
+			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
+			<targetShip>PUSC019_Encounter</targetShip>
+			<tiled>false</tiled>
+			<UV>
+				<Tile>1 1</Tile>
+				<Gun>0.45 0.45</Gun>
+				<Director>0.45 0.45</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+			</UV>
+			<Textures>
+				<Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
+				<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
+				<Plane>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Float>
+			</Textures>
+			<colorSchemes>colorSchemeEncounter</colorSchemes>
+			<colorSchemes>colorSchemeEncounter_alt</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Hobart unique permOflage block</annotation>
+			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
+			<targetShip>PUSC016_Hobart</targetShip>
+			<tiled>false</tiled>
+			<UV>
+				<Tile>1 1</Tile>
+				<Gun>0.45 0.45</Gun>
+				<Director>0.45 0.45</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+			</UV>
+			<Textures>
+				<Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
+				<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
+				<Plane>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Float>
+			</Textures>
+			<colorSchemes>colorSchemeEncounter</colorSchemes>
+			<colorSchemes>colorSchemeEncounter_alt</colorSchemes>
+		</camouflage>
+		<camouflage>
+        
+			<annotation>Uganda unique permOflage block</annotation>
+        
+			<name>camo_permanent_1</name>
+        
+			<useColorScheme>True</useColorScheme>
+        
+			<targetShip>PUSC017_Uganda</targetShip>
+        
+			<tiled>false</tiled>
+        
+			<UV>
+            
+				<Tile>1 1</Tile>
+            
+				<Gun>0.45 0.45</Gun>
+            
+				<Director>0.45 0.45</Director>
+            
+				<Plane>0.5 0.5</Plane>
+            
+				<Float>0.5 0.25</Float>
+            
+				<Misc>0.3 0.3</Misc>
+        
+			</UV>
+        
+			<Textures>
+            
+				<Hull>content/gameplay/common/camouflage/textures/USC307_Uganda_1944_camo_01.dds</Hull>
+            
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+            
+				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
+            
+				<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
+            
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+            
+				<Float>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Float>
+        
+			</Textures>
+        
+			<colorSchemes>colorSchemeUganda</colorSchemes>
+        
+			<colorSchemes>colorSchemeUganda_alt</colorSchemes>
+    
+		</camouflage>
+		<camouflage>
+			<annotation>Auckland unique permOflage block</annotation>
+			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
+			<targetShip>PUSC018_Auckland</targetShip>
+			<tiled>false</tiled>
+			<UV>
+				<Tile>1 1</Tile>
+				<Gun>0.45 0.45</Gun>
+				<Director>0.45 0.45</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+			</UV>
+			<Textures>
+				<Hull>content/gameplay/common/camouflage/textures/USC308_Auckland_1944_hull_camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
+				<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
+				<Plane>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Float>
+			</Textures>
+			<colorSchemes>colorSchemeUganda</colorSchemes>
+			<colorSchemes>colorSchemeUganda_alt</colorSchemes>
+		</camouflage>
+		<camouflage>
 			<annotation>Yukon unique permOflage block</annotation>
 			<name>camo_permanent_2</name>
 			<targetShip>PUSB507_Yukon</targetShip>
@@ -52192,6 +56245,31 @@
 			</Textures>
 			<colorSchemes>colorSchemePFSB548_Picardie</colorSchemes>
 			<colorSchemes>colorSchemePFSB548_Picardie_alt</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Montcalm permOflage block</annotation>
+			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
+			<targetShip>PFSC716_Montcalm</targetShip>
+			<tiled>false</tiled>
+			<UV>
+				<Tile>1 1</Tile>
+				<Gun>0.6 0.6</Gun>
+				<Director>0.6 0.6</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+			</UV>
+			<Textures>
+				<Hull>content/gameplay/common/camouflage/textures/FSC301_Montcalm_1944_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+				<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
+				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
+			</Textures>
+			<colorSchemes>colorSchemePFSC716Montcalm</colorSchemes>
+			<colorSchemes>colorSchemePFSC716Montcalm_alt</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Gascogne unique permOflage block</annotation>
@@ -58217,6 +62295,30 @@
 			<colorSchemes>colorSchemeIJN_Minegumo_alt</colorSchemes>
 		</camouflage>
 		<camouflage>
+			<annotation>Chikuma_2_Hyb unique permOflage block</annotation>
+			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
+			<targetShip>PJSC719_Chikuma_2_Hyb</targetShip>
+			<tiled>false</tiled>
+			<UV>
+				<Tile>1 1</Tile>
+				<Gun>4 4</Gun>
+				<Director>0.5 0.5</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+			</UV>
+			<Textures>
+				<Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
+				<Plane>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Float>
+			</Textures>
+			<colorSchemes>colorSchemeIJN_Chikuma_2_Hyb</colorSchemes>
+			<colorSchemes>colorSchemeIJN_Chikuma_2_Hyb_alt</colorSchemes>
+		</camouflage>
+		<camouflage>
 			<annotation>Tachibana unique permOflage block</annotation>
 			<name>camo_permanent_2</name>
 			<targetShip>PJSD001_Tachibana_1912</targetShip>
@@ -58741,6 +62843,31 @@
 				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RB.dds</Float>
 			</Textures>
 			<colorSchemes>colorSchemeNL01</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Prins_Van_Oranje unique permOflage block</annotation>
+			<name>camo_permanent_1</name>
+			<useColorScheme>True</useColorScheme>
+			<targetShip>PHSC710_Prins_Van_Oranje</targetShip>
+			<tiled>false</tiled>
+			<UV>
+				<Tile>1 1</Tile>
+				<Gun>0.5 0.5</Gun>
+				<Director>0.5 0.5</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.25</Float>
+				<Misc>0.3 0.3</Misc>
+			</UV>
+			<Textures>
+				<Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+				<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
+				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
+				<Plane>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Float>
+			</Textures>
+			<colorSchemes>colorSchemePrins_Van_Oranje</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Nueve de Julio unique permOflage block</annotation>
@@ -63586,6 +67713,7 @@
 			<name>camo_permanent_1</name>
 			<useColorScheme>True</useColorScheme>
 			<targetShip>PBSB517_Nelson</targetShip>
+			<targetShip>PBSB727_Duke_of_Bronte</targetShip>
 			<tiled>false</tiled>
 			<UV>
 				<Tile>1 1</Tile>
@@ -65641,6 +69769,56 @@
 			</Textures>
 			<colorSchemes>colorSchemeJupiter</colorSchemes>
 			<colorSchemes>colorSchemeJupiter_alt</colorSchemes>
+		</camouflage>
+		<camouflage>
+        
+			<annotation>Orion_1944 unique permOflage block</annotation>
+        
+			<name>camo_permanent_1</name>
+        
+			<useColorScheme>True</useColorScheme>
+        
+			<targetShip>PBSC716_Orion_1944</targetShip>
+        
+			<tiled>false</tiled>
+        
+			<UV>
+            
+				<Tile>1 1</Tile>
+            
+				<Gun>0.45 0.45</Gun>
+            
+				<Director>0.45 0.45</Director>
+            
+				<Plane>0.5 0.5</Plane>
+            
+				<Float>0.5 0.25</Float>
+            
+				<Misc>0.3 0.3</Misc>
+        
+			</UV>
+        
+			<Textures>
+            
+				<Hull>content/gameplay/common/camouflage/textures/BSC301_Orion_1944_Hull_camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/BSC301_Orion_1944_Deckhouse_camo_01.dds</DeckHouse>
+            
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+            
+				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
+            
+				<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
+            
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+            
+				<Float>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Float>
+        
+			</Textures>
+        
+			<colorSchemes>colorSchemeOrion_1944</colorSchemes>
+        
+			<colorSchemes>colorSchemeOrion_1944_alt</colorSchemes>
+    
 		</camouflage>
 		<camouflage>
 			<annotation>Hood second unique permOflage block</annotation>
