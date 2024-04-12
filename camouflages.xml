@@ -5,7 +5,7 @@
 		<!--//1. Japanese ships with texture		2048*2048, 4096*4096, 4096*4096+2048*2048-->
 		<shipGroup>
 			<name>IJN_group_1</name>
-			<ships> PJSD002_Umikaze_1925 PJSD001_Tachibana_1912 PJSD014_Tachibana_1912_Asus PJSD024_Wakatake_1923 PJSD003_Isokaze_1917 PJSD004_Minekadze_1920 PJSD105_Mutsuki PJSD017_Kamikaze_1930 PJSD025_True_Kamikaze PJSD026_Camo_Kamikaze PJSD206_Hatsuharu PJSD106_Fubuki PJSD706_Shinonome PJSD596_Black_Shinonome PJSD108_Akizuki PJSD708_HSF_Harekaze PJSD012_Shimakaze_1943 PJSB011_Mikasa_1905 PJSB001_Kawachi_1912 PJSB008_Ishizuchi_1921 PJSB007_Kongo_1942 PJSB705_Kongou PJSB706_Kirishima PJSB707_Haruna PJSB708_Hiei_Arpeggio PJSB010_Nagato_1944 PJSB013_Amagi_1942 PJSB878_Ignis_Purgatio PJSB888_Ragnarok PJSB021_Izumo_1938 PZSB509_Izumo_Bajie PJSC037_Hashidate_1940 PJSC503_Katori PJSC013_Kuma_1938 PJSC004_Yubari_1944 PJSC005_Furutaka_1926 PJSC007_Aoba_1943 PJSC008_Myoko_1945 PJSC705_Myoko PJSC707_Ashigara PJSC709_Haguro PJSC737_Nachi PJSC717_Yellow_Dragon PJSC727_Blue_Dragon PJSC708_ARP_Takao PJSC718_ARP_Maya PJSC009_Mogami_1935 PJSC038_Atago_1944 PJSC598_Black_Atago PJSC012_Ibuki_1944 PJSC034_Zao_1944 PJSA002_Hosho_1939 PJSA009_Ryujo_1933 PJSA011_Hiryu_1942 PJSA017_Hakuryu_1942 PJSA917_TST_Hakuryu PJSD219_Kitakaze PJSD889_Kitakaze_PR PJSC505_Yahagi PJSA104_Hosho PJSA106_Ryujo PJSA110_Hakuryu PJSC810_TST_ZAO PXSD016_Shimakaze_PA PJSD528_Harekaze_2 PJSC610_Kitakami PJSC018_Tone PJSC918_Tone_Second PJSC919_Tone_Third PJSC207_Omono PJSC507_Tokachi PJSC205_Agano PJSC719_Chikuma_2_Hyb</ships>
+			<ships> PJSD002_Umikaze_1925 PJSD001_Tachibana_1912 PJSD014_Tachibana_1912_Asus PJSD024_Wakatake_1923 PJSD003_Isokaze_1917 PJSD004_Minekadze_1920 PJSD105_Mutsuki PJSD017_Kamikaze_1930 PJSD025_True_Kamikaze PJSD026_Camo_Kamikaze PJSD206_Hatsuharu PJSD106_Fubuki PJSD706_Shinonome PJSD596_Black_Shinonome PJSD108_Akizuki PJSD708_HSF_Harekaze PJSD012_Shimakaze_1943 PJSB011_Mikasa_1905 PJSB001_Kawachi_1912 PJSB008_Ishizuchi_1921 PJSB007_Kongo_1942 PJSB705_Kongou PJSB706_Kirishima PJSB707_Haruna PJSB708_Hiei_Arpeggio PJSB010_Nagato_1944 PJSB013_Amagi_1942 PJSB878_Ignis_Purgatio PJSB888_Ragnarok PJSB021_Izumo_1938 PZSB509_Izumo_Bajie PJSC037_Hashidate_1940 PJSC503_Katori PJSC013_Kuma_1938 PJSC004_Yubari_1944 PJSC005_Furutaka_1926 PJSC007_Aoba_1943 PJSC008_Myoko_1945 PJSC705_Myoko PJSC707_Ashigara PJSC709_Haguro PJSC737_Nachi PJSC717_Yellow_Dragon PJSC727_Blue_Dragon PJSC708_ARP_Takao PJSC718_ARP_Maya PJSC009_Mogami_1935 PJSC038_Atago_1944 PJSC598_Black_Atago PJSC012_Ibuki_1944 PJSC034_Zao_1944 PJSA002_Hosho_1939 PJSA009_Ryujo_1933 PJSA011_Hiryu_1942 PJSA017_Hakuryu_1942 PJSA917_TST_Hakuryu PJSD219_Kitakaze PJSD889_Kitakaze_PR PJSC505_Yahagi PJSA104_Hosho PJSA106_Ryujo PJSA110_Hakuryu PJSC810_TST_ZAO PXSD016_Shimakaze_PA PJSD528_Harekaze_2 PJSC610_Kitakami PJSC018_Tone PJSC918_Tone_Second PJSC919_Tone_Third PJSC207_Omono PJSC507_Tokachi PJSC205_Agano PJSC719_Chikuma_2_Hyb PJSC729_GW_Chikuma_2_Hyb</ships>
 		</shipGroup>
 		<!--//2. Japanese ships with texture		4096*2048-->
 		<shipGroup>
@@ -4564,6 +4564,13 @@
 			<color3>1.000 0.000 0.400 1.500</color3>
 		</colorScheme>
 		<colorScheme>
+			<name>colorScheme_Pirate</name>
+			<color0>0.289 0.223 0.043 1.000</color0>
+			<color1>0.048 0.018 0.006 1.000</color1>
+			<color2>0.389 0.378 0.364 1.000</color2>
+			<color3>0.289 0.114 0.037 1.000</color3>
+		</colorScheme>
+		<colorScheme>
 			<name>colorSchemeSWDP01</name>
 			<color0>0.017 0.021 0.019 1.000</color0>
 			<color1>0.078 0.094 0.098 1.000</color1>
@@ -7145,6 +7152,65 @@
 			<realm>all</realm>
 		</camouflage>
 		<camouflage>
+			<annotation> mat_Chikuma_GW unique permOflage</annotation>
+			<name>mat_Chikuma_GW</name>
+			<tiled>false</tiled>
+        
+			<targetShip>PJSC729_GW_Chikuma_2_Hyb</targetShip>
+			<UV>
+				<DeckHouse>0.5 0.5</DeckHouse>
+				<Tile>1 1</Tile>
+				<Gun>0.5 0.5</Gun>
+				<Director>0.5 0.5</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.5</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+				<Gun>content/gameplay/common/camouflage/textures/mat_camo/mat_Chikuma_GW_a.dds</Gun>
+				<Gun_mgn>
+				content/gameplay/common/camouflage/textures/mat_camo/mat_Chikuma_GW_mgn.dds
+					<Influence_m> 0.8 </Influence_m>
+					<Influence_g> 0.8 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_camo/mat_Chikuma_GW_a.dds</Director>
+				<Director_mgn>
+				content/gameplay/common/camouflage/textures/mat_camo/mat_Chikuma_GW_mgn.dds
+					<Influence_m> 0.8 </Influence_m>
+					<Influence_g> 0.8 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Director_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_camo/mat_Chikuma_GW_a.dds</Float>
+				<Float_mgn>
+				content/gameplay/common/camouflage/textures/mat_camo/mat_Chikuma_GW_mgn.dds
+					<Influence_m> 0.8 </Influence_m>
+					<Influence_g> 0.8 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_camo/mat_Chikuma_GW_a.dds</Misc>
+				<Misc_mgn>
+				content/gameplay/common/camouflage/textures/mat_camo/mat_Chikuma_GW_mgn.dds
+					<Influence_m> 0.8 </Influence_m>
+					<Influence_g> 0.8 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Misc_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_camo/mat_Chikuma_GW_a.dds</Plane>
+				<Plane_mgn>
+				content/gameplay/common/camouflage/textures/mat_camo/mat_Chikuma_GW_mgn.dds
+					<Influence_m> 0.8 </Influence_m>
+					<Influence_g> 0.8 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Plane_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Wire>
+			</Textures>
+			<colorSchemes>colorSchemeUSNP17</colorSchemes>
+			<realm>all</realm>
+		</camouflage>
+		<camouflage>
 			<annotation>mat_CopperAlbedo unique permOflage</annotation>
 			<name>mat_CopperAlbedo</name>
 			<tiled>false</tiled>
@@ -8006,6 +8072,88 @@
 					<Influence_n> 0.0 </Influence_n>
 				</Wire_mgn>
 			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>Golden Week 2024 unique permoflage</annotation>
+			<name>mat_GoldenWeek_2024</name>
+			<tiled>false</tiled>
+			<targetShip>PJSC009_Mogami_1935</targetShip>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>1 1</Tile>
+				<Gun>1 1</Gun>
+				<Director>1 1</Director>
+				<Plane>1 1</Plane>
+				<Float>1 1</Float>
+				<Misc>1 1</Misc>
+			</UV>
+			<Textures>
+				<DeckHouse>content/gameplay/common/camouflage/textures/JSC010_Mogami_1944_GW_DeckHouse_a.dds</DeckHouse>
+				<DeckHouse_mgn>
+					content/gameplay/common/camouflage/textures/JSC010_Mogami_1944_GW_DeckHouse_mg.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.8 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</DeckHouse_mgn>
+				<Hull>content/gameplay/common/camouflage/textures/JSC010_Mogami_1944_GW_Hull_a.dds</Hull>
+				<Hull_mgn>
+					content/gameplay/common/camouflage/textures/JSC010_Mogami_1944_GW_Hull_mg.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.8 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Hull_mgn>
+				<Gun>content/gameplay/common/camouflage/textures/mat_Black_03_a.dds</Gun>
+				<Gun_mgn>
+					content/gameplay/common/camouflage/textures/mat_Black_03_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.8 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_Black_03_a.dds</Director>
+				<Director_mgn>
+					content/gameplay/common/camouflage/textures/mat_Black_03_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.8 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_Black_03_a.dds</Plane>
+				<Plane_mgn>
+					content/gameplay/common/camouflage/textures/mat_Black_03_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_Black_03_a.dds</Float>
+				<Float_mgn>
+					content/gameplay/common/camouflage/textures/mat_Black_03_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_Black_03_a.dds</Misc>
+				<Misc_mgn>
+					content/gameplay/common/camouflage/textures/mat_Black_03_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.8 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Misc_mgn>
+				<Bulge>content/gameplay/common/camouflage/textures/mat_Black_03_a.dds</Bulge>
+				<Bulge_mgn>
+					content/gameplay/common/camouflage/textures/mat_Black_03_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Bulge_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/mat_Black_03_a.dds</Wire>
+				<Wire_mgn>
+					content/gameplay/common/camouflage/textures/mat_Black_03_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.8 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			</Textures>
+			<realm>all</realm>
+			<colorSchemes>colorSchemeUSNP17</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>mat_GreenGoldAlbedo unique permOflage</annotation>
@@ -19321,6 +19469,71 @@
 				</Misc_mgn>
 				<Bulge>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Bulge>
 				<Wire>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Wire>
+			</Textures>
+			<colorSchemes>colorSchemeUSNP17</colorSchemes>
+			<realm>all</realm>
+		</camouflage>
+		<camouflage>
+			<annotation> Wisconsin mat camo orange color style</annotation>
+			<name>mat_Wisconsin_BB</name>
+			<tiled>false</tiled>
+			<targetShip>PASB730_Wisconsin</targetShip>
+			<UV>
+				<DeckHouse>0.5 0.5</DeckHouse>
+				<Tile>1 1</Tile>
+				<Gun>0.5 0.5</Gun>
+				<Director>0.5 0.5</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.5</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+				<Hull>1 1</Hull>
+			</UV>
+			<Textures>
+				<Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+				<Gun>content/gameplay/common/camouflage/textures/mat_camo/mat_Wisconsin_BB_a.dds</Gun>
+				<Gun_mgn>
+				content/gameplay/common/camouflage/textures/mat_alum_01_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_Nadeshot.dds</Director>
+				<Director_mgn>
+				content/gameplay/common/camouflage/textures/mat_alum_01_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_camo/mat_Wisconsin_BB_a.dds</Plane>
+				<Plane_mgn>
+				content/gameplay/common/camouflage/textures/mat_alum_01_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_camo/mat_Wisconsin_BB_a.dds</Float>
+				<Float_mgn>
+				content/gameplay/common/camouflage/textures/mat_alum_01_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_camo/mat_Wisconsin_BB_a.dds</Misc>
+				<Misc_mgn>
+				content/gameplay/common/camouflage/textures/mat_alum_01_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Misc_mgn>
+				<Bulge>content/gameplay/common/camouflage/textures/mat_camo/mat_Wisconsin_BB_a.dds</Bulge>
+				<Bulge_mgn>
+				content/gameplay/common/camouflage/textures/mat_alum_01_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Bulge_mgn>
 			</Textures>
 			<colorSchemes>colorSchemeUSNP17</colorSchemes>
 			<realm>all</realm>
@@ -42387,6 +42600,185 @@
 				<Tile>content/gameplay/common/camouflage/textures/camo_Pinata_tile.dds</Tile>
 			</Textures>
 			<colorSchemes>colorScheme_Pinata_Yellow</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pirate tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
+			<name>camo_Pirate_tile</name>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>3 3</Tile>
+				<DeckHouse>1.5 1.5</DeckHouse>
+				<Gun>0.3 0.3</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_Tile_camo_Pirate_30.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pirate</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pirate tile camouflage block for the ships with a texture 4096*2048</annotation>
+			<name>camo_Pirate_tile</name>
+			<shipGroups>IJN_group_2 USN_group_2 RUS_group_2 UK_group_2 GER_group_2 FRA_group_2 POL_group_1 PAN_group_2 ITA_group_3 EUR_group_2 GER_group_8 PAM_group_3</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>0.75 0.75</DeckHouse>
+				<Tile>3 1.5</Tile>
+				<Gun>0.3 0.3</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_Tile_camo_Pirate_30.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pirate</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pirate tile camouflage block for the ships with a texture 4096*2048+2048*1024</annotation>
+			<name>camo_Pirate_tile</name>
+			<shipGroups>IJN_group_7 USN_group_8 GER_group_8 ITA_group_3 EUR_group_2 NL_group_1</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>3 1.5</Tile>
+				<DeckHouse>1.5 0.75</DeckHouse>
+				<Gun>0.3 0.3</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_Tile_camo_Pirate_30.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pirate</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pirate tile camouflage block for the ships with a texture 4096*1024</annotation>
+			<name>camo_Pirate_tile</name>
+			<shipGroups>RUS_group_3 GER_group_6 USN_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>3 0.75</Tile>
+				<DeckHouse>0.75 0.75</DeckHouse>
+				<Gun>0.3 0.3</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_Tile_camo_Pirate_30.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pirate</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pirate tile camouflage block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
+			<name>camo_Pirate_tile</name>
+			<shipGroups>IJN_group_3 USN_group_3 UK_group_3 GER_group_3 FRA_group_3 ITA_group_2 RUS_group_7 PAM_group_2 PAN_group_6</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>3 3</Tile>
+				<DeckHouse>3 1.5</DeckHouse>
+				<Gun>0.3 0.3</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_Tile_camo_Pirate_30.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pirate</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pirate tile camouflage block for the ships with a texture 4096*4096+1024*1024</annotation>
+			<name>camo_Pirate_tile</name>
+			<shipGroups>IJN_group_4 USN_group_4 RUS_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>3 3</Tile>
+				<DeckHouse>0.75 0.75</DeckHouse>
+				<Gun>0.3 0.3</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_Tile_camo_Pirate_30.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pirate</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pirate tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
+			<name>camo_Pirate_tile</name>
+			<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 PAN_group_4 ITA_group_4 PAM_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>3 3</Tile>
+				<DeckHouse>3 3</DeckHouse>
+				<Gun>0.3 0.3</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_Tile_camo_Pirate_30.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pirate</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pirate tile camouflage block for the ships with a texture 4096*4096+2048*1024</annotation>
+			<name>camo_Pirate_tile</name>
+			<shipGroups>RUS_group_6 USN_group_6 GER_group_5 UK_group_6 IJN_group_6 FRA_group_7 PAN_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>3 3</Tile>
+				<DeckHouse>1.5 0.75</DeckHouse>
+				<Gun>0.3 0.3</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_Tile_camo_Pirate_30.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pirate</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pirate tile camouflage block for the ships with a texture 4096*2048+4096*4096</annotation>
+			<name>camo_Pirate_tile</name>
+			<shipGroups>FRA_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>3 1.5</Tile>
+				<DeckHouse>3 3</DeckHouse>
+				<Gun>0.3 0.3</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_Tile_camo_Pirate_30.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pirate</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Pi Day 2018 tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
@@ -67714,6 +68106,7 @@
 			<useColorScheme>True</useColorScheme>
 			<targetShip>PBSB517_Nelson</targetShip>
 			<targetShip>PBSB727_Duke_of_Bronte</targetShip>
+			<targetShip>PBSB717_Rodney</targetShip>
 			<tiled>false</tiled>
 			<UV>
 				<Tile>1 1</Tile>
@@ -73317,11 +73710,11 @@
 			<Textures>
 				<Hull>content/gameplay/common/camouflage/textures/ASB078_Wisconsin_1945_camo_01.dds</Hull>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Float>
+				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeWisconsin</colorSchemes>
-			<colorSchemes>colorSchemeWisconsin_alt</colorSchemes>
+			<colorSchemes>colorSchemeUSNP16</colorSchemes>
+			<colorSchemes>colorSchemeUSNP15</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Black Rank camo Crocodile unique permOflage block</annotation>
