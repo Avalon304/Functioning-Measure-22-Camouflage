@@ -5,7 +5,7 @@
 		<!--//1. Japanese ships with texture		2048*2048, 4096*4096, 4096*4096+2048*2048-->
 		<shipGroup>
 			<name>IJN_group_1</name>
-			<ships> PJSD002_Umikaze_1925 PJSD001_Tachibana_1912 PJSD014_Tachibana_1912_Asus PJSD024_Wakatake_1923 PJSD003_Isokaze_1917 PJSD004_Minekadze_1920 PJSD105_Mutsuki PJSD017_Kamikaze_1930 PJSD025_True_Kamikaze PJSD026_Camo_Kamikaze PJSD206_Hatsuharu PJSD106_Fubuki PJSD706_Shinonome PJSD596_Black_Shinonome PJSD108_Akizuki PJSD708_HSF_Harekaze PJSD012_Shimakaze_1943 PJSB011_Mikasa_1905 PJSB001_Kawachi_1912 PJSB008_Ishizuchi_1921 PJSB007_Kongo_1942 PJSB705_Kongou PJSB706_Kirishima PJSB707_Haruna PJSB708_Hiei_Arpeggio PJSB010_Nagato_1944 PJSB013_Amagi_1942 PJSB878_Ignis_Purgatio PJSB888_Ragnarok PJSB021_Izumo_1938 PZSB509_Izumo_Bajie PJSC037_Hashidate_1940 PJSC503_Katori PJSC013_Kuma_1938 PJSC004_Yubari_1944 PJSC005_Furutaka_1926 PJSC007_Aoba_1943 PJSC008_Myoko_1945 PJSC705_Myoko PJSC707_Ashigara PJSC709_Haguro PJSC737_Nachi PJSC717_Yellow_Dragon PJSC727_Blue_Dragon PJSC708_ARP_Takao PJSC718_ARP_Maya PJSC009_Mogami_1935 PJSC038_Atago_1944 PJSC598_Black_Atago PJSC012_Ibuki_1944 PJSC034_Zao_1944 PJSA002_Hosho_1939 PJSA009_Ryujo_1933 PJSA011_Hiryu_1942 PJSA017_Hakuryu_1942 PJSA917_TST_Hakuryu PJSD219_Kitakaze PJSD889_Kitakaze_PR PJSC505_Yahagi PJSA104_Hosho PJSA106_Ryujo PJSA110_Hakuryu PJSC810_TST_ZAO PXSD016_Shimakaze_PA PJSD528_Harekaze_2 PJSC610_Kitakami PJSC018_Tone PJSC918_Tone_Second PJSC919_Tone_Third PJSC207_Omono PJSC507_Tokachi PJSC205_Agano PJSC719_Chikuma_2_Hyb</ships>
+			<ships> PJSD002_Umikaze_1925 PJSD001_Tachibana_1912 PJSD014_Tachibana_1912_Asus PJSD024_Wakatake_1923 PJSD003_Isokaze_1917 PJSD004_Minekadze_1920 PJSD105_Mutsuki PJSD017_Kamikaze_1930 PJSD025_True_Kamikaze PJSD026_Camo_Kamikaze PJSD206_Hatsuharu PJSD106_Fubuki PJSD706_Shinonome PJSD596_Black_Shinonome PJSD108_Akizuki PJSD708_HSF_Harekaze PJSD012_Shimakaze_1943 PJSB011_Mikasa_1905 PJSB001_Kawachi_1912 PJSB008_Ishizuchi_1921 PJSB007_Kongo_1942 PJSB705_Kongou PJSB706_Kirishima PJSB707_Haruna PJSB708_Hiei_Arpeggio PJSB010_Nagato_1944 PJSB013_Amagi_1942 PJSB878_Ignis_Purgatio PJSB888_Ragnarok PJSB021_Izumo_1938 PZSB509_Izumo_Bajie PJSC037_Hashidate_1940 PJSC503_Katori PJSC013_Kuma_1938 PJSC004_Yubari_1944 PJSC005_Furutaka_1926 PJSC007_Aoba_1943 PJSC008_Myoko_1945 PJSC705_Myoko PJSC707_Ashigara PJSC709_Haguro PJSC737_Nachi PJSC717_Yellow_Dragon PJSC727_Blue_Dragon PJSC708_ARP_Takao PJSC718_ARP_Maya PJSC009_Mogami_1935 PJSC038_Atago_1944 PJSC598_Black_Atago PJSC012_Ibuki_1944 PJSC034_Zao_1944 PJSA002_Hosho_1939 PJSA009_Ryujo_1933 PJSA011_Hiryu_1942 PJSA017_Hakuryu_1942 PJSA917_TST_Hakuryu PJSD219_Kitakaze PJSD889_Kitakaze_PR PJSC505_Yahagi PJSA104_Hosho PJSA106_Ryujo PJSA110_Hakuryu PJSC810_TST_ZAO PXSD016_Shimakaze_PA PJSD528_Harekaze_2 PJSC610_Kitakami PJSC018_Tone PJSC918_Tone_Second PJSC919_Tone_Third PJSC207_Omono PJSC507_Tokachi PJSC205_Agano PJSC719_Chikuma_2_Hyb PJSC729_GW_Chikuma_2_Hyb</ships>
 		</shipGroup>
 		<!--//2. Japanese ships with texture		4096*2048-->
 		<shipGroup>
@@ -41,7 +41,7 @@
 		<!--//1. American ships with texture		2048*2048, 4096*4096, 4096*4096+2048*2048-->
 		<shipGroup>
 			<name>USN_group_1</name>
-			<ships> PASD502_Smith  PASB001_Michigan_1916 PASB004_Arkansas_1912 PASB013_Arkansas_1912 PASB006_New_York_1934 PASB705_Texas_1944 PASB034_New_Mexico_1941 PASB012_North_Carolina_1945 PASB808_Colorful_North_Carolina PASB508_Alabama PASB528_Alabama_VL PASB708_Alabama PASB018_Iowa_1944 PASB509_Missouri PASC001_Erie_1936 PASC002_Chester_1908 PASC003_Albany_1898 PASC004_St_Louis_1906 PASC024_Phoenix_1917 PASC005_Omaha_1923 PASC044_Marblehead_1924 PASC045_Marblehead_1924_Asus PASC007_Cleveland_1945 PASC208_Cleveland PASC012_Pensacola_1944 PASC106_Pensacola_1944 PASC006_Atlanta_1942 PASC507_Indianapolis_1945 PASC707_Flint PASC014_New_Orlean_1944 PASC107_New_Orlean_1944 PASC017_Baltimore_1944 PASC108_Baltimore_1944 PASC020_Des_Moines_1948 PASA004_Langley_1929 PASA006_Independence_1945 PASA507_Saipan_1946 PASA012_Lexington_1944 PASA013_Essex_1945 PASB518_Massachusetts PASB598_Black_Massachusetts PASC710_Salem PASC109_Buffalo PASC206_Dallas PASC209_Seattle PASC210_Worcester PASC597_Nueve_de_Julio_1951 PASC503_Charleston PASA104_Langley PASA108_Lexington PASA908_Concord_Bridge PASA528_Saipan PASC718_AZUR_Montpelier PASB729_Georgia PASD505_Hill PXSD017_Gearing_PA PASD597_Black_Sims PASC518_Anchorage PASC587_Black_Atlanta PASB538_Constellation PASC548_San_Diego PASA910_Essex PASC505_Rattlehead PASA020_Essex PASB720_Rhode_Island PASA026_Independence</ships>
+			<ships> PASD502_Smith PASB001_Michigan_1916 PASB004_Arkansas_1912 PASB013_Arkansas_1912 PASB006_New_York_1934 PASB705_Texas_1944 PASB034_New_Mexico_1941 PASB012_North_Carolina_1945 PASB808_Colorful_North_Carolina PASB508_Alabama PASB528_Alabama_VL PASB708_Alabama PASB018_Iowa_1944 PASB509_Missouri PASC001_Erie_1936 PASC002_Chester_1908 PASC003_Albany_1898 PASC004_St_Louis_1906 PASC024_Phoenix_1917 PASC005_Omaha_1923 PASC044_Marblehead_1924 PASC045_Marblehead_1924_Asus PASC007_Cleveland_1945 PASC208_Cleveland PASC012_Pensacola_1944 PASC106_Pensacola_1944 PASC006_Atlanta_1942 PASC507_Indianapolis_1945 PASC707_Flint PASC014_New_Orlean_1944 PASC107_New_Orlean_1944 PASC017_Baltimore_1944 PASC108_Baltimore_1944 PASC020_Des_Moines_1948 PASA004_Langley_1929 PASA006_Independence_1945 PASA507_Saipan_1946 PASA012_Lexington_1944 PASA013_Essex_1945 PASB518_Massachusetts PASB598_Black_Massachusetts PASC710_Salem PASC109_Buffalo PASC206_Dallas PASC209_Seattle PASC210_Worcester PASC597_Nueve_de_Julio_1951 PASC503_Charleston PASA104_Langley PASA108_Lexington PASA908_Concord_Bridge PASA528_Saipan PASC718_AZUR_Montpelier PASB729_Georgia PASD505_Hill PXSD017_Gearing_PA PASD597_Black_Sims PASC518_Anchorage PASC587_Black_Atlanta PASB538_Constellation PASC548_San_Diego PASA910_Essex PASC505_Rattlehead PASA020_Essex PASB720_Rhode_Island PASA026_Independence</ships>
 		</shipGroup>
 		<!--//2. American ships with texture		4096*2048-->
 		<shipGroup>
@@ -4564,6 +4564,13 @@
 			<color3>1.000 0.000 0.400 1.500</color3>
 		</colorScheme>
 		<colorScheme>
+			<name>colorScheme_Pirate</name>
+			<color0>0.289 0.223 0.043 1.000</color0>
+			<color1>0.048 0.018 0.006 1.000</color1>
+			<color2>0.389 0.378 0.364 1.000</color2>
+			<color3>0.289 0.114 0.037 1.000</color3>
+		</colorScheme>
+		<colorScheme>
 			<name>colorSchemeSWDP01</name>
 			<color0>0.017 0.021 0.019 1.000</color0>
 			<color1>0.078 0.094 0.098 1.000</color1>
@@ -5606,17 +5613,17 @@
 		</colorScheme>
 		<colorScheme>
 			<name>colorSchemeUSNP15</name>
-			<color0>0.142 0.198 0.220 1.000</color0>
-			<color1>0.022 0.064 0.099 1.000</color1>
-			<color2>0.045 0.066 0.097 1.000</color2>
-			<color3>0.000 0.000 0.000 0.000</color3>
+			<color0>0.164 0.215 0.240 1.000</color0>
+			<color1>0.004 0.012 0.020 1.000</color1>
+			<color2>0.047 0.090 0.122 1.000</color2>
+			<color3>0.184 0.212 0.231 0.784</color3>
 			<colorUI>0.338 0.408 0.486 1.000</colorUI>
 		</colorScheme>
 		<colorScheme>
 			<name>colorSchemeUSNP16</name>
-			<color0>0.129 0.153 0.165 1.000</color0>
-			<color1>0.020 0.039 0.071 1.000</color1>
-			<color2>0.045 0.066 0.097 1.000</color2>
+			<color0>0.142 0.198 0.220 1.000</color0>
+			<color1>0.022 0.064 0.099 1.000</color1>
+			<color2>0.000 0.000 0.000 0.000</color2>
 			<color3>0.000 0.000 0.000 0.000</color3>
 			<colorUI>0.338 0.408 0.486 1.000</colorUI>
 		</colorScheme>
@@ -7145,6 +7152,65 @@
 			<realm>all</realm>
 		</camouflage>
 		<camouflage>
+			<annotation> mat_Chikuma_GW unique permOflage</annotation>
+			<name>mat_Chikuma_GW</name>
+			<tiled>false</tiled>
+        
+			<targetShip>PJSC729_GW_Chikuma_2_Hyb</targetShip>
+			<UV>
+				<DeckHouse>0.5 0.5</DeckHouse>
+				<Tile>1 1</Tile>
+				<Gun>0.5 0.5</Gun>
+				<Director>0.5 0.5</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.5</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+			</UV>
+			<Textures>
+				<Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+				<Gun>content/gameplay/common/camouflage/textures/mat_camo/mat_Chikuma_GW_a.dds</Gun>
+				<Gun_mgn>
+				content/gameplay/common/camouflage/textures/mat_camo/mat_Chikuma_GW_mgn.dds
+					<Influence_m> 0.8 </Influence_m>
+					<Influence_g> 0.8 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_camo/mat_Chikuma_GW_a.dds</Director>
+				<Director_mgn>
+				content/gameplay/common/camouflage/textures/mat_camo/mat_Chikuma_GW_mgn.dds
+					<Influence_m> 0.8 </Influence_m>
+					<Influence_g> 0.8 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Director_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_camo/mat_Chikuma_GW_a.dds</Float>
+				<Float_mgn>
+				content/gameplay/common/camouflage/textures/mat_camo/mat_Chikuma_GW_mgn.dds
+					<Influence_m> 0.8 </Influence_m>
+					<Influence_g> 0.8 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_camo/mat_Chikuma_GW_a.dds</Misc>
+				<Misc_mgn>
+				content/gameplay/common/camouflage/textures/mat_camo/mat_Chikuma_GW_mgn.dds
+					<Influence_m> 0.8 </Influence_m>
+					<Influence_g> 0.8 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Misc_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_camo/mat_Chikuma_GW_a.dds</Plane>
+				<Plane_mgn>
+				content/gameplay/common/camouflage/textures/mat_camo/mat_Chikuma_GW_mgn.dds
+					<Influence_m> 0.8 </Influence_m>
+					<Influence_g> 0.8 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Plane_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Wire>
+			</Textures>
+			<colorSchemes>colorSchemeUSNP17</colorSchemes>
+			<realm>all</realm>
+		</camouflage>
+		<camouflage>
 			<annotation>mat_CopperAlbedo unique permOflage</annotation>
 			<name>mat_CopperAlbedo</name>
 			<tiled>false</tiled>
@@ -8006,6 +8072,88 @@
 					<Influence_n> 0.0 </Influence_n>
 				</Wire_mgn>
 			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>Golden Week 2024 unique permoflage</annotation>
+			<name>mat_GoldenWeek_2024</name>
+			<tiled>false</tiled>
+			<targetShip>PJSC009_Mogami_1935</targetShip>
+			<UV>
+				<DeckHouse>1 1</DeckHouse>
+				<Tile>1 1</Tile>
+				<Gun>1 1</Gun>
+				<Director>1 1</Director>
+				<Plane>1 1</Plane>
+				<Float>1 1</Float>
+				<Misc>1 1</Misc>
+			</UV>
+			<Textures>
+				<DeckHouse>content/gameplay/common/camouflage/textures/JSC010_Mogami_1944_GW_DeckHouse_a.dds</DeckHouse>
+				<DeckHouse_mgn>
+					content/gameplay/common/camouflage/textures/JSC010_Mogami_1944_GW_DeckHouse_mg.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.8 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</DeckHouse_mgn>
+				<Hull>content/gameplay/common/camouflage/textures/JSC010_Mogami_1944_GW_Hull_a.dds</Hull>
+				<Hull_mgn>
+					content/gameplay/common/camouflage/textures/JSC010_Mogami_1944_GW_Hull_mg.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.8 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Hull_mgn>
+				<Gun>content/gameplay/common/camouflage/textures/mat_Black_03_a.dds</Gun>
+				<Gun_mgn>
+					content/gameplay/common/camouflage/textures/mat_Black_03_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.8 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_Black_03_a.dds</Director>
+				<Director_mgn>
+					content/gameplay/common/camouflage/textures/mat_Black_03_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.8 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_Black_03_a.dds</Plane>
+				<Plane_mgn>
+					content/gameplay/common/camouflage/textures/mat_Black_03_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_Black_03_a.dds</Float>
+				<Float_mgn>
+					content/gameplay/common/camouflage/textures/mat_Black_03_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_Black_03_a.dds</Misc>
+				<Misc_mgn>
+					content/gameplay/common/camouflage/textures/mat_Black_03_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.8 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Misc_mgn>
+				<Bulge>content/gameplay/common/camouflage/textures/mat_Black_03_a.dds</Bulge>
+				<Bulge_mgn>
+					content/gameplay/common/camouflage/textures/mat_Black_03_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Bulge_mgn>
+				<Wire>content/gameplay/common/camouflage/textures/mat_Black_03_a.dds</Wire>
+				<Wire_mgn>
+					content/gameplay/common/camouflage/textures/mat_Black_03_mgn.dds
+					<Influence_m> 1.0 </Influence_m>
+					<Influence_g> 0.8 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Wire_mgn>
+			</Textures>
+			<realm>all</realm>
+			<colorSchemes>colorSchemeUSNP17</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>mat_GreenGoldAlbedo unique permOflage</annotation>
@@ -18348,7 +18496,7 @@
 					<Influence_m> 1.0 </Influence_m>
 					<Influence_g> 0.85 </Influence_g>
 					<Influence_n> 0.1</Influence_n>
-</Float_mgn>
+				</Float_mgn>
 			</Textures>
 		</camouflage>
 		<camouflage>
@@ -19321,6 +19469,71 @@
 				</Misc_mgn>
 				<Bulge>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Bulge>
 				<Wire>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Wire>
+			</Textures>
+			<colorSchemes>colorSchemeUSNP17</colorSchemes>
+			<realm>all</realm>
+		</camouflage>
+		<camouflage>
+			<annotation> Wisconsin mat camo orange color style</annotation>
+			<name>mat_Wisconsin_BB</name>
+			<tiled>false</tiled>
+			<targetShip>PASB730_Wisconsin</targetShip>
+			<UV>
+				<DeckHouse>0.5 0.5</DeckHouse>
+				<Tile>1 1</Tile>
+				<Gun>0.5 0.5</Gun>
+				<Director>0.5 0.5</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.5</Float>
+				<Misc>0.3 0.3</Misc>
+				<Bulge>1 1</Bulge>
+				<Hull>1 1</Hull>
+			</UV>
+			<Textures>
+				<Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+				<Gun>content/gameplay/common/camouflage/textures/mat_camo/mat_Wisconsin_BB_a.dds</Gun>
+				<Gun_mgn>
+				content/gameplay/common/camouflage/textures/mat_alum_01_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Gun_mgn>
+				<Director>content/gameplay/common/camouflage/textures/mat_Nadeshot.dds</Director>
+				<Director_mgn>
+				content/gameplay/common/camouflage/textures/mat_alum_01_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Director_mgn>
+				<Plane>content/gameplay/common/camouflage/textures/mat_camo/mat_Wisconsin_BB_a.dds</Plane>
+				<Plane_mgn>
+				content/gameplay/common/camouflage/textures/mat_alum_01_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Plane_mgn>
+				<Float>content/gameplay/common/camouflage/textures/mat_camo/mat_Wisconsin_BB_a.dds</Float>
+				<Float_mgn>
+				content/gameplay/common/camouflage/textures/mat_alum_01_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Float_mgn>
+				<Misc>content/gameplay/common/camouflage/textures/mat_camo/mat_Wisconsin_BB_a.dds</Misc>
+				<Misc_mgn>
+				content/gameplay/common/camouflage/textures/mat_alum_01_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Misc_mgn>
+				<Bulge>content/gameplay/common/camouflage/textures/mat_camo/mat_Wisconsin_BB_a.dds</Bulge>
+				<Bulge_mgn>
+				content/gameplay/common/camouflage/textures/mat_alum_01_mgn.dds
+					<Influence_m> 0.0 </Influence_m>
+					<Influence_g> 0.0 </Influence_g>
+					<Influence_n> 0.0 </Influence_n>
+				</Bulge_mgn>
 			</Textures>
 			<colorSchemes>colorSchemeUSNP17</colorSchemes>
 			<realm>all</realm>
@@ -42389,6 +42602,185 @@
 			<colorSchemes>colorScheme_Pinata_Yellow</colorSchemes>
 		</camouflage>
 		<camouflage>
+			<annotation>Pirate tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
+			<name>camo_Pirate_tile</name>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>3 3</Tile>
+				<DeckHouse>1.5 1.5</DeckHouse>
+				<Gun>0.3 0.3</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_Tile_camo_Pirate_30.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pirate</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pirate tile camouflage block for the ships with a texture 4096*2048</annotation>
+			<name>camo_Pirate_tile</name>
+			<shipGroups>IJN_group_2 USN_group_2 RUS_group_2 UK_group_2 GER_group_2 FRA_group_2 POL_group_1 PAN_group_2 ITA_group_3 EUR_group_2 GER_group_8 PAM_group_3</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<DeckHouse>0.75 0.75</DeckHouse>
+				<Tile>3 1.5</Tile>
+				<Gun>0.3 0.3</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_Tile_camo_Pirate_30.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pirate</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pirate tile camouflage block for the ships with a texture 4096*2048+2048*1024</annotation>
+			<name>camo_Pirate_tile</name>
+			<shipGroups>IJN_group_7 USN_group_8 GER_group_8 ITA_group_3 EUR_group_2 NL_group_1</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>3 1.5</Tile>
+				<DeckHouse>1.5 0.75</DeckHouse>
+				<Gun>0.3 0.3</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_Tile_camo_Pirate_30.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pirate</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pirate tile camouflage block for the ships with a texture 4096*1024</annotation>
+			<name>camo_Pirate_tile</name>
+			<shipGroups>RUS_group_3 GER_group_6 USN_group_7</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>3 0.75</Tile>
+				<DeckHouse>0.75 0.75</DeckHouse>
+				<Gun>0.3 0.3</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_Tile_camo_Pirate_30.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pirate</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pirate tile camouflage block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024</annotation>
+			<name>camo_Pirate_tile</name>
+			<shipGroups>IJN_group_3 USN_group_3 UK_group_3 GER_group_3 FRA_group_3 ITA_group_2 RUS_group_7 PAM_group_2 PAN_group_6</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>3 3</Tile>
+				<DeckHouse>3 1.5</DeckHouse>
+				<Gun>0.3 0.3</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_Tile_camo_Pirate_30.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pirate</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pirate tile camouflage block for the ships with a texture 4096*4096+1024*1024</annotation>
+			<name>camo_Pirate_tile</name>
+			<shipGroups>IJN_group_4 USN_group_4 RUS_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>3 3</Tile>
+				<DeckHouse>0.75 0.75</DeckHouse>
+				<Gun>0.3 0.3</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_Tile_camo_Pirate_30.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pirate</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pirate tile camouflage block for the ships with a texture 4096*4096+4096*4096</annotation>
+			<name>camo_Pirate_tile</name>
+			<shipGroups>IJN_group_5 USN_group_5 RUS_group_5 UK_group_4 GER_group_4 FRA_group_4 PAN_group_4 ITA_group_4 PAM_group_4</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>3 3</Tile>
+				<DeckHouse>3 3</DeckHouse>
+				<Gun>0.3 0.3</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_Tile_camo_Pirate_30.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pirate</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pirate tile camouflage block for the ships with a texture 4096*4096+2048*1024</annotation>
+			<name>camo_Pirate_tile</name>
+			<shipGroups>RUS_group_6 USN_group_6 GER_group_5 UK_group_6 IJN_group_6 FRA_group_7 PAN_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>3 3</Tile>
+				<DeckHouse>1.5 0.75</DeckHouse>
+				<Gun>0.3 0.3</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_Tile_camo_Pirate_30.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pirate</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>Pirate tile camouflage block for the ships with a texture 4096*2048+4096*4096</annotation>
+			<name>camo_Pirate_tile</name>
+			<shipGroups>FRA_group_5</shipGroups>
+			<tiled>true</tiled>
+			<UV>
+				<Tile>3 1.5</Tile>
+				<DeckHouse>3 3</DeckHouse>
+				<Gun>0.3 0.3</Gun>
+				<Director>0.3 0.3</Director>
+				<Plane>0.5 0.5</Plane>
+				<Float>0.5 0.12</Float>
+				<Misc>0.3 0.6</Misc>
+				<Bulge>0.5 1</Bulge>
+			</UV>
+			<Textures>
+				<Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_Tile_camo_Pirate_30.dds</Tile>
+			</Textures>
+			<colorSchemes>colorScheme_Pirate</colorSchemes>
+		</camouflage>
+		<camouflage>
 			<annotation>Pi Day 2018 tile camouflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048</annotation>
 			<name>camo_Pi_day_2018_tile</name>
 			<tiled>true</tiled>
@@ -54757,13 +55149,13 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
-				<Hull>content/gameplay/common/camouflage/textures/devil.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/WSD016_Velos_1960_deckhouse_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/WSD016_Velos_1960_camo_01.dds</Hull>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
+			<colorSchemes>colorSchemeVelos</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Elli unique permOflage block</annotation>
@@ -58364,7 +58756,7 @@
 			<colorSchemes>colorSchemeGERP-4501_alt</colorSchemes>
 		</camouflage>
 		<camouflage>
-<annotation>U_69 unique permOflage block</annotation>
+			<annotation>U_69 unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
 			<useColorScheme>True</useColorScheme>
 			<targetShip>PGSS206_U_69</targetShip>
@@ -61740,7 +62132,7 @@
        
 			<colorSchemes>colorSchemeIJNP04</colorSchemes>
    
-</camouflage>
+		</camouflage>
 		<camouflage>
       
 			<annotation>Gokase unique permOflage block</annotation>
@@ -62774,7 +63166,7 @@
         
 			<colorSchemes>colorSchemeNLP01</colorSchemes>
     
-</camouflage>
+		</camouflage>
 		<camouflage>
         
 			<annotation>Tromp unique permOflage block</annotation>
@@ -62884,13 +63276,13 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
-				<Hull>content/gameplay/common/camouflage/textures/Boise.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/VSC026_Nueve_de_Julio_1951_DeckHouse_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/VSC026_Nueve_de_Julio_1951_Hull_camo_01.dds</Hull>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RGB.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RGB.dds</Float>
 			</Textures>
-		<colorSchemes>colorSchemeUSNP16</colorSchemes>
+			<colorSchemes>colorSchemePAMP01</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Almirante Abreu unique permOflage block</annotation>
@@ -63047,14 +63439,14 @@
 				<Misc>1 1</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/Allende.dds</Hull>
+				<Hull>content/gameplay/common/camouflage/textures/VSC010_Ignacio_Allende_1950_Hull_camo_01.dds</Hull>
 				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
 				<Plane>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Plane>
 				<Float>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
+			<colorSchemes>colorSchemePAM_Coronel_Bolognesi</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Santander de Janeiro unique permoflage block</annotation>
@@ -63071,14 +63463,14 @@
 				<Misc>1 1</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/Santander.dds</Hull>
+				<Hull>content/gameplay/common/camouflage/textures/VSC011_Santander_1948_Hull_camo_01.dds</Hull>
 				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
 				<Plane>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Plane>
 				<Float>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
+			<colorSchemes>colorSchemePAM_Coronel_Bolognesi</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>San_Martin unique permoflage block</annotation>
@@ -63095,14 +63487,14 @@
 				<Misc>1 1</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/SanMartin.dds</Hull>
+				<Hull>content/gameplay/common/camouflage/textures/VSC012_San_Martin_1949_Hull_camo_01.dds</Hull>
 				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
 				<Plane>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Plane>
 				<Float>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
+			<colorSchemes>colorSchemePAM_San_Martin</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Almirante_Grau unique permoflage block</annotation>
@@ -63238,7 +63630,7 @@
 			<colorSchemes>color_NY_2018_02</colorSchemes>
 		</camouflage>
 		<camouflage>
-			<annotation>Yue Yang unique permOflage block</annotation>
+			<annotation>Hsiang Yang unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
 			<useColorScheme>True</useColorScheme>
 			<targetShip>PZSD110_Hsiang_Yang</targetShip>
@@ -63252,12 +63644,12 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/haynsworth.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Hull>content/gameplay/common/camouflage/textures/ZSD005_Hsiang_Yang_1945_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
 			</Textures>
-		<colorSchemes>colorSchemeUSNP16</colorSchemes>
+			<colorSchemes>colorSchemePANP02</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Chung Mu unique permOflage block</annotation>
@@ -63274,12 +63666,12 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/erben.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Hull>content/gameplay/common/camouflage/textures/ZSD011_Chung_Mu_1943_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_G.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_G.dds</Float>
 			</Textures>
-		<colorSchemes>colorSchemeUSNP16</colorSchemes>
+			<colorSchemes>colorSchemePANP02</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Hsien Yang unique permOflage block</annotation>
@@ -63296,12 +63688,12 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/rodman.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Hull>content/gameplay/common/camouflage/textures/ZSD004_Hsien_Yang_1945_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_G.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_G.dds</Float>
 			</Textures>
-		<colorSchemes>colorSchemeUSNP16</colorSchemes>
+			<colorSchemes>colorSchemePANP02</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Gadjah_Mada unique permOflage block</annotation>
@@ -63362,13 +63754,13 @@
 				<Misc>1 1</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/220only.dds</Hull>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/ZSA001_Sanzang_1946_camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ZSA001_Sanzang_1946_DeckHouse_camo_01.dds</DeckHouse>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
+			<colorSchemes>colorSchemePAN03</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Wujing permoflage block</annotation>
@@ -63432,12 +63824,12 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/rigby.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Hull>content/gameplay/common/camouflage/textures/ZSD002_Lo_Yang_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
 			</Textures>
-		<colorSchemes>colorSchemeUSNP16</colorSchemes>
+			<colorSchemes>colorSchemePANP02</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Huang he unique permOflage block</annotation>
@@ -63595,15 +63987,15 @@
 				<Misc>1 1</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/austin.dds</Hull>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
-				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Hull>content/gameplay/common/camouflage/textures/ZSC013_Jinan_1952_camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</DeckHouse>
+				<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Gun>
+				<Director>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Director>
+				<Misc>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Misc>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RB.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RB.dds</Float>
 			</Textures>
-		<colorSchemes>colorSchemeUSNP16</colorSchemes>
+			<colorSchemes>colorSchemePANP04</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Harbin permoflage block</annotation>
@@ -63644,14 +64036,14 @@
 				<Misc>1 1</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/Hotfire.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
-				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Hull>content/gameplay/common/camouflage/textures/ZSC010_Chumphon_1944_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/B_gun_camo_01.dds</Gun>
+				<Director>content/gameplay/common/camouflage/textures/B_gun_camo_01.dds</Director>
+				<Misc>content/gameplay/common/camouflage/textures/B_gun_camo_01.dds</Misc>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_G.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_G.dds</Float>
 			</Textures>
-		<colorSchemes>colorSchemeUSNP16</colorSchemes>
+			<colorSchemes>colorSchemePANP02</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Rahmat permoflage block</annotation>
@@ -63716,15 +64108,15 @@
 				<Misc>1 1</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/Sejong.dds</Hull>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/ZSC012_Sejong_1949_camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ZSC012_Sejong_1949_DeckHouse_camo_01.dds</DeckHouse>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 				<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
 				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_GB.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_GB.dds</Float>
 			</Textures>
-		<colorSchemes>colorSchemeUSNP16</colorSchemes>
+			<colorSchemes>colorSchemePANP02</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Sun Yat Sen permoflage block</annotation>
@@ -63806,7 +64198,7 @@
         
 			<Textures>
             
-				<Hull>content/gameplay/common/camouflage/textures/Kunming.dds</Hull>
+				<Hull>content/gameplay/common/camouflage/textures/ZSD019_Kunming_1947_camo_01.dds</Hull>
             
 				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
             
@@ -63822,7 +64214,7 @@
         
 			</Textures>
         
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
+			<colorSchemes>colorSchemePANP06</colorSchemes>
     
 		</camouflage>
 		<camouflage>
@@ -65770,7 +66162,7 @@
 			<colorSchemes>colorSchemeRUSP02</colorSchemes>
 		</camouflage>
 		<camouflage>
-
+        
 			<annotation>Admiral_Ushakov unique permOflage block</annotation>
         
 			<name>camo_permanent_1</name>
@@ -65821,7 +66213,7 @@
     
 		</camouflage>
 		<camouflage>
-     
+        
 			<annotation>S-1 unique permOflage block</annotation>
         
 			<name>camo_permanent_1</name>
@@ -66675,7 +67067,7 @@
 				<DeckHouse>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</DeckHouse>
            
 				<Gun>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Gun>
-           
+		   
 				<Director>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Director>
 		   
 				<Misc>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Misc>
@@ -67714,6 +68106,7 @@
 			<useColorScheme>True</useColorScheme>
 			<targetShip>PBSB517_Nelson</targetShip>
 			<targetShip>PBSB727_Duke_of_Bronte</targetShip>
+			<targetShip>PBSB717_Rodney</targetShip>
 			<tiled>false</tiled>
 			<UV>
 				<Tile>1 1</Tile>
@@ -69552,7 +69945,7 @@
         
 			<colorSchemes>colorSchemeColossus</colorSchemes>
 			<colorSchemes>colorSchemeColossus1</colorSchemes>
-   
+    
 		</camouflage>
 		<camouflage>
         
@@ -71008,13 +71401,13 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/Steaks.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Hull>content/gameplay/common/camouflage/textures/ASC044_Marblehead_1924_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/IJN_tile_camo_02.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RGB.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RGB.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP01</colorSchemes>
+			<colorSchemes>colorSchemeUSNP50</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Marblehead ASUS unique permOflage block</annotation>
@@ -71031,13 +71424,12 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/Steaks.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Hull>content/gameplay/common/camouflage/textures/ASC045_Marblehead_1924_Asus_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/IJN_tile_camo_02.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RGB.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RGB.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP02</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Arkansas unique permOflage block</annotation>
@@ -71054,13 +71446,13 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/beta.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Hull>content/gameplay/common/camouflage/textures/ASB013_Arkansas_1912_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/IJN_tile_camo_02.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RGB.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RGB.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP01</colorSchemes>
+			<colorSchemes>colorSchemeUSNP47</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Albany unique permOflage block</annotation>
@@ -71100,13 +71492,13 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/Hotfire.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Hull>content/gameplay/common/camouflage/textures/ASC006_Atlanta_1942_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_01.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP05</colorSchemes>
+			<colorSchemes>colorSchemeUSNP48</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Sims unique permOflage block</annotation>
@@ -71124,13 +71516,13 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/livinlarge.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Hull>content/gameplay/common/camouflage/textures/ASD052_Sims_1941_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP01</colorSchemes>
+			<colorSchemes>colorSchemeUSNP50</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Smith unique permOflage block</annotation>
@@ -71172,14 +71564,14 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
-				<Hull>content/gameplay/common/camouflage/textures/220only.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASA023_Saipan_1946_deckhouse_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/ASA023_Saipan_1946_Hull_camo_01.dds</Hull>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP05</colorSchemes>
+			<colorSchemes>colorSchemeUSNP47</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Indianapolis unique permOflage block</annotation>
@@ -71196,13 +71588,13 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/500.dds</Hull>
+				<Hull>content/gameplay/common/camouflage/textures/ASC008_Indianapolis_1945_camo_01.dds</Hull>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP05</colorSchemes>
+			<colorSchemes>colorSchemeUSNP47</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Texas unique permOflage block</annotation>
@@ -71219,14 +71611,14 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
-				<Hull>content/gameplay/common/camouflage/textures/raspberry.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASB007_Texas_1944_Deckhouse_camo_02.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/ASB007_Texas_1944_Hull_camo_02.dds</Hull>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP05</colorSchemes>
+			<colorSchemes>colorSchemeUSNP47</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Arizona unique permOflage block</annotation>
@@ -71268,14 +71660,14 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
-				<Hull>content/gameplay/common/camouflage/textures/ogdevil.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASD030_Black_1943_DeckHouse_1943_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/ASD030_Black_1943_camo_01.dds</Hull>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP13</colorSchemes>
+			<colorSchemes>colorSchemeUSNP27</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Flint unique permOflage block</annotation>
@@ -71292,13 +71684,13 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/Hotfire.dds</Hull>
+				<Hull>content/gameplay/common/camouflage/textures/ASC013_Flint_camo_01.dds</Hull>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP14</colorSchemes>
+			<colorSchemes>colorSchemeUSNP27</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Missouri first unique permOflage block</annotation>
@@ -71316,12 +71708,12 @@
 			</UV>
 			<Textures>
 				<Hull>content/gameplay/common/camouflage/textures/ASB015_Missouri_1950_camo_01.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Gun>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_03.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
 			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP47</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Alabama unique permOflage block</annotation>
@@ -71342,11 +71734,11 @@
 			<Textures>
 				<Hull>content/gameplay/common/camouflage/textures/ASB024_Alabama_1945_camo_01.dds</Hull>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Float>
 			</Textures>
 			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP47</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Kidd unique permOflage block</annotation>
@@ -71365,11 +71757,11 @@
 			<Textures>
 				<Hull>content/gameplay/common/camouflage/textures/ASD031_Kidd_1945_camo_01.dds</Hull>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Float>
 			</Textures>
 			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP47</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Enterprise unique permOflage block</annotation>
@@ -71387,15 +71779,15 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<DeckHouse>content/gameplay/common/camouflage/textures/1701.dds</DeckHouse>
-				<Hull>content/gameplay/common/camouflage/textures/1701.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASA001_Enterprise_1944_DeckHouse_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/ASA001_Enterprise_1944_Hull_camo_01.dds</Hull>
 				<Bulge>content/gameplay/common/camouflage/textures/ASA001_Enterprise_1944_Bulge_camo_01.dds</Bulge>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP20</colorSchemes>
+			<colorSchemes>colorSchemeUSNP47</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Massachusetts unique permOflage block</annotation>
@@ -71413,13 +71805,13 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/ASB024_Alabama_1945_camo_01.dds</Hull>
+				<Hull>content/gameplay/common/camouflage/textures/ASB025_Massachusetts_1946_camo_02.dds</Hull>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP01</colorSchemes>
+			<colorSchemes>colorSchemeUSNP47</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Salem unique permOflage block</annotation>
@@ -71436,14 +71828,14 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
-				<Hull>content/gameplay/common/camouflage/textures/witch.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASC023_Salem_1950_DeckHouse_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/ASC023_Salem_1950_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_navy_day_23.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RB.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RB.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP28</colorSchemes>
+			<colorSchemes>colorSchemeUSNP47</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Monaghan unique permOflage block</annotation>
@@ -71460,13 +71852,13 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/johnr.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Hull>content/gameplay/common/camouflage/textures/ASD033_Monaghan_1942_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP28</colorSchemes>
+			<colorSchemes>colorSchemeUSNP47</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Boise_1951 unique permOflage block</annotation>
@@ -71483,14 +71875,14 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
-				<Hull>content/gameplay/common/camouflage/textures/Boise.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASC028_Boise_1951_DeckHouse_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/ASC028_Boise_1951_Hull_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_13.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP03</colorSchemes>
+			<colorSchemes>colorSchemeUSNP47</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Alaska unique permOflage block</annotation>
@@ -71508,14 +71900,14 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
-				<Hull>content/gameplay/common/camouflage/textures/CB1.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASC026_Alaska_1944_Deckhouse_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/ASC026_Alaska_1944_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/AGM034_16in50_Mk7_camo_01.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
 			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP47</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Wichita unique permOflage block</annotation>
@@ -71532,14 +71924,14 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
-				<Hull>content/gameplay/common/camouflage/textures/toto.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASC018_Wichita_1945_DeckHouse_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/ASC018_Wichita_1945_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/IJN_tile_camo_02.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
 			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP47</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Charleston unique permOflage block</annotation>
@@ -71579,14 +71971,14 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
-				<Hull>content/gameplay/common/camouflage/textures/takemehome.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASB026_West_Virginia_1941_Deckhouse_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/ASB026_West_Virginia_1941_hull_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/AGM034_16in50_Mk7_camo_01_B.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_GB.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_GB.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP21</colorSchemes>
+			<colorSchemes>colorSchemeUSNP51</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Montpelier unique permOflage block</annotation>
@@ -71603,14 +71995,13 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
-				<Hull>content/gameplay/common/camouflage/textures/Brown.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASC057_Montpelier_1945_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/ASC057_Montpelier_1945_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP31</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Georgia unique permOflage block</annotation>
@@ -71627,14 +72018,14 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
-				<Hull>content/gameplay/common/camouflage/textures/onmymind.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASB023_Georgia_1945_Deckhouse_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/ASB023_Georgia_1945_Hull_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/Georgia_Gun_tile_camo_01.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP01</colorSchemes>
+			<colorSchemes>colorSchemeUSNP54</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Benham unique permOflage block</annotation>
@@ -71651,13 +72042,13 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/Benham.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Hull>content/gameplay/common/camouflage/textures/ASD036_Benham_1939_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/AGM034_16in50_Mk7_camo_01.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP01</colorSchemes>
+			<colorSchemes>colorSchemeUSNP54</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Hill unique permOflage block</annotation>
@@ -71697,13 +72088,13 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/381.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Hull>content/gameplay/common/camouflage/textures/ASD038_Somers_1938_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/AGM034_16in50_Mk7_camo_01.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP24</colorSchemes>
+			<colorSchemes>colorSchemeUSNP54</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Ohio unique permOflage block</annotation>
@@ -71720,14 +72111,14 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
-				<Hull>content/gameplay/common/camouflage/textures/vasily.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASB040_Ohio_1945_Deckhouse_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/ASB040_Ohio_1945_Hull_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_commander_day_22.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RB.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RB.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP08</colorSchemes>
+			<colorSchemes>colorSchemeUSNP47</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>California unique permOflage block</annotation>
@@ -71744,14 +72135,14 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
-				<Hull>content/gameplay/common/camouflage/textures/hotel.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASB032_California_1945_DeckHouse_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/ASB032_California_1945_Hull_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/Gun_tile_camo_01.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
 			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP50</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Puerto Rico unique permOflage block</annotation>
@@ -71768,14 +72159,14 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
-				<Hull>content/gameplay/common/camouflage/textures/ca2d.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASC029_Puerto_Rico_1949_DeckHouse_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/ASC029_Puerto_Rico_1949_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_02.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
 			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP50</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Roosevelt permoflage block</annotation>
@@ -71792,16 +72183,16 @@
 				<Float>1.0 0.5</Float>
 			</UV>
 			<Textures>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
-				<Hull>content/gameplay/common/camouflage/textures/skillway.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASA009_Roosevelt_1947_Deckhouse_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/ASA009_Roosevelt_1947_Hull_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/AGM034_16in50_Mk7_camo_01.dds</Gun>
+				<Director>content/gameplay/common/camouflage/textures/AGM034_16in50_Mk7_camo_01.dds</Director>
 				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
 			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP53</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Anchorage unique permOflage block</annotation>
@@ -71818,15 +72209,15 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/anchor.dds</Hull>
+				<Hull>content/gameplay/common/camouflage/textures/ASC069_Anchorage_1942_camo_01.dds</Hull>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 				<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
 				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP01</colorSchemes>
+			<colorSchemes>colorSchemeUSNP49</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Florida unique permOflage block</annotation>
@@ -71843,16 +72234,16 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
-				<Hull>content/gameplay/common/camouflage/textures/oranges.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASB046_Florida_1945_DeckHouse_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/ASB046_Florida_1945_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/Gun_tile_camo_01.dds</Gun>
 				<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
 				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP01</colorSchemes>
+			<colorSchemes>colorSchemeUSNP49</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Oklahoma unique permOflage block</annotation>
@@ -71869,16 +72260,16 @@
 				<Float>1.0 0.5</Float>
 			</UV>
 			<Textures>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
-				<Hull>content/gameplay/common/camouflage/textures/acme.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
-				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASB047_Oklahoma_1941_deckhouse_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Gun>
+				<Director>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Director>
+				<Plane>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Float>
+				<Misc>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Misc>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP32</colorSchemes>
+			<colorSchemes>colorSchemeUSNP48</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Cleveland unique permOflage block</annotation>
@@ -71896,13 +72287,13 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/Brown.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Hull>content/gameplay/common/camouflage/textures/ASC007_Cleveland_1945_camo_02.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_03.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP05</colorSchemes>
+			<colorSchemes>colorSchemeUSNP52</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Lexington unique permOflage block</annotation>
@@ -71921,15 +72312,15 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
-				<Hull>content/gameplay/common/camouflage/textures/concorde.dds</Hull>
-				<Bulge>content/gameplay/common/camouflage/textures/concordetds.dds</Bulge>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASA012_Lexington_1944_Deck_House_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/ASA012_Lexington_1944_hull_camo_01.dds</Hull>
+				<Bulge>content/gameplay/common/camouflage/textures/ASA012_Lexington_1944_Bulbous_camo_01.dds</Bulge>
+				<Gun>content/gameplay/common/camouflage/textures/IJN_tile_camo_02.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP24</colorSchemes>
+			<colorSchemes>colorSchemeUSNP47</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Fletcher unique permOflage block</annotation>
@@ -71946,14 +72337,14 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/devil.dds</Hull>
+				<Hull>content/gameplay/common/camouflage/textures/ASD048_Fletcher_1945_camo_01.dds</Hull>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Misc>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Misc>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP01</colorSchemes>
+			<colorSchemes>colorSchemeUSNP53</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Iowa unique permOflage block</annotation>
@@ -71970,13 +72361,13 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/Hawkeye.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Hull>content/gameplay/common/camouflage/textures/ASB028_Iowa_1945_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_03.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
 			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP53</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>New Orleans unique permOflage block</annotation>
@@ -71994,13 +72385,13 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/mardigras.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Hull>content/gameplay/common/camouflage/textures/ASC014_New_Orlean_1944_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_03.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP27</colorSchemes>
+			<colorSchemes>colorSchemeUSNP47</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Ranger unique permOflage block</annotation>
@@ -72019,14 +72410,14 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
-				<Hull>content/gameplay/common/camouflage/textures/rescue.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASA010_Ranger_1944_deck_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/ASA010_Ranger_1944_hull_camo_01.dds</Hull>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RGB.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RGB.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP28</colorSchemes>
+			<colorSchemes>colorSchemeUSNP53</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>New York unique permOflage block</annotation>
@@ -72043,14 +72434,13 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
-				<Hull>content/gameplay/common/camouflage/textures/raspberry.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASB022_New_York_1942_DeckHouse_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/ASB006_New_York_1934_camo_01.dds</Hull>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_G.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_G.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP29</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>North Carolina Hull C unique permOflage block</annotation>
@@ -72068,13 +72458,13 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/panther.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Hull>content/gameplay/common/camouflage/textures/ASB012_North_Carolina_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP24</colorSchemes>
+			<colorSchemes>colorSchemeUSNP47</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Benson Hull AB unique permOflage block</annotation>
@@ -72091,13 +72481,13 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/mordacai.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Hull>content/gameplay/common/camouflage/textures/ASD049_Benson_1944_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
 			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP47</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Bemson Hull C unique permOflage block</annotation>
@@ -72114,13 +72504,13 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/rigby.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Hull>content/gameplay/common/camouflage/textures/ASD008_Benson_1945_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
 			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP47</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Essex unique permOflage block</annotation>
@@ -72138,14 +72528,14 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
-				<Hull>content/gameplay/common/camouflage/textures/county.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASA013_Essex_Deck_house_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/ASA013_Essex_hull_camo_01.dds</Hull>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
 			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP53</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Baltimore unique permOflage block</annotation>
@@ -72163,13 +72553,13 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/ravens.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Hull>content/gameplay/common/camouflage/textures/ASC017_Baltimore_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_03.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP35</colorSchemes>
+			<colorSchemes>colorSchemeUSNP47</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Mahan Hull AB unique permOflage block</annotation>
@@ -72186,13 +72576,13 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/thayer.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Hull>content/gameplay/common/camouflage/textures/ASD047_Mahan_1942_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_03.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP35</colorSchemes>
+			<colorSchemes>colorSchemeUSNP47</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Mahan Hull C unique permOflage block</annotation>
@@ -72209,13 +72599,13 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/alfred.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Hull>content/gameplay/common/camouflage/textures/ASD007_Mahan_1944_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_03.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP35</colorSchemes>
+			<colorSchemes>colorSchemeUSNP47</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Midway unique permOflage block</annotation>
@@ -72234,14 +72624,14 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
-				<Hull>content/gameplay/common/camouflage/textures/skillway.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASA015_Midway_1945_DeckHouse_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/ASA015_Midway_1945_Hull_camo_01.dds</Hull>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP24</colorSchemes>
+			<colorSchemes>colorSchemeUSNP47</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Montana unique permOflage block</annotation>
@@ -72259,14 +72649,14 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
-				<Hull>content/gameplay/common/camouflage/textures/vasily.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASB017_Montana_Deckhouse_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/ASB017_Montana_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/AGM034_16in50_Mk7_camo_01.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP01</colorSchemes>
+			<colorSchemes>colorSchemeUSNP47</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Des Moines unique permOflage block</annotation>
@@ -72283,14 +72673,14 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
-				<Hull>content/gameplay/common/camouflage/textures/witch.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASC020_Des_moines_1948_deck_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/ASC020_Des_moines_1948_hull_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_03.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP24</colorSchemes>
+			<colorSchemes>colorSchemeUSNP47</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Gearing unique permOflage block</annotation>
@@ -72307,17 +72697,17 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/orleck.dds</Hull>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/ASD042_Gearing_1945_camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASD042_Gearing_1945_DeckHouse_camo_01.dds</DeckHouse>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP05</colorSchemes>
+			<colorSchemes>colorSchemeUSNP47</colorSchemes>
 		</camouflage>
 		<camouflage>
-			<annotation>Pensacola Hull B unique permOflage block</annotation>
+			<annotation>Pensacola Hull A unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
 			<useColorScheme>True</useColorScheme>
 			<targetShip>PASC012_Pensacola_1944</targetShip>
@@ -72332,16 +72722,16 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/coke.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Hull>content/gameplay/common/camouflage/textures/ASC043_Pensacola_1942_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_03.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP01</colorSchemes>
+			<colorSchemes>colorSchemeUSNP47</colorSchemes>
 		</camouflage>
 		<camouflage>
-			<annotation>Pensacola Hull A unique permOflage block</annotation>
+			<annotation>Pensacola Hull B unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
 			<useColorScheme>True</useColorScheme>
 			<targetShip>PASC012_Pensacola_1944_B_Hull_1944</targetShip>
@@ -72356,13 +72746,13 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/coke.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Hull>content/gameplay/common/camouflage/textures/ASC012_Pensacola_1944_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_03.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP01</colorSchemes>
+			<colorSchemes>colorSchemeUSNP47</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Farragut Hull AB unique permOflage block</annotation>
@@ -72379,13 +72769,13 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/glasglow.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Hull>content/gameplay/common/camouflage/textures/ASD041_Farragut_1942_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP24</colorSchemes>
+			<colorSchemes>colorSchemeUSNP47</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Farragut Hull C unique permOflage block</annotation>
@@ -72402,13 +72792,13 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/david.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Hull>content/gameplay/common/camouflage/textures/ASD005_Farragut_1944_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP24</colorSchemes>
+			<colorSchemes>colorSchemeUSNP47</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Independence unique permOflage block</annotation>
@@ -72425,14 +72815,14 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
-				<Hull>content/gameplay/common/camouflage/textures/id4.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASA006_Independence_1945_DeckHouse_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/ASA006_Independence_1945_hull_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RGB.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RGB.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP01</colorSchemes>
+			<colorSchemes>colorSchemeUSNP53</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>New Mexico unique permOflage block</annotation>
@@ -72449,16 +72839,16 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/wrongturn.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Hull>content/gameplay/common/camouflage/textures/ASB019_New_Mexico_1936_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/USN_tile_camo_02.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
 			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP53</colorSchemes>
 		</camouflage>
 		<camouflage>
-			<annotation>Colorado unique permOflage block</annotation>
+			<annotation>New Mexico unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
 			<useColorScheme>True</useColorScheme>
 			<targetShip>PASB008_Colorado_1945</targetShip>
@@ -72472,14 +72862,14 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
-				<Hull>content/gameplay/common/camouflage/textures/springs.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASB008_Colorado_1945_tower_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/ASB008_Colorado_1945_hull_camo_01.dds</Hull>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
 			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP47</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Buffalo unique permOflage block</annotation>
@@ -72496,13 +72886,13 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/Wings.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Hull>content/gameplay/common/camouflage/textures/ASC025_Buffalo_1945_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_commander_day_22.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP24</colorSchemes>
+			<colorSchemes>colorSchemeUSNP49</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Dallas unique permOflage block</annotation>
@@ -72519,13 +72909,13 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/SSN700.dds</Hull>
+				<Hull>content/gameplay/common/camouflage/textures/ASC021_Dallas_1942_camo_01.dds</Hull>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP24</colorSchemes>
+			<colorSchemes>colorSchemeUSNP47</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Helena unique permOflage block</annotation>
@@ -72542,14 +72932,14 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
-				<Hull>content/gameplay/common/camouflage/textures/Stlouis.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASC011_Helena_1944_DeckHouse_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/ASC011_Helena_1944_camo_01.dds</Hull>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP24</colorSchemes>
+			<colorSchemes>colorSchemeUSNP47</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Worcester unique permOflage block</annotation>
@@ -72566,14 +72956,14 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
-				<Hull>content/gameplay/common/camouflage/textures/Wuhster.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASC016_Worcester_1948_DeckHouse_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/ASC016_Worcester_1948_Hull_camo_01.dds</Hull>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RGB.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RGB.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP28</colorSchemes>
+			<colorSchemes>colorSchemeUSNP47</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Seattle unique permOflage block</annotation>
@@ -72590,14 +72980,14 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
-				<Hull>content/gameplay/common/camouflage/textures/seatac.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASC022_Seattle_1945_deckhouse_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/ASC022_Seattle_1945_Hull_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/AGM034_16in50_Mk7_camo_01.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RB.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RB.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP28</colorSchemes>
+			<colorSchemes>colorSchemeUSNP47</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>PASB110_Vermont permoflage block</annotation>
@@ -72605,7 +72995,7 @@
 			<useColorScheme>True</useColorScheme>
 			<targetShip>PASB110_Vermont</targetShip>
 			<targetShip>PASB910_Connecticut</targetShip>
-			<targetShip>PASB990_New_Hampshire</targetShip>
+			<targetShip>PASB990_Utah</targetShip>
 			<tiled>false</tiled>
 			<UV>
 				<Tile>1 1</Tile>
@@ -72616,16 +73006,16 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
-				<Hull>content/gameplay/common/camouflage/textures/vermont.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
-				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASB045_Vermont_1945_DeckHouse_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/ASB045_Vermont_1945_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/Nelson_guns_camo_03.dds</Gun>
+				<Director>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Director>
+				<Misc>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Misc>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RGB.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RGB.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP32</colorSchemes>
+			<colorSchemes>colorSchemeUSNP49</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Minnesota permoflage block</annotation>
@@ -72642,16 +73032,16 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<DeckHouse>content/gameplay/common/camouflage/textures/minnedeck.dds</DeckHouse>
-				<Hull>content/gameplay/common/camouflage/textures/minne.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASB044_Minnesota_1945_DeckHouse_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/ASB044_Minnesota_1945_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/Nelson_guns_camo_01.dds</Gun>
 				<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
 				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP01</colorSchemes>
+			<colorSchemes>colorSchemeUSNP47</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Kansas permoflage block</annotation>
@@ -72668,16 +73058,16 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
-				<Hull>content/gameplay/common/camouflage/textures/kansas.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASB043_Kansas_1945_deckhouse_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/ASB043_Kansas_1945_hull_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_STS_21.dds</Gun>
 				<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
 				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP05</colorSchemes>
+			<colorSchemes>colorSchemeUSNP47</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Austin unique permoflage block</annotation>
@@ -72694,16 +73084,16 @@
 				<Misc>1 1</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/austin.dds</Hull>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+				<Hull>content/gameplay/common/camouflage/textures/ASC065_Austin_1952_camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASC065_Austin_1952_Deckhouse_camo_01.dds</DeckHouse>
+				<Gun>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Gun>
 				<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
-				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Misc>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Misc>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RGB.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RGB.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
 			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP48</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Constellation unique permOflage block</annotation>
@@ -72720,14 +73110,14 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/1700.dds</Hull>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/ASB054_Constellation_1943_Hull_camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASB054_Constellation_1943_DeckHouse_camo_01.dds</DeckHouse>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP05</colorSchemes>
+			<colorSchemes>colorSchemeUSNP52</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Congress unique permOflage block</annotation>
@@ -72744,14 +73134,14 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/CB1.dds</Hull>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Hull>content/gameplay/common/camouflage/textures/ASC075_Congress_1944_camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASC075_Congress_1944_DeckHouse_camo_01.dds</DeckHouse>
+				<Gun>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RGB.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RGB.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSN03</colorSchemes>
+			<colorSchemes>colorSchemeUSNP50</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Rochester unique permOflage block</annotation>
@@ -72768,12 +73158,12 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/occ.dds</Hull>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/ASC077_Rochester_1956_Hull_camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASC077_Rochester_1956_DeckHouse_camo_01.dds</DeckHouse>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP61</colorSchemes>
+			<colorSchemes>colorSchemeUSNP47</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Kearsarge unique permOflage block</annotation>
@@ -72791,12 +73181,12 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/wilcox.dds</Hull>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/ASB066_Kearsarge_1944_camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASB066_Kearsarge_1944_deckhouse_camo_01.dds</DeckHouse>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP10</colorSchemes>
+			<colorSchemes>colorSchemeUSNP47</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Tulsa unique permOflage block</annotation>
@@ -72813,15 +73203,15 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/occ.dds</Hull>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
-				<Bulge>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Bulge>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Hull>content/gameplay/common/camouflage/textures/ASC078_Tulsa_1951_Hull_Camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASC078_Tulsa_1951_DeckHouse_Camo_01.dds</DeckHouse>
+				<Bulge>content/gameplay/common/camouflage/textures/ASC078_Tulsa_1951_Bulge_Camo_01.dds</Bulge>
+				<Gun>content/gameplay/common/camouflage/textures/Gun_tile_camo_01.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RGB.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RGB.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP01</colorSchemes>
+			<colorSchemes>colorSchemeUSNPTulsa</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Annapolis unique permOflage block</annotation>
@@ -72838,16 +73228,16 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/academy.dds</Hull>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/ASC081_Annapolis_1953_Hull_camo.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASC081_Annapolis_1953_Deckhouse_camo.dds</DeckHouse>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 				<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
 				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP01</colorSchemes>
+			<colorSchemes>colorSchemeUSNP54</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>United States unique permOflage block</annotation>
@@ -72864,17 +73254,17 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/superCV.dds</Hull>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
-				<Bulge>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Bulge>
+				<Hull>content/gameplay/common/camouflage/textures/ASA031_United_States_1952_Hull_camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASA031_United_States_1952_DeckHouse_camo_01.dds</DeckHouse>
+				<Bulge>content/gameplay/common/camouflage/textures/ASA031_United_States_1952_Bulge_camo_01.dds</Bulge>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 				<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
 				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_GB.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_GB.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP62</colorSchemes>
+			<colorSchemes>colorSchemeUSNP52</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Forest Sherman unique permOflage block</annotation>
@@ -72891,14 +73281,14 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/Sherman.dds</Hull>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
-				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
+				<Hull>content/gameplay/common/camouflage/textures/ASD060_Forrest_Sherman_1958_Hull_Camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASD060_Forrest_Sherman_1958_DeckHouse_Camo_01.dds</DeckHouse>
+				<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Gun>
+				<Director>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Director>
+				<Misc>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Misc>
 			</Textures>
+			<colorSchemes>colorSchemeUSNP49</colorSchemes>
 			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Hornet unique permOflage block</annotation>
@@ -72915,19 +73305,19 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/dolittle.dds</Hull>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/ASA007_Hornet_1942_Hull_Camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASA007_Hornet_1942_Deckhouse_Camo_01.dds</DeckHouse>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 				<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
 				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP64</colorSchemes>
+			<colorSchemes>colorSchemeUSNP47</colorSchemes>
 		</camouflage>
 		<camouflage>
-			<annotation>Yorktown unique permOflage block</annotation>
+			<annotation>Enterprise unique permOflage block</annotation>
 			<name>camo_permanent_1</name>
 			<useColorScheme>True</useColorScheme>
 			<targetShip>PASA028_Yorktown</targetShip>
@@ -72941,15 +73331,15 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<DeckHouse>content/gameplay/common/camouflage/textures/1701.dds</DeckHouse>
-				<Hull>content/gameplay/common/camouflage/textures/1701.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASA026_Yorktown_1945_DeckHouse_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/ASA026_Yorktown_1945_Hull_camo_01.dds</Hull>
 				<Bulge>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Bulge>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_G.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_G.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP01</colorSchemes>
+			<colorSchemes>colorSchemeUSNP47</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>SanDiego unique permOflage block</annotation>
@@ -72964,13 +73354,13 @@
 				<Misc>1 1</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/Sandy.dds</Hull>
+				<Hull>content/gameplay/common/camouflage/textures/ASC083_San_Diego_1945_camo_01.dds</Hull>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 				<Director>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Director>
 				<Misc>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Misc>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorScheme_San_Diego</colorSchemes>
+			<colorSchemes>colorScheme_San_Diego_alt</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Gato unique permOflage block</annotation>
@@ -72986,11 +73376,11 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Gun>
+				<Hull>content/gameplay/common/camouflage/textures/ASS008_Gato_1943_camo_03.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP63</colorSchemes>
+			<colorSchemes>colorSchemeUSNP52</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Vallejo unique permOflage block</annotation>
@@ -73007,15 +73397,15 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/lilwooster.dds</Hull>
+				<Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Hull>
 				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
 				<Bulge>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Bulge>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP65</colorSchemes>
+			<colorSchemes>colorSchemeUSNP12</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Cachalot unique permOflage block</annotation>
@@ -73031,11 +73421,11 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Gun>
+				<Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSN_Cachalot</colorSchemes>
+			<colorSchemes>colorSchemeUSN_Cachalot_alt</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Salmon unique permOflage block</annotation>
@@ -73051,11 +73441,11 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Gun>
+				<Hull>content/gameplay/common/camouflage/textures/ASS005_Salmon_1944_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSN_Salmon</colorSchemes>
+			<colorSchemes>colorSchemeUSN_Salmon_alt</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Balao unique permOflage block</annotation>
@@ -73071,11 +73461,11 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Hull>
-				<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Gun>
+				<Hull>content/gameplay/common/camouflage/textures/ASS010_Balao_1947_camo_01.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSN_Balao</colorSchemes>
+			<colorSchemes>colorSchemeUSN_Balao_alt</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Louisiana unique permOflage block</annotation>
@@ -73092,15 +73482,15 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/Purchase.dds</Hull>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/ASB075_Louisiana_1949_camo_1.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASB075_Louisiana_1949_DeckHouse_camo_1.dds</DeckHouse>
 				<Bulge>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Bulge>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNDelawareLouisiana1</colorSchemes>
+			<colorSchemes>colorSchemeUSNDelawareLouisiana2</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Nebraska unique permOflage block</annotation>
@@ -73117,15 +73507,15 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/Nebraska.dds</Hull>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/ASB073_Nebraska_1944_Hull_camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASB073_Nebraska_1944_Deckhouse_camo_01.dds</DeckHouse>
 				<Bulge>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Bulge>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNNebraska1</colorSchemes>
+			<colorSchemes>colorSchemeUSNNebraska2</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Delaware unique permOflage block</annotation>
@@ -73142,15 +73532,15 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/Delaware.dds</Hull>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/ASB074_Delaware_1949_Hull_camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASB074_Delaware_1949_Deckhouse_camo_01.dds</DeckHouse>
 				<Bulge>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Bulge>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNDelawareLouisiana1</colorSchemes>
+			<colorSchemes>colorSchemeUSNDelawareLouisiana2</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Joshua Humphreys unique permOflage block</annotation>
@@ -73167,15 +73557,15 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/JHump.dds</Hull>
+				<Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Hull>
 				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
 				<Bulge>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Bulge>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 				<Plane>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Plane>
 				<Float>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorScheme_JHumphreys</colorSchemes>
+			<colorSchemes>colorScheme_JHumphreys_alt</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Illinois unique permOflage block</annotation>
@@ -73192,15 +73582,15 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/Illinois.dds</Hull>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/ASB079_Illinois_1953_camo_01.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASB079_Illinois_1953_Deckhouse_camo_01.dds</DeckHouse>
 				<Bulge>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Bulge>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RGB.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeIllinois</colorSchemes>
+			<colorSchemes>colorSchemeIllinois_alt</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>West Virginia 1944 unique permOflage block</annotation>
@@ -73217,15 +73607,15 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/takemehome44.dds</Hull>
-				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/ASB082_West_Virginia_1944_camo1.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/ASB082_West_Virginia_1944_Deckhouse_camo1.dds</DeckHouse>
 				<Bulge>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Bulge>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeIllinois</colorSchemes>
+			<colorSchemes>colorSchemeIllinois_alt</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Halford unique permOflage block</annotation>
@@ -73242,14 +73632,14 @@
 				<Misc>0.3 0.3</Misc>
 			</UV>
 			<Textures>
-				<Hull>content/gameplay/common/camouflage/textures/Halford.dds</Hull>
+				<Hull>content/gameplay/common/camouflage/textures/ASD067_Halford_1943_camo_01.dds</Hull>
 				<Bulge>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Bulge>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeHalfort</colorSchemes>
+			<colorSchemes>colorSchemeHalfort_alt</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Maine unique permOflage block</annotation>
@@ -73269,12 +73659,12 @@
 				<Hull>content/gameplay/common/camouflage/textures/ASB083_Maine_1958_camo_01.dds</Hull>
 				<DeckHouse>content/gameplay/common/camouflage/textures/ASB083_Maine_1958_deckhouse_camo_01.dds</DeckHouse>
 				<Bulge>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Bulge>
-				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_02.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_02.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeMaine</colorSchemes>
+			<colorSchemes>colorSchemeMaine_alt</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Rhode Island unique permOflage block</annotation>
@@ -73292,13 +73682,13 @@
 			</UV>
 			<Textures>
 				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
-				<Hull>content/gameplay/common/camouflage/textures/onmymind.dds</Hull>
+				<Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Hull>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Plane>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Float>
 			</Textures>
-			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP01</colorSchemes>
+			<colorSchemes>colorSchemeUSNP54</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Wisconsin unique permOflage block</annotation>
@@ -73368,7 +73758,7 @@
 			<colorSchemes>colorSchemeRB02</colorSchemes>
 		</camouflage>
 		<camouflage>
-			<annotation>Missouri second unique permOflage block, stripe</annotation>
+			<annotation>Marblehead second unique permOflage block, stripe</annotation>
 			<name>camo_permanent_2</name>
 			<useColorScheme>True</useColorScheme>
 			<targetShip>PASB509_Missouri</targetShip>
@@ -73384,11 +73774,11 @@
 			<Textures>
 				<Hull>content/gameplay/common/camouflage/textures/ASB015_Missouri_1950_camo_02.dds</Hull>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Float>
 			</Textures>
 			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP47</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Alabama Super Test octopus unique permOflage block</annotation>
@@ -73450,11 +73840,11 @@
 			<Textures>
 				<Hull>content/gameplay/common/camouflage/textures/ASB025_Massachusetts_1946_camo_01.dds</Hull>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
-				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
+				<Plane>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds</Float>
 			</Textures>
 			<colorSchemes>colorSchemeUSNP16</colorSchemes>
-			<colorSchemes>colorSchemeUSNP15</colorSchemes>
+			<colorSchemes>colorSchemeUSNP47</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>Charleston unique permOflage block 02</annotation>
