@@ -159323,11 +159323,15 @@
 				</DeckHouse>
 			</UV>
 			<Textures>
-				<Hull>	content/gameplay/common/camouflage/textures/ASC309_Bridgeport_1955_Hull_camo_01.dds	</Hull>
-				<DeckHouse>	content/gameplay/common/camouflage/textures/ASC309_Bridgeport_1955_DeckHouse_camo_01.dds	</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/occ.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+				<Bulge>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Bulge>
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
 			</Textures>
 			<colorSchemes>
-					colorSchemeBridgeport
+					colorSchemeUSNP16
 				<colorUI>1.1000 0.1000 0.1000 1.1000</colorUI>
 			</colorSchemes>
 		</camouflage>
@@ -181156,12 +181160,12 @@
 				</Misc>
 			</UV>
 			<Textures>
-				<Hull>	content/gameplay/common/camouflage/textures/ASB028_Iowa_1945_camo_01.dds	</Hull>
-				<Gun>	content/gameplay/common/camouflage/textures/Dazzle_tile_camo_03.dds	</Gun>
-				<Plane>	content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds	</Plane>
-				<Float>	content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds	</Float>
+				<Hull>content/gameplay/common/camouflage/textures/Hawkeye.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
 			</Textures>
-			<colorSchemes>	colorSchemePAN02	</colorSchemes>
+			<colorSchemes>	colorSchemeUSNP16	</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>	Zhu_Que unique permOflage block	</annotation>
@@ -181204,10 +181208,10 @@
 			<Textures>
 				<Hull>	content/gameplay/common/camouflage/textures/ASD031_Kidd_1945_camo_01.dds	</Hull>
 				<Gun>	content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds	</Gun>
-				<Plane>	content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds	</Plane>
-				<Float>	content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds	</Float>
+				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
 			</Textures>
-			<colorSchemes>	colorSchemeZhu_Que	</colorSchemes>
+			<colorSchemes>	colorSchemeUSNP16	</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>	Xing_Zhong_Guo unique permOflage block	</annotation>
@@ -201760,16 +201764,17 @@
 				</Misc>
 			</UV>
 			<Textures>
-				<Hull>	content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds	</Hull>
+				<Hull>	content/gameplay/common/camouflage/textures/ASD031_Kidd_1945_camo_01.dds	</Hull>
 				<Gun>	content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds	</Gun>
-				<Float>	content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds	</Float>
+				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
 			</Textures>
 			<colorSchemes>
-					colorSchemecolorJohnson
+					colorSchemeUSNP16
 				<colorUI>0.1233 0.2262 0.2805 1.0000</colorUI>
 			</colorSchemes>
 			<colorSchemes>
-					colorSchemecolorJohnson_alt
+					colorSchemeUSNP15
 				<colorUI>0.8470 0.8550 0.8630 1.0000</colorUI>
 			</colorSchemes>
 		</camouflage>
@@ -201812,18 +201817,18 @@
 				</Misc>
 			</UV>
 			<Textures>
-				<DeckHouse>	content/gameplay/common/camouflage/textures/ASB303_Tennessee_1945_camo_DeckHouse_camo_01.dds	</DeckHouse>
-				<Hull>	content/gameplay/common/camouflage/textures/ASB303_Tennessee_1945_camo_01.dds	</Hull>
-				<Gun>	content/gameplay/common/camouflage/textures/Gun_tile_camo_01.dds	</Gun>
-				<Plane>	content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds	</Plane>
-				<Float>	content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds	</Float>
+				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+				<Hull>content/gameplay/common/camouflage/textures/hotel.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
 			</Textures>
 			<colorSchemes>
-					colorSchemeUSNP15
+					colorSchemeUSNP16
 				<colorUI>0.3380 0.4080 0.4860 1.0000</colorUI>
 			</colorSchemes>
 			<colorSchemes>
-					colorSchemeUSNP50
+					colorSchemeUSNP15
 				<colorUI>0.4950 0.5250 0.5250 1.0000</colorUI>
 			</colorSchemes>
 		</camouflage>
@@ -202025,18 +202030,19 @@
 				</Misc>
 			</UV>
 			<Textures>
-				<DeckHouse>	content/gameplay/common/camouflage/textures/ASC302_Cambridge_1955_DeckHouse_camo1.dds	</DeckHouse>
-				<Hull>	content/gameplay/common/camouflage/textures/ASC302_Cambridge_1955_camo1.dds	</Hull>
-				<Gun>	content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds	</Gun>
-				<Plane>	content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds	</Plane>
-				<Float>	content/gameplay/common/camouflage/textures/Plane_tile_camo_R.dds	</Float>
+				<Hull>content/gameplay/common/camouflage/textures/occ.dds</Hull>
+				<DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</DeckHouse>
+				<Bulge>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Bulge>
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
 			</Textures>
 			<colorSchemes>
-					colorSchemeUSNP15
+					colorSchemeUSNP16
 				<colorUI>0.3380 0.4080 0.4860 1.0000</colorUI>
 			</colorSchemes>
 			<colorSchemes>
-					colorSchemeUSNP47
+					colorSchemeUSNP15
 				<colorUI>0.4950 0.5250 0.5250 1.0000</colorUI>
 			</colorSchemes>
 		</camouflage>
@@ -202053,14 +202059,17 @@
 				</Hull>
 			</UV>
 			<Textures>
-				<Hull>	content/gameplay/common/camouflage/textures/ASD305_Hughes_camo_01.dds	</Hull>
+				<Hull>content/gameplay/common/camouflage/textures/livinlarge.dds</Hull>
+				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
+				<Float>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Float>
 			</Textures>
 			<colorSchemes>
-					colorSchemeHughes
+					colorSchemeUSNP16
 				<colorUI>0.3020 0.4314 0.5059 1.0000</colorUI>
 			</colorSchemes>
 			<colorSchemes>
-					colorSchemeHughes_alt
+					colorSchemeUSNP15
 				<colorUI>0.3527 0.3727 0.3727 1.0000</colorUI>
 			</colorSchemes>
 		</camouflage>
@@ -202135,11 +202144,11 @@
 				<DeckHouse>	content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds	</DeckHouse>
 			</Textures>
 			<colorSchemes>
-					colorSchemeLaffey
+					colorSchemeUSNP16
 				<colorUI>0.5098 0.5569 0.6039 1.0000</colorUI>
 			</colorSchemes>
 			<colorSchemes>
-					colorSchemeUSNP20
+					colorSchemeUSNP15
 				<colorUI>0.1389 0.2741 0.3527 1.0000</colorUI>
 			</colorSchemes>
 		</camouflage>
