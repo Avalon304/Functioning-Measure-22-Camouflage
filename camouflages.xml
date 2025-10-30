@@ -2,16 +2,16 @@
 <data>
 	<shipgroups.xml>
 		<EUR_group_1>
-			<ships>	PVSB999_Cordillera PWSB504_Viribus_Unitis PWSC506_Elli PWSC710_Svea	</ships>
+			<ships>	PVSB999_Cordillera PWSB504_Viribus_Unitis PWSC506_Elli PWSC710_Svea PWSB014_Yavuz_Sultan_Selim	</ships>
 		</EUR_group_1>
 		<EUR_group_2>
-			<ships>	PWSC101_Gryf PWSD102_Tatra PWSD103_Romulus PWSD104_Klas_Horn PWSD105_Visby PWSD106_Vasteras PWSD107_Skane PWSD108_Oland PWSD109_Ostergotland PWSD110_Halland PWSD111_Dalarna PWSD205_Muavenet PWSD206_Stord PWSD207_Grom PWSD208_Split PWSD209_Lambros_Katsonis PWSD210_Gdansk PWSD509_Velos PWSD519_Jager PWSD610_Smaland PWSD705_Kalmar PWSD717_Stord_1943 PWSD910_Lappland PWSD990_Sodermanland PWSD719_Blyskawica_1952	</ships>
+			<ships>	PWSC101_Gryf PWSD102_Tatra PWSD103_Romulus PWSD104_Klas_Horn PWSD105_Visby PWSD106_Vasteras PWSD107_Skane PWSD108_Oland PWSD109_Ostergotland PWSD110_Halland PWSD111_Dalarna PWSD205_Muavenet PWSD206_Stord PWSD207_Grom PWSD208_Split PWSD209_Lambros_Katsonis PWSD210_Gdansk PWSD509_Velos PWSD519_Jager PWSD610_Smaland PWSD705_Kalmar PWSD717_Stord_1943 PWSD910_Lappland PWSD990_Sodermanland PWSD719_Blyskawica_1952 PWSD920_PostApoc_Smaland	</ships>
 		</EUR_group_2>
 		<EUR_group_3>
 			<ships>	PWSD710_Ragnar	</ships>
 		</EUR_group_3>
 		<EUR_group_4>
-			<ships>	PWSB509_Karl_XIV_Johan PWSB719_Niord	</ships>
+			<ships>	PWSB018_Enigheten PWSB019_Gustav_den_Store PWSB509_Karl_XIV_Johan PWSB909_Black_Karl_XIV_Johan PWSB719_Niord PWSB718_Turgut_Reis PWSB017_Chios PWSB010_Thor	</ships>
 		</EUR_group_4>
 		<EUR_group_5>
 			<ships>	PWSB707_Lugdunum	</ships>
@@ -47,7 +47,7 @@
 			<ships>	PGSC001_Hermelin_1940 PGSC002_Drezden_1908 PGSC103_Kolberg PGSC104_Karlsruhe PGSC111_Clausewitz PGSC502_Emden_1908 PGSD104_V_170 PGSD105_T_22 PGSD106_Ernst_Gaede PGSD107_Leberecht_Maass PGSD108_Z_23 PGSD109_Z_46 PGSD506_T_61 PGSD516_Karl_von_Schonberg PGSD518_Z_35 PGSD519_Z_44 PGSD529_ZF_6 PGSD709_GM_ZF_6 PGSC720_Bremen	</ships>
 		</GER_group_2>
 		<GER_group_3>
-			<ships>	PGSB107_Gneisenau PGSB205_Derfflinger PGSB206_Mackensen PGSB207_Prinz_Heinrich PGSB208_Zieten PGSB507_Scharnhorst PGSB517_AZUR_Prinz_Heinrich PGSB518_Brandenburg PGSB538_Black_Brandenburg PGSB597_Black_Scharnhorst PGSB717_Scharnhorst_1943 PGSB989_Prinz_Sigismund PGSC110_Hindenburg PGSC519_Aegir PGSC528_Schill PGSC529_Admiral_Schroder PGSC710_Hildebrand PGSC899_AZUR_Aegir PGSC890_Azur_Hindenburg PGSC019_Manteuffel PGSC018_Knesebeck PGSC016_Deutschland 	</ships>
+			<ships>	PGSB107_Gneisenau PGSB205_Derfflinger PGSB206_Mackensen PGSB207_Prinz_Heinrich PGSB208_Zieten PGSB908_PostApoc_Zieten PGSB507_Scharnhorst PGSB517_AZUR_Prinz_Heinrich PGSB518_Brandenburg PGSB538_Black_Brandenburg PGSB597_Black_Scharnhorst PGSB717_Scharnhorst_1943 PGSB989_Prinz_Sigismund PGSC110_Hindenburg PGSC519_Aegir PGSC528_Schill PGSC908_Black_Schill PGSC529_Admiral_Schroder PGSC710_Hildebrand PGSC899_AZUR_Aegir PGSC890_Azur_Hindenburg PGSC019_Manteuffel PGSC018_Knesebeck PGSC016_Deutschland 	</ships>
 		</GER_group_3>
 		<GER_group_4>
 			<ships>	PGSA104_Rhein PGSA106_Weser PGSA108_Parseval PGSA110_Manfred_Richthofen PGSA910_Pinata_Richthofen PGSA506_Erich_Loewenhardt PGSA508_Graf_Zeppelin PGSA510_Werner_Voss PGSA518_Graf_Zeppelin PGSA598_Black_Graf_Zeppelin PGSA610_Max_Immelmann PGSA990_Otto_Lilienthal PGSB109_Friedrich_der_Grosse PGSB110_Grossdeutschland PGSB111_Hannover PGSB209_Prinz_Rupprecht PGSB210_Schlieffen PGSB930_Pinata_Schliefen PGSB310_Preussen PGSB506_Prinz_Eithel_Friedrich PGSB509_Pommern PGSB528_Anhalt PGSB610_Mecklenburg PGSC518_Mainz PGSC598_Black_Mainz PGSC718_Warhammer_Blacktemplar PGSB920_Schlieffen	</ships>
@@ -65,7 +65,7 @@
 			<ships>	PGSD610_Z_42	</ships>
 		</GER_group_8>
 		<ITA_group_1>
-			<ships>	PISB104_Dante_Alighieri PISB105_Conte_di_Cavour PISB505_Giulio_Cesare PISC102_Nino_Bixio PISC103_Taranto PISC104_Alberto_da_Giussano PISC105_Raimondo_Montecuccoli PISC106_Trento PISC107_Zara PISC108_Amalfi PISC505_Genova PISC506_DucadAosta PISC507_Duca_degli_Abruzzi PISC517_Francesco_Ferruccio PISC707_Olympian_Francesco_Ferruccio PISC607_Gorizia PISC719_Ferrante_Gonzaga PISD509_Paolo_Emilio PISD710_Alberico_da_Barbiano PISC897_Azur_Gorizia PISB718_Marcantonio_Colonna PISB818_BA_Marcantonio_Colonna	</ships>
+			<ships>	PISB104_Dante_Alighieri PISB105_Conte_di_Cavour PISB505_Giulio_Cesare PISC102_Nino_Bixio PISC103_Taranto PISC104_Alberto_da_Giussano PISC105_Raimondo_Montecuccoli PISC106_Trento PISC107_Zara PISC108_Amalfi PISC505_Genova PISC506_DucadAosta PISC507_Duca_degli_Abruzzi PISC517_Francesco_Ferruccio PISC707_Olympian_Francesco_Ferruccio PISC607_Gorizia PISC719_Ferrante_Gonzaga PISD509_Paolo_Emilio PISD710_Alberico_da_Barbiano PISC897_Azur_Gorizia PISB718_Marcantonio_Colonna PISB818_BA_Marcantonio_Colonna PISC729_Messina	</ships>
 		</ITA_group_1>
 		<ITA_group_2>
 			<ships>	PISB106_Andrea_Doria PISB107_Francesco_Caracciolo PISB108_Vittorio_Veneto PISB508_Roma PISB708_AZUR_Littorio PISC109_Brindisi PISC110_Venezia PISC111_Piemonte PISC990_Ravenna	</ships>
@@ -149,7 +149,7 @@
 			<ships>	PWSD501_Blyskawica PWSD508_Orkan PWSD708_Blyskawica_1944	</ships>
 		</POL_group_1>
 		<RUS_group_1>
-			<ships>	PRSB001_Nikolay_I PRSB103_Knyaz_Suvorov PRSB104_Gangut PRSB105_Pyotr_Velikiy PRSB106_Izmail PRSB516_Novorossiysk PRSC001_Avrora_1917 PRSC002_Diana_1905 PRSC003_Murmansk_1944 PRSC010_Diana_1905_Asus PRSC101_Orlan PRSC105_Kirov PRSC106_Pr_94_Budeny PRSC107_Schors PRSC108_Pr_68_Chapaev PRSC110_Pr_66_Moskva PRSC215_Kotovsky PRSC503_Oleg PRSC506_Molotov_1943 PRSC508_Kutuzov_1952 PRSC513_Varyag PRSC523_AZUR_Avrora PRSC525_Kirov PRSC528_Ochakov PRSC530_Black_Smolensk PRSC558_Dmitry_Pozharsky PRSC610_Smolensk PRSC719_Kozma_Minin PRSD103_Derzky PRSD104_Izyaslav PRSD709_Pr_41_Neustrashimy PRSD718_Provorny PRSC818_Cyber_Dmitry_Pozharsky	</ships>
+			<ships>	PRSB001_Nikolay_I PRSB103_Knyaz_Suvorov PRSB104_Gangut PRSB105_Pyotr_Velikiy PRSB106_Izmail PRSB516_Novorossiysk PRSC001_Avrora_1917 PRSC002_Diana_1905 PRSC003_Murmansk_1944 PRSC010_Diana_1905_Asus PRSC101_Orlan PRSC105_Kirov PRSC106_Pr_94_Budeny PRSC107_Schors PRSC108_Pr_68_Chapaev PRSC110_Pr_66_Moskva PRSC215_Kotovsky PRSC503_Oleg PRSC506_Molotov_1943 PRSC508_Kutuzov_1952 PRSC513_Varyag PRSC523_AZUR_Avrora PRSC525_Kirov PRSC528_Ochakov PRSC530_Black_Smolensk PRSC558_Dmitry_Pozharsky PRSC610_Smolensk PRSC719_Kozma_Minin PRSD103_Derzky PRSD104_Izyaslav PRSD709_Pr_41_Neustrashimy PRSD909_Black_Neustrashimy PRSD718_Provorny PRSC818_Cyber_Dmitry_Pozharsky	</ships>
 		</RUS_group_1>
 		<RUS_group_2>
 			<ships>	PRSC102_Novik PRSC103_Bogatyr PRSC104_Svetlana PRSC505_KrasniKrym PRSD001_Gremyashchy_1942 PRSD107_Pr_35_Udaloy PRSD110_Pr_24_Khabarovsk PRSD111_Zorky PRSD205_Podvoisky_pr_1929 PRSD206_Pr_7 PRSD207_Minsk PRSD208_Pr_30 PRSD210_Grozovoy_pr_40N PRSD308_Pr_48 PRSD409_Pr_20i_Tashkent PRSD410_Delny PRSD505_Okhotnik_1917 PRSD507_Leningrad_1944 PRSD810_R_10 PRSS110_K_type PXSD015_Grozovoy_PA PXSD020_Khabarovsk_PA	</ships>
@@ -167,7 +167,7 @@
 			<ships>	PRSB505_Oktyabrskaya_Revolutsiya PRSC209_Riga	</ships>
 		</RUS_group_6>
 		<RUS_group_7>
-			<ships>	PRSA104_Komsomolets PRSA106_Serov PRSB109_Sovetsky_Soyuz PRSB508_Poltava PRSB509_Navarin PRSB518_Lenin PRSB538_V_I_Lenin PRSB709_AZUR_Sov_Russia PRSC111_Novosibirsk PRSC208_Tallin PRSC210_Pr_84_Alexander_Nevsky PRSC310_Petropavlovsk PRSC515_Mikoyan PRSC538_Petr_Bagration PRSC548_Bagration PRSC810_Komissar PRSC980_Vladimir_Monomakh PRSC990_Petrozavodsk	</ships>
+			<ships>	PRSA104_Komsomolets PRSA106_Serov PRSB109_Sovetsky_Soyuz PRSB508_Poltava PRSB509_Navarin PRSB518_Lenin PRSB538_V_I_Lenin PRSB709_AZUR_Sov_Russia PRSC111_Novosibirsk PRSC208_Tallin PRSC210_Pr_84_Alexander_Nevsky PRSC310_Petropavlovsk PRSC920_PostApoc_Petropavlovsk PRSC515_Mikoyan PRSC538_Petr_Bagration PRSC548_Bagration PRSC810_Komissar PRSC980_Vladimir_Monomakh PRSC990_Petrozavodsk	</ships>
 		</RUS_group_7>
 		<RUS_group_8>
 			<ships>	PRSD517_Tashkent_1939	</ships>
@@ -200,7 +200,7 @@
 			<ships>	PBSC548_Nottingham PUSC016_Hobart	</ships>
 		</UK_group_6>
 		<USN_group_1>
-			<ships>	PASA004_Langley_1929 PASA006_Independence_1945 PASA012_Lexington_1944 PASA013_Essex_1945 PASA020_Essex PASA026_Independence PASA104_Langley PASA108_Lexington PASA507_Saipan_1946 PASA528_Saipan PASA908_Concord_Bridge PASA910_Essex PASB001_Michigan_1916 PASB004_Arkansas_1912 PASB006_New_York_1934 PASB012_North_Carolina_1945 PASB013_Arkansas_1912 PASB018_Iowa_1944 PASB034_New_Mexico_1941 PASB508_Alabama PASB509_Missouri PASB518_Massachusetts PASB528_Alabama_VL PASB538_Constellation PASB598_Black_Massachusetts PASB705_Texas_1944 PASB708_Alabama PASB710_Oregon PASB720_Rhode_Island PASB729_Georgia PASB808_Colorful_North_Carolina PASB818_Black_Alabama PASB919_Iowa_2 PASB998_North_Carolina_2 PASC001_Erie_1936 PASC002_Chester_1908 PASC003_Albany_1898 PASC004_St_Louis_1906 PASC005_Omaha_1923 PASC006_Atlanta_1942 PASC007_Cleveland_1945 PASC011_Jacksonville PASC012_Pensacola_1944 PASC014_New_Orlean_1944 PASC017_Baltimore_1944 PASC020_Des_Moines_1948 PASC024_Phoenix_1917 PASC044_Marblehead_1924 PASC045_Marblehead_1924_Asus PASC106_Pensacola_1944 PASC107_New_Orlean_1944 PASC108_Baltimore_1944 PASC109_Buffalo PASC206_Dallas PASC208_Cleveland PASC209_Seattle PASC210_Worcester PASC503_Charleston PASC505_Rattlehead PASC507_Indianapolis_1945 PASC518_Anchorage PASC548_San_Diego PASC587_Black_Atlanta PASC597_Nueve_de_Julio_1951 PASC707_Flint PASC710_Salem PASC718_AZUR_Montpelier PASD502_Smith PASD505_Hill PASD597_Black_Sims PASD719_Johnston PXSD017_Gearing_PA PASD819_FBO_Johnston PASC998_Cleveland PASA920_Pinata_Essex	</ships>
+			<ships>	PASA004_Langley_1929 PASA006_Independence_1945 PASA012_Lexington_1944 PASA013_Essex_1945 PASA020_Essex PASA026_Independence PASA104_Langley PASA108_Lexington PASA507_Saipan_1946 PASA528_Saipan PASA908_Concord_Bridge PASA910_Essex PASB001_Michigan_1916 PASB004_Arkansas_1912 PASB006_New_York_1934 PASB012_North_Carolina_1945 PASB013_Arkansas_1912 PASB018_Iowa_1944 PASB034_New_Mexico_1941 PASB508_Alabama PASB509_Missouri PASB518_Massachusetts PASB528_Alabama_VL PASB538_Constellation PASB598_Black_Massachusetts PASB705_Texas_1944 PASB708_Alabama PASB710_Oregon PASB720_Rhode_Island PASB930_Black_Rhode_Island PASB729_Georgia PASB808_Colorful_North_Carolina PASB818_Black_Alabama PASB919_Iowa_2 PASB998_North_Carolina_2 PASC001_Erie_1936 PASC002_Chester_1908 PASC003_Albany_1898 PASC004_St_Louis_1906 PASC005_Omaha_1923 PASC006_Atlanta_1942 PASC007_Cleveland_1945 PASC011_Jacksonville PASC012_Pensacola_1944 PASC014_New_Orlean_1944 PASC017_Baltimore_1944 PASC020_Des_Moines_1948 PASC024_Phoenix_1917 PASC044_Marblehead_1924 PASC045_Marblehead_1924_Asus PASC106_Pensacola_1944 PASC107_New_Orlean_1944 PASC108_Baltimore_1944 PASC109_Buffalo PASC206_Dallas PASC208_Cleveland PASC209_Seattle PASC210_Worcester PASC503_Charleston PASC505_Rattlehead PASC507_Indianapolis_1945 PASC518_Anchorage PASC548_San_Diego PASC587_Black_Atlanta PASC597_Nueve_de_Julio_1951 PASC707_Flint PASC710_Salem PASC718_AZUR_Montpelier PASD502_Smith PASD505_Hill PASD597_Black_Sims PASD719_Johnston PXSD017_Gearing_PA PASD819_FBO_Johnston PASC998_Cleveland PASA920_Pinata_Essex	</ships>
 		</USN_group_1>
 		<USN_group_2>
 			<ships>	PASD002_Sampson_1917 PASD005_Farragut_1944 PASD006_Mahan_1936 PASD008_Benson_1945 PASD014_Leader_1919 PASD019_Clemson_1920 PASD021_Fletcher_1943 PASD027_Wickes_1918 PASD029_Sims_1941 PASD038_Osborne PASD111_Joshua_Humphreys PASD506_Monaghan PASD508_Kidd PASD509_Benham PASD510_Somers PASD519_Halford PASD704_DD_214 PASS108_Salmon PASS110_Balao PASS208_Salmon PASS210_Balao PASS510_Gato PASS710_Archerfish PASS910_Balao_2 PASD710_Laffey PASD040_Burrows PASD037_Hughes PASD039_Christopher	</ships>
@@ -212,7 +212,7 @@
 			<ships>	PASA002_Bogue_1942 PASA010_Ranger_1944 PASA106_Ranger PASC207_Helena PASC508_Wichita	</ships>
 		</USN_group_4>
 		<USN_group_5>
-			<ships>	PASA015_Midway_1945 PASA028_Yorktown PASA110_Midway PASA111_United_States PASA208 PASA508_Enterprise PASA510_Roosevelt PASA518_Enterprise PASA538_Hornet PASA898_AZUR_Hornet PASA915_TST_Midway PASB109_Minnesota PASB110_Vermont PASB111_Maine PASB208_Nebraska PASB209_Delaware PASB210_Louisiana PASB519_Kearsarge PASB527_West_Virginia_1944 PASB539_Illinois PASB599_Black_Kearsarge PASB889_Azur_Kearsarge PASB707_California PASB718_Tennessee PASB730_Wisconsin PASB910_Connecticut PASB990_Utah PASC610_Puerto_Rico Yorktown PASB719_Indiana PASC720_Hawaii	</ships>
+			<ships>	PASA015_Midway_1945 PASA028_Yorktown PASA110_Midway PASA111_United_States PASA208 PASA508_Enterprise PASA510_Roosevelt PASA518_Enterprise PASA538_Hornet PASA898_AZUR_Hornet PASA915_TST_Midway PASB109_Minnesota PASB110_Vermont PASB111_Maine PASB208_Nebraska PASB209_Delaware PASB210_Louisiana PASB519_Kearsarge PASB527_West_Virginia_1944 PASB539_Illinois PASB599_Black_Kearsarge PASB889_Azur_Kearsarge PASB707_California PASB718_Tennessee PASB730_Wisconsin PASB910_Connecticut PASB990_Utah PASC610_Puerto_Rico PASC910_Black_Puerto_Rico Yorktown PASB719_Indiana PASC720_Hawaii	</ships>
 		</USN_group_5>
 		<USN_group_6>
 			<ships>	PASC810_Austin	</ships>
@@ -310,6 +310,13 @@
 			<color3>0.0000 0.0000 0.0000 0.0000</color3>
 		</colorScheme>
 		<colorScheme>
+			<name>	colorScheme_Chios	</name>
+			<color0>0.4152 0.4704 0.5295 1.0000</color0>
+			<color1>0.2233 0.2932 0.3686 1.0000</color1>
+			<color2>0.0478 0.0619 0.0658 1.0000</color2>
+			<color3>0.0000 0.0000 0.0000 0.0000</color3>
+		</colorScheme>
+		<colorScheme>
 			<name>	colorScheme_Gdansk	</name>
 			<color0>0.1040 0.1300 0.1570 1.0000</color0>
 			<color1>0.1040 0.1300 0.1570 1.0000</color1>
@@ -343,6 +350,13 @@
 			<color1>0.3299 0.3299 0.3299 1.0000</color1>
 			<color2>0.0800 0.1010 0.0250 1.0000</color2>
 			<color3>0.1640 0.1540 0.1670 1.0000</color3>
+		</colorScheme>
+		<colorScheme>
+			<name>	colorScheme_Turgut_Reis	</name>
+			<color0>0.4936 0.5605 0.5732 1.0000</color0>
+			<color1>0.0638 0.0718 0.0759 1.0000</color1>
+			<color2>0.3736 0.4045 0.4045 1.0000</color2>
+			<color3>0.0000 0.0000 0.0000 0.0000</color3>
 		</colorScheme>
 		<colorScheme>
 			<name>	colorScheme_VelosGreek	</name>
@@ -1308,6 +1322,13 @@
 			<color0>0.0390 0.0400 0.0520 1.0000</color0>
 			<color1>0.0090 0.0360 0.0590 0.0000</color1>
 			<color2>0.0210 0.0330 0.0460 1.0000</color2>
+			<color3>0.0000 0.0000 0.0000 0.0000</color3>
+		</colorScheme>
+		<colorScheme>
+			<name>	colorScheme_Nurnberg44	</name>
+			<color0>0.2196 0.2632 0.2591 1.0000</color0>
+			<color1>0.0000 0.0000 0.0000 0.0000</color1>
+			<color2>0.0000 0.0000 0.0000 0.0000</color2>
 			<color3>0.0000 0.0000 0.0000 0.0000</color3>
 		</colorScheme>
 		<colorScheme>
@@ -16905,223 +16926,213 @@
 				</Wire_mgn>
 			</Textures>
 		</camouflage>
-		<camouflage>
+<camouflage>
 			<annotation>	Borg_player_tile unique permOflage block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024	</annotation>
 			<name>	mat_Borg_player_tile	</name>
-			<shipGroups>	IJN_group_3 USN_group_3 UK_group_3 GER_group_3 FRA_group_3 ITA_group_2 RUS_group_7	</shipGroups>
-			<tiled>	false	</tiled>
+			<shipGroups>	FRA_group_3 GER_group_3 IJN_group_3 ITA_group_2 RUS_group_7 UK_group_3 USN_group_3	</shipGroups>
 			<UV>
-				<DeckHouse>
-					<scale>	2.0	1.0	</scale>
-					<offset>	0.0	0.0	</offset>
-					<rotate>	0.0	</rotate>
-				</DeckHouse>
 				<Tile>
-					<scale>	2.0	2.0	</scale>
-					<offset>	0.0	0.0	</offset>
-					<rotate>	0.0	</rotate>
+					<scale>	2.0000 2.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
 				</Tile>
+				<DeckHouse>
+					<scale>	2.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</DeckHouse>
+				<Bulge>
+					<scale>	2.0000 2.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Bulge>
 				<Gun>
-					<scale>	0.4	0.4	</scale>
-					<offset>	0.0	0.0	</offset>
-					<rotate>	0.0	</rotate>
+					<scale>	0.4000 0.4000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
 				</Gun>
 				<Director>
-					<scale>	0.4	0.4	</scale>
-					<offset>	0.0	0.0	</offset>
-					<rotate>	0.0	</rotate>
+					<scale>	0.4000 0.4000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
 				</Director>
+				<Misc>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Misc>
 				<Plane>
-					<scale>	0.5	0.5	</scale>
-					<offset>	0.0	0.0	</offset>
-					<rotate>	0.0	</rotate>
+					<scale>	0.5000 0.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
 				</Plane>
 				<Float>
-					<scale>	0.5	0.25	</scale>
-					<offset>	0.0	0.0	</offset>
-					<rotate>	0.0	</rotate>
+					<scale>	0.5000 0.2500	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
 				</Float>
-				<Misc>
-					<scale>	1.0	1.0	</scale>
-					<offset>	0.0	0.0	</offset>
-					<rotate>	0.0	</rotate>
-				</Misc>
-				<Bulge>
-					<scale>	2.0	2.0	</scale>
-					<offset>	0.0	0.0	</offset>
-					<rotate>	0.0	</rotate>
-				</Bulge>
 			</UV>
 			<Textures>
-				<DeckHouse>	content/gameplay/common/camouflage/textures/mat_camo/MC_Tile_Borg_alpha_a.dds	</DeckHouse>
-				<DeckHouse_mgn>
-						content/gameplay/common/camouflage/textures/mat_camo/MC_Tile_Borg_mgn.dds
-					<Influence_m>	1.0	</Influence_m>
-					<Influence_g>	1.0	</Influence_g>
-					<Influence_n>	1.0	</Influence_n>
-					<useCamoMaskGlobal>	false	</useCamoMaskGlobal>
-					<camoMode>	2	</camoMode>
-					<camoEmissionAnimationMode>	3	</camoEmissionAnimationMode>
-					<camoEmissionColorMode>	0	</camoEmissionColorMode>
-					<camoEmissionBasePower>	0.0	</camoEmissionBasePower>
-					<camoEmissionAnimationMaxPower>	200.0	</camoEmissionAnimationMaxPower>
-					<camoMaskSmooth>	0.1	</camoMaskSmooth>
-					<camoAnimScale>	1.1 1.1 1.1 1.1	</camoAnimScale>
-					<camoMaskColor1>1.1000 0.1000 0.1000 1.1000</camoMaskColor1>
-					<camoMaskColor2>1.1000 1.1000 0.1000 1.1000</camoMaskColor2>
-					<camoMaskSpeed>	0.2 0.2 0.6 1.1	</camoMaskSpeed>
-				</DeckHouse_mgn>
-				<DeckHouse_animmap>	content/gameplay/common/textures/default_emission_timeline_white.dds	</DeckHouse_animmap>
 				<Hull>	content/gameplay/common/camouflage/textures/mat_camo/MC_Tile_Borg_alpha_a.dds	</Hull>
 				<Hull_mgn>
 						content/gameplay/common/camouflage/textures/mat_camo/MC_Tile_Borg_mgn.dds
-					<Influence_m>	1.0	</Influence_m>
-					<Influence_g>	1.0	</Influence_g>
-					<Influence_n>	1.0	</Influence_n>
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	1.0000	</Influence_n>
 					<useCamoMaskGlobal>	false	</useCamoMaskGlobal>
 					<camoMode>	2	</camoMode>
 					<camoEmissionAnimationMode>	3	</camoEmissionAnimationMode>
+					<camoEmissionBasePower>	0.0000	</camoEmissionBasePower>
+					<camoEmissionAnimationMaxPower>	200.0000	</camoEmissionAnimationMaxPower>
+					<camoAnimScale>	1.1000 1.1000 1.1000	</camoAnimScale>
+					<camoMaskSpeed>	0.2000 0.2000 0.6000	</camoMaskSpeed>
+					<camoMaskSmooth>	0.1000	</camoMaskSmooth>
 					<camoEmissionColorMode>	0	</camoEmissionColorMode>
-					<camoEmissionBasePower>	0.0	</camoEmissionBasePower>
-					<camoEmissionAnimationMaxPower>	200.0	</camoEmissionAnimationMaxPower>
-					<camoMaskSmooth>	0.1	</camoMaskSmooth>
-					<camoAnimScale>	1.1 1.1 1.1 1.1	</camoAnimScale>
-					<camoMaskColor1>1.1000 0.1000 0.1000 1.1000</camoMaskColor1>
 					<camoMaskColor2>1.1000 1.1000 0.1000 1.1000</camoMaskColor2>
-					<camoMaskSpeed>	0.2 0.2 0.6 1.1	</camoMaskSpeed>
 				</Hull_mgn>
 				<Hull_animmap>	content/gameplay/common/textures/default_emission_timeline_white.dds	</Hull_animmap>
+				<DeckHouse>	content/gameplay/common/camouflage/textures/mat_camo/MC_Tile_Borg_alpha_a.dds	</DeckHouse>
+				<DeckHouse_mgn>
+						content/gameplay/common/camouflage/textures/mat_camo/MC_Tile_Borg_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	1.0000	</Influence_n>
+					<useCamoMaskGlobal>	false	</useCamoMaskGlobal>
+					<camoMode>	2	</camoMode>
+					<camoEmissionAnimationMode>	3	</camoEmissionAnimationMode>
+					<camoEmissionBasePower>	0.0000	</camoEmissionBasePower>
+					<camoEmissionAnimationMaxPower>	200.0000	</camoEmissionAnimationMaxPower>
+					<camoAnimScale>	1.1000 1.1000 1.1000	</camoAnimScale>
+					<camoMaskSpeed>	0.2000 0.2000 0.6000	</camoMaskSpeed>
+					<camoMaskSmooth>	0.1000	</camoMaskSmooth>
+					<camoEmissionColorMode>	0	</camoEmissionColorMode>
+					<camoMaskColor2>1.1000 1.1000 0.1000 1.1000</camoMaskColor2>
+				</DeckHouse_mgn>
+				<DeckHouse_animmap>	content/gameplay/common/textures/default_emission_timeline_white.dds	</DeckHouse_animmap>
+				<Bulge>	content/gameplay/common/camouflage/textures/mat_camo/MC_Tile_Borg_alpha_a.dds	</Bulge>
+				<Bulge_mgn>
+						content/gameplay/common/camouflage/textures/mat_camo/MC_Tile_Borg_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	1.0000	</Influence_n>
+					<useCamoMaskGlobal>	false	</useCamoMaskGlobal>
+					<camoMode>	2	</camoMode>
+					<camoEmissionAnimationMode>	3	</camoEmissionAnimationMode>
+					<camoEmissionBasePower>	0.0000	</camoEmissionBasePower>
+					<camoEmissionAnimationMaxPower>	200.0000	</camoEmissionAnimationMaxPower>
+					<camoAnimScale>	1.1000 1.1000 1.1000	</camoAnimScale>
+					<camoMaskSpeed>	0.2000 0.2000 0.6000	</camoMaskSpeed>
+					<camoMaskSmooth>	0.1000	</camoMaskSmooth>
+					<camoEmissionColorMode>	0	</camoEmissionColorMode>
+					<camoMaskColor2>1.1000 1.1000 0.1000 1.1000</camoMaskColor2>
+				</Bulge_mgn>
+				<Bulge_animmap>	content/gameplay/common/textures/default_emission_timeline_white.dds	</Bulge_animmap>
 				<Gun>	content/gameplay/common/camouflage/textures/mat_camo/MC_Tile_Borg_alpha_a.dds	</Gun>
 				<Gun_mgn>
 						content/gameplay/common/camouflage/textures/mat_camo/MC_Tile_Borg_mgn.dds
-					<Influence_m>	1.0	</Influence_m>
-					<Influence_g>	1.0	</Influence_g>
-					<Influence_n>	1.0	</Influence_n>
-					<useCamoMaskGlobal>	false	</useCamoMaskGlobal>
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	1.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
 					<camoMode>	2	</camoMode>
 					<camoEmissionAnimationMode>	3	</camoEmissionAnimationMode>
+					<camoEmissionBasePower>	0.0000	</camoEmissionBasePower>
+					<camoEmissionAnimationMaxPower>	200.0000	</camoEmissionAnimationMaxPower>
+					<camoAnimScale>	1.1000 1.1000 1.1000	</camoAnimScale>
+					<camoMaskSpeed>	0.2000 0.2000 0.6000	</camoMaskSpeed>
+					<camoMaskSmooth>	0.1000	</camoMaskSmooth>
 					<camoEmissionColorMode>	0	</camoEmissionColorMode>
-					<camoEmissionBasePower>	0.0	</camoEmissionBasePower>
-					<camoEmissionAnimationMaxPower>	200.0	</camoEmissionAnimationMaxPower>
-					<camoMaskSmooth>	0.1	</camoMaskSmooth>
-					<camoAnimScale>	1.1 1.1 1.1 1.1	</camoAnimScale>
-					<camoMaskColor1>1.1000 0.1000 0.1000 1.1000</camoMaskColor1>
 					<camoMaskColor2>1.1000 1.1000 0.1000 1.1000</camoMaskColor2>
-					<camoMaskSpeed>	0.2 0.2 0.6 1.1	</camoMaskSpeed>
 				</Gun_mgn>
 				<Gun_animmap>	content/gameplay/common/textures/default_emission_timeline_white.dds	</Gun_animmap>
 				<Director>	content/gameplay/common/camouflage/textures/mat_camo/MC_Tile_Borg_alpha_a.dds	</Director>
 				<Director_mgn>
 						content/gameplay/common/camouflage/textures/mat_camo/MC_Tile_Borg_mgn.dds
-					<Influence_m>	1.0	</Influence_m>
-					<Influence_g>	1.0	</Influence_g>
-					<Influence_n>	1.0	</Influence_n>
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	1.0000	</Influence_n>
 					<useCamoMaskGlobal>	false	</useCamoMaskGlobal>
 					<camoMode>	2	</camoMode>
 					<camoEmissionAnimationMode>	3	</camoEmissionAnimationMode>
+					<camoEmissionBasePower>	0.0000	</camoEmissionBasePower>
+					<camoEmissionAnimationMaxPower>	200.0000	</camoEmissionAnimationMaxPower>
+					<camoAnimScale>	1.1000 1.1000 1.1000	</camoAnimScale>
+					<camoMaskSpeed>	0.2000 0.2000 0.6000	</camoMaskSpeed>
+					<camoMaskSmooth>	0.1000	</camoMaskSmooth>
 					<camoEmissionColorMode>	0	</camoEmissionColorMode>
-					<camoEmissionBasePower>	0.0	</camoEmissionBasePower>
-					<camoEmissionAnimationMaxPower>	200.0	</camoEmissionAnimationMaxPower>
-					<camoMaskSmooth>	0.1	</camoMaskSmooth>
-					<camoAnimScale>	1.1 1.1 1.1 1.1	</camoAnimScale>
-					<camoMaskColor1>1.1000 0.1000 0.1000 1.1000</camoMaskColor1>
 					<camoMaskColor2>1.1000 1.1000 0.1000 1.1000</camoMaskColor2>
-					<camoMaskSpeed>	0.2 0.2 0.6 1.1	</camoMaskSpeed>
 				</Director_mgn>
 				<Director_animmap>	content/gameplay/common/textures/default_emission_timeline_white.dds	</Director_animmap>
+				<Misc>	content/gameplay/common/camouflage/textures/mat_camo/MC_Tile_Borg_alpha_a.dds	</Misc>
+				<Misc_mgn>
+						content/gameplay/common/camouflage/textures/mat_camo/MC_Tile_Borg_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	1.0000	</Influence_n>
+					<useCamoMaskGlobal>	false	</useCamoMaskGlobal>
+					<camoMode>	2	</camoMode>
+					<camoEmissionAnimationMode>	3	</camoEmissionAnimationMode>
+					<camoEmissionBasePower>	0.0000	</camoEmissionBasePower>
+					<camoEmissionAnimationMaxPower>	200.0000	</camoEmissionAnimationMaxPower>
+					<camoAnimScale>	1.1000 1.1000 1.1000	</camoAnimScale>
+					<camoMaskSpeed>	0.2000 0.2000 0.6000	</camoMaskSpeed>
+					<camoMaskSmooth>	0.1000	</camoMaskSmooth>
+					<camoEmissionColorMode>	0	</camoEmissionColorMode>
+					<camoMaskColor2>1.1000 1.1000 0.1000 1.1000</camoMaskColor2>
+				</Misc_mgn>
+				<Misc_animmap>	content/gameplay/common/textures/default_emission_timeline_white.dds	</Misc_animmap>
 				<Plane>	content/gameplay/common/camouflage/textures/mat_camo/MC_Tile_Borg_alpha_a.dds	</Plane>
 				<Plane_mgn>
 						content/gameplay/common/camouflage/textures/mat_camo/MC_Tile_Borg_mgn.dds
-					<Influence_m>	1.0	</Influence_m>
-					<Influence_g>	1.0	</Influence_g>
-					<Influence_n>	1.0	</Influence_n>
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	1.0000	</Influence_n>
 					<useCamoMaskGlobal>	false	</useCamoMaskGlobal>
 					<camoMode>	2	</camoMode>
 					<camoEmissionAnimationMode>	3	</camoEmissionAnimationMode>
+					<camoEmissionBasePower>	0.0000	</camoEmissionBasePower>
+					<camoEmissionAnimationMaxPower>	200.0000	</camoEmissionAnimationMaxPower>
+					<camoAnimScale>	1.1000 1.1000 1.1000	</camoAnimScale>
+					<camoMaskSpeed>	0.2000 0.2000 0.6000	</camoMaskSpeed>
+					<camoMaskSmooth>	0.1000	</camoMaskSmooth>
 					<camoEmissionColorMode>	0	</camoEmissionColorMode>
-					<camoEmissionBasePower>	0.0	</camoEmissionBasePower>
-					<camoEmissionAnimationMaxPower>	200.0	</camoEmissionAnimationMaxPower>
-					<camoMaskSmooth>	0.1	</camoMaskSmooth>
-					<camoAnimScale>	1.1 1.1 1.1 1.1	</camoAnimScale>
-					<camoMaskColor1>1.1000 0.1000 0.1000 1.1000</camoMaskColor1>
 					<camoMaskColor2>1.1000 1.1000 0.1000 1.1000</camoMaskColor2>
-					<camoMaskSpeed>	0.2 0.2 0.6 1.1	</camoMaskSpeed>
 				</Plane_mgn>
 				<Plane_animmap>	content/gameplay/common/textures/default_emission_timeline_white.dds	</Plane_animmap>
 				<Float>	content/gameplay/common/camouflage/textures/mat_camo/MC_Tile_Borg_alpha_a.dds	</Float>
 				<Float_mgn>
 						content/gameplay/common/camouflage/textures/mat_camo/MC_Tile_Borg_mgn.dds
-					<Influence_m>	1.0	</Influence_m>
-					<Influence_g>	1.0	</Influence_g>
-					<Influence_n>	1.0	</Influence_n>
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	1.0000	</Influence_n>
 					<useCamoMaskGlobal>	false	</useCamoMaskGlobal>
 					<camoMode>	2	</camoMode>
 					<camoEmissionAnimationMode>	3	</camoEmissionAnimationMode>
+					<camoEmissionBasePower>	0.0000	</camoEmissionBasePower>
+					<camoEmissionAnimationMaxPower>	200.0000	</camoEmissionAnimationMaxPower>
+					<camoAnimScale>	1.1000 1.1000 1.1000	</camoAnimScale>
+					<camoMaskSpeed>	0.2000 0.2000 0.6000	</camoMaskSpeed>
+					<camoMaskSmooth>	0.1000	</camoMaskSmooth>
 					<camoEmissionColorMode>	0	</camoEmissionColorMode>
-					<camoEmissionBasePower>	0.0	</camoEmissionBasePower>
-					<camoEmissionAnimationMaxPower>	200.0	</camoEmissionAnimationMaxPower>
-					<camoMaskSmooth>	0.1	</camoMaskSmooth>
-					<camoAnimScale>	1.1 1.1 1.1 1.1	</camoAnimScale>
-					<camoMaskColor1>1.1000 0.1000 0.1000 1.1000</camoMaskColor1>
 					<camoMaskColor2>1.1000 1.1000 0.1000 1.1000</camoMaskColor2>
-					<camoMaskSpeed>	0.2 0.2 0.6 1.1	</camoMaskSpeed>
 				</Float_mgn>
 				<Float_animmap>	content/gameplay/common/textures/default_emission_timeline_white.dds	</Float_animmap>
-				<Misc>	content/gameplay/common/camouflage/textures/mat_camo/MC_Tile_Borg_alpha_a.dds	</Misc>
-				<Misc_mgn>
-						content/gameplay/common/camouflage/textures/mat_camo/MC_Tile_Borg_mgn.dds
-					<Influence_m>	1.0	</Influence_m>
-					<Influence_g>	1.0	</Influence_g>
-					<Influence_n>	1.0	</Influence_n>
-					<useCamoMaskGlobal>	false	</useCamoMaskGlobal>
-					<camoMode>	2	</camoMode>
-					<camoEmissionAnimationMode>	3	</camoEmissionAnimationMode>
-					<camoEmissionColorMode>	0	</camoEmissionColorMode>
-					<camoEmissionBasePower>	0.0	</camoEmissionBasePower>
-					<camoEmissionAnimationMaxPower>	200.0	</camoEmissionAnimationMaxPower>
-					<camoMaskSmooth>	0.1	</camoMaskSmooth>
-					<camoAnimScale>	1.1 1.1 1.1 1.1	</camoAnimScale>
-					<camoMaskColor1>1.1000 0.1000 0.1000 1.1000</camoMaskColor1>
-					<camoMaskColor2>1.1000 1.1000 0.1000 1.1000</camoMaskColor2>
-					<camoMaskSpeed>	0.2 0.2 0.6 1.1	</camoMaskSpeed>
-				</Misc_mgn>
-				<Misc_animmap>	content/gameplay/common/textures/default_emission_timeline_white.dds	</Misc_animmap>
-				<Bulge>	content/gameplay/common/camouflage/textures/mat_camo/MC_Tile_Borg_alpha_a.dds	</Bulge>
-				<Bulge_mgn>
-						content/gameplay/common/camouflage/textures/mat_camo/MC_Tile_Borg_mgn.dds
-					<Influence_m>	1.0	</Influence_m>
-					<Influence_g>	1.0	</Influence_g>
-					<Influence_n>	1.0	</Influence_n>
-					<useCamoMaskGlobal>	false	</useCamoMaskGlobal>
-					<camoMode>	2	</camoMode>
-					<camoEmissionAnimationMode>	3	</camoEmissionAnimationMode>
-					<camoEmissionColorMode>	0	</camoEmissionColorMode>
-					<camoEmissionBasePower>	0.0	</camoEmissionBasePower>
-					<camoEmissionAnimationMaxPower>	200.0	</camoEmissionAnimationMaxPower>
-					<camoMaskSmooth>	0.1	</camoMaskSmooth>
-					<camoAnimScale>	1.1 1.1 1.1 1.1	</camoAnimScale>
-					<camoMaskColor1>1.1000 0.1000 0.1000 1.1000</camoMaskColor1>
-					<camoMaskColor2>1.1000 1.1000 0.1000 1.1000</camoMaskColor2>
-					<camoMaskSpeed>	0.2 0.2 0.6 1.1	</camoMaskSpeed>
-				</Bulge_mgn>
-				<Bulge_animmap>	content/gameplay/common/textures/default_emission_timeline_white.dds	</Bulge_animmap>
 				<Wire>	content/gameplay/common/camouflage/textures/mat_Black_a.dds	</Wire>
 				<Wire_mgn>
 						content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_mgn.dds
-					<Influence_m>	0.0	</Influence_m>
-					<Influence_g>	0.0	</Influence_g>
-					<Influence_n>	1.0	</Influence_n>
+					<Influence_m>	0.0000	</Influence_m>
+					<Influence_g>	0.0000	</Influence_g>
+					<Influence_n>	1.0000	</Influence_n>
 					<useCamoMaskGlobal>	false	</useCamoMaskGlobal>
 					<camoMode>	2	</camoMode>
 					<camoEmissionAnimationMode>	3	</camoEmissionAnimationMode>
+					<camoEmissionBasePower>	0.0000	</camoEmissionBasePower>
+					<camoEmissionAnimationMaxPower>	200.0000	</camoEmissionAnimationMaxPower>
+					<camoAnimScale>	1.1000 1.1000 1.1000	</camoAnimScale>
+					<camoMaskSpeed>	0.2000 0.2000 0.6000	</camoMaskSpeed>
+					<camoMaskSmooth>	0.1000	</camoMaskSmooth>
 					<camoEmissionColorMode>	0	</camoEmissionColorMode>
-					<camoEmissionBasePower>	0.0	</camoEmissionBasePower>
-					<camoEmissionAnimationMaxPower>	200.0	</camoEmissionAnimationMaxPower>
-					<camoMaskSmooth>	0.1	</camoMaskSmooth>
-					<camoAnimScale>	1.1 1.1 1.1 1.1	</camoAnimScale>
-					<camoMaskColor1>1.1000 0.1000 0.1000 1.1000</camoMaskColor1>
 					<camoMaskColor2>1.1000 1.1000 0.1000 1.1000</camoMaskColor2>
-					<camoMaskSpeed>	0.2 0.2 0.6 1.1	</camoMaskSpeed>
 				</Wire_mgn>
 			</Textures>
 		</camouflage>
@@ -21601,6 +21612,86 @@
 					<Influence_m>	1.0	</Influence_m>
 					<Influence_g>	0.9	</Influence_g>
 					<Influence_n>	0.0	</Influence_n>
+				</Wire_mgn>
+			</Textures>
+			<colorSchemes>
+					colorSchemeUSNP17
+				<colorUI>0.3380 0.4080 0.4860 1.0000</colorUI>
+			</colorSchemes>
+			<realm>	all	</realm>
+		</camouflage>
+		<camouflage>
+			<annotation>	mat_Helena unique permOflage	</annotation>
+			<name>	mat_Helena_skin	</name>
+			<targetShip>	PASC207_Helena	</targetShip>
+			<UV>
+				<Gun>
+					<scale>	0.5000 0.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Gun>
+				<Director>
+					<scale>	0.5000 0.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Director>
+				<Misc>
+					<scale>	0.3000 0.3000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Misc>
+				<Plane>
+					<scale>	0.5000 0.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Plane>
+				<Float>
+					<scale>	0.5000 0.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Float>
+			</UV>
+			<Textures>
+				<Gun>	content/gameplay/common/camouflage/textures/mat_camo/mat_Helena_skin_a.dds	</Gun>
+				<Gun_mgn>
+						content/gameplay/common/camouflage/textures/mat_camo/MC_Cleveland_mgn.dds
+					<Influence_m>	0.0000	</Influence_m>
+					<Influence_g>	0.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	false	</useCamoMaskGlobal>
+				</Gun_mgn>
+				<Director>	content/gameplay/common/camouflage/textures/mat_camo/mat_Helena_skin_a.dds	</Director>
+				<Director_mgn>
+						content/gameplay/common/camouflage/textures/mat_camo/MC_Cleveland_mgn.dds
+					<Influence_m>	0.0000	</Influence_m>
+					<Influence_g>	0.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	false	</useCamoMaskGlobal>
+				</Director_mgn>
+				<Misc>	content/gameplay/common/camouflage/textures/mat_camo/mat_Helena_skin_a.dds	</Misc>
+				<Misc_mgn>
+						content/gameplay/common/camouflage/textures/mat_camo/MC_Cleveland_mgn.dds
+					<Influence_m>	0.0000	</Influence_m>
+					<Influence_g>	0.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	false	</useCamoMaskGlobal>
+				</Misc_mgn>
+				<Plane>	content/gameplay/common/camouflage/textures/mat_camo/mat_Helena_skin_a.dds	</Plane>
+				<Plane_mgn>
+						content/gameplay/common/camouflage/textures/mat_camo/MC_Cleveland_mgn.dds
+					<Influence_m>	0.0000	</Influence_m>
+					<Influence_g>	0.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	false	</useCamoMaskGlobal>
+				</Plane_mgn>
+				<Float>	content/gameplay/common/camouflage/textures/mat_camo/mat_Helena_skin_a.dds	</Float>
+				<Wire>	content/gameplay/common/camouflage/textures/mat_camo/mat_Helena_skin_a.dds	</Wire>
+				<Wire_mgn>
+						content/gameplay/common/camouflage/textures/mat_camo/MC_Cleveland_mgn.dds
+					<Influence_m>	0.0000	</Influence_m>
+					<Influence_g>	0.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	false	</useCamoMaskGlobal>
 				</Wire_mgn>
 			</Textures>
 			<colorSchemes>
@@ -28739,6 +28830,46 @@
 			<realm>	all	</realm>
 		</camouflage>
 		<camouflage>
+			<annotation>	mat camo for NavyMan skins	</annotation>
+			<name>	mat_NavyMan	</name>
+			<targetShip>	PWSD501_Blyskawica	</targetShip>
+			<targetShip>	PWSD708_Blyskawica_1944	</targetShip>
+			<targetShip>	PWSD719_Blyskawica_1952	</targetShip>
+			<UV>
+				<Hull>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Hull>
+				<Gun>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Gun>
+				<Director>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Director>
+				<Misc>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Misc>
+			</UV>
+			<Textures>
+				<Hull>	content/gameplay/common/camouflage/textures/mat_camo/mat_Grey_NavyMan_a.dds	</Hull>
+				<Gun>	content/gameplay/common/camouflage/textures/mat_camo/mat_Grey_NavyMan_a.dds	</Gun>
+				<Director>	content/gameplay/common/camouflage/textures/mat_camo/mat_Grey_NavyMan_a.dds	</Director>
+				<Misc>	content/gameplay/common/camouflage/textures/mat_camo/mat_Grey_NavyMan_a.dds	</Misc>
+			</Textures>
+			<colorSchemes>
+					colorSchemeUSNP17
+				<colorUI>0.7129 0.7952 0.8426 0.0000</colorUI>
+			</colorSchemes>
+			<realm>	all	</realm>
+		</camouflage>
+		<camouflage>
 			<annotation>	mat_NED_CL unique permOflage	</annotation>
 			<name>	mat_NED_CL	</name>
 			<tiled>	false	</tiled>
@@ -34646,6 +34777,60 @@
 			<realm>	all	</realm>
 		</camouflage>
 		<camouflage>
+			<annotation>	mat camo Petropavlosc PostAp 2025	</annotation>
+			<name>	mat_Petropavlovsk_postap_2025	</name>
+			<targetShip>	PRSC920_PostApoc_Petropavlovsk	</targetShip>
+			<shipGroups>	RUS_group_7	</shipGroups>
+			<UV>
+				<Gun>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Gun>
+				<Director>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Director>
+				<Misc>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Misc>
+			</UV>
+			<Textures>
+				<Gun>	content/gameplay/common/camouflage/textures/mat_camo/MC_Postap_03_gun_a.dds	</Gun>
+				<Gun_mgn>
+						content/gameplay/common/camouflage/textures/mat_camo/MC_Postap_03_mg.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	0.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	false	</useCamoMaskGlobal>
+				</Gun_mgn>
+				<Director>	content/gameplay/common/camouflage/textures/mat_camo/MC_Postap_03_gun_a.dds	</Director>
+				<Director_mgn>
+						content/gameplay/common/camouflage/textures/mat_camo/MC_Postap_03_mg.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	0.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	false	</useCamoMaskGlobal>
+				</Director_mgn>
+				<Misc>	content/gameplay/common/camouflage/textures/mat_camo/MC_Postap_03_gun_a.dds	</Misc>
+				<Misc_mgn>
+						content/gameplay/common/camouflage/textures/mat_camo/MC_Postap_03_mg.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	0.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	false	</useCamoMaskGlobal>
+				</Misc_mgn>
+			</Textures>
+			<colorSchemes>
+					colorSchemeUSNP17
+				<colorUI>0.7129 0.7952 0.8426 0.0000</colorUI>
+			</colorSchemes>
+			<realm>	all	</realm>
+		</camouflage>
+		<camouflage>
 			<annotation>	New Year 2025 tileoflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048	</annotation>
 			<name>	mat_Pirates_tile	</name>
 			<tiled>	false	</tiled>
@@ -36213,6 +36398,1399 @@
 			</Textures>
 		</camouflage>
 		<camouflage>
+			<annotation>	Polish day tileoflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048	</annotation>
+			<name>	mat_Polish_day_tile	</name>
+			<UV>
+				<Hull>
+					<scale>	3.0000 3.0000	</scale>
+					<offset>	0.0000 0.2800	</offset>
+					<rotate>	0.0000	</rotate>
+				</Hull>
+				<DeckHouse>
+					<scale>	1.5000 1.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</DeckHouse>
+				<Bulge>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Bulge>
+				<Gun>
+					<scale>	0.5000 0.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Gun>
+				<Director>
+					<scale>	0.5000 0.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Director>
+				<Misc>
+					<scale>	0.3000 0.3000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Misc>
+				<Plane>
+					<scale>	0.5000 0.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Plane>
+				<Float>
+					<scale>	0.5000 0.2500	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Float>
+			</UV>
+			<Textures>
+				<Hull>	content/gameplay/common/camouflage/textures/mat_Polish_Day_tile_a.dds	</Hull>
+				<Hull_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Hull_mgn>
+				<DeckHouse>	content/gameplay/common/camouflage/textures/mat_Polish_Day_tile_a.dds	</DeckHouse>
+				<DeckHouse_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</DeckHouse_mgn>
+				<Bulge>	content/gameplay/common/camouflage/textures/mat_Polish_Day_tile_a.dds	</Bulge>
+				<Bulge_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Bulge_mgn>
+				<Gun>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Gun>
+				<Gun_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Gun_mgn>
+				<Director>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Director>
+				<Director_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Director_mgn>
+				<Misc>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Misc>
+				<Misc_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Misc_mgn>
+				<Plane>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Plane>
+				<Plane_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Plane_mgn>
+				<Float>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Float>
+				<Float_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Float_mgn>
+				<Wire>	content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_a.dds	</Wire>
+				<Wire_mgn>
+						content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_mgn.dds
+					<Influence_m>	0.0000	</Influence_m>
+					<Influence_g>	0.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	false	</useCamoMaskGlobal>
+				</Wire_mgn>
+			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>	Polish day tileoflage block for the ships with a texture 4096*2048	</annotation>
+			<name>	mat_Polish_day_tile	</name>
+			<shipGroups>	EUR_group_2 FRA_group_2 GER_group_2 IJN_group_2 ITA_group_3 NL_group_1 PAM_group_3 PAN_group_2 POL_group_1 RUS_group_2 SP_group_2 UK_group_2 USN_group_2	</shipGroups>
+			<UV>
+				<Tile>
+					<scale>	2.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Tile>
+				<Hull>
+					<scale>	4.0000 2.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Hull>
+				<DeckHouse>
+					<scale>	3.0000 1.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</DeckHouse>
+				<Bulge>
+					<scale>	2.0000 2.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Bulge>
+				<Gun>
+					<scale>	0.8000 0.8000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Gun>
+				<Director>
+					<scale>	0.8000 0.8000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Director>
+				<Misc>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Misc>
+				<Plane>
+					<scale>	0.5000 0.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Plane>
+				<Float>
+					<scale>	0.5000 0.2500	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Float>
+			</UV>
+			<Textures>
+				<Hull>	content/gameplay/common/camouflage/textures/mat_Polish_Day_tile_a.dds	</Hull>
+				<Hull_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Hull_mgn>
+				<DeckHouse>	content/gameplay/common/camouflage/textures/mat_Polish_Day_tile_a.dds	</DeckHouse>
+				<DeckHouse_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</DeckHouse_mgn>
+				<Bulge>	content/gameplay/common/camouflage/textures/mat_Polish_Day_tile_a.dds	</Bulge>
+				<Bulge_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Bulge_mgn>
+				<Gun>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Gun>
+				<Gun_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Gun_mgn>
+				<Director>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Director>
+				<Director_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Director_mgn>
+				<Misc>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Misc>
+				<Misc_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Misc_mgn>
+				<Plane>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Plane>
+				<Plane_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Plane_mgn>
+				<Float>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Float>
+				<Float_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Float_mgn>
+				<Wire>	content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_a.dds	</Wire>
+				<Wire_mgn>
+						content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_mgn.dds
+					<Influence_m>	0.0000	</Influence_m>
+					<Influence_g>	0.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	false	</useCamoMaskGlobal>
+				</Wire_mgn>
+			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>	Polish day tileoflage block for the ships with a texture 4096*1024	</annotation>
+			<name>	mat_Polish_day_tile	</name>
+			<shipGroups>	GER_group_6 RUS_group_3 USN_group_7	</shipGroups>
+			<UV>
+				<Tile>
+					<scale>	3.0000 0.7500	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Tile>
+				<Hull>
+					<scale>	4.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Hull>
+				<DeckHouse>
+					<scale>	4.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</DeckHouse>
+				<Bulge>
+					<scale>	2.0000 2.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Bulge>
+				<Gun>
+					<scale>	0.4000 0.4000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Gun>
+				<Director>
+					<scale>	0.4000 0.4000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Director>
+				<Misc>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Misc>
+				<Plane>
+					<scale>	0.5000 0.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Plane>
+				<Float>
+					<scale>	0.5000 0.2500	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Float>
+			</UV>
+			<Textures>
+				<Hull>	content/gameplay/common/camouflage/textures/mat_Polish_Day_tile_a.dds	</Hull>
+				<Hull_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Hull_mgn>
+				<DeckHouse>	content/gameplay/common/camouflage/textures/mat_Polish_Day_tile_a.dds	</DeckHouse>
+				<DeckHouse_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</DeckHouse_mgn>
+				<Bulge>	content/gameplay/common/camouflage/textures/mat_Polish_Day_tile_a.dds	</Bulge>
+				<Bulge_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Bulge_mgn>
+				<Gun>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Gun>
+				<Gun_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Gun_mgn>
+				<Director>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Director>
+				<Director_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Director_mgn>
+				<Misc>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Misc>
+				<Misc_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Misc_mgn>
+				<Plane>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Plane>
+				<Plane_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Plane_mgn>
+				<Float>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Float>
+				<Float_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Float_mgn>
+				<Wire>	content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_a.dds	</Wire>
+				<Wire_mgn>
+						content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_mgn.dds
+					<Influence_m>	0.0000	</Influence_m>
+					<Influence_g>	0.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	false	</useCamoMaskGlobal>
+				</Wire_mgn>
+			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>	Polish day tileoflage block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024	</annotation>
+			<name>	mat_Polish_day_tile	</name>
+			<shipGroups>	FRA_group_3 GER_group_3 IJN_group_3 ITA_group_2 RUS_group_7 UK_group_3 USN_group_3	</shipGroups>
+			<UV>
+				<Tile>
+					<scale>	3.0000 3.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Tile>
+				<Hull>
+					<scale>	3.0000 3.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Hull>
+				<DeckHouse>
+					<scale>	3.0000 1.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</DeckHouse>
+				<Bulge>
+					<scale>	2.0000 2.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Bulge>
+				<Gun>
+					<scale>	1.5000 1.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Gun>
+				<Director>
+					<scale>	0.8000 0.8000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Director>
+				<Misc>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Misc>
+				<Plane>
+					<scale>	0.5000 0.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Plane>
+				<Float>
+					<scale>	0.5000 0.2500	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Float>
+			</UV>
+			<Textures>
+				<Hull>	content/gameplay/common/camouflage/textures/mat_Polish_Day_tile_a.dds	</Hull>
+				<Hull_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Hull_mgn>
+				<DeckHouse>	content/gameplay/common/camouflage/textures/mat_Polish_Day_tile_a.dds	</DeckHouse>
+				<DeckHouse_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</DeckHouse_mgn>
+				<Bulge>	content/gameplay/common/camouflage/textures/mat_Polish_Day_tile_a.dds	</Bulge>
+				<Bulge_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Bulge_mgn>
+				<Gun>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Gun>
+				<Gun_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Gun_mgn>
+				<Director>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Director>
+				<Director_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Director_mgn>
+				<Misc>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Misc>
+				<Misc_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Misc_mgn>
+				<Plane>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Plane>
+				<Plane_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Plane_mgn>
+				<Float>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Float>
+				<Float_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Float_mgn>
+				<Wire>	content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_a.dds	</Wire>
+				<Wire_mgn>
+						content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_mgn.dds
+					<Influence_m>	0.0000	</Influence_m>
+					<Influence_g>	0.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	false	</useCamoMaskGlobal>
+				</Wire_mgn>
+			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>	Polish day tileoflage block for the ships with a texture 4096*4096+1024*1024	</annotation>
+			<name>	mat_Polish_day_tile	</name>
+			<shipGroups>	IJN_group_4 RUS_group_4 USN_group_4	</shipGroups>
+			<UV>
+				<Tile>
+					<scale>	1.5000 1.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Tile>
+				<Hull>
+					<scale>	3.0000 3.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Hull>
+				<DeckHouse>
+					<scale>	0.7500 0.7500	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</DeckHouse>
+				<Bulge>
+					<scale>	2.0000 2.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Bulge>
+				<Gun>
+					<scale>	0.8000 0.8000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Gun>
+				<Director>
+					<scale>	0.8000 0.8000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Director>
+				<Misc>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Misc>
+				<Plane>
+					<scale>	0.5000 0.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Plane>
+				<Float>
+					<scale>	0.5000 0.2500	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Float>
+			</UV>
+			<Textures>
+				<Hull>	content/gameplay/common/camouflage/textures/mat_Polish_Day_tile_a.dds	</Hull>
+				<Hull_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Hull_mgn>
+				<DeckHouse>	content/gameplay/common/camouflage/textures/mat_Polish_Day_tile_a.dds	</DeckHouse>
+				<DeckHouse_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</DeckHouse_mgn>
+				<Bulge>	content/gameplay/common/camouflage/textures/mat_Polish_Day_tile_a.dds	</Bulge>
+				<Bulge_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Bulge_mgn>
+				<Gun>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Gun>
+				<Gun_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Gun_mgn>
+				<Director>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Director>
+				<Director_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Director_mgn>
+				<Misc>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Misc>
+				<Misc_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Misc_mgn>
+				<Plane>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Plane>
+				<Plane_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Plane_mgn>
+				<Float>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Float>
+				<Float_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Float_mgn>
+				<Wire>	content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_a.dds	</Wire>
+				<Wire_mgn>
+						content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_mgn.dds
+					<Influence_m>	0.0000	</Influence_m>
+					<Influence_g>	0.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	false	</useCamoMaskGlobal>
+				</Wire_mgn>
+			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>	Polish day tileoflage block for the ships with a texture 4096*4096+4096*4096	</annotation>
+			<name>	mat_Polish_day_tile	</name>
+			<shipGroups>	FRA_group_4 GER_group_4 IJN_group_5 ITA_group_4 PAN_group_4 RUS_group_5 UK_group_4 USN_group_5	</shipGroups>
+			<UV>
+				<Tile>
+					<scale>	1.7000 1.7000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Tile>
+				<Hull>
+					<scale>	3.0000 3.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Hull>
+				<DeckHouse>
+					<scale>	3.0000 3.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</DeckHouse>
+				<Bulge>
+					<scale>	2.0000 2.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Bulge>
+				<Gun>
+					<scale>	1.3000 1.3000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Gun>
+				<Director>
+					<scale>	0.5000 0.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Director>
+				<Misc>
+					<scale>	0.4000 0.4000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Misc>
+				<Plane>
+					<scale>	0.5000 0.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Plane>
+				<Float>
+					<scale>	0.5000 0.2500	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Float>
+			</UV>
+			<Textures>
+				<Hull>	content/gameplay/common/camouflage/textures/mat_Polish_Day_tile_a.dds	</Hull>
+				<Hull_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Hull_mgn>
+				<DeckHouse>	content/gameplay/common/camouflage/textures/mat_Polish_Day_tile_a.dds	</DeckHouse>
+				<DeckHouse_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</DeckHouse_mgn>
+				<Bulge>	content/gameplay/common/camouflage/textures/mat_Polish_Day_tile_a.dds	</Bulge>
+				<Bulge_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Bulge_mgn>
+				<Gun>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Gun>
+				<Gun_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Gun_mgn>
+				<Director>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Director>
+				<Director_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Director_mgn>
+				<Misc>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Misc>
+				<Misc_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Misc_mgn>
+				<Plane>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Plane>
+				<Plane_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Plane_mgn>
+				<Float>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Float>
+				<Float_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Float_mgn>
+				<Wire>	content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_a.dds	</Wire>
+				<Wire_mgn>
+						content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_mgn.dds
+					<Influence_m>	0.0000	</Influence_m>
+					<Influence_g>	0.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	false	</useCamoMaskGlobal>
+				</Wire_mgn>
+			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>	Polish day tileoflage block for the ships with a texture 4096*4096+2048*1024	</annotation>
+			<name>	mat_Polish_day_tile	</name>
+			<shipGroups>	FRA_group_7 GER_group_5 IJN_group_6 RUS_group_6 USN_group_6	</shipGroups>
+			<UV>
+				<Hull>
+					<scale>	3.0000 3.0000	</scale>
+					<offset>	0.0000 0.4700	</offset>
+					<rotate>	0.0000	</rotate>
+				</Hull>
+				<DeckHouse>
+					<scale>	2.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</DeckHouse>
+				<Bulge>
+					<scale>	2.0000 2.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Bulge>
+				<Gun>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Gun>
+				<Director>
+					<scale>	0.5000 0.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Director>
+				<Misc>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Misc>
+				<Plane>
+					<scale>	0.5000 0.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Plane>
+				<Float>
+					<scale>	0.5000 0.2500	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Float>
+			</UV>
+			<Textures>
+				<Hull>	content/gameplay/common/camouflage/textures/mat_Polish_Day_tile_a.dds	</Hull>
+				<Hull_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Hull_mgn>
+				<DeckHouse>	content/gameplay/common/camouflage/textures/mat_Polish_Day_tile_a.dds	</DeckHouse>
+				<DeckHouse_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</DeckHouse_mgn>
+				<Bulge>	content/gameplay/common/camouflage/textures/mat_Polish_Day_tile_a.dds	</Bulge>
+				<Bulge_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Bulge_mgn>
+				<Gun>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Gun>
+				<Gun_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Gun_mgn>
+				<Director>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Director>
+				<Director_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Director_mgn>
+				<Misc>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Misc>
+				<Misc_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Misc_mgn>
+				<Plane>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Plane>
+				<Plane_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Plane_mgn>
+				<Float>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Float>
+				<Float_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Float_mgn>
+				<Wire>	content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_a.dds	</Wire>
+				<Wire_mgn>
+						content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_mgn.dds
+					<Influence_m>	0.0000	</Influence_m>
+					<Influence_g>	0.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	false	</useCamoMaskGlobal>
+				</Wire_mgn>
+			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>	Polish day tileoflage block for the ships with a texture 4096*2048+4096*4096	</annotation>
+			<name>	mat_Polish_day_tile	</name>
+			<shipGroups>	FRA_group_5	</shipGroups>
+			<UV>
+				<Tile>
+					<scale>	2.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Tile>
+				<Hull>
+					<scale>	3.0000 1.5300	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Hull>
+				<DeckHouse>
+					<scale>	3.0000 3.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</DeckHouse>
+				<Bulge>
+					<scale>	2.0000 2.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Bulge>
+				<Gun>
+					<scale>	2.0000 2.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Gun>
+				<Director>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Director>
+				<Misc>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Misc>
+				<Plane>
+					<scale>	0.5000 0.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Plane>
+				<Float>
+					<scale>	0.5000 0.2500	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Float>
+			</UV>
+			<Textures>
+				<Hull>	content/gameplay/common/camouflage/textures/mat_Polish_Day_tile_a.dds	</Hull>
+				<Hull_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	0.9700	</Influence_g>
+					<Influence_n>	1.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Hull_mgn>
+				<DeckHouse>	content/gameplay/common/camouflage/textures/mat_Polish_Day_tile_a.dds	</DeckHouse>
+				<DeckHouse_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	0.9800	</Influence_g>
+					<Influence_n>	1.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</DeckHouse_mgn>
+				<Bulge>	content/gameplay/common/camouflage/textures/mat_Polish_Day_tile_a.dds	</Bulge>
+				<Bulge_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Bulge_mgn>
+				<Gun>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Gun>
+				<Gun_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Gun_mgn>
+				<Director>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Director>
+				<Director_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Director_mgn>
+				<Misc>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Misc>
+				<Misc_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Misc_mgn>
+				<Plane>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Plane>
+				<Plane_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Plane_mgn>
+				<Float>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Float>
+				<Float_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Float_mgn>
+				<Wire>	content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_a.dds	</Wire>
+				<Wire_mgn>
+						content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_mgn.dds
+					<Influence_m>	0.0000	</Influence_m>
+					<Influence_g>	0.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	false	</useCamoMaskGlobal>
+				</Wire_mgn>
+			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>	Polish day tileoflage block for the ships with a texture 4096*2048+2048*2048, 2048*1024+1024*1024	</annotation>
+			<name>	mat_Polish_day_tile	</name>
+			<shipGroups>	EUR_group_3 FRA_group_6 GER_group_7 UK_group_5	</shipGroups>
+			<UV>
+				<Tile>
+					<scale>	2.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Tile>
+				<Hull>
+					<scale>	3.0000 1.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Hull>
+				<DeckHouse>
+					<scale>	1.5000 1.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</DeckHouse>
+				<Bulge>
+					<scale>	2.0000 2.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Bulge>
+				<Gun>
+					<scale>	0.8000 0.8000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Gun>
+				<Director>
+					<scale>	0.4000 0.4000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Director>
+				<Misc>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Misc>
+				<Plane>
+					<scale>	0.5000 0.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Plane>
+				<Float>
+					<scale>	0.5000 0.2500	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Float>
+			</UV>
+			<Textures>
+				<Hull>	content/gameplay/common/camouflage/textures/mat_Polish_Day_tile_a.dds	</Hull>
+				<Hull_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Hull_mgn>
+				<DeckHouse>	content/gameplay/common/camouflage/textures/mat_Polish_Day_tile_a.dds	</DeckHouse>
+				<DeckHouse_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</DeckHouse_mgn>
+				<Bulge>	content/gameplay/common/camouflage/textures/mat_Polish_Day_tile_a.dds	</Bulge>
+				<Bulge_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Bulge_mgn>
+				<Gun>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Gun>
+				<Gun_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Gun_mgn>
+				<Director>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Director>
+				<Director_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Director_mgn>
+				<Misc>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Misc>
+				<Misc_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Misc_mgn>
+				<Plane>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Plane>
+				<Plane_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Plane_mgn>
+				<Float>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Float>
+				<Float_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Float_mgn>
+				<Wire>	content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_a.dds	</Wire>
+				<Wire_mgn>
+						content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_mgn.dds
+					<Influence_m>	0.0000	</Influence_m>
+					<Influence_g>	0.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	false	</useCamoMaskGlobal>
+				</Wire_mgn>
+			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>	Polish day tileoflage block for the ships with a texture 4096*2048+1024*1024	</annotation>
+			<name>	mat_Polish_day_tile	</name>
+			<shipGroups>	FRA_group_8 ITA_group_5	</shipGroups>
+			<UV>
+				<Tile>
+					<scale>	3.0000 1.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Tile>
+				<Hull>
+					<scale>	4.0000 2.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Hull>
+				<DeckHouse>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</DeckHouse>
+				<Bulge>
+					<scale>	2.0000 2.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Bulge>
+				<Gun>
+					<scale>	0.8000 0.8000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Gun>
+				<Director>
+					<scale>	0.8000 0.8000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Director>
+				<Misc>
+					<scale>	0.5000 0.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Misc>
+				<Plane>
+					<scale>	0.5000 0.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Plane>
+				<Float>
+					<scale>	0.5000 0.2500	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Float>
+			</UV>
+			<Textures>
+				<Hull>	content/gameplay/common/camouflage/textures/mat_Polish_Day_tile_a.dds	</Hull>
+				<Hull_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Hull_mgn>
+				<DeckHouse>	content/gameplay/common/camouflage/textures/mat_Polish_Day_tile_a.dds	</DeckHouse>
+				<DeckHouse_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</DeckHouse_mgn>
+				<Bulge>	content/gameplay/common/camouflage/textures/mat_Polish_Day_tile_a.dds	</Bulge>
+				<Bulge_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Bulge_mgn>
+				<Gun>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Gun>
+				<Gun_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Gun_mgn>
+				<Director>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Director>
+				<Director_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Director_mgn>
+				<Misc>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Misc>
+				<Misc_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Misc_mgn>
+				<Plane>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Plane>
+				<Plane_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Plane_mgn>
+				<Float>	content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_a.dds	</Float>
+				<Float_mgn>
+						content/gameplay/common/camouflage/textures/mat_Polish_day_tile_misc_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+					<camoMode>	0	</camoMode>
+					<Influence_ao>	0.0000	</Influence_ao>
+				</Float_mgn>
+				<Wire>	content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_a.dds	</Wire>
+				<Wire_mgn>
+						content/gameplay/common/camouflage/textures/mat_PostAp2022_gray_mgn.dds
+					<Influence_m>	0.0000	</Influence_m>
+					<Influence_g>	0.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	false	</useCamoMaskGlobal>
+				</Wire_mgn>
+			</Textures>
+		</camouflage>
+		<camouflage>			  
 			<annotation>	Postap unique permOflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048	</annotation>
 			<name>	mat_Postap2022_Barracuda	</name>
 			<tiled>	false	</tiled>
@@ -45960,6 +47538,60 @@
 			<colorSchemes>
 					colorSchemeUSNP17
 				<colorUI>0.3380 0.4080 0.4860 1.0000</colorUI>
+			</colorSchemes>
+			<realm>	all	</realm>
+		</camouflage>
+		<camouflage>
+			<annotation>	mat camo Smaland PostAp 2025	</annotation>
+			<name>	mat_Smaland_postap_2025	</name>
+			<targetShip>	PWSD920_PostApoc_Smaland	</targetShip>
+			<shipGroups>	EUR_group_2	</shipGroups>
+			<UV>
+				<Gun>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Gun>
+				<Director>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Director>
+				<Misc>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Misc>
+			</UV>
+			<Textures>
+				<Gun>	content/gameplay/common/camouflage/textures/mat_camo/MC_Postap_02_gun_a.dds	</Gun>
+				<Gun_mgn>
+						content/gameplay/common/camouflage/textures/mat_camo/MC_Postap_02_gun_mgn.dds
+					<Influence_m>	0.2200	</Influence_m>
+					<Influence_g>	0.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	false	</useCamoMaskGlobal>
+				</Gun_mgn>
+				<Director>	content/gameplay/common/camouflage/textures/mat_camo/MC_Postap_02_gun_a.dds	</Director>
+				<Director_mgn>
+						content/gameplay/common/camouflage/textures/mat_camo/MC_Postap_02_gun_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	0.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	false	</useCamoMaskGlobal>
+				</Director_mgn>
+				<Misc>	content/gameplay/common/camouflage/textures/mat_camo/MC_Postap_02_gun_a.dds	</Misc>
+				<Misc_mgn>
+						content/gameplay/common/camouflage/textures/mat_camo/MC_Postap_02_gun_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	0.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	false	</useCamoMaskGlobal>
+				</Misc_mgn>
+			</Textures>
+			<colorSchemes>
+					colorSchemeUSNP17
+				<colorUI>0.7129 0.7952 0.8426 0.0000</colorUI>
 			</colorSchemes>
 			<realm>	all	</realm>
 		</camouflage>
@@ -57780,6 +59412,137 @@
 			<colorSchemes>
 					colorSchemeUSNP17
 				<colorUI>0.3380 0.4080 0.4860 1.0000</colorUI>
+			</colorSchemes>
+			<realm>	all	</realm>
+		</camouflage>
+		<camouflage>
+			<annotation>	mat camo Zieten PostAp	</annotation>
+			<name>	mat_Zieten_postap_2025	</name>
+			<targetShip>	PGSB908_PostApoc_Zieten	</targetShip>
+			<UV>
+				<Gun>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Gun>
+				<Director>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Director>
+				<Misc>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Misc>
+			</UV>
+			<Textures>
+				<Gun>	content/gameplay/common/camouflage/textures/mat_camo/MC_PostAp2025_a.dds	</Gun>
+				<Gun_mgn>
+						content/gameplay/common/camouflage/textures/mat_camo/MC_PostAp2025_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	0.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	false	</useCamoMaskGlobal>
+				</Gun_mgn>
+				<Director>	content/gameplay/common/camouflage/textures/mat_camo/MC_PostAp2025_a.dds	</Director>
+				<Director_mgn>
+						content/gameplay/common/camouflage/textures/mat_camo/MC_PostAp2025_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	0.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	false	</useCamoMaskGlobal>
+				</Director_mgn>
+				<Misc>	content/gameplay/common/camouflage/textures/mat_camo/MC_PostAp2025_a.dds	</Misc>
+				<Misc_mgn>
+						content/gameplay/common/camouflage/textures/mat_camo/MC_PostAp2025_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	0.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	false	</useCamoMaskGlobal>
+				</Misc_mgn>
+			</Textures>
+			<colorSchemes>
+					colorSchemeUSNP17
+				<colorUI>0.7129 0.7952 0.8426 0.0000</colorUI>
+			</colorSchemes>
+			<realm>	all	</realm>
+		</camouflage>
+		<camouflage>
+			<annotation>	Black_Friday	</annotation>
+			<name>	MC_Black_Friday_Rhodle_Island	</name>
+			<UV>
+				<Gun>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Gun>
+				<Director>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Director>
+				<Misc>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Misc>
+				<Plane>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Plane>
+				<Wire>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Wire>
+			</UV>
+			<Textures>
+				<Gun>	content/gameplay/common/camouflage/textures/mat_camo/MC_Black_Friday_RhodeIsland_a.dds	</Gun>
+				<Gun_mgn>
+						content/gameplay/common/camouflage/textures/mat_camo/MC_Black_Friday_RhodeIsland_mgn.dds
+					<Influence_m>	0.0000	</Influence_m>
+					<Influence_g>	0.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	false	</useCamoMaskGlobal>
+				</Gun_mgn>
+				<Director>	content/gameplay/common/camouflage/textures/mat_camo/MC_Black_Friday_RhodeIsland_a.dds	</Director>
+				<Director_mgn>
+						content/gameplay/common/camouflage/textures/mat_camo/MC_Black_Friday_RhodeIsland_mgn.dds
+					<Influence_m>	0.0000	</Influence_m>
+					<Influence_g>	0.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	false	</useCamoMaskGlobal>
+				</Director_mgn>
+				<Misc>	content/gameplay/common/camouflage/textures/mat_camo/MC_Black_Friday_RhodeIsland_a.dds	</Misc>
+				<Misc_mgn>
+						content/gameplay/common/camouflage/textures/mat_camo/MC_Black_Friday_RhodeIsland_mgn.dds
+					<Influence_m>	0.0000	</Influence_m>
+					<Influence_g>	0.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	false	</useCamoMaskGlobal>
+				</Misc_mgn>
+				<Plane>	content/gameplay/common/camouflage/textures/mat_camo/MC_Black_Friday_RhodeIsland_a.dds	</Plane>
+				<Plane_mgn>
+						content/gameplay/common/camouflage/textures/mat_camo/MC_Black_Friday_RhodeIsland_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Plane_mgn>
+				<Wire>	content/gameplay/common/camouflage/textures/mat_camo/MC_Black_Friday_RhodeIsland_a.dds	</Wire>
+				<Wire_mgn>
+						content/gameplay/common/camouflage/textures/mat_camo/MC_Black_Friday_RhodeIsland_mgn.dds
+					<Influence_m>	0.0000	</Influence_m>
+					<Influence_g>	0.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	false	</useCamoMaskGlobal>
+				</Wire_mgn>
+			</Textures>
+			<colorSchemes>
+					colorSchemeFRAP06
+				<colorUI>0.1175 0.1175 0.1175 0.0000</colorUI>
 			</colorSchemes>
 			<realm>	all	</realm>
 		</camouflage>
@@ -164825,6 +166588,7 @@
 			<name>	camo_permanent_1	</name>
 			<useColorScheme>	True	</useColorScheme>
 			<targetShip>	PWSD610_Smaland	</targetShip>
+			<targetShip>	PWSD920_PostApoc_Smaland	</targetShip>													  
 			<tiled>	false	</tiled>
 			<UV>
 				<Tile>
@@ -165560,6 +167324,7 @@
 			<name>	camo_permanent_1	</name>
 			<useColorScheme>	True	</useColorScheme>
 			<targetShip>	PWSB509_Karl_XIV_Johan	</targetShip>
+			<targetShip>	PWSB909_Black_Karl_XIV_Johan	</targetShip>														  
 			<tiled>	false	</tiled>
 			<UV>
 				<Tile>
@@ -165884,7 +167649,7 @@
 			<annotation>	Blyskawica_52 camo permanent	</annotation>
 			<name>	camo_permanent_1	</name>
 			<useColorScheme>	true	</useColorScheme>
-			<targetShip>	PWSD719_Blyskawica_1952	</targetShip>
+			<targetShip>	PWSD719_Blyskawica_52	</targetShip>
 			<UV>
 				<Hull>
 					<scale>	1.0000 1.0000	</scale>
@@ -165898,6 +167663,148 @@
 			<colorSchemes>
 					colorSchemeEURP07
 				<colorUI>0.3024 0.3296 0.3605 1.0000</colorUI>
+			</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>	Gustav den Store unique permOflage block	</annotation>
+			<name>	camo_permanent_1	</name>
+			<useColorScheme>	true	</useColorScheme>
+			<targetShip>	PWSB019_Gustav_den_Store	</targetShip>
+			<UV>
+				<Hull>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Hull>
+				<DeckHouse>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</DeckHouse>
+			</UV>
+			<Textures>
+				<Hull>	content/gameplay/common/camouflage/textures/WSB306_Gustav_den_Store_1949_Hull_camo01.dds	</Hull>
+				<DeckHouse>	content/gameplay/common/camouflage/textures/WSB306_Gustav_den_Store_1949_DeckHouse_camo01.dds	</DeckHouse>
+			</Textures>
+			<colorSchemes>
+					colorScheme_Karl_XIV_Johan
+				<colorUI>0.1569 0.1569 0.1569 1.0000</colorUI>
+			</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>	Enigheten unique camOflage block	</annotation>
+			<name>	camo_permanent_1	</name>
+			<useColorScheme>	true	</useColorScheme>
+			<targetShip>	PWSB018_Enigheten	</targetShip>
+			<UV>
+				<Hull>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Hull>
+				<DeckHouse>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</DeckHouse>
+				<Gun>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Gun>
+			</UV>
+			<Textures>
+				<Hull>	content/gameplay/common/camouflage/textures/WSB305_Enigheten_1945_camo_01.dds	</Hull>
+				<DeckHouse>	content/gameplay/common/camouflage/textures/WSB305_Enigheten_1945_deckhouse_camo_01.dds	</DeckHouse>
+				<Gun>	content/gameplay/common/camouflage/textures/G_gun_camo_01.dds	</Gun>
+			</Textures>
+			<colorSchemes>
+					colorScheme_Karl_XIV_Johan
+				<colorUI>0.1569 0.1569 0.1569 1.0000</colorUI>
+			</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>	Chios camo permanent block	</annotation>
+			<name>	camo_permanent_1	</name>
+			<useColorScheme>	true	</useColorScheme>
+			<targetShip>	PWSB017_Chios	</targetShip>
+			<UV>
+				<Hull>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Hull>
+				<DeckHouse>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</DeckHouse>
+				<Misc>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Misc>
+			</UV>
+			<Textures>
+				<Hull>	content/gameplay/common/camouflage/textures/WSB304_Chios_1945_Hull_camo_01.dds	</Hull>
+				<DeckHouse>	content/gameplay/common/camouflage/textures/WSB304_Chios_1945_DeckHouse_camo_01.dds	</DeckHouse>
+				<Misc>	content/gameplay/common/camouflage/textures/G_gun_camo_01.dds	</Misc>
+			</Textures>
+			<colorSchemes>
+					colorScheme_Chios
+				<colorUI>0.6706 0.7098 0.7490 1.0000</colorUI>
+			</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>	Turgut_Reis camo permanent block	</annotation>
+			<name>	camo_permanent_1	</name>
+			<useColorScheme>	true	</useColorScheme>
+			<targetShip>	PWSB718_Turgut_Reis	</targetShip>
+			<UV>
+				<Hull>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Hull>
+				<DeckHouse>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</DeckHouse>
+			</UV>
+			<Textures>
+				<Hull>	content/gameplay/common/camouflage/textures/WSB311_Turgut_Reis_1946_Hull_camo_01.dds	</Hull>
+				<DeckHouse>	content/gameplay/common/camouflage/textures/WSB311_Turgut_Reis_1946_DeckHouse_camo_01.dds	</DeckHouse>
+			</Textures>
+			<colorSchemes>
+					colorScheme_Turgut_Reis
+				<colorUI>0.0000 0.0000 0.0000 1.0000</colorUI>
+			</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>	Thor camo permanent block	</annotation>
+			<name>	camo_permanent_1	</name>
+			<useColorScheme>	true	</useColorScheme>
+			<targetShip>	PWSB010_Thor	</targetShip>
+			<UV>
+				<Hull>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Hull>
+				<DeckHouse>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</DeckHouse>
+			</UV>
+			<Textures>
+				<Hull>	content/gameplay/common/camouflage/textures/WSB307_Thor_1952_camo_01.dds	</Hull>
+				<DeckHouse>	content/gameplay/common/camouflage/textures/WSB307_Thor_1952_DeckHouse_camo_01.dds	</DeckHouse>
+			</Textures>
+			<colorSchemes>
+					colorScheme_Karl_XIV_Johan
+				<colorUI>0.1569 0.1569 0.1569 1.0000</colorUI>
 			</colorSchemes>
 		</camouflage>
 		<camouflage>
@@ -173324,6 +175231,7 @@
 			<useColorScheme>	True	</useColorScheme>
 			<targetShip>	PGSB210_Schlieffen	</targetShip>
 			<targetShip>	PGSB920_Schlieffen	</targetShip>
+			<targetShip>	PGSB930_Pinata_Schliefen	</targetShip>													  
 			<tiled>	false	</tiled>
 			<UV>
 				<Tile>
@@ -173380,6 +175288,7 @@
 			<name>	camo_permanent_1	</name>
 			<useColorScheme>	True	</useColorScheme>
 			<targetShip>	PGSB208_Zieten	</targetShip>
+			<targetShip>	PGSB908_PostApoc_Zieten	</targetShip>													 
 			<tiled>	false	</tiled>
 			<UV>
 				<Tile>
@@ -174103,6 +176012,7 @@
 			<name>	camo_permanent_1	</name>
 			<useColorScheme>	True	</useColorScheme>
 			<targetShip>	PGSC528_Schill	</targetShip>
+			<targetShip>	PGSC908_Black_Schill	</targetShip>												  
 			<tiled>	false	</tiled>
 			<UV>
 				<Tile>
@@ -174871,6 +176781,26 @@
 			</colorSchemes>
 		</camouflage>
 		<camouflage>
+			<annotation>	Nurnberg camo permanent block	</annotation>
+			<name>	camo_permanent_1	</name>
+			<useColorScheme>	true	</useColorScheme>
+			<targetShip>	PGSC717_Nurnberg_1944	</targetShip>
+			<UV>
+				<Hull>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Hull>
+			</UV>
+			<Textures>
+				<Hull>	content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds	</Hull>
+			</Textures>
+			<colorSchemes>
+					colorScheme_Nurnberg44
+				<colorUI>0.5020 0.5451 0.5412 1.0000</colorUI>
+			</colorSchemes>
+		</camouflage>
+		<camouflage>		  
 			<annotation>	Tirpitz second unique permOflage block	</annotation>
 			<name>	camo_permanent_2	</name>
 			<useColorScheme>	True	</useColorScheme>
@@ -177802,6 +179732,26 @@
 			</colorSchemes>
 		</camouflage>
 		<camouflage>
+			<annotation>	Messina permocamo block	</annotation>
+			<name>	camo_permanent_1	</name>
+			<useColorScheme>	true	</useColorScheme>
+			<targetShip>	PISC729_Messina	</targetShip>
+			<UV>
+				<Hull>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Hull>
+			</UV>
+			<Textures>
+				<Hull>	content/gameplay/common/camouflage/textures/ISC034_Messina_1944_camo_01.dds	</Hull>
+			</Textures>
+			<colorSchemes>
+					colorSchemeITAP03
+				<colorUI>0.3651 0.4235 0.4633 1.0000</colorUI>
+			</colorSchemes>
+		</camouflage>
+		<camouflage>			  
 			<annotation>	Aviere unique permOflage block	</annotation>
 			<name>	camo_permanent_2	</name>
 			<targetShip>	PISD106_Aviere	</targetShip>
@@ -182866,6 +184816,54 @@
 			</colorSchemes>
 		</camouflage>
 		<camouflage>
+			<annotation>	Aki camo permanent block	</annotation>
+			<name>	camo_permanent_1	</name>
+			<useColorScheme>	true	</useColorScheme>
+			<targetShip>	PJSB720_Aki	</targetShip>
+			<UV>
+				<Hull>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Hull>
+				<DeckHouse>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</DeckHouse>
+				<Bulge>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Bulge>
+				<Gun>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Gun>
+				<Plane>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Plane>
+			</UV>
+			<Textures>
+				<Hull>	content/gameplay/common/camouflage/textures/JSB302_Aki_1944_Hull_camo.dds	</Hull>
+				<DeckHouse>	content/gameplay/common/camouflage/textures/JSB302_Aki_1944_DeckHouse_camo.dds	</DeckHouse>
+				<Bulge>	content/gameplay/common/camouflage/textures/JSB302_Aki_1944_Buldge_camo.dds	</Bulge>
+				<Gun>	content/gameplay/common/camouflage/textures/AGM034_16in50_Mk7_camo_01.dds	</Gun>
+				<Plane>	content/gameplay/common/camouflage/textures/Plane_tile_camo_RG.dds	</Plane>
+			</Textures>
+			<colorSchemes>
+					colorSchemeIJNP55
+				<colorUI>0.2341 0.2491 0.1764 0.9500</colorUI>
+			</colorSchemes>
+			<colorSchemes>
+					colorSchemeIJNP44
+				<colorUI>0.2986 0.4360 0.5392 1.0000</colorUI>
+			</colorSchemes>
+		</camouflage>
+		<camouflage>			  
 			<annotation>	Tachibana unique permOflage block	</annotation>
 			<name>	camo_permanent_2	</name>
 			<targetShip>	PJSD001_Tachibana_1912	</targetShip>
@@ -186482,6 +188480,7 @@
 			<name>	camo_permanent_1	</name>
 			<useColorScheme>	True	</useColorScheme>
 			<targetShip>	PZSB529_Sun_Yat_Sen	</targetShip>
+			<targetShip>	PZSB909_Xuan_Ming	</targetShip>											   
 			<tiled>	false	</tiled>
 			<UV>
 				<Tile>
@@ -186525,6 +188524,7 @@
 				<Float>	content/gameplay/common/camouflage/textures/Plane_tile_camo_GB.dds	</Float>
 			</Textures>
 			<colorSchemes>	colorSchemeSun_Yat_Sen	</colorSchemes>
+			<targetShip>	PZSB909_Xuan_Ming	</targetShip>											   
 		</camouflage>
 		<camouflage>
 			<annotation>	Ning Hai permoflage block	</annotation>
@@ -186629,6 +188629,7 @@
 			<name>	camo_permanent_1	</name>
 			<useColorScheme>	True	</useColorScheme>
 			<targetShip>	PZSD510_Lushun	</targetShip>
+			<targetShip>	PZSD910_Black_Lushun	</targetShip>												  
 			<tiled>	false	</tiled>
 			<UV>
 				<Tile>
@@ -187243,6 +189244,56 @@
 			</colorSchemes>
 		</camouflage>
 		<camouflage>
+			<annotation>	Lanzhou camo permanent block	</annotation>
+			<name>	camo_permanent_1	</name>
+			<useColorScheme>	true	</useColorScheme>
+			<targetShip>	PZSC717_Lanzhou	</targetShip>
+			<UV>
+				<Hull>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Hull>
+				<Gun>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Gun>
+				<Director>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Director>
+				<Misc>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Misc>
+				<Plane>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Plane>
+				<Float>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Float>
+			</UV>
+			<Textures>
+				<Hull>	content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds	</Hull>
+				<Gun>	content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds	</Gun>
+				<Director>	content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds	</Director>
+				<Misc>	content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds	</Misc>
+				<Plane>	content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds	</Plane>
+				<Float>	content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds	</Float>
+			</Textures>
+			<colorSchemes>
+					colorSchemeLushun
+				<colorUI>0.3296 0.4209 0.5277 1.0000</colorUI>
+			</colorSchemes>
+		</camouflage>
+		<camouflage>		  
 			<annotation>	Bajie Skin permoflage block	</annotation>
 			<name>	camo_skin_JtW_Bajie_01	</name>
 			<targetShip>	PZSB509_Izumo_Bajie	</targetShip>
@@ -188960,6 +191011,7 @@
 			<name>	camo_permanent_1	</name>
 			<useColorScheme>	True	</useColorScheme>
 			<targetShip>	PRSD709_Pr_41_Neustrashimy	</targetShip>
+			<targetShip>	PRSD909_Black_Neustrashimy	</targetShip>														
 			<tiled>	false	</tiled>
 			<UV>
 				<Tile>
@@ -190684,6 +192736,7 @@
 			<useColorScheme>	True	</useColorScheme>
 			<targetShip>	PRSC310_Petropavlovsk	</targetShip>
 			<targetShip>	PRSC990_Petrozavodsk	</targetShip>
+			<targetShip>	PRSC920_PostApoc_Petropavlovsk	</targetShip>															
 			<tiled>	false	</tiled>
 			<UV>
 				<Tile>
@@ -203946,6 +205999,7 @@
 			<name>	camo_permanent_1	</name>
 			<useColorScheme>	True	</useColorScheme>
 			<targetShip>	PASC610_Puerto_Rico	</targetShip>
+			<targetShip>	PASC910_Black_Puerto_Rico	</targetShip>													   
 			<tiled>	false	</tiled>
 			<UV>
 				<Tile>
@@ -204764,6 +206818,7 @@
 			<useColorScheme>	True	</useColorScheme>
 			<targetShip>	PASA013_Essex_1945	</targetShip>
 			<targetShip>	PASA020_Essex	</targetShip>
+			<targetShip>	PASA920_Pinata_Essex	</targetShip>												  
 			<tiled>	false	</tiled>
 			<UV>
 				<Tile>
@@ -207353,6 +209408,7 @@
 			<name>	camo_permanent_1	</name>
 			<useColorScheme>	True	</useColorScheme>
 			<targetShip>	PASB720_Rhode_Island	</targetShip>
+			<targetShip>	PASB930_Black_Rhode_Island	</targetShip>														
 			<tiled>	false	</tiled>
 			<UV>
 				<Tile>
