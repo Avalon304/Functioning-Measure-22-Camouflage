@@ -214482,8 +214482,8 @@
 				</Misc>
 			</UV>
 			<Textures>
-				<Hull>	content/gameplay/common/camouflage/textures/ASB083_Maine_1958_camo_01.dds	</Hull>
-				<DeckHouse>	content/gameplay/common/camouflage/textures/ASB083_Maine_1958_deckhouse_camo_01.dds	</DeckHouse>
+				<Hull>	content/gameplay/common/camouflage/textures/Crabapple.dds	</Hull>
+				<DeckHouse>	content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds	</DeckHouse>
 				<Bulge>	content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds	</Bulge>
 				<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 				<Plane>content/gameplay/common/camouflage/textures/G_gun_camo_01.dds</Plane>
@@ -214651,18 +214651,18 @@
 			</UV>
 			<Textures>
 				<DeckHouse>	content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds	</DeckHouse>
-				<Hull>	content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds	</Hull>
+				<Hull>	content/gameplay/common/camouflage/textures/bigwooster.dds	</Hull>
 				<Gun>	content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds	</Gun>
-				<Plane>	content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds	</Plane>
-				<Float>	content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds	</Float>
+				<Plane>	content/gameplay/common/camouflage/textures/G_gun_camo_01.dds	</Plane>
+				<Float>	content/gameplay/common/camouflage/textures/G_gun_camo_01.dds	</Float>
 				<Wire>	content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds	</Wire>
 			</Textures>
 			<colorSchemes>
-					colorSchemeJacksonville
+					colorSchemeUSNP16
 				<colorUI>0.5120 0.5320 0.5220 1.0000</colorUI>
 			</colorSchemes>
 			<colorSchemes>
-					colorSchemeJacksonville_alt
+					colorSchemeUSNP15
 				<colorUI>0.2920 0.2920 0.2920 1.0000</colorUI>
 			</colorSchemes>
 		</camouflage>
