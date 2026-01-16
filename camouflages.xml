@@ -68,7 +68,7 @@
 			<ships>	PISB104_Dante_Alighieri PISB105_Conte_di_Cavour PISB505_Giulio_Cesare PISC102_Nino_Bixio PISC103_Taranto PISC104_Alberto_da_Giussano PISC105_Raimondo_Montecuccoli PISC106_Trento PISC107_Zara PISC108_Amalfi PISC505_Genova PISC506_DucadAosta PISC507_Duca_degli_Abruzzi PISC517_Francesco_Ferruccio PISC707_Olympian_Francesco_Ferruccio PISC607_Gorizia PISC719_Ferrante_Gonzaga PISD509_Paolo_Emilio PISD710_Alberico_da_Barbiano PISC897_Azur_Gorizia PISB718_Marcantonio_Colonna PISB818_BA_Marcantonio_Colonna PISC729_Messina	</ships>
 		</ITA_group_1>
 		<ITA_group_2>
-			<ships>	PISB106_Andrea_Doria PISB107_Francesco_Caracciolo PISB108_Vittorio_Veneto PISB508_Roma PISB908_FBO_Roma PISB708_AZUR_Littorio PISC109_Brindisi PISC110_Venezia PISC111_Piemonte PISC990_Ravenna	</ships>
+			<ships>	PISB106_Andrea_Doria PISB107_Francesco_Caracciolo PISB108_Vittorio_Veneto PISB508_Roma PISB908_FBO_Roma PISB708_AZUR_Littorio PISC109_Brindisi PISC110_Venezia PISC111_Piemonte PISC990_Ravenna PISC717_Fiume	</ships>
 		</ITA_group_2>
 		<ITA_group_3>
 			<ships>	PISC101_Eritrea PISD102_Curtatone PISD103_Sauro PISD104_Turbine PISD105_Maestrale PISD106_Aviere PISD107_Luca_Tarigo PISD108_Vittorio_Cuniberti PISD109_Adriatico PISD506_Leone	</ships>
@@ -104,7 +104,7 @@
 			<ships>	PHSC101_Van_Kinsbergen PHSC102_Gelderland PHSD509_Groningen PHSD510_Friesland PWSD510_Friesland	</ships>
 		</NL_group_1>
 		<NL_group_2>
-			<ships>	PHSC010_Utrecht PHSC018_Jaarsveld PHSC019_Menno_Van_Coehoorn PHSC103_Java PHSC104_De_Ruyter PHSC105_Celebes PHSC106_Kijkduin PHSC107_Eendracht PHSC108_Haarlem PHSC109_Johan_de_Witt PHSC110_Gouden_Leeuw PHSC508_De_Zeven_Provincien PHSC509_Van_Speijk PHSC708_Vrijheid PHSC710_Prins_Van_Oranje PHSC720_Gold_Prins_Van_Oranje PHSC980_Noord_Brabant PHSC988_Admiraal PHSC990_Vrijheid PHSC998_Statenland	</ships>
+			<ships>	PHSC010_Utrecht PHSC018_Jaarsveld PHSC019_Menno_Van_Coehoorn PHSC103_Java PHSC104_De_Ruyter PHSC105_Celebes PHSC106_Kijkduin PHSC107_Eendracht PHSC108_Haarlem PHSC109_Johan_de_Witt PHSC110_Gouden_Leeuw PHSC508_De_Zeven_Provincien PHSC509_Van_Speijk PHSC708_Vrijheid PHSC710_Prins_Van_Oranje PHSC720_Gold_Prins_Van_Oranje PHSC980_Noord_Brabant PHSC988_Admiraal PHSC990_Vrijheid PHSC998_Statenland PHSS710_Tonijn	</ships>
 		</NL_group_2>
 		<NL_group_3>
 			<ships>	PHSD610_Tromp	</ships>
@@ -182,7 +182,7 @@
 			<ships>	PSSB719_Victoria PSSC719_Almirante_Oquendo	</ships>
 		</SP_group_3>
 		<UK_group_1>
-			<ships>	PBSA204_Hermes PBSB002_Warspite_1941 PBSB103_Bellerophon PBSB104_Orion PBSB105_Iron_Duke PBSB106_Queen_Elizabeth PBSB203_Indefatigable PBSB206_Renown PBSB503_Dreadnought PBSB547_Renown_1944 PBSC101_Black_Swan PBSC104_Danae PBSC105_Emerald PBSC106_Leander PBSC107_Fiji PBSC108_Edinburgh PBSC109_Neptune PBSC111_Edgar PBSC205_Hawkins PBSC207_Surrey PBSC208_Albemarle PBSC209_Drake PBSC210_Goliath PBSC505_Exeter PBSC507_Belfast_1959 PBSC707_STPatric_Belfast_1959 PBSC516_London PBSC518_Tiger_1959 PBSC718_STPatric_Tiger_1959 PBSC526_Dido PBSC528_Belfast_1943 PBSC708_STPatric_Belfast_1943 PBSC538_Hampshire PBSC716_Orion_1944 PBSC888_Edinburgh_PR PBSC910_Cyclops PBSD503_Campbeltown_1941 PBSS106_Undine PBSS108_Sturdy PBSS110_Thrasher PUSC001_Sutlej PUSC014_Dunedin PUSC015_Delhi PUSC025_Red_Fort PUSC506_Perth_1942 PUSC516_Mysore PUSC717_Gambia	</ships>
+			<ships>	PBSA204_Hermes PBSB002_Warspite_1941 PBSB103_Bellerophon PBSB104_Orion PBSB105_Iron_Duke PBSB106_Queen_Elizabeth PBSB203_Indefatigable PBSB206_Renown PBSB503_Dreadnought PBSB547_Renown_1944 PBSC101_Black_Swan PBSC104_Danae PBSC105_Emerald PBSC106_Leander PBSC107_Fiji PBSC108_Edinburgh PBSC109_Neptune PBSC111_Edgar PBSC205_Hawkins PBSC207_Surrey PBSC208_Albemarle PBSC209_Drake PBSC210_Goliath PBSC505_Exeter PBSC507_Belfast_1959 PBSC707_STPatric_Belfast_1959 PBSC516_London PBSC518_Tiger_1959 PBSC718_STPatric_Tiger_1959 PBSC526_Dido PBSC528_Belfast_1943 PBSC708_STPatric_Belfast_1943 PBSC538_Hampshire PBSC716_Orion_1944 PBSC888_Edinburgh_PR PBSC910_Cyclops PBSD503_Campbeltown_1941 PBSS106_Undine PBSS108_Sturdy PBSS110_Thrasher PUSC001_Sutlej PUSC014_Dunedin PUSC015_Delhi PUSC025_Red_Fort PUSC506_Perth_1942 PUSC516_Mysore PUSC717_Gambia PBSC719_Aberdeen	</ships>
 		</UK_group_1>
 		<UK_group_2>
 			<ships>	PBSC102_Weymouth PBSC103_Caledon PBSD102_Medea PBSD103_Valkyrie PBSD104_Wakeful PBSD105_Acasta PBSD106_Icarus PBSD107_Jervis PBSD108_Lightning PBSD108_Lightning PBSD109_Jutland PBSD110_Daring PBSD506_Gallant PBSD517_Cossack PBSD519_Somme PBSD598_Black_Cossack PBSD717_Jupiter_1942 PBSD718_Eskimo PBSD719_Barfleur PBSS508_Alliance PBSS710_Seal PBSS910_Selkie PUSC012_Port_Jackson PUSC013_Caradoc PUSD503_Vampire PUSD507_Haida PUSD510_Vampire_2 PUSD517_Huron PXSD019_Daring_PA	</ships>
@@ -331,6 +331,13 @@
 			<color3>0.1640 0.1540 0.1670 1.0000</color3>
 		</colorScheme>
 		<colorScheme>
+			<name>	colorScheme_Laudon	</name>
+			<color0>0.0824 0.0915 0.0564 1.0000</color0>
+			<color1>0.0000 0.0000 0.0000 0.0000</color1>
+			<color2>0.0000 0.0000 0.0000 0.0000</color2>
+			<color3>0.0000 0.0000 0.0000 0.0000</color3>
+		</colorScheme>
+		<colorScheme>  
 			<name>	colorScheme_Split	</name>
 			<color0>0.1360 0.1420 0.1570 1.0000</color0>
 			<color1>0.0530 0.0480 0.0430 1.0000</color1>
@@ -1367,6 +1374,13 @@
 			<color3>0.0000 0.0000 0.0000 0.0000</color3>
 		</colorScheme>
 		<colorScheme>
+			<name>	colorSchemeFiume	</name>
+			<color0>0.3250 0.3250 0.3250 1.0000</color0>
+			<color1>0.0450 0.0500 0.0600 1.0000</color1>
+			<color2>0.0000 0.0000 0.0000 0.0000</color2>
+			<color3>0.0000 0.0000 0.0000 0.0000</color3>
+		</colorScheme>
+		<colorScheme>
 			<name>	colorSchemeITA01	</name>
 			<color0>0.0940 0.1140 0.1330 1.0000</color0>
 			<color1>0.0130 0.0230 0.0360 1.0000</color1>
@@ -2289,6 +2303,13 @@
 			<color1>0.1300 0.1350 0.1550 0.0000</color1>
 			<color2>0.0680 0.0880 0.1190 0.0000</color2>
 			<color3>0.0170 0.0280 0.0380 0.0000</color3>
+		</colorScheme>
+		<colorScheme>
+			<name>	colorSchemeTonjin	</name>
+			<color0>0.0290 0.0342 0.0478 1.0000</color0>
+			<color1>0.0000 0.0000 0.0000 0.0000</color1>
+			<color2>0.0000 0.0000 0.0000 0.0000</color2>
+			<color3>0.0000 0.0000 0.0000 0.0000</color3>
 		</colorScheme>
 		<colorScheme>
 			<name>	colorSchemeTromp	</name>
@@ -4594,6 +4615,13 @@
 			<color3>0.4480 0.4880 0.4480 1.0000</color3>
 		</colorScheme>
 		<colorScheme>
+			<name>	colorSchemeAberdeen	</name>
+			<color0>0.4152 0.4704 0.5295 1.0000</color0>
+			<color1>0.1304 0.2157 0.3204 1.0000</color1>
+			<color2>0.0000 0.0000 0.0000 0.0000</color2>
+			<color3>0.0000 0.0000 0.0000 0.0000</color3>
+		</colorScheme>
+		<colorScheme>
 			<name>	colorSchemeAlliance	</name>
 			<color0>0.1750 0.1900 0.1750 0.0000</color0>
 			<color1>0.0400 0.0600 0.0750 0.0000</color1>
@@ -5978,6 +6006,13 @@
 			<color1>0.0550 0.0750 0.1150 1.0000</color1>
 			<color2>0.1390 0.1540 0.1730 1.0000</color2>
 			<color3>0.1390 0.1540 0.1730 1.0000</color3>
+		</colorScheme>
+		<colorScheme>
+			<name>	colorSchemeUSNP66	</name>
+			<color0>0.0000 0.0000 0.0000 1.0000</color0>
+			<color1>0.3134 0.3134 0.3134 1.0000</color1>
+			<color2>0.1494 0.1793 0.6236 1.0000</color2>
+			<color3>0.0181 0.0227 0.1547 1.0000</color3>
 		</colorScheme>
 		<colorScheme>
 			<name>	colorSchemeUSNPTulsa	</name>
@@ -8468,6 +8503,103 @@
 					<Influence_g>	0.0	</Influence_g>
 					<Influence_n>	0.0	</Influence_n>
 				</Wire_mgn>
+			</Textures>
+			<colorSchemes>
+					colorSchemeUSNP17
+				<colorUI>0.3380 0.4080 0.4860 1.0000</colorUI>
+			</colorSchemes>
+			<realm>	all	</realm>
+		</camouflage>
+		<camouflage>
+			<annotation>	mat_Azur_Zara unique permOflage	</annotation>
+			<name>	mat_Azur_Zara	</name>
+			<UV>
+				<Tile>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Tile>
+				<DeckHouse>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</DeckHouse>
+				<Bulge>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Bulge>
+				<Gun>
+					<scale>	0.5000 0.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Gun>
+				<Director>
+					<scale>	0.5000 0.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Director>
+				<Misc>
+					<scale>	0.3000 0.3000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Misc>
+				<Plane>
+					<scale>	0.5000 0.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Plane>
+				<Float>
+					<scale>	0.5000 0.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Float>
+			</UV>
+			<Textures>
+				<Hull>	content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds	</Hull>
+				<DeckHouse>	content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds	</DeckHouse>
+				<Bulge>	content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds	</Bulge>
+				<Gun>	content/gameplay/common/camouflage/textures/mat_White_08_a.dds	</Gun>
+				<Gun_mgn>
+						content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m>	0.0000	</Influence_m>
+					<Influence_g>	0.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	false	</useCamoMaskGlobal>
+				</Gun_mgn>
+				<Director>	content/gameplay/common/camouflage/textures/mat_White_08_a.dds	</Director>
+				<Director_mgn>
+						content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m>	0.0000	</Influence_m>
+					<Influence_g>	0.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	false	</useCamoMaskGlobal>
+				</Director_mgn>
+				<Misc>	content/gameplay/common/camouflage/textures/mat_White_08_a.dds	</Misc>
+				<Misc_mgn>
+						content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m>	0.0000	</Influence_m>
+					<Influence_g>	0.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	false	</useCamoMaskGlobal>
+				</Misc_mgn>
+				<Plane>	content/gameplay/common/camouflage/textures/mat_White_08_a.dds	</Plane>
+				<Plane_mgn>
+						content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m>	0.0000	</Influence_m>
+					<Influence_g>	0.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	false	</useCamoMaskGlobal>
+				</Plane_mgn>
+				<Float>	content/gameplay/common/camouflage/textures/mat_White_08_a.dds	</Float>
+				<Float_mgn>
+						content/gameplay/common/camouflage/textures/Mat_BlackFriday_2019_Miscs_mgn.dds
+					<Influence_m>	0.0000	</Influence_m>
+					<Influence_g>	0.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	false	</useCamoMaskGlobal>
+				</Float_mgn>
+				<Wire>	content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds	</Wire>
 			</Textures>
 			<colorSchemes>
 					colorSchemeUSNP17
@@ -21398,6 +21530,84 @@
 			<colorSchemes>
 					colorSchemeUSNP17
 				<colorUI>0.3380 0.4080 0.4860 1.0000</colorUI>
+			</colorSchemes>
+			<realm>	all	</realm>
+		</camouflage>
+		<camouflage>
+			<annotation>	EAEU	</annotation>
+			<name>	mat_EAEU_Enigheten	</name>
+			<UV>
+				<Gun>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Gun>
+				<Director>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Director>
+				<Misc>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Misc>
+				<Plane>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Plane>
+				<Wire>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Wire>
+			</UV>
+			<Textures>
+				<Gun>	content/gameplay/common/camouflage/textures/mat_camo/MC_PWES301_EAEU_Enigheten_a.dds	</Gun>
+				<Gun_mgn>
+						content/gameplay/common/camouflage/textures/mat_camo/MC_PWES301_EAEU_Enigheten_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	0.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	false	</useCamoMaskGlobal>
+				</Gun_mgn>
+				<Director>	content/gameplay/common/camouflage/textures/mat_camo/MC_PWES301_EAEU_Enigheten_a.dds	</Director>
+				<Director_mgn>
+						content/gameplay/common/camouflage/textures/mat_camo/MC_PWES301_EAEU_Enigheten_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	0.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	false	</useCamoMaskGlobal>
+				</Director_mgn>
+				<Misc>	content/gameplay/common/camouflage/textures/mat_camo/MC_PWES301_EAEU_Enigheten_a.dds	</Misc>
+				<Misc_mgn>
+						content/gameplay/common/camouflage/textures/mat_camo/MC_PWES301_EAEU_Enigheten_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	0.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	false	</useCamoMaskGlobal>
+				</Misc_mgn>
+				<Plane>	content/gameplay/common/camouflage/textures/mat_camo/MC_PWES301_EAEU_Enigheten_a.dds	</Plane>
+				<Plane_mgn>
+						content/gameplay/common/camouflage/textures/mat_camo/MC_PWES301_EAEU_Enigheten_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	0.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Plane_mgn>
+				<Wire>	content/gameplay/common/camouflage/textures/mat_camo/MC_PWES301_EAEU_Enigheten_a.dds	</Wire>
+				<Wire_mgn>
+						content/gameplay/common/camouflage/textures/mat_camo/MC_PWES301_EAEU_Enigheten_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	0.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	false	</useCamoMaskGlobal>
+				</Wire_mgn>
+			</Textures>
+			<colorSchemes>
+					colorSchemeFRAP06
+				<colorUI>0.1175 0.1175 0.1175 0.0000</colorUI>
 			</colorSchemes>
 			<realm>	all	</realm>
 		</camouflage>
@@ -38022,6 +38232,1221 @@
 					colorSchemeUSNP17
 				<colorUI>0.3380 0.4080 0.4860 1.0000</colorUI>
 			</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>	TEMPALTE_TILE tileoflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048	</annotation>
+			<name>	mat_PCEM175_Tile_Captain_Mart	</name>
+			<UV>
+				<Hull>
+					<scale>	2.0000 2.0000	</scale>
+					<offset>	0.4600 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Hull>
+				<DeckHouse>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.1500 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</DeckHouse>
+				<Bulge>
+					<scale>	1.5000 1.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Bulge>
+				<Gun>
+					<scale>	0.3300 0.3300	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Gun>
+				<Director>
+					<scale>	0.1500 0.1500	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Director>
+				<Misc>
+					<scale>	0.0100 0.0100	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Misc>
+				<Plane>
+					<scale>	0.7500 0.7500	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Plane>
+				<Float>
+					<scale>	0.2500 0.2500	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Float>
+			</UV>
+			<Textures>
+				<Hull>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Hull>
+				<Hull_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Hull_mgn>
+				<DeckHouse>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</DeckHouse>
+				<DeckHouse_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</DeckHouse_mgn>
+				<Bulge>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Bulge>
+				<Bulge_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Bulge_mgn>
+				<Gun>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Gun>
+				<Gun_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Gun_mgn>
+				<Director>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Director>
+				<Director_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Director_mgn>
+				<Misc>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_misk_a.dds	</Misc>
+				<Misc_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_misk_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Misc_mgn>
+				<Plane>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Plane>
+				<Plane_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.2000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Plane_mgn>
+				<Float>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Float>
+				<Float_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Float_mgn>
+				<Wire>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Wire>
+				<Wire_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Wire_mgn>
+			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>	TEMPALTE_TILE tileoflage block for the ships with a texture 4096*2048	</annotation>
+			<name>	mat_PCEM175_Tile_Captain_Mart	</name>
+			<shipGroups>	EUR_group_2 FRA_group_2 GER_group_2 IJN_group_2 ITA_group_3 NL_group_1 PAM_group_3 PAN_group_2 POL_group_1 RUS_group_2 SP_group_2 UK_group_2 USN_group_2	</shipGroups>
+			<UV>
+				<Hull>
+					<scale>	2.0000 1.0000	</scale>
+					<offset>	0.0000 0.1800	</offset>
+					<rotate>	0.0000	</rotate>
+				</Hull>
+				<DeckHouse>
+					<scale>	2.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</DeckHouse>
+				<Bulge>
+					<scale>	2.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Bulge>
+				<Gun>
+					<scale>	0.3300 0.3300	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Gun>
+				<Director>
+					<scale>	0.1500 0.1500	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Director>
+				<Misc>
+					<scale>	0.0100 0.0100	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Misc>
+				<Plane>
+					<scale>	0.7500 0.7500	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Plane>
+				<Float>
+					<scale>	0.2500 0.2500	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Float>
+			</UV>
+			<Textures>
+				<Hull>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Hull>
+				<Hull_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Hull_mgn>
+				<DeckHouse>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</DeckHouse>
+				<DeckHouse_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</DeckHouse_mgn>
+				<Bulge>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Bulge>
+				<Bulge_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Bulge_mgn>
+				<Gun>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Gun>
+				<Gun_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Gun_mgn>
+				<Director>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Director>
+				<Director_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Director_mgn>
+				<Misc>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_misk_a.dds	</Misc>
+				<Misc_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_misk_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Misc_mgn>
+				<Plane>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Plane>
+				<Plane_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.2000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Plane_mgn>
+				<Float>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Float>
+				<Float_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Float_mgn>
+				<Wire>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Wire>
+				<Wire_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Wire_mgn>
+			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>	TEMPALTE_TILE tileoflage block for the ships with a texture 4096*1024	</annotation>
+			<name>	mat_PCEM175_Tile_Captain_Mart	</name>
+			<shipGroups>	GER_group_6 RUS_group_3 USN_group_7	</shipGroups>
+			<UV>
+				<Hull>
+					<scale>	2.0000 0.5000	</scale>
+					<offset>	0.0000 0.4100	</offset>
+					<rotate>	0.0000	</rotate>
+				</Hull>
+				<DeckHouse>
+					<scale>	2.0000 0.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</DeckHouse>
+				<Bulge>
+					<scale>	1.5000 1.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Bulge>
+				<Gun>
+					<scale>	0.3300 0.3300	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Gun>
+				<Director>
+					<scale>	0.1500 0.1500	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Director>
+				<Misc>
+					<scale>	0.0100 0.0100	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Misc>
+				<Plane>
+					<scale>	0.7500 0.7500	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Plane>
+				<Float>
+					<scale>	0.2500 0.2500	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Float>
+			</UV>
+			<Textures>
+				<Hull>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Hull>
+				<Hull_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Hull_mgn>
+				<DeckHouse>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</DeckHouse>
+				<DeckHouse_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</DeckHouse_mgn>
+				<Bulge>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Bulge>
+				<Bulge_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Bulge_mgn>
+				<Gun>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Gun>
+				<Gun_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Gun_mgn>
+				<Director>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Director>
+				<Director_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Director_mgn>
+				<Misc>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_misk_a.dds	</Misc>
+				<Misc_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_misk_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Misc_mgn>
+				<Plane>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Plane>
+				<Plane_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.2000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Plane_mgn>
+				<Float>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Float>
+				<Float_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Float_mgn>
+				<Wire>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Wire>
+				<Wire_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Wire_mgn>
+			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>	TEMPALTE_TILE tileoflage block for the ships with a texture 4096*4096+4096*2048, 2048*2048+2048*1024	</annotation>
+			<name>	mat_PCEM175_Tile_Captain_Mart	</name>
+			<shipGroups>	FRA_group_3 GER_group_3 IJN_group_3 ITA_group_2 RUS_group_7 UK_group_3 USN_group_3	</shipGroups>
+			<UV>
+				<Hull>
+					<scale>	1.5000 1.5000	</scale>
+					<offset>	0.2800 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Hull>
+				<DeckHouse>
+					<scale>	1.5000 0.7500	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</DeckHouse>
+				<Bulge>
+					<scale>	1.5000 1.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Bulge>
+				<Gun>
+					<scale>	0.3300 0.3300	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Gun>
+				<Director>
+					<scale>	0.1500 0.1500	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Director>
+				<Misc>
+					<scale>	0.0100 0.0100	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Misc>
+				<Plane>
+					<scale>	0.7500 0.7500	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Plane>
+				<Float>
+					<scale>	0.2500 0.2500	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Float>
+			</UV>
+			<Textures>
+				<Hull>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Hull>
+				<Hull_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Hull_mgn>
+				<DeckHouse>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</DeckHouse>
+				<DeckHouse_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</DeckHouse_mgn>
+				<Bulge>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Bulge>
+				<Bulge_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Bulge_mgn>
+				<Gun>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Gun>
+				<Gun_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Gun_mgn>
+				<Director>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Director>
+				<Director_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Director_mgn>
+				<Misc>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_misk_a.dds	</Misc>
+				<Misc_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_misk_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Misc_mgn>
+				<Plane>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Plane>
+				<Plane_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.2000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Plane_mgn>
+				<Float>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Float>
+				<Float_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Float_mgn>
+				<Wire>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Wire>
+				<Wire_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Wire_mgn>
+			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>	TEMPALTE_TILE tileoflage block for the ships with a texture 4096*4096+1024*1024	</annotation>
+			<name>	mat_PCEM175_Tile_Captain_Mart	</name>
+			<shipGroups>	IJN_group_4 RUS_group_4 USN_group_4	</shipGroups>
+			<UV>
+				<Hull>
+					<scale>	1.5000 1.5000	</scale>
+					<offset>	0.7900 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Hull>
+				<DeckHouse>
+					<scale>	0.3800 0.3800	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</DeckHouse>
+				<Bulge>
+					<scale>	1.5000 1.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Bulge>
+				<Gun>
+					<scale>	0.3300 0.3300	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Gun>
+				<Director>
+					<scale>	0.1500 0.1500	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Director>
+				<Misc>
+					<scale>	0.0100 0.0100	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Misc>
+				<Plane>
+					<scale>	0.7500 0.7500	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Plane>
+				<Float>
+					<scale>	0.2500 0.2500	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Float>
+			</UV>
+			<Textures>
+				<Hull>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Hull>
+				<Hull_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Hull_mgn>
+				<DeckHouse>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</DeckHouse>
+				<DeckHouse_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</DeckHouse_mgn>
+				<Bulge>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Bulge>
+				<Bulge_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Bulge_mgn>
+				<Gun>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Gun>
+				<Gun_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Gun_mgn>
+				<Director>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Director>
+				<Director_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Director_mgn>
+				<Misc>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_misk_a.dds	</Misc>
+				<Misc_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_misk_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Misc_mgn>
+				<Plane>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Plane>
+				<Plane_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.2000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Plane_mgn>
+				<Float>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Float>
+				<Float_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Float_mgn>
+				<Wire>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Wire>
+				<Wire_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Wire_mgn>
+			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>	TEMPALTE_TILE tileoflage block for the ships with a texture 4096*4096+4096*4096	</annotation>
+			<name>	mat_PCEM175_Tile_Captain_Mart	</name>
+			<shipGroups>	FRA_group_4 GER_group_4 IJN_group_5 ITA_group_4 PAN_group_4 RUS_group_5 UK_group_4 USN_group_5	</shipGroups>
+			<UV>
+				<Hull>
+					<scale>	1.5000 1.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Hull>
+				<DeckHouse>
+					<scale>	1.5000 1.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</DeckHouse>
+				<Bulge>
+					<scale>	0.5000 0.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Bulge>
+				<Gun>
+					<scale>	0.4000 0.4000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Gun>
+				<Director>
+					<scale>	0.4000 0.4000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Director>
+				<Misc>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Misc>
+				<Plane>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Plane>
+				<Float>
+					<scale>	0.5000 0.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Float>
+				<Wire>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Wire>
+			</UV>
+			<Textures>
+				<Hull>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Hull>
+				<Hull_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Hull_mgn>
+				<DeckHouse>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</DeckHouse>
+				<DeckHouse_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</DeckHouse_mgn>
+				<Bulge>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Bulge>
+				<Bulge_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	1.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Bulge_mgn>
+				<Gun>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Gun>
+				<Gun_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Gun_mgn>
+				<Director>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Director>
+				<Director_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Director_mgn>
+				<Misc>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_misk_a.dds	</Misc>
+				<Misc_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_misk_mgn.dds
+					<Influence_m>	0.0000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Misc_mgn>
+				<Plane>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Plane>
+				<Plane_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.0000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Plane_mgn>
+				<Float>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Float>
+				<Float_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.0000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Float_mgn>
+				<Wire>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Wire>
+				<Wire_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.0000	</Influence_m>
+					<Influence_g>	0.0000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Wire_mgn>
+			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>	TEMPALTE_TILE tileoflage block for the ships with a texture 4096*4096+2048*1024	</annotation>
+			<name>	mat_PCEM175_Tile_Captain_Mart	</name>
+			<shipGroups>	FRA_group_7 GER_group_5 IJN_group_6 RUS_group_6 USN_group_6	</shipGroups>
+			<UV>
+				<Hull>
+					<scale>	1.5000 1.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Hull>
+				<DeckHouse>
+					<scale>	0.7500 0.3750	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</DeckHouse>
+				<Bulge>
+					<scale>	1.5000 1.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Bulge>
+				<Gun>
+					<scale>	0.3300 0.3300	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Gun>
+				<Director>
+					<scale>	0.1500 0.1500	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Director>
+				<Misc>
+					<scale>	0.0100 0.0100	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Misc>
+				<Plane>
+					<scale>	0.7500 0.7500	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Plane>
+				<Float>
+					<scale>	0.2500 0.2500	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Float>
+			</UV>
+			<Textures>
+				<Hull>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Hull>
+				<Hull_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Hull_mgn>
+				<DeckHouse>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</DeckHouse>
+				<DeckHouse_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</DeckHouse_mgn>
+				<Bulge>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Bulge>
+				<Bulge_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Bulge_mgn>
+				<Gun>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Gun>
+				<Gun_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Gun_mgn>
+				<Director>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Director>
+				<Director_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Director_mgn>
+				<Misc>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_misk_a.dds	</Misc>
+				<Misc_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_misk_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Misc_mgn>
+				<Plane>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Plane>
+				<Plane_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.2000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Plane_mgn>
+				<Float>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Float>
+				<Float_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Float_mgn>
+				<Wire>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Wire>
+				<Wire_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Wire_mgn>
+			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>	TEMPALTE_TILE tileoflage block for the ships with a texture 4096*2048+4096*4096	</annotation>
+			<name>	mat_PCEM175_Tile_Captain_Mart	</name>
+			<tiled>	false	</tiled>
+			<shipGroups>	FRA_group_5	</shipGroups>
+			<UV>
+				<Hull>
+					<scale>	2.0000 0.7500	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Hull>
+				<DeckHouse>
+					<scale>	1.5000 1.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</DeckHouse>
+				<Bulge>
+					<scale>	1.5000 1.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Bulge>
+				<Gun>
+					<scale>	0.3300 0.3300	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Gun>
+				<Director>
+					<scale>	0.1500 0.1500	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Director>
+				<Misc>
+					<scale>	0.0100 0.0100	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Misc>
+				<Plane>
+					<scale>	0.7500 0.7500	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Plane>
+				<Float>
+					<scale>	0.2500 0.2500	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Float>
+			</UV>
+			<Textures>
+				<Hull>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Hull>
+				<Hull_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Hull_mgn>
+				<DeckHouse>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</DeckHouse>
+				<DeckHouse_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</DeckHouse_mgn>
+				<Bulge>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Bulge>
+				<Bulge_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Bulge_mgn>
+				<Gun>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Gun>
+				<Gun_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Gun_mgn>
+				<Director>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Director>
+				<Director_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Director_mgn>
+				<Misc>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_misk_a.dds	</Misc>
+				<Misc_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_misk_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Misc_mgn>
+				<Plane>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Plane>
+				<Plane_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.2000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Plane_mgn>
+				<Float>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Float>
+				<Float_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Float_mgn>
+				<Wire>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Wire>
+				<Wire_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Wire_mgn>
+			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>	TEMPALTE_TILE tileoflage block for the ships with a texture 4096*2048+2048*2048, 2048*1024+1024*1024	</annotation>
+			<name>	mat_PCEM175_Tile_Captain_Mart	</name>
+			<shipGroups>	EUR_group_3 FRA_group_6 GER_group_7 UK_group_5	</shipGroups>
+			<UV>
+				<Hull>
+					<scale>	1.5000 0.7500	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Hull>
+				<DeckHouse>
+					<scale>	0.7500 0.3750	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</DeckHouse>
+				<Bulge>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Bulge>
+				<Gun>
+					<scale>	0.3000 0.3000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Gun>
+				<Director>
+					<scale>	0.1500 0.1500	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Director>
+				<Misc>
+					<scale>	0.0100 0.0100	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Misc>
+				<Plane>
+					<scale>	0.5000 0.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Plane>
+				<Float>
+					<scale>	0.2500 0.2500	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Float>
+			</UV>
+			<Textures>
+				<Hull>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Hull>
+				<Hull_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Hull_mgn>
+				<DeckHouse>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</DeckHouse>
+				<DeckHouse_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</DeckHouse_mgn>
+				<Bulge>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Bulge>
+				<Bulge_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Bulge_mgn>
+				<Gun>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Gun>
+				<Gun_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Gun_mgn>
+				<Director>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Director>
+				<Director_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Director_mgn>
+				<Misc>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_misk_a.dds	</Misc>
+				<Misc_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_misk_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Misc_mgn>
+				<Plane>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Plane>
+				<Plane_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.2000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Plane_mgn>
+				<Float>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Float>
+				<Float_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Float_mgn>
+				<Wire>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Wire>
+				<Wire_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Wire_mgn>
+			</Textures>
+		</camouflage>
+		<camouflage>
+			<annotation>	TEMPALTE_TILE tileoflage block for the ships with a texture 4096*2048+1024*1024	</annotation>
+			<name>	mat_PCEM175_Tile_Captain_Mart	</name>
+			<shipGroups>	FRA_group_8 ITA_group_5	</shipGroups>
+			<UV>
+				<Hull>
+					<scale>	2.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Hull>
+				<DeckHouse>
+					<scale>	0.5000 0.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</DeckHouse>
+				<Bulge>
+					<scale>	1.5000 1.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Bulge>
+				<Gun>
+					<scale>	0.3300 0.3300	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Gun>
+				<Director>
+					<scale>	0.1500 0.1500	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Director>
+				<Misc>
+					<scale>	0.0100 0.0100	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Misc>
+				<Plane>
+					<scale>	0.7500 0.7500	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Plane>
+				<Float>
+					<scale>	0.2500 0.2500	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Float>
+			</UV>
+			<Textures>
+				<Hull>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Hull>
+				<Hull_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Hull_mgn>
+				<DeckHouse>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</DeckHouse>
+				<DeckHouse_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</DeckHouse_mgn>
+				<Bulge>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Bulge>
+				<Bulge_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Bulge_mgn>
+				<Gun>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Gun>
+				<Gun_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Gun_mgn>
+				<Director>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Director>
+				<Director_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Director_mgn>
+				<Misc>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_misk_a.dds	</Misc>
+				<Misc_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_misk_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Misc_mgn>
+				<Plane>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Plane>
+				<Plane_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	1.0000	</Influence_m>
+					<Influence_g>	1.0000	</Influence_g>
+					<Influence_n>	0.2000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Plane_mgn>
+				<Float>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Float>
+				<Float_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Float_mgn>
+				<Wire>	content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_a.dds	</Wire>
+				<Wire_mgn>
+						content/gameplay/common/camouflage/textures/mat_PCEM175_Tile_Captain_Mart_mgn.dds
+					<Influence_m>	0.5000	</Influence_m>
+					<Influence_g>	0.5000	</Influence_g>
+					<Influence_n>	0.0000	</Influence_n>
+					<useCamoMaskGlobal>	true	</useCamoMaskGlobal>
+				</Wire_mgn>
+			</Textures>
 		</camouflage>
 		<camouflage>
 			<annotation>	New Year 2025 tileoflage block for the ships with a texture 2048*2048, 4096*4096, 4096*4096+2048*2048	</annotation>
@@ -172621,7 +174046,7 @@
 			<annotation>	Blyskawica_52 camo permanent	</annotation>
 			<name>	camo_permanent_1	</name>
 			<useColorScheme>	true	</useColorScheme>
-			<targetShip>	PWSD719_Blyskawica_52	</targetShip>
+			<targetShip>	PWSD719_Blyskawica_1952	</targetShip>
 			<UV>
 				<Hull>
 					<scale>	1.0000 1.0000	</scale>
@@ -172777,6 +174202,26 @@
 			<colorSchemes>
 					colorScheme_Karl_XIV_Johan
 				<colorUI>0.1569 0.1569 0.1569 1.0000</colorUI>
+			</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>	Laudon permanent camo block	</annotation>
+			<name>	camo_permanent_1	</name>
+			<useColorScheme>	true	</useColorScheme>
+			<targetShip>	PWSB016_Laudon	</targetShip>
+			<UV>
+				<Hull>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Hull>
+			</UV>
+			<Textures>
+				<Hull>	content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds	</Hull>
+			</Textures>
+			<colorSchemes>
+					colorScheme_Laudon
+				<colorUI>0.3216 0.3373 0.2706 1.0000</colorUI>
 			</colorSchemes>
 		</camouflage>
 		<camouflage>
@@ -176041,8 +177486,8 @@
 					<rotate>	0.0000	</rotate>
 				</Hull>
 				<Gun>
-					<scale>	1.0000 1.0000	</scale>
-					<offset>	0.0000 0.0000	</offset>
+					<scale>	0.2500 0.2500	</scale>
+					<offset>	0.7500 0.0000	</offset>
 					<rotate>	0.0000	</rotate>
 				</Gun>
 			</UV>
@@ -181074,7 +182519,7 @@
 			<name>	camo_permanent_1	</name>
 			<useColorScheme>	True	</useColorScheme>
 			<targetShip>	PGSC528_Schill	</targetShip>
-			<targetShip>	PGSC908_Black_Schill	</targetShip>												  
+			<targetShip>	PGSC908_Black_Schill	</targetShip>												  	
 			<tiled>	false	</tiled>
 			<UV>
 				<Tile>
@@ -181799,6 +183244,7 @@
 			<name>	camo_permanent_1	</name>
 			<useColorScheme>	true	</useColorScheme>
 			<targetShip>	PGSC720_Bremen	</targetShip>
+			<targetShip>	PGSC920_Gold_Bremen	</targetShip>												 
 			<UV>
 				<Hull>
 					<scale>	1.0000 1.0000	</scale>
@@ -183161,6 +184607,7 @@
 			<useColorScheme>	True	</useColorScheme>
 			<targetShip>	PISB508_Roma	</targetShip>
 			<targetShip>	PISB708_AZUR_Littorio	</targetShip>
+			<targetShip>	PISB908_FBO_Roma	</targetShip>											  
 			<tiled>	false	</tiled>
 			<UV>
 				<Tile>
@@ -184814,6 +186261,32 @@
 			</colorSchemes>
 		</camouflage>
 		<camouflage>			  
+			<annotation>	Fiume camo permanent block	</annotation>
+			<name>	camo_permanent_1	</name>
+			<useColorScheme>	true	</useColorScheme>
+			<targetShip>	PISC717_Fiume	</targetShip>
+			<UV>
+				<Hull>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Hull>
+				<DeckHouse>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</DeckHouse>
+			</UV>
+			<Textures>
+				<Hull>	content/gameplay/common/camouflage/textures/ISC302_Fiume_1939_Hull_camo_01.dds	</Hull>
+				<DeckHouse>	content/gameplay/common/camouflage/textures/ISC302_Fiume_1939_Deckhause_camo_01.dds	</DeckHouse>
+			</Textures>
+			<colorSchemes>
+					colorSchemeFiume
+				<colorUI>0.2442 0.2562 0.2784 1.0000</colorUI>
+			</colorSchemes>
+		</camouflage>
+		<camouflage>
 			<annotation>	Aviere unique permOflage block	</annotation>
 			<name>	camo_permanent_2	</name>
 			<targetShip>	PISD106_Aviere	</targetShip>
@@ -190528,6 +192001,61 @@
 			<realm> notcn </realm>
 		</camouflage>
 		<camouflage>
+			<annotation>	Suzuya VL Vol permOflage block	</annotation>
+			<name>	Suzuya_VL_Vol	</name>
+			<targetShip>	PJSC739_GM_Suzuya	</targetShip>
+			<targetShip>	PJSC739_Suzuya	</targetShip>
+			<targetShip>	PJSC759_VL_Suzuya	</targetShip>
+			<UV>
+				<Tile>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Tile>
+				<DeckHouse>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</DeckHouse>
+				<Gun>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Gun>
+				<Director>
+					<scale>	0.5000 0.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Director>
+				<Misc>
+					<scale>	0.3000 0.3000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Misc>
+				<Plane>
+					<scale>	0.5000 0.5000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Plane>
+				<Float>
+					<scale>	0.5000 0.2500	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Float>
+			</UV>
+			<Textures>
+				<Hull>	content/gameplay/common/camouflage/textures/JSC759_VL_Suzuya_Hull_camo.dds	</Hull>
+				<DeckHouse>	content/gameplay/common/camouflage/textures/JSC759_VL_Suzuya_DeckHouse_camo.dds	</DeckHouse>
+				<Gun>	content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds	</Gun>
+				<Plane>	content/gameplay/common/camouflage/textures/Plane_tile_camo_RGB.dds	</Plane>
+				<Float>	content/gameplay/common/camouflage/textures/Plane_tile_camo_RGB.dds	</Float>
+			</Textures>
+			<colorSchemes>
+					colorSchemeUSNP66
+				<colorUI>0.0000 0.0000 0.0000 1.0000</colorUI>
+			</colorSchemes>
+		</camouflage>
+		<camouflage>
 			<annotation>	Suzuya VL Yellow permOflage block	</annotation>
 			<name>	Suzuya_VL_Yellow	</name>
 			<targetShip>	PJSC739_Suzuya	</targetShip>
@@ -191510,6 +193038,26 @@
 				<Misc>	content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds	</Misc>
 			</Textures>
 			<colorSchemes>	colorSchemeTromp	</colorSchemes>
+		</camouflage>
+		<camouflage>
+			<annotation>	Tonjin unique permOflage block	</annotation>
+			<name>	camo_permanent_1	</name>
+			<useColorScheme>	true	</useColorScheme>
+			<targetShip>	PHSS710_Tonjin	</targetShip>
+			<UV>
+				<Hull>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Hull>
+			</UV>
+			<Textures>
+				<Hull>	content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds	</Hull>
+			</Textures>
+			<colorSchemes>
+					colorSchemeTonjin
+				<colorUI>0.2000 0.2157 0.2510 1.0000</colorUI>
+			</colorSchemes>
 		</camouflage>
 		<camouflage>
 			<annotation>	Nueve de Julio unique permOflage block	</annotation>
@@ -206827,6 +208375,30 @@
 			</colorSchemes>
 		</camouflage>
 		<camouflage>
+			<annotation>	Aberdeen camo permanent block	</annotation>
+			<name>	camo_permanent_1	</name>
+			<useColorScheme>	true	</useColorScheme>
+			<targetShip>	PBSC719_Aberdeen	</targetShip>
+			<UV>
+				<Hull>
+					<scale>	1.0000 1.0000	</scale>
+					<offset>	0.0000 0.0000	</offset>
+					<rotate>	0.0000	</rotate>
+				</Hull>
+			</UV>
+			<Textures>
+				<Hull>	content/gameplay/common/camouflage/textures/BSC302_Aberdeen_1963_camo_01.dds	</Hull>
+			</Textures>
+			<colorSchemes>
+					colorSchemeAberdeen
+				<colorUI>0.6706 0.7098 0.7490 1.0000</colorUI>
+			</colorSchemes>
+			<colorSchemes>
+					colorSchemeUKP01
+				<colorUI>0.4528 0.4701 0.4528 1.0000</colorUI>
+			</colorSchemes>
+		</camouflage>
+		<camouflage>
 			<annotation>	Hood second unique permOflage block	</annotation>
 			<name>	camo_permanent_2	</name>
 			<targetShip>	PBSB507_Hood	</targetShip>
@@ -215163,11 +216735,11 @@
 				</DeckHouse>
 			</UV>
 			<Textures>
-				<Hull>	content/gameplay/common/camouflage/textures/ASB304_Indiana_1945_camo_01.dds	</Hull>
-				<DeckHouse>	content/gameplay/common/camouflage/textures/ASB304_Indiana_1945_DeckHouse_camo_01.dds	</DeckHouse>
+				<Hull>	content/gameplay/common/camouflage/textures/Hoosier.dds	</Hull>
+				<DeckHouse>	content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds	</DeckHouse>
 			</Textures>
 			<colorSchemes>
-					colorSchemeIndiana
+					colorSchemeUSNP16
 				<colorUI>1.1000 0.1000 0.1000 1.1000</colorUI>
 			</colorSchemes>
 		</camouflage>
@@ -215176,6 +216748,7 @@
 			<name>	camo_permanent_1	</name>
 			<useColorScheme>	true	</useColorScheme>
 			<targetShip>	PASC720_Hawaii	</targetShip>
+			<targetShip>	PASC920_Gold_Hawaii	</targetShip>												 
 			<UV>
 				<Hull>
 					<scale>	1.0000 1.0000	</scale>
